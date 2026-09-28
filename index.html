@@ -160,6 +160,66 @@
     .grid{grid-template-columns:1fr}
     input[type=search]{min-width:130px}
   }
+
+  /* ===== Þétt fréttalist (endurhönnun) ===== */
+  .feedwrap{position:sticky;top:0;z-index:20;background:rgba(242,236,224,.94);
+    backdrop-filter:blur(8px);border-bottom:1px solid var(--line);margin-bottom:4px}
+  .tabs{display:flex;gap:1px;overflow-x:auto;scrollbar-width:none;padding:8px 0 0}
+  .tabs::-webkit-scrollbar{display:none}
+  .tab{flex:0 0 auto;font-family:"Space Mono",monospace;font-size:12px;letter-spacing:.01em;
+    border:none;background:none;color:var(--ink-soft);padding:8px 12px;cursor:pointer;
+    border-bottom:2px solid transparent;white-space:nowrap;display:flex;align-items:center;gap:6px}
+  .tab:hover{color:var(--ink)}
+  .tab.on{color:var(--ink);border-bottom-color:var(--accent,var(--brand));font-weight:700}
+  .tab .tdot{width:8px;height:8px;border-radius:2px;background:var(--accent,var(--brand));flex:none}
+  .searchbar{display:flex;gap:8px;align-items:center;padding:9px 0}
+  .searchbar input{flex:1;font-family:"Hanken Grotesk";font-size:14px;color:var(--ink);
+    background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:9px 12px;outline:none}
+  .searchbar input:focus{border-color:var(--brand)}
+  .gear{border:1px solid var(--line);background:var(--paper);border-radius:8px;width:40px;height:40px;
+    cursor:pointer;font-size:16px;color:var(--ink-soft);flex:none;line-height:1}
+  .gear.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+  .filters{display:none;flex-wrap:wrap;gap:8px;padding:0 0 10px}
+  .filters.show{display:flex}
+  .filters select{font-family:"Hanken Grotesk";font-size:13px;color:var(--ink);background:var(--paper);
+    border:1px solid var(--line);border-radius:7px;padding:7px 10px;outline:none}
+  .filters select:focus{border-color:var(--brand)}
+  .filters .btn{font-family:"Space Mono",monospace;font-size:12px;border:1px solid var(--ink);
+    background:none;border-radius:7px;padding:7px 12px;cursor:pointer;color:var(--ink)}
+  .filters .btn:hover{background:var(--ink);color:var(--bg)}
+
+  .feed .item{border-bottom:1px solid var(--line)}
+  .feed .item:hover{background:rgba(31,111,92,.04)}
+  .feed .row{display:flex;align-items:center;gap:11px;padding:11px 4px;cursor:pointer}
+  .feed .cdot{width:9px;height:9px;border-radius:2px;flex:none;background:var(--accent,var(--brand))}
+  .feed .hl{flex:1;min-width:0;font-family:"Fraunces",serif;font-size:16.5px;font-weight:600;
+    line-height:1.28;color:var(--ink);text-decoration:none;overflow:hidden;text-overflow:ellipsis;
+    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+  .feed .hl:hover{color:var(--brand);text-decoration:underline}
+  .feed .rtag{font-family:"Space Mono",monospace;font-size:9px;letter-spacing:.05em;text-transform:uppercase;
+    padding:2px 7px;border-radius:10px;border:1px solid;white-space:nowrap;flex:none}
+  .feed .rtag.constr{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+  .feed .rtag.imp{border-color:var(--line);color:var(--ink-soft)}
+  .feed .rtag.imp[data-i="kerfis"]{border-color:var(--down);color:var(--down)}
+  .feed .rtag.imp[data-i="mikil"]{border-color:var(--amber);color:#9a6a12}
+  .feed .src{font-family:"Space Mono",monospace;font-size:11px;color:var(--ink);font-weight:700;
+    white-space:nowrap;flex:none;max-width:150px;overflow:hidden;text-overflow:ellipsis;text-align:right}
+  .feed .date{font-family:"Space Mono",monospace;font-size:11px;color:var(--ink-soft);
+    white-space:nowrap;flex:none;min-width:70px;text-align:right}
+  .feed .exp{flex:none;color:var(--ink-soft);font-size:12px;padding:0 2px;transition:transform .15s}
+  .feed .item.open .exp{transform:rotate(180deg)}
+  .feed .detail{display:none;padding:0 4px 13px 24px}
+  .feed .item.open .detail{display:block}
+  .feed .dmeta{display:flex;gap:8px;align-items:center;margin-bottom:6px}
+  .feed .dir{font-family:"Space Mono",monospace;font-size:11px}
+  .feed .dir.up{color:var(--up)}.feed .dir.down{color:var(--down)}.feed .dir.flat{color:var(--flat)}
+  .feed .detail p{margin:0;font-size:14px;color:var(--ink-soft);line-height:1.5;max-width:72ch}
+  @media(max-width:640px){
+    .feed .rtag.imp{display:none}
+    .feed .hl{font-size:15px}
+    .feed .src{max-width:80px}
+    .feed .date{min-width:56px}
+  }
 </style>
 </head>
 <body>
@@ -185,10 +245,14 @@
     <b>Uppfært sjálfkrafa.</b> Þessi síða safnar fjármála- og efnahagsfréttum þrisvar á dag (kl. 9:15, 14 og 22) úr straumum Seðlabankans, Hagstofunnar, SA, ASÍ, Stjórnarráðsins, mbl.is, Vísis, Viðskiptablaðsins og RÚV. Fréttir flokkast sjálfkrafa eftir efni, áhrifum og hreyfingu; gjaldþrot úr byggingageiranum fá sérstaka merkingu. Safnið byggist upp jafnt og þétt. Útdrættir koma úr efnisstraumum miðlanna og eru styttir; smelltu á hverja frétt til að lesa hana hjá heimildinni.
   </div>
 
-  <div class="controls">
+  <div class="feedwrap">
     <div class="wrap" style="padding:0">
-      <div class="row">
-        <select id="f-cat"><option value="">Allir flokkar</option></select>
+      <div class="tabs" id="tabs"></div>
+      <div class="searchbar">
+        <input type="search" id="f-q" placeholder="Leit í fréttum…">
+        <button class="gear" id="gear" title="Fleiri síur" aria-label="Fleiri síur">⚙</button>
+      </div>
+      <div class="filters" id="filters">
         <select id="f-impact">
           <option value="">Öll áhrif</option>
           <option value="kerfis">Kerfislæg</option>
@@ -203,17 +267,13 @@
           <option value="flat">Óbreytt ▬</option>
         </select>
         <select id="f-src"><option value="">Allar heimildir</option></select>
-        <input type="search" id="f-q" placeholder="Leit í fréttum…">
         <button class="btn" id="reset">Núllstilla</button>
-        <div class="toggle" style="margin-left:auto">
-          <button id="v-cat" class="on">Eftir flokki</button>
-          <button id="v-tl">Tímalína</button>
-        </div>
       </div>
     </div>
   </div>
 
   <div class="countline" id="count"></div>
+
   <div id="results"></div>
 
   <details class="defs">
@@ -265,73 +325,57 @@
   function dirGlyph(d){return d==="up"?"▲":d==="down"?"▼":"▬";}
   function dirWord(d){return d==="up"?"Þrýstir upp":d==="down"?"Þrýstir niður":"Óbreytt";}
 
-  const state={view:"cat",cat:"",impact:"",dir:"",src:"",q:""};
+  const TAB={verdbolga:"Verðbólga",vextir:"Vextir",vinnumarkadur:"Vinnumarkaður",gengi:"Gengi",hagvoxtur:"Hagvöxtur",rikisfjarmal:"Ríkisfjármál",markadir:"Markaðir",gjaldthrot:"Gjaldþrot",husnaedi:"Húsnæði",eftirlit:"Eftirlit"};
+  const state={cat:"",impact:"",dir:"",src:"",q:""};
 
-  // populate selects
-  const fcat=document.getElementById("f-cat");
-  CATS.forEach(c=>{const o=document.createElement("option");o.value=c[0];o.textContent=c[1];fcat.appendChild(o);});
+  const tabsEl=document.getElementById("tabs");
+  function buildTabs(){
+    let h='<button class="tab on" data-cat="">Allar</button>';
+    CATS.forEach(([key,name,color])=>{
+      h+='<button class="tab" data-cat="'+key+'" style="--accent:'+color+'"><span class="tdot"></span>'+(TAB[key]||name)+'</button>';
+    });
+    tabsEl.innerHTML=h;
+    tabsEl.querySelectorAll(".tab").forEach(b=>b.addEventListener("click",()=>{
+      state.cat=b.dataset.cat;
+      tabsEl.querySelectorAll(".tab").forEach(x=>x.classList.remove("on"));
+      b.classList.add("on"); render();
+    }));
+  }
+
   const fsrc=document.getElementById("f-src");
   [...new Set(NEWS.map(n=>n.src))].sort().forEach(s=>{const o=document.createElement("option");o.value=s;o.textContent=s;fsrc.appendChild(o);});
 
   function filtered(){
     return NEWS.filter(n=>{
-      if(state.cat&&n.cat!==state.cat)return false;
-      if(state.impact&&n.impact!==state.impact)return false;
-      if(state.dir&&n.dir!==state.dir)return false;
-      if(state.src&&n.src!==state.src)return false;
+      if(state.cat && n.cat!==state.cat) return false;
+      if(state.impact && n.impact!==state.impact) return false;
+      if(state.dir && n.dir!==state.dir) return false;
+      if(state.src && n.src!==state.src) return false;
       if(state.q){const q=state.q.toLowerCase();
-        if(!(n.title+" "+n.sum+" "+n.src).toLowerCase().includes(q))return false;}
+        if(!(n.title+" "+n.sum+" "+n.src).toLowerCase().includes(q)) return false;}
       return true;
-    });
+    }).sort((a,b)=>String(b.date).localeCompare(String(a.date)));
   }
 
-  function card(n){
+  function rowHTML(n){
     const c=CATMAP[n.cat];
-    return '<article class="card" style="--accent:'+c.color+'">'+
-      '<div class="meta">'+
-        '<span class="chip cat-chip">'+c.name+'</span>'+
-        '<span class="chip impact" data-i="'+n.impact+'">'+IMP[n.impact]+'</span>'+
-        (n.constr?'<span class="chip constr">Byggingageiri</span>':'')+
+    return '<div class="item" style="--accent:'+c.color+'">'+
+      '<div class="row">'+
+        '<span class="cdot" title="'+c.name+'"></span>'+
+        '<a class="hl" href="'+n.url+'" target="_blank" rel="noopener">'+n.title+'</a>'+
+        (n.constr?'<span class="rtag constr">Bygg</span>':'')+
+        '<span class="src">'+n.src+'</span>'+
+        '<span class="date">'+fmtDate(n.date)+'</span>'+
+        '<span class="exp">▾</span>'+
       '</div>'+
-      '<h3><a href="'+n.url+'" target="_blank" rel="noopener">'+n.title+'</a></h3>'+
-      '<p>'+n.sum+'</p>'+
-      '<div class="foot"><span class="src">'+n.src+'</span><span>·</span><span>'+fmtDate(n.date)+'</span>'+
-        '<span class="dir '+n.dir+'" title="'+dirWord(n.dir)+'">'+dirGlyph(n.dir)+'</span></div>'+
-    '</article>';
-  }
-
-  function renderCat(list){
-    let html="";
-    CATS.forEach(([key,name,color])=>{
-      const items=list.filter(n=>n.cat===key).sort((a,b)=>b.date.localeCompare(a.date));
-      if(!items.length)return;
-      html+='<section class="cat" id="c-'+key+'">'+
-        '<div class="cat-head"><span class="swatch" style="background:'+color+'"></span>'+
-        '<h2>'+name+'</h2><span class="n">'+items.length+'</span></div>'+
-        '<div class="grid">'+items.map(card).join("")+'</div></section>';
-    });
-    return html;
-  }
-
-  function renderTimeline(list){
-    const sorted=[...list].sort((a,b)=>b.date.localeCompare(a.date));
-    let html="",lastDay="";
-    sorted.forEach(n=>{
-      if(n.date!==lastDay){html+='<div class="tl-day">'+fmtDate(n.date)+'</div>';lastDay=n.date;}
-      const c=CATMAP[n.cat];
-      html+='<div class="tl-item" style="--accent:'+c.color+'">'+
-        '<div class="node"></div>'+
-        '<div class="tl-body">'+
-          '<div class="meta">'+
-            '<span class="chip cat-chip">'+c.name+'</span>'+
-            '<span class="chip impact" data-i="'+n.impact+'">'+IMP[n.impact]+'</span>'+
-            (n.constr?'<span class="chip constr">Byggingageiri</span>':'')+'</div>'+
-          '<h3><a href="'+n.url+'" target="_blank" rel="noopener">'+n.title+'</a></h3>'+
-          '<p>'+n.sum+'</p>'+
-          '<div class="foot">'+n.src+' · '+dirWord(n.dir)+' '+dirGlyph(n.dir)+'</div>'+
-        '</div></div>';
-    });
-    return html;
+      '<div class="detail">'+
+        '<div class="dmeta">'+
+          '<span class="rtag imp" data-i="'+n.impact+'">'+IMP[n.impact]+'</span>'+
+          '<span class="dir '+n.dir+'">'+dirGlyph(n.dir)+' '+dirWord(n.dir)+'</span>'+
+        '</div>'+
+        '<p>'+n.sum+'</p>'+
+      '</div>'+
+    '</div>';
   }
 
   function render(){
@@ -340,23 +384,31 @@
       list.length+(list.length===1?" frétt":" fréttir")+" · uppfært "+fmtDate("2026-09-28");
     const res=document.getElementById("results");
     if(!list.length){res.innerHTML='<div class="empty">Engar fréttir passa við valdar síur.</div>';return;}
-    res.innerHTML = state.view==="cat" ? renderCat(list) : renderTimeline(list);
+    res.innerHTML='<div class="feed">'+list.map(rowHTML).join("")+'</div>';
+    res.querySelectorAll(".feed .row").forEach(row=>row.addEventListener("click",e=>{
+      if(e.target.closest("a")) return;
+      row.parentElement.classList.toggle("open");
+    }));
   }
 
-  // events
-  fcat.onchange=e=>{state.cat=e.target.value;render();};
+  document.getElementById("f-q").oninput=e=>{state.q=e.target.value;render();};
   document.getElementById("f-impact").onchange=e=>{state.impact=e.target.value;render();};
   document.getElementById("f-dir").onchange=e=>{state.dir=e.target.value;render();};
   fsrc.onchange=e=>{state.src=e.target.value;render();};
-  document.getElementById("f-q").oninput=e=>{state.q=e.target.value;render();};
+  document.getElementById("gear").onclick=e=>{
+    document.getElementById("filters").classList.toggle("show");
+    e.currentTarget.classList.toggle("on");
+  };
   document.getElementById("reset").onclick=()=>{
     state.cat=state.impact=state.dir=state.src=state.q="";
-    fcat.value="";document.getElementById("f-impact").value="";document.getElementById("f-dir").value="";
-    fsrc.value="";document.getElementById("f-q").value="";render();};
-  const vc=document.getElementById("v-cat"),vt=document.getElementById("v-tl");
-  vc.onclick=()=>{state.view="cat";vc.classList.add("on");vt.classList.remove("on");render();};
-  vt.onclick=()=>{state.view="tl";vt.classList.add("on");vc.classList.remove("on");render();};
+    document.getElementById("f-q").value="";document.getElementById("f-impact").value="";
+    document.getElementById("f-dir").value="";fsrc.value="";
+    tabsEl.querySelectorAll(".tab").forEach(x=>x.classList.remove("on"));
+    tabsEl.querySelector('.tab[data-cat=""]').classList.add("on");
+    render();
+  };
 
+  buildTabs();
   render();
 </script>
 </body>
