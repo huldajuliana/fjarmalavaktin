@@ -1588,5 +1588,140 @@
       "title": "Óánægja foreldra í Hafnarfirði með breytingar á reglum um frístundastyrk",
       "sum": "Hafnarfjarðarbær greiddi frístundastyrk mánaðarlega til foreldra. Sumir foreldrar gátu ekki fullnýtt styrkinn því aðeins var greitt fyrir þá mánuði sem barnið iðkaði frístundina. Frá og með 1. janúar 2026 er allri upphæðinni úthlutað einu sinni á ári. Flestar skráningar í íþróttir eru á haustmánuðum."
     }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/09/28/netto_laekkar_verd_a_yfir_thusund_vorum/": {
+    "first_seen": "2026-09-28T20:25:15.996667+00:00",
+    "record": {
+      "id": "a3187d473c",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/09/28/netto_laekkar_verd_a_yfir_thusund_vorum/",
+      "title": "Nettó lækkar verð á yfir þúsund vörum",
+      "sum": "Nettó hefur lækkað verð á 1.100 vörum um 2,2% að meðaltali í verslunum sínum um land allt og hyggst halda verði þeirra óbreyttu til áramóta."
+    }
+  },
+  "https://www.visir.is/g/20262940894d/hannes-thor-hannes-thor-og-allan-greida-ser-100-milljonir-i-ard": {
+    "first_seen": "2026-09-28T20:25:15.996667+00:00",
+    "record": {
+      "id": "bbeef0f616",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262940894d/hannes-thor-hannes-thor-og-allan-greida-ser-100-milljonir-i-ard",
+      "title": "Hannes Þór, Hannes Þór og Allan greiða sér 100 milljónir í arð",
+      "sum": "Framleiðslufyrirtækið Atlavík hagnaðist um 98,4 milljónir árið 2025. Lagt er til að arðgreiðslur nemi hundrað milljónum í ár. Kemur þetta fram í ársreikningi félagsins Atlavík ehf."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-28-starfsgreinasambandid-gagnrynir-haekkanir-a-alogum-stjornvalda-488275/": {
+    "first_seen": "2026-09-28T20:25:15.996667+00:00",
+    "record": {
+      "id": "d420994b60",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-28-starfsgreinasambandid-gagnrynir-haekkanir-a-alogum-stjornvalda-488275/",
+      "title": "Starfsgreinasambandið gagnrýnir hækkanir á álögum stjórnvalda",
+      "sum": "Starfsgreinasambandið gerir alvarlegar athugasemdir við hækkanir á álögum stjórnvalda. Í umsögn sambandsins við fjárlagafrumvarp næsta árs kemur fram að það geti ekki stutt frumvarpið óbreytt. „Launafólk hefur lagt sitt af mörkum til stöðugleika með hóflegum langtímakjarasamningum."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-28-einum-sleppt-i-gaer-tveir-af-sautjan-sitja-eftir-488274/": {
+    "first_seen": "2026-09-28T20:25:15.996667+00:00",
+    "record": {
+      "id": "4df9ea6220",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-28-einum-sleppt-i-gaer-tveir-af-sautjan-sitja-eftir-488274/",
+      "title": "Einum sleppt í gær – tveir af sautján sitja eftir",
+      "sum": "Lögregla sleppti í gær úr haldi einum mannanna sem hnepptir voru í gæsluvarðhald í síðustu viku vegna rannsóknar á stórfelldu peningaþvætti og fíkniefnamisferli. Þetta staðfestir Elín Agnes Eide Kristínardóttir, yfirmaður miðlægrar rannsóknardeildar lögreglunnar á höfuðborgarsvæðinu. Mbl.is greindi fyrst frá."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-28-hardar-loftarasir-russa-a-kyiv-i-dag-488261/": {
+    "first_seen": "2026-09-28T20:25:15.996667+00:00",
+    "record": {
+      "id": "0d257500e0",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-28-hardar-loftarasir-russa-a-kyiv-i-dag-488261/",
+      "title": "Harðar loftárásir Rússa á Kyiv í dag",
+      "sum": "Rússar gerðu umfangsmiklar drónaárásir á Kyiv, höfuðborg Úkraínu, í dag. Að minnsta kosti einn lét lífið og 21 særðist, þar af þrjú börn. Rússneskur dróni hæfði þorp nærri landamærunum að Póllandi og olli skemmdum á landamærastöð."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-28-netto-laekkar-lika-verd-til-ad-verjast-verdbolgu-488266/": {
+    "first_seen": "2026-09-28T20:25:15.996667+00:00",
+    "record": {
+      "id": "70c070133c",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-28-netto-laekkar-lika-verd-til-ad-verjast-verdbolgu-488266/",
+      "title": "Nettó lækkar líka verð til að verjast verðbólgu",
+      "sum": "Nettó hefur lækkað verð á 1.100 vörum um 2,2% og frystir verð á þeim til áramóta. Í tilkynningu segir að verðlækkunin ná til fjölmargra vinsælla vörumerkja, þar á meðal Änglamark, Iceland, Xtra, Coop og fleiri sem og allra vara sem eru merktar Nettó."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-28-enn-motmaelt-a-spani-vid-erum-komin-ad-tholmorkum-488267/": {
+    "first_seen": "2026-09-28T20:25:15.996667+00:00",
+    "record": {
+      "id": "b4896f7a49",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-28-enn-motmaelt-a-spani-vid-erum-komin-ad-tholmorkum-488267/",
+      "title": "Enn mótmælt á Spáni: „Við erum komin að þolmörkum“",
+      "sum": "Ekkert lát er á mótmælum á Spáni þar sem krafist er aðgerða í húsnæðismálum. Mótmælin hófust þegar 87 ára gömul kona, sem jafnframt er öryrki, var þvinguð út af heimili sínu í Madríd í síðustu viku."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-28-rannsokn-a-e-coli-smiti-a-managardi-haett-488263/": {
+    "first_seen": "2026-09-28T20:25:15.996667+00:00",
+    "record": {
+      "id": "d98935c7ab",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-28-rannsokn-a-e-coli-smiti-a-managardi-haett-488263/",
+      "title": "Rannsókn á E. coli-smiti á Mánagarði hætt",
+      "sum": "Lögregla hefur hætt rannsókn á E. coli-hópsmiti á leikskólanum Mánagarði í Reykjavík í október 2024. Þetta staðfestir Árni Bergur Sigurðsson, settur sviðsstjóri ákærusviðs. Hann segir öllum hlutaðeigandi hafa verið tilkynnt um niðurstöðuna."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-28-dyrasti-muminbolli-i-heimi-seldur-a-meira-en-sex-milljonir-487866/": {
+    "first_seen": "2026-09-28T20:25:15.996667+00:00",
+    "record": {
+      "id": "aa89b3c870",
+      "cat": "gengi",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-28-dyrasti-muminbolli-i-heimi-seldur-a-meira-en-sex-milljonir-487866/",
+      "title": "Dýrasti múmínbolli í heimi seldur á meira en sex milljónir",
+      "sum": "Bolli sem sýnir Múmínsnáða kafa innan um skeljar var seldur fyrir rétt rúmlega 46 þúsund evrur í Finnlandi. Upphæðin samsvarar nærri 6,4 milljónum króna. Þetta er hæsta verð sem greitt hefur verið fyrir múmínbolla. Í frétt finnska ríkisútvarpsins, Yle, segir að sams konar bolli hafi átt fyrra met."
+    }
   }
 }
