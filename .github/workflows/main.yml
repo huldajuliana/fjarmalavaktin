@@ -1,0 +1,45 @@
+name: Uppfæra Fjármálavaktina
+
+on:
+  schedule:
+    # Ísland er á UTC allt árið. Keyrt kl. 09:15, 14:00 og 22:00 að íslenskum tíma.
+    - cron: "15 9 * * *"
+    - cron: "0 14,22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: uppfaera
+  cancel-in-progress: false
+
+jobs:
+  safna:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sækja repo
+        uses: actions/checkout@v4
+
+      - name: Setja upp Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Setja upp pakka
+        run: pip install -r requirements.txt
+
+      - name: Keyra söfnun
+        run: python collect.py
+
+      - name: Vista breytingar
+        run: |
+          git config user.name  "fjarmalavaktin-bot"
+          git config user.email "actions@github.com"
+          git add index.html data/store.json
+          if git diff --staged --quiet; then
+            echo "Engar breytingar."
+          else
+            git commit -m "Sjálfvirk uppfærsla: $(date -u '+%Y-%m-%d %H:%M') UTC"
+            git push
+          fi
