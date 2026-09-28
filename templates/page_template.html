@@ -331,7 +331,7 @@
   const tabsEl=document.getElementById("tabs");
   function buildTabs(){
     let h='<button class="tab on" data-cat="">Allar</button>';
-    CATS.forEach(([key,name,color])=>{
+    [...CATS].sort((a,b)=>(TAB[a[0]]||a[1]).localeCompare(TAB[b[0]]||b[1],"is")).forEach(([key,name,color])=>{
       h+='<button class="tab" data-cat="'+key+'" style="--accent:'+color+'"><span class="tdot"></span>'+(TAB[key]||name)+'</button>';
     });
     tabsEl.innerHTML=h;
