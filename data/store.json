@@ -1121,7 +1121,7 @@
       "src": "RÚV",
       "url": "https://www.ruv.is/frettir/erlent/2026-09-28-svipta-magyar-og-tvo-adra-thinghelgi-488225/",
       "title": "Svipta Magyar og tvo aðra þinghelgi",
-      "sum": "Ungverska þingið samþykkti í dag að svipta þrjá menn þinghelgi vegna rannsókna á því hvort þeir hefðu framið lögbrot. Tveir mannanna voru ráðherrar í valdatíð Viktors Orbans, fyrrverandi forsætisráðherra, þeir Balazs Hanko sem var menningarráðherra og Miklos Sesztak sem var ráðherra skipulagsmála."
+      "sum": "Ungverska þingið samþykkti í dag að svipta þrjá menn þinghelgi vegna rannsókna á hvort þeir hefðu framið lögbrot. Tveir mannanna voru ráðherrar í valdatíð Viktors Orbans, fyrrverandi forsætisráðherra, þeir Balazs Hanko sem var menningarráðherra og Miklos Sesztak sem var ráðherra skipulagsmála."
     }
   },
   "https://www.ruv.is/frettir/innlent/2026-09-28-einn-merkasti-sogustadur-landsins-a-krossgotum-488055/": {
@@ -1233,7 +1233,7 @@
     "first_seen": "2026-09-28T10:17:06.254152+00:00",
     "record": {
       "id": "7d42b6c10a",
-      "cat": "markadir",
+      "cat": "gengi",
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
@@ -1241,7 +1241,7 @@
       "src": "RÚV",
       "url": "https://www.ruv.is/frettir/erlent/2026-09-28-mikid-og-vandasamt-hreinsunarstarf-fram-undan-a-gaza-488204/",
       "title": "Mikið og vandasamt hreinsunarstarf fram undan á Gaza",
-      "sum": "Mikið og vandasamt hreinsunarstarf er fram undan á Gaza-ströndinni. Sameinuðu þjóðirnar áætla að það geti tekið allt að sjö til tíu ár að fjarlægja mestu rústirnar af Gaza-ströndinni og kostnaðurinn er metinn á milljarða dollara."
+      "sum": "Mikið og vandasamt hreinsunarstarf er fram undan á Gaza-ströndinni. Sameinuðu þjóðirnar áætla að það taki allt að sjö til tíu ár að fjarlægja mestu rústirnar og kostnaðurinn er metinn á milljarða bandaríkjadala. The Guardian segir að hreinsunarstarfið á Gaza-ströndinni sé eitt umfangsmesta hreinsunarstarf sögunnar."
     }
   },
   "https://www.ruv.is/frettir/erlent/2026-09-28-260-bjargad-uti-fyrir-strondum-maritaniu-488202/": {
@@ -1256,7 +1256,7 @@
       "src": "RÚV",
       "url": "https://www.ruv.is/frettir/erlent/2026-09-28-260-bjargad-uti-fyrir-strondum-maritaniu-488202/",
       "title": "260 bjargað úti fyrir ströndum Máritaníu",
-      "sum": "Google map Strandgæsla Máritaníu bjargaði 250 úti fyrir ströndum höfuðborgarinnar Nouakchott í dag, þar af voru 61 kona og 17 börn um borð í bátunum. Fólkið fór frá Banjul í Gambíu fyrir viku og ætlaði að reyna að komast yfir Atlantshafið til Kanaríeyja."
+      "sum": "Google map Strandgæsla Máritaníu bjargaði 250 manns úti fyrir ströndum höfuðborgarinnar Nouakchott í dag, þar af voru 61 kona og 17 börn um borð í bátunum. Fólkið fór frá Banjul í Gambíu fyrir viku og ætlaði að reyna að komast yfir Atlantshafið til Kanaríeyja. Bátarnir voru illa útbúnir."
     }
   },
   "https://www.ruv.is/frettir/innlent/2026-09-27-20-af-ollu-husnaedi-reykjalundar-lokad-vegna-vidhaldstharfar-488189/": {
@@ -1437,6 +1437,96 @@
       "url": "https://www.ruv.is/frettir/ithrottir/2026-09-27-willum-um-heimi-og-israelsleikinn-vandadi-sig-mjog-mikid-i-thessu-mali-488177/",
       "title": "Willum um Heimi og Ísraelsleikinn: „Vandaði sig mjög mikið í þessu máli“",
       "sum": "Willum Þór Þórsson, forseti Íþrótta- og Ólympíusambands Íslands, ræddi um leik Írlands og Ísrael sem fer fram í kvöld. Willum ræddi málið í Vikulokunum og sérstaklega hlut Heimis Hallgrímssonar, hvort Ísrael ætti að fá að taka þátt í alþjóðlegum íþróttamótum og hvort hægt sé að sniðganga leiki gegn Ísrael."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/09/28/leiguauglysingar_syna_9_3_prosent_haerra_verd/": {
+    "first_seen": "2026-09-28T13:48:06.078894+00:00",
+    "record": {
+      "id": "241bd310f6",
+      "cat": "husnaedi",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/09/28/leiguauglysingar_syna_9_3_prosent_haerra_verd/",
+      "title": "Leiguauglýsingar sýna 9,3% hærra verð",
+      "sum": "Auglýst meðalleiguverð á fermetra sem Samtök leigjenda tóku saman í síðustu viku úr yfir 600 leiguauglýsingum er 9,3% hærra en meðalleiguverðið í nýjum leigusamningum skráðum hjá HMS í ágúst."
+    }
+  },
+  "https://www.mbl.is/frettir/erlent/2026/09/28/haekkanir_i_kjolfar_ummaela_trumps/": {
+    "first_seen": "2026-09-28T13:48:06.078894+00:00",
+    "record": {
+      "id": "46ddf9a845",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/erlent/2026/09/28/haekkanir_i_kjolfar_ummaela_trumps/",
+      "title": "Hækkanir í kjölfar ummæla Trumps",
+      "sum": "Framvirkir samningar á olíu hækkuðu um meira en fjögur prósent í dag samhliða hækkunum á jarðgasi og dísilolíu eftir að Donald Trump, forseti Bandaríkjanna, hafnaði tilboði Írans um sjö daga vopnahlé."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/09/28/jon_gudni_haett_vid_ad_sannleikurinn_verdi_illa_lei/": {
+    "first_seen": "2026-09-28T13:48:06.078894+00:00",
+    "record": {
+      "id": "5f4f84c456",
+      "cat": "eftirlit",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/09/28/jon_gudni_haett_vid_ad_sannleikurinn_verdi_illa_lei/",
+      "title": "Jón Guðni: „Hætt við að sannleikurinn verði illa leikinn“",
+      "sum": "Jón Guðni Ómarsson, bankastjóri Íslandsbanka, segir að af umræðunni að dæma mætti stundum ætla að bankakerfið geri fátt annað en að berja lóminn í sífellu. Hvort sá barlómur sé réttlætanlegur skal ósagt látið."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-28-hagar-gripa-til-ovenjulegra-adgerda-vegna-ovenjulegrar-stodu-488239/": {
+    "first_seen": "2026-09-28T13:48:06.078894+00:00",
+    "record": {
+      "id": "27d0ff1892",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-28-hagar-gripa-til-ovenjulegra-adgerda-vegna-ovenjulegrar-stodu-488239/",
+      "title": "Hagar grípa til óvenjulegra aðgerða vegna óvenjulegrar stöðu",
+      "sum": "Hagar hafa lækkað verð á hátt í þúsund vörum í Bónus og Hagkaup fram að áramótum. Forstjóri fyrirtækisins segir það vilja leggja sitt af mörkum þótt verðbólga á matvöru sé talsvert undir því viðmiði sem sett var í kjarasamningum."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-28-um-20-sagt-upp-hja-arion-banka-488235/": {
+    "first_seen": "2026-09-28T13:48:06.078894+00:00",
+    "record": {
+      "id": "a3057d2b2a",
+      "cat": "hagvoxtur",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-28-um-20-sagt-upp-hja-arion-banka-488235/",
+      "title": "Um 20 sagt upp hjá Arion banka",
+      "sum": "Um það bil 20 starfsmönnum hefur verið sagt upp hjá Arion banka. Flestar uppsagnirnar taka gildi nú þegar. Þetta staðfestir Haraldur Guðni Eiðsson, forstöðumaður samskiptasviðs Arion banka. Vísir greindi fyrst frá. Tilkynnt var um uppsagnirnar í tölvupósti til starfsmanna í morgun."
+    }
+  },
+  "https://www.ruv.is/frettir/menning-og-daegurmal/2026-09-28-gera-sjonvarpsthaetti-eftir-sogunni-um-isfolkid-488229/": {
+    "first_seen": "2026-09-28T13:48:06.078894+00:00",
+    "record": {
+      "id": "74483c5ed9",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-09-28-gera-sjonvarpsthaetti-eftir-sogunni-um-isfolkid-488229/",
+      "title": "Gera sjónvarpsþætti eftir Sögunni um Ísfólkið",
+      "sum": "Einhver vinsælasti bókaflokkur í sögu Noregs verður að sjónvarpsþáttum á TV2 á næstu árum. Sagan um Ísfólkið kom út í 47 bindum á níunda áratug síðustu aldar og naut feikilegra vinsælda, ekki aðeins í Noregi heldur líka í öðrum löndum."
     }
   }
 }
