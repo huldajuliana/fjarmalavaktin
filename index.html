@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="is">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fjármálavaktin</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,900;1,9..144,500&family=Hanken+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#F2ECE0;
+    --paper:#FBF7EF;
+    --ink:#1B1A17;
+    --ink-soft:#56524a;
+    --line:#d8cfbd;
+    --brand:#1F6F5C;        /* ledger green */
+    --brand-deep:#154a3d;
+    --up:#1F7A4D;
+    --down:#B23A2E;
+    --flat:#8a8170;
+    --amber:#C68A1E;
+    --terminal:#16201d;
+    --terminal-2:#1d2b27;
+    /* category accents */
+    --c-verdbolga:#B23A2E;
+    --c-vextir:#1F6F5C;
+    --c-vinnumarkadur:#9A5B1E;
+    --c-gengi:#2E5E8C;
+    --c-hagvoxtur:#5C7A1E;
+    --c-rikisfjarmal:#6B4E9A;
+    --c-markadir:#0E7C86;
+    --c-gjaldthrot:#8C2A2A;
+    --c-husnaedi:#B07A12;
+    --c-eftirlit:#3A4A6B;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    margin:0;background:var(--bg);color:var(--ink);
+    font-family:"Hanken Grotesk",system-ui,sans-serif;
+    font-size:16px;line-height:1.5;
+    background-image:radial-gradient(rgba(0,0,0,.018) 1px,transparent 1px);
+    background-size:4px 4px;
+  }
+  a{color:inherit}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 22px}
+
+  /* ---- Masthead ---- */
+  header.mast{padding:30px 0 16px;border-bottom:2px solid var(--ink)}
+  .kicker{font-family:"Space Mono",monospace;font-size:11.5px;letter-spacing:.18em;
+    text-transform:uppercase;color:var(--ink-soft);display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center}
+  .kicker .dot{width:7px;height:7px;border-radius:50%;background:var(--up);box-shadow:0 0 0 3px rgba(31,122,77,.18);display:inline-block}
+  h1.title{font-family:"Fraunces",serif;font-weight:900;font-size:clamp(40px,8vw,82px);
+    line-height:.92;letter-spacing:-.02em;margin:.18em 0 .12em}
+  h1.title em{font-style:italic;font-weight:500;color:var(--brand)}
+  .lede{font-family:"Fraunces",serif;font-size:clamp(16px,2.3vw,20px);max-width:62ch;color:var(--ink-soft);margin:0}
+
+  /* ---- Ticker ---- */
+  .ticker{background:var(--terminal);color:#e8e4d8;border-radius:12px;margin:18px 0 0;
+    padding:4px;overflow:hidden;border:1px solid #0c1410}
+  .ticker-inner{display:flex;gap:0;overflow-x:auto;scrollbar-width:none}
+  .ticker-inner::-webkit-scrollbar{display:none}
+  .tk{flex:1 0 auto;min-width:150px;padding:11px 16px;border-right:1px solid rgba(255,255,255,.08)}
+  .tk:last-child{border-right:0}
+  .tk .lbl{font-family:"Space Mono",monospace;font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:#9aa6a0}
+  .tk .val{font-family:"Space Mono",monospace;font-size:23px;font-weight:700;margin-top:3px;display:flex;align-items:baseline;gap:7px}
+  .tk .sub{font-size:11px;color:#8b958f;margin-top:1px;font-family:"Hanken Grotesk"}
+  .arrow{font-size:14px;font-weight:700}
+  .arrow.up{color:#5fd49a}.arrow.down{color:#f08a7c}.arrow.flat{color:#c9c2b0}
+
+  /* ---- Notice ---- */
+  .notice{background:var(--paper);border:1px solid var(--line);border-left:4px solid var(--brand);
+    border-radius:8px;padding:14px 16px;margin:18px 0;font-size:14.5px;color:var(--ink-soft)}
+  .notice b{color:var(--ink)}
+
+  /* ---- Controls ---- */
+  .controls{position:sticky;top:0;z-index:20;background:rgba(242,236,224,.92);
+    backdrop-filter:blur(8px);border-bottom:1px solid var(--line);padding:12px 0;margin-bottom:8px}
+  .controls .row{display:flex;flex-wrap:wrap;gap:9px;align-items:center}
+  select,input[type=search]{font-family:"Hanken Grotesk";font-size:13.5px;color:var(--ink);
+    background:var(--paper);border:1px solid var(--line);border-radius:7px;padding:8px 11px;outline:none}
+  select:focus,input:focus{border-color:var(--brand)}
+  input[type=search]{min-width:170px;flex:1}
+  .btn{font-family:"Space Mono",monospace;font-size:12px;letter-spacing:.04em;cursor:pointer;
+    background:none;border:1px solid var(--ink);border-radius:7px;padding:8px 13px;color:var(--ink)}
+  .btn:hover{background:var(--ink);color:var(--bg)}
+  .toggle{display:flex;border:1px solid var(--ink);border-radius:7px;overflow:hidden}
+  .toggle button{font-family:"Space Mono",monospace;font-size:12px;background:none;border:0;
+    padding:8px 14px;cursor:pointer;color:var(--ink)}
+  .toggle button.on{background:var(--ink);color:var(--bg)}
+  .countline{font-family:"Space Mono",monospace;font-size:12px;color:var(--ink-soft);margin:10px 0 18px}
+
+  /* ---- Sections / cards ---- */
+  section.cat{margin:0 0 30px;scroll-margin-top:90px}
+  .cat-head{display:flex;align-items:center;gap:12px;margin:6px 0 14px;
+    border-bottom:1px solid var(--ink);padding-bottom:7px}
+  .cat-head .swatch{width:13px;height:13px;border-radius:3px;flex:none}
+  .cat-head h2{font-family:"Fraunces",serif;font-weight:600;font-size:22px;margin:0;letter-spacing:-.01em}
+  .cat-head .n{font-family:"Space Mono",monospace;font-size:12px;color:var(--ink-soft);margin-left:auto}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:14px}
+  .card{background:var(--paper);border:1px solid var(--line);border-radius:11px;padding:16px 16px 14px;
+    display:flex;flex-direction:column;gap:9px;transition:transform .12s,box-shadow .12s;position:relative;overflow:hidden}
+  .card:hover{transform:translateY(-2px);box-shadow:0 8px 22px -12px rgba(27,26,23,.4)}
+  .card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:var(--accent,var(--brand))}
+  .card .meta{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+  .chip{font-family:"Space Mono",monospace;font-size:10px;letter-spacing:.06em;text-transform:uppercase;
+    padding:3px 8px;border-radius:20px;border:1px solid;white-space:nowrap}
+  .chip.cat-chip{color:#fff;border-color:transparent;background:var(--accent,var(--brand))}
+  .chip.impact{border-color:var(--line);color:var(--ink-soft);background:#fff}
+  .chip.impact[data-i="kerfis"]{border-color:var(--down);color:var(--down);font-weight:700}
+  .chip.impact[data-i="mikil"]{border-color:var(--amber);color:#9a6a12;font-weight:700}
+  .chip.constr{background:#1B1A17;color:#FBF7EF;border-color:#1B1A17}
+  .card h3{font-family:"Fraunces",serif;font-weight:600;font-size:18px;line-height:1.22;margin:1px 0 0}
+  .card h3 a{text-decoration:none}
+  .card h3 a:hover{color:var(--brand);text-decoration:underline}
+  .card p{margin:0;font-size:14px;color:var(--ink-soft);line-height:1.45}
+  .card .foot{display:flex;align-items:center;gap:8px;margin-top:auto;padding-top:6px;
+    font-family:"Space Mono",monospace;font-size:11.5px;color:var(--ink-soft)}
+  .card .foot .src{font-weight:700;color:var(--ink)}
+  .card .foot .dir{margin-left:auto;font-size:13px}
+  .card .foot .dir.up{color:var(--up)}.card .foot .dir.down{color:var(--down)}.card .foot .dir.flat{color:var(--flat)}
+
+  /* ---- Timeline ---- */
+  .tl-day{font-family:"Space Mono",monospace;font-size:12px;letter-spacing:.08em;text-transform:uppercase;
+    color:var(--ink-soft);margin:22px 0 10px;padding-bottom:5px;border-bottom:1px dashed var(--line)}
+  .tl-day:first-child{margin-top:4px}
+  .tl-item{display:grid;grid-template-columns:18px 1fr;gap:14px;padding:9px 0;border-bottom:1px solid var(--line)}
+  .tl-item .node{position:relative}
+  .tl-item .node::before{content:"";position:absolute;left:5px;top:6px;width:9px;height:9px;border-radius:50%;
+    background:var(--accent,var(--brand));box-shadow:0 0 0 3px var(--bg)}
+  .tl-item .node::after{content:"";position:absolute;left:9px;top:14px;bottom:-15px;width:1px;background:var(--line)}
+  .tl-body .meta{margin-bottom:3px}
+  .tl-body h3{font-family:"Fraunces",serif;font-size:17px;font-weight:600;margin:2px 0 3px;line-height:1.2}
+  .tl-body h3 a{text-decoration:none}.tl-body h3 a:hover{color:var(--brand);text-decoration:underline}
+  .tl-body p{margin:0;font-size:13.5px;color:var(--ink-soft)}
+  .tl-body .foot{font-family:"Space Mono",monospace;font-size:11px;color:var(--ink-soft);margin-top:4px}
+
+  /* ---- Definitions ---- */
+  details.defs{background:var(--paper);border:1px solid var(--line);border-radius:11px;margin:14px 0;padding:0 18px}
+  details.defs summary{font-family:"Space Mono",monospace;font-size:12.5px;letter-spacing:.05em;
+    cursor:pointer;padding:15px 0;list-style:none;display:flex;justify-content:space-between;align-items:center}
+  details.defs summary::-webkit-details-marker{display:none}
+  details.defs summary::after{content:"＋";font-size:16px;color:var(--brand)}
+  details.defs[open] summary::after{content:"−"}
+  .defgrid{display:grid;grid-template-columns:1fr 1fr;gap:26px;padding:4px 0 22px}
+  .defgrid h4{font-family:"Fraunces",serif;font-size:16px;margin:0 0 9px;padding-bottom:5px;border-bottom:1px solid var(--ink)}
+  .defrow{font-size:13.5px;margin-bottom:8px;color:var(--ink-soft)}
+  .defrow b{color:var(--ink);font-family:"Space Mono",monospace;font-size:11px;letter-spacing:.04em;
+    text-transform:uppercase;display:inline-block;margin-right:6px}
+
+  footer{border-top:2px solid var(--ink);margin-top:30px;padding:22px 0 50px;font-size:13px;color:var(--ink-soft)}
+  footer .big{font-family:"Fraunces",serif;font-weight:900;font-size:26px;color:var(--ink);letter-spacing:-.01em}
+  footer .src{font-family:"Space Mono",monospace;font-size:11.5px;line-height:1.9;margin-top:8px}
+
+  .empty{text-align:center;padding:50px 20px;color:var(--ink-soft);font-family:"Fraunces",serif;font-size:19px}
+
+  @media(max-width:680px){
+    .defgrid{grid-template-columns:1fr;gap:18px}
+    .grid{grid-template-columns:1fr}
+    input[type=search]{min-width:130px}
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header class="mast">
+    <div class="kicker"><span class="dot"></span> Fjármála- og efnahagsvakt · Ísland <span>·</span> Uppfært kl. 9 og 13</div>
+    <h1 class="title">Fjármála<em>vaktin</em></h1>
+    <p class="lede">Verðbólga, vextir, kjarasamningar, gengi og gjaldþrot — fréttir sem móta ytra rekstrarumhverfi fyrirtækja, flokkað og raðað eftir áhrifum.</p>
+
+    <div class="ticker">
+      <div class="ticker-inner">
+        <div class="tk"><div class="lbl">Verðbólga</div><div class="val">5,1%<span class="arrow down">▼</span></div><div class="sub">maí · úr 5,2%</div></div>
+        <div class="tk"><div class="lbl">Stýrivextir</div><div class="val">7,75%<span class="arrow flat">▬</span></div><div class="sub">næsta ákv. 19. ágúst</div></div>
+        <div class="tk"><div class="lbl">Gengisvísitala</div><div class="val">185,7</div><div class="sub">króna</div></div>
+        <div class="tk"><div class="lbl">Úrvalsvísitala</div><div class="val">2.802</div><div class="sub">OMXI</div></div>
+        <div class="tk"><div class="lbl">Gjaldþrot Q1</div><div class="val">+22%<span class="arrow up">▲</span></div><div class="sub">milli ára</div></div>
+        <div class="tk"><div class="lbl">Launahækkun</div><div class="val">3,5%</div><div class="sub">1. jan · kjarasamn.</div></div>
+      </div>
+    </div>
+  </header>
+
+  <div class="notice">
+    <b>Uppfært sjálfkrafa.</b> Þessi síða safnar fjármála- og efnahagsfréttum tvisvar á dag (kl. 9 og 13) úr straumum Seðlabankans, Hagstofunnar, SA, ASÍ, Stjórnarráðsins, mbl.is, Vísis, Viðskiptablaðsins og RÚV. Fréttir flokkast sjálfkrafa eftir efni, áhrifum og hreyfingu; gjaldþrot úr byggingageiranum fá sérstaka merkingu. Safnið byggist upp jafnt og þétt. Útdrættir koma úr efnisstraumum miðlanna og eru styttir; smelltu á hverja frétt til að lesa hana hjá heimildinni.
+  </div>
+
+  <div class="controls">
+    <div class="wrap" style="padding:0">
+      <div class="row">
+        <select id="f-cat"><option value="">Allir flokkar</option></select>
+        <select id="f-impact">
+          <option value="">Öll áhrif</option>
+          <option value="kerfis">Kerfislæg</option>
+          <option value="mikil">Mikil</option>
+          <option value="nokkur">Nokkur</option>
+          <option value="vaeg">Væg</option>
+        </select>
+        <select id="f-dir">
+          <option value="">Allar hreyfingar</option>
+          <option value="up">Þrýstir upp ▲</option>
+          <option value="down">Þrýstir niður ▼</option>
+          <option value="flat">Óbreytt ▬</option>
+        </select>
+        <select id="f-src"><option value="">Allar heimildir</option></select>
+        <input type="search" id="f-q" placeholder="Leit í fréttum…">
+        <button class="btn" id="reset">Núllstilla</button>
+        <div class="toggle" style="margin-left:auto">
+          <button id="v-cat" class="on">Eftir flokki</button>
+          <button id="v-tl">Tímalína</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="countline" id="count"></div>
+  <div id="results"></div>
+
+  <details class="defs">
+    <summary>SKILGREININGAR · áhrifaflokkar og hreyfingar</summary>
+    <div class="defgrid">
+      <div>
+        <h4>Áhrif á rekstrarumhverfi</h4>
+        <div class="defrow"><b>Kerfislæg</b>Snertir allt hagkerfið — verðbólga, stýrivextir, forsendur kjarasamninga. Hefur áhrif á flest fyrirtæki samtímis.</div>
+        <div class="defrow"><b>Mikil</b>Breytir kostnaði, eftirspurn eða fjármögnun heilla geira (t.d. byggingar, ferðaþjónustu).</div>
+        <div class="defrow"><b>Nokkur</b>Skiptir máli fyrir afmarkaðan hóp fyrirtækja eða einstök félög — uppgjör, yfirtökur, veltutölur.</div>
+        <div class="defrow"><b>Væg</b>Bakgrunnsupplýsingar og minni háttar tíðindi sem gott er að fylgjast með.</div>
+      </div>
+      <div>
+        <h4>Hreyfing</h4>
+        <div class="defrow"><b>▲ Upp</b>Ýtir undir verðbólgu, vexti eða kostnað — þrýstir rekstrarumhverfinu í þyngri átt.</div>
+        <div class="defrow"><b>▼ Niður</b>Dregur úr verðbólgu, vöxtum eða kostnaði — léttir á umhverfinu.</div>
+        <div class="defrow"><b>▬ Óbreytt</b>Staða haldist eða hlutlaus tíðindi.</div>
+        <div class="defrow"><b>BYGGINGAGEIRI</b>Sérstök merking á fréttum sem snerta gjaldþrot, vanskil eða rekstrarvanda í byggingar- og verktakageiranum.</div>
+      </div>
+    </div>
+  </details>
+
+  <footer>
+    <div class="big">FJÁRMÁLAVAKTIN</div>
+    <div class="src">Heimildir: keldan.is · sedlabanki.is · hagstofa.is · sa.is · asi.is · mbl.is · visir.is · vb.is · ruv.is · stjornarradid.is ásamt fleirum</div>
+  </footer>
+</div>
+
+<script>
+  const CATS = [
+    ["verdbolga","Verðbólga & verðlag","var(--c-verdbolga)"],
+    ["vextir","Vextir & peningastefna","var(--c-vextir)"],
+    ["vinnumarkadur","Vinnumarkaður & kjarasamningar","var(--c-vinnumarkadur)"],
+    ["gengi","Gengi & gjaldmiðlar","var(--c-gengi)"],
+    ["hagvoxtur","Hagvöxtur & hagspár","var(--c-hagvoxtur)"],
+    ["rikisfjarmal","Ríkisfjármál & skattar","var(--c-rikisfjarmal)"],
+    ["markadir","Markaðir & fyrirtæki","var(--c-markadir)"],
+    ["gjaldthrot","Gjaldþrot & rekstrarvandi","var(--c-gjaldthrot)"],
+    ["husnaedi","Húsnæðismarkaður","var(--c-husnaedi)"],
+    ["eftirlit","Fjármálastöðugleiki & eftirlit","var(--c-eftirlit)"]
+  ];
+  const CATMAP = Object.fromEntries(CATS.map(c=>[c[0],{name:c[1],color:c[2]}]));
+  const IMP = {kerfis:"Kerfislæg",mikil:"Mikil",nokkur:"Nokkur",vaeg:"Væg"};
+
+  const NEWS = [{"id": 1, "cat": "verdbolga", "impact": "kerfis", "dir": "down", "date": "2026-05-28", "src": "Hagstofan / Landsbankinn", "url": "https://www.landsbankinn.is/markadir", "title": "Verðbólga hjaðnar í 5,1% í maí", "sum": "Vísitala neysluverðs hækkaði aðeins um 0,07% milli mánaða og ársverðbólga fór úr 5,2% í 5,1%. Hækkun flugfargjalda vó þyngst til hækkunar en lækkun virðisaukaskatts á eldsneyti dró mest niður. Lækkunin var þó minni en greinendur höfðu spáð."}, {"id": 2, "cat": "vextir", "impact": "kerfis", "dir": "flat", "date": "2026-05-20", "src": "Seðlabanki Íslands", "url": "https://sedlabanki.is/gagnatorg/vextir/", "title": "Meginvextir Seðlabankans 7,75% — næsta ákvörðun í ágúst", "sum": "Peningastefnunefnd hélt meginvöxtum (vöxtum á 7 daga bundnum innlánum) í 7,75%. Vextirnir tóku gildi 20. maí og næsta vaxtaákvörðun er boðuð 19. ágúst. Markaðurinn fylgist náið með hvort vaxtalækkunarferli hefjist á ný í haust."}, {"id": 3, "cat": "vextir", "impact": "mikil", "dir": "down", "date": "2026-05-04", "src": "mbl.is / Landsbankinn", "url": "https://www.mbl.is/vidskipti/frettir/2026/05/04/spa_nu_minni_styrivaxtahaekkun_en_adur/", "title": "Landsbankinn dregur úr spá um vaxtahækkun", "sum": "Bankinn telur nú að næsta skref verði aðeins 0,25 prósentustig fremur en 0,5, eftir að verðbólga í apríl mældist 5,2% — lægri en spár gerðu ráð fyrir. Flugfargjöld hækkuðu minna en vænst var. Hagspáin gerir ráð fyrir hófstilltum hagvexti næstu ár."}, {"id": 4, "cat": "vinnumarkadur", "impact": "kerfis", "dir": "flat", "date": "2026-05-20", "src": "Stjórnarráðið", "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/20/Thrihlida-samtal-rikisins-ASI-og-SA-um-verdlagsthroun-i-samhengi-vid-kjarasamninga-a-almennum-vinnumarkadi/", "title": "Ríkið, ASÍ og SA hefja þríhliða samtal um forsendur kjarasamninga", "sum": "Stýrihópur og þrír undirhópar greina áhrif vaxta, verðbólgu og verðtryggingar og leita leiða til að hemja verðbólgu svo forsendur kjarasamninga haldi haustið 2026. Einnig verður metið hvaða áhrif átök við Persaflóa hafa á verðlag. Niðurstöður kynntar í júní og september."}, {"id": 5, "cat": "vinnumarkadur", "impact": "kerfis", "dir": "flat", "date": "2026-05-15", "src": "Samtök atvinnulífsins", "url": "https://www.sa.is/frettatengt/frettir/hver-eru-forsenduakvaedi-kjarasamninga", "title": "Forsendur kjarasamninga í uppnámi við endurskoðun í september", "sum": "Samningarnir verða endurskoðaðir 1. september og þá horft til 12 mánaða verðbólgu í ágúst. Mælist hún yfir 4,7% opnast heimild til uppsagnar samninga ef ekki semst um viðbrögð. Forsendur teljast þó standast ef sex mánaða verðbólga (mars–ágúst) mælist 4,4% eða minni á ársgrunni."}, {"id": 6, "cat": "vinnumarkadur", "impact": "nokkur", "dir": "up", "date": "2026-01-01", "src": "Samtök atvinnulífsins", "url": "https://www.sa.is/vinnumarkadsvefur/kjarasamningar/kaupgjaldsskra-sa/", "title": "Laun hækkuðu um 3,5% um áramót samkvæmt kjarasamningum", "sum": "Kaupgjaldsskrá nr. 32 tók gildi 1. janúar: laun hækka um 3,5%, þó að lágmarki 23.750 kr. Kauptaxtar hækka sérstaklega til viðbótar. Samningarnir gilda til 31. janúar 2028 og marka launakostnað fyrirtækja á árinu."}, {"id": 7, "cat": "gjaldthrot", "impact": "mikil", "dir": "up", "date": "2026-04-24", "src": "Viðskiptablaðið / Hagstofan", "constr": true, "url": "https://vb.is/frettir/gjaldthrot-fyrirtaekja-jukust-um-22/", "title": "Gjaldþrotum fjölgaði um 22% á fyrsta ársfjórðungi", "sum": "361 fyrirtæki var tekið til gjaldþrotaskipta á fyrsta fjórðungi, 22% fleiri en í fyrra. Flestar nýskráningar — um 150 — voru þó í byggingarstarfsemi og mannvirkjagerð. Gjaldþrotum virkra fyrirtækja fækkaði aftur á móti um 4% milli ára."}, {"id": 8, "cat": "gjaldthrot", "impact": "mikil", "dir": "up", "date": "2026-05-23", "src": "mbl.is", "constr": true, "url": "https://www.mbl.is/vidskipti/frettir/2026/05/23/alvarleg_stada_a_ibudamarkadi/", "title": "Verktakar vara við gjaldþrotum vegna óseldra íbúða", "sum": "Verktakar lýsa alvarlegri stöðu á fasteignamarkaði: óseldar íbúðir og hár vaxtakostnaður þrýsta mörgum að þolmörkum. Einn nefndi að vaxtakostnaður óseldra íbúða kosti fyrirtæki sitt um milljarð í ár. Gjaldþrot og vanskil verktaka gætu reynst bönkum dýr."}, {"id": 9, "cat": "gjaldthrot", "impact": "nokkur", "dir": "up", "date": "2026-05-12", "src": "RÚV", "constr": true, "url": "https://www.ruv.is/frettir/innlent/verktakafyrirtaekid-ris-gjaldthrota", "title": "Verktakafyrirtækið RIS tekið til gjaldþrotaskipta", "sum": "Enn eitt verktakafyrirtækið hættir rekstri þegar RIS er tekið til gjaldþrotaskipta. Málið er liður í vaxandi fjölda gjaldþrota í byggingargeiranum þar sem fjármagnskostnaður og hægari íbúðasala þrengja að rekstri. (Dagsetning til staðfestingar í lifandi útgáfu.)"}, {"id": 10, "cat": "hagvoxtur", "impact": "nokkur", "dir": "up", "date": "2026-04-24", "src": "Hagstofan", "url": "https://hagstofa.is/talnaefni/atvinnuvegir/fyrirtaeki/", "title": "993 ný fyrirtæki skráð á fyrsta ársfjórðungi", "sum": "Tæplega 993 fyrirtæki voru nýskráð í atvinnurekstri á fyrsta fjórðungi, þar af 808 einkahlutafélög — fleiri en á sama tíma 2025. Flestar nýskráningar voru í byggingarstarfsemi og mannvirkjagerð, eða um 150, sem er 6% aukning milli ára."}, {"id": 11, "cat": "hagvoxtur", "impact": "nokkur", "dir": "up", "date": "2026-04-21", "src": "Hagstofan", "url": "https://hagstofa.is/", "title": "Velta eykst mikið í bílasölu, sjávarútvegi og tæknigreinum", "sum": "Nýjustu veltutölur sýna kröftugan vöxt í bílasölu, sjávarútvegi og tæknigreinum, sem bendir til þróttar í hluta atvinnulífsins þrátt fyrir háa vexti og hægari hagvöxt á heildina litið."}, {"id": 12, "cat": "markadir", "impact": "nokkur", "dir": "flat", "date": "2026-05-26", "src": "Vísir", "url": "https://www.visir.is/f/vidskipti", "title": "Ísfélagið skilar 2,8 milljarða hagnaði og greiðir arð", "sum": "Hagnaður Ísfélagsins í Vestmannaeyjum nam 2,8 milljörðum króna á fyrsta fjórðungi — umtalsverður viðsnúningur milli ára. Stjórnin ætlar að greiða hluthöfum 2,1 milljarð í arð vegna síðasta rekstrarárs."}, {"id": 13, "cat": "markadir", "impact": "nokkur", "dir": "flat", "date": "2026-05-22", "src": "Vísir", "url": "https://www.visir.is/f/vidskipti#siminn", "title": "Síminn kaupir Greiðslumiðlun — eftirlitið samþykkir", "sum": "Samkeppniseftirlitið hefur samþykkt kaup Símans á Greiðslumiðlun Íslands ehf., sem rekur greiðslulausnina Pei og innheimtufyrirtækið Motus. Kaupin styrkja stöðu Símans á greiðslumarkaði."}, {"id": 14, "cat": "markadir", "impact": "nokkur", "dir": "down", "date": "2026-04-23", "src": "Viðskiptablaðið", "url": "https://vb.is/frettir/", "title": "Coloplast lækkar bókfært virði Kerecis um 57 milljarða", "sum": "Danska Coloplast færir bókfært virði íslenska nýsköpunarfyrirtækisins Kerecis niður um 57 milljarða króna. Niðurfærslan vekur athygli í ljósi þess hve hátt verð var greitt fyrir félagið við yfirtökuna."}, {"id": 15, "cat": "gengi", "impact": "nokkur", "dir": "flat", "date": "2026-05-28", "src": "Landsbankinn", "url": "https://www.landsbankinn.is/markadir#gengi", "title": "Gengisvísitala krónunnar í kringum 185,7", "sum": "Gengisvísitalan stóð nærri 185,7 í lok maí. Tiltölulega stöðug króna heldur aftur af innfluttri verðbólgu en gengisþróun ræðst áfram af ferðaþjónustu, útflutningsverðmætum og vaxtamun við útlönd."}, {"id": 16, "cat": "markadir", "impact": "vaeg", "dir": "flat", "date": "2026-05-28", "src": "Nasdaq Iceland", "url": "https://www.landsbankinn.is/markadir#omxi", "title": "Úrvalsvísitalan um 2.802 stig", "sum": "Úrvalsvísitala aðallista (OMXI) stóð í um 2.802 stigum. Veltan í Kauphöllinni og afkoma skráðra félaga á fyrsta fjórðungi setja tóninn fyrir sumarið."}, {"id": 17, "cat": "eftirlit", "impact": "nokkur", "dir": "flat", "date": "2026-03-18", "src": "Seðlabanki Íslands", "url": "https://sedlabanki.is/", "title": "Niðurstaða könnunar- og matsferlis hjá indó sparisjóði", "sum": "Fjármálaeftirlit Seðlabankans birti niðurstöðu könnunar- og matsferlis (SREP) hjá indó sparisjóði. Slíkt eftirlit metur eiginfjár- og lausafjárstöðu og er hluti af vöktun fjármálastöðugleika."}, {"id": 18, "cat": "husnaedi", "impact": "mikil", "dir": "up", "date": "2026-04-24", "src": "Viðskiptablaðið", "url": "https://vb.is/frettir/#skipulag", "title": "Skipulagsstefna Reykjavíkur sögð verðbólguvaldur", "sum": "Umræða hefur skapast um hvort þéttingarstefna og takmarkað lóðaframboð í Reykjavík ýti undir húsnæðisverð og þar með verðbólgu. Húsnæðisliðurinn vegur þungt í vísitölu neysluverðs og hefur bein áhrif á vaxtaákvarðanir."}];
+
+  const ISMONTH=["janúar","febrúar","mars","apríl","maí","júní","júlí","ágúst","september","október","nóvember","desember"];
+  function fmtDate(iso){const[y,m,d]=iso.split("-").map(Number);return d+". "+ISMONTH[m-1]+" "+y;}
+  function dirGlyph(d){return d==="up"?"▲":d==="down"?"▼":"▬";}
+  function dirWord(d){return d==="up"?"Þrýstir upp":d==="down"?"Þrýstir niður":"Óbreytt";}
+
+  const state={view:"cat",cat:"",impact:"",dir:"",src:"",q:""};
+
+  // populate selects
+  const fcat=document.getElementById("f-cat");
+  CATS.forEach(c=>{const o=document.createElement("option");o.value=c[0];o.textContent=c[1];fcat.appendChild(o);});
+  const fsrc=document.getElementById("f-src");
+  [...new Set(NEWS.map(n=>n.src))].sort().forEach(s=>{const o=document.createElement("option");o.value=s;o.textContent=s;fsrc.appendChild(o);});
+
+  function filtered(){
+    return NEWS.filter(n=>{
+      if(state.cat&&n.cat!==state.cat)return false;
+      if(state.impact&&n.impact!==state.impact)return false;
+      if(state.dir&&n.dir!==state.dir)return false;
+      if(state.src&&n.src!==state.src)return false;
+      if(state.q){const q=state.q.toLowerCase();
+        if(!(n.title+" "+n.sum+" "+n.src).toLowerCase().includes(q))return false;}
+      return true;
+    });
+  }
+
+  function card(n){
+    const c=CATMAP[n.cat];
+    return '<article class="card" style="--accent:'+c.color+'">'+
+      '<div class="meta">'+
+        '<span class="chip cat-chip">'+c.name+'</span>'+
+        '<span class="chip impact" data-i="'+n.impact+'">'+IMP[n.impact]+'</span>'+
+        (n.constr?'<span class="chip constr">Byggingageiri</span>':'')+
+      '</div>'+
+      '<h3><a href="'+n.url+'" target="_blank" rel="noopener">'+n.title+'</a></h3>'+
+      '<p>'+n.sum+'</p>'+
+      '<div class="foot"><span class="src">'+n.src+'</span><span>·</span><span>'+fmtDate(n.date)+'</span>'+
+        '<span class="dir '+n.dir+'" title="'+dirWord(n.dir)+'">'+dirGlyph(n.dir)+'</span></div>'+
+    '</article>';
+  }
+
+  function renderCat(list){
+    let html="";
+    CATS.forEach(([key,name,color])=>{
+      const items=list.filter(n=>n.cat===key).sort((a,b)=>b.date.localeCompare(a.date));
+      if(!items.length)return;
+      html+='<section class="cat" id="c-'+key+'">'+
+        '<div class="cat-head"><span class="swatch" style="background:'+color+'"></span>'+
+        '<h2>'+name+'</h2><span class="n">'+items.length+'</span></div>'+
+        '<div class="grid">'+items.map(card).join("")+'</div></section>';
+    });
+    return html;
+  }
+
+  function renderTimeline(list){
+    const sorted=[...list].sort((a,b)=>b.date.localeCompare(a.date));
+    let html="",lastDay="";
+    sorted.forEach(n=>{
+      if(n.date!==lastDay){html+='<div class="tl-day">'+fmtDate(n.date)+'</div>';lastDay=n.date;}
+      const c=CATMAP[n.cat];
+      html+='<div class="tl-item" style="--accent:'+c.color+'">'+
+        '<div class="node"></div>'+
+        '<div class="tl-body">'+
+          '<div class="meta">'+
+            '<span class="chip cat-chip">'+c.name+'</span>'+
+            '<span class="chip impact" data-i="'+n.impact+'">'+IMP[n.impact]+'</span>'+
+            (n.constr?'<span class="chip constr">Byggingageiri</span>':'')+'</div>'+
+          '<h3><a href="'+n.url+'" target="_blank" rel="noopener">'+n.title+'</a></h3>'+
+          '<p>'+n.sum+'</p>'+
+          '<div class="foot">'+n.src+' · '+dirWord(n.dir)+' '+dirGlyph(n.dir)+'</div>'+
+        '</div></div>';
+    });
+    return html;
+  }
+
+  function render(){
+    const list=filtered();
+    document.getElementById("count").textContent=
+      list.length+(list.length===1?" frétt":" fréttir")+" · uppfært "+fmtDate("2026-05-30");
+    const res=document.getElementById("results");
+    if(!list.length){res.innerHTML='<div class="empty">Engar fréttir passa við valdar síur.</div>';return;}
+    res.innerHTML = state.view==="cat" ? renderCat(list) : renderTimeline(list);
+  }
+
+  // events
+  fcat.onchange=e=>{state.cat=e.target.value;render();};
+  document.getElementById("f-impact").onchange=e=>{state.impact=e.target.value;render();};
+  document.getElementById("f-dir").onchange=e=>{state.dir=e.target.value;render();};
+  fsrc.onchange=e=>{state.src=e.target.value;render();};
+  document.getElementById("f-q").oninput=e=>{state.q=e.target.value;render();};
+  document.getElementById("reset").onclick=()=>{
+    state.cat=state.impact=state.dir=state.src=state.q="";
+    fcat.value="";document.getElementById("f-impact").value="";document.getElementById("f-dir").value="";
+    fsrc.value="";document.getElementById("f-q").value="";render();};
+  const vc=document.getElementById("v-cat"),vt=document.getElementById("v-tl");
+  vc.onclick=()=>{state.view="cat";vc.classList.add("on");vt.classList.remove("on");render();};
+  vt.onclick=()=>{state.view="tl";vt.classList.add("on");vc.classList.remove("on");render();};
+
+  render();
+</script>
+</body>
+</html>
