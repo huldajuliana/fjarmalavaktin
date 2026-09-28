@@ -4,7 +4,7 @@ Sjálfvirkt yfirlit yfir fjármála- og efnahagsfréttir sem móta ytra rekstrar
 fyrirtækja á Íslandi — verðbólga, vextir, kjarasamningar, gengi, hagspár, gjaldþrot
 (með sérstakri merkingu á byggingageiranum) o.fl. Systursíða Framkvæmdavaktarinnar.
 
-Síðan uppfærist sjálfkrafa **tvisvar á dag (kl. 9 og 13)** með GitHub Actions:
+Síðan uppfærist sjálfkrafa **þrisvar á dag (kl. 9:15, 14 og 22)** með GitHub Actions:
 hún sækir RSS-strauma, flokkar fréttir eftir efni / áhrifum / hreyfingu og endurbyggir
 `index.html`. Safnið byggist upp jafnt og þétt (fréttir geymast í 120 daga).
 
@@ -44,7 +44,7 @@ hún sækir RSS-strauma, flokkar fréttir eftir efni / áhrifum / hreyfingu og e
    „Read and write permissions"* og vista. (Workflow-ið er líka með `permissions: contents: write`.)
 
 4. **Keyrðu handvirkt í fyrsta sinn**: *Actions-flipinn → „Uppfæra Fjármálavaktina" →
-   Run workflow*. Eftir það keyrir hún sjálf kl. 9 og 13 á hverjum degi.
+   Run workflow*. Eftir það keyrir hún sjálf kl. 9:15, 14 og 22 á hverjum degi.
 
 ## Heimildir — mikilvægt
 

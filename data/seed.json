@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "cat": "verdbolga",
+    "impact": "kerfis",
+    "dir": "down",
+    "date": "2026-05-28",
+    "src": "Hagstofan / Landsbankinn",
+    "url": "https://www.landsbankinn.is/markadir",
+    "title": "Verðbólga hjaðnar í 5,1% í maí",
+    "sum": "Vísitala neysluverðs hækkaði aðeins um 0,07% milli mánaða og ársverðbólga fór úr 5,2% í 5,1%. Hækkun flugfargjalda vó þyngst til hækkunar en lækkun virðisaukaskatts á eldsneyti dró mest niður. Lækkunin var þó minni en greinendur höfðu spáð."
+  },
+  {
+    "id": 2,
+    "cat": "vextir",
+    "impact": "kerfis",
+    "dir": "flat",
+    "date": "2026-05-20",
+    "src": "Seðlabanki Íslands",
+    "url": "https://sedlabanki.is/gagnatorg/vextir/",
+    "title": "Meginvextir Seðlabankans 7,75% — næsta ákvörðun í ágúst",
+    "sum": "Peningastefnunefnd hélt meginvöxtum (vöxtum á 7 daga bundnum innlánum) í 7,75%. Vextirnir tóku gildi 20. maí og næsta vaxtaákvörðun er boðuð 19. ágúst. Markaðurinn fylgist náið með hvort vaxtalækkunarferli hefjist á ný í haust."
+  },
+  {
+    "id": 3,
+    "cat": "vextir",
+    "impact": "mikil",
+    "dir": "down",
+    "date": "2026-05-04",
+    "src": "mbl.is / Landsbankinn",
+    "url": "https://www.mbl.is/vidskipti/frettir/2026/05/04/spa_nu_minni_styrivaxtahaekkun_en_adur/",
+    "title": "Landsbankinn dregur úr spá um vaxtahækkun",
+    "sum": "Bankinn telur nú að næsta skref verði aðeins 0,25 prósentustig fremur en 0,5, eftir að verðbólga í apríl mældist 5,2% — lægri en spár gerðu ráð fyrir. Flugfargjöld hækkuðu minna en vænst var. Hagspáin gerir ráð fyrir hófstilltum hagvexti næstu ár."
+  },
+  {
+    "id": 4,
+    "cat": "vinnumarkadur",
+    "impact": "kerfis",
+    "dir": "flat",
+    "date": "2026-05-20",
+    "src": "Stjórnarráðið",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/20/Thrihlida-samtal-rikisins-ASI-og-SA-um-verdlagsthroun-i-samhengi-vid-kjarasamninga-a-almennum-vinnumarkadi/",
+    "title": "Ríkið, ASÍ og SA hefja þríhliða samtal um forsendur kjarasamninga",
+    "sum": "Stýrihópur og þrír undirhópar greina áhrif vaxta, verðbólgu og verðtryggingar og leita leiða til að hemja verðbólgu svo forsendur kjarasamninga haldi haustið 2026. Einnig verður metið hvaða áhrif átök við Persaflóa hafa á verðlag. Niðurstöður kynntar í júní og september."
+  },
+  {
+    "id": 5,
+    "cat": "vinnumarkadur",
+    "impact": "kerfis",
+    "dir": "flat",
+    "date": "2026-05-15",
+    "src": "Samtök atvinnulífsins",
+    "url": "https://www.sa.is/frettatengt/frettir/hver-eru-forsenduakvaedi-kjarasamninga",
+    "title": "Forsendur kjarasamninga í uppnámi við endurskoðun í september",
+    "sum": "Samningarnir verða endurskoðaðir 1. september og þá horft til 12 mánaða verðbólgu í ágúst. Mælist hún yfir 4,7% opnast heimild til uppsagnar samninga ef ekki semst um viðbrögð. Forsendur teljast þó standast ef sex mánaða verðbólga (mars–ágúst) mælist 4,4% eða minni á ársgrunni."
+  },
+  {
+    "id": 6,
+    "cat": "vinnumarkadur",
+    "impact": "nokkur",
+    "dir": "up",
+    "date": "2026-01-01",
+    "src": "Samtök atvinnulífsins",
+    "url": "https://www.sa.is/vinnumarkadsvefur/kjarasamningar/kaupgjaldsskra-sa/",
+    "title": "Laun hækkuðu um 3,5% um áramót samkvæmt kjarasamningum",
+    "sum": "Kaupgjaldsskrá nr. 32 tók gildi 1. janúar: laun hækka um 3,5%, þó að lágmarki 23.750 kr. Kauptaxtar hækka sérstaklega til viðbótar. Samningarnir gilda til 31. janúar 2028 og marka launakostnað fyrirtækja á árinu."
+  },
+  {
+    "id": 7,
+    "cat": "gjaldthrot",
+    "impact": "mikil",
+    "dir": "up",
+    "date": "2026-04-24",
+    "src": "Viðskiptablaðið / Hagstofan",
+    "constr": true,
+    "url": "https://vb.is/frettir/gjaldthrot-fyrirtaekja-jukust-um-22/",
+    "title": "Gjaldþrotum fjölgaði um 22% á fyrsta ársfjórðungi",
+    "sum": "361 fyrirtæki var tekið til gjaldþrotaskipta á fyrsta fjórðungi, 22% fleiri en í fyrra. Flestar nýskráningar — um 150 — voru þó í byggingarstarfsemi og mannvirkjagerð. Gjaldþrotum virkra fyrirtækja fækkaði aftur á móti um 4% milli ára."
+  },
+  {
+    "id": 8,
+    "cat": "gjaldthrot",
+    "impact": "mikil",
+    "dir": "up",
+    "date": "2026-05-23",
+    "src": "mbl.is",
+    "constr": true,
+    "url": "https://www.mbl.is/vidskipti/frettir/2026/05/23/alvarleg_stada_a_ibudamarkadi/",
+    "title": "Verktakar vara við gjaldþrotum vegna óseldra íbúða",
+    "sum": "Verktakar lýsa alvarlegri stöðu á fasteignamarkaði: óseldar íbúðir og hár vaxtakostnaður þrýsta mörgum að þolmörkum. Einn nefndi að vaxtakostnaður óseldra íbúða kosti fyrirtæki sitt um milljarð í ár. Gjaldþrot og vanskil verktaka gætu reynst bönkum dýr."
+  },
+  {
+    "id": 9,
+    "cat": "gjaldthrot",
+    "impact": "nokkur",
+    "dir": "up",
+    "date": "2026-05-12",
+    "src": "RÚV",
+    "constr": true,
+    "url": "https://www.ruv.is/frettir/innlent/verktakafyrirtaekid-ris-gjaldthrota",
+    "title": "Verktakafyrirtækið RIS tekið til gjaldþrotaskipta",
+    "sum": "Enn eitt verktakafyrirtækið hættir rekstri þegar RIS er tekið til gjaldþrotaskipta. Málið er liður í vaxandi fjölda gjaldþrota í byggingargeiranum þar sem fjármagnskostnaður og hægari íbúðasala þrengja að rekstri. (Dagsetning til staðfestingar í lifandi útgáfu.)"
+  },
+  {
+    "id": 10,
+    "cat": "hagvoxtur",
+    "impact": "nokkur",
+    "dir": "up",
+    "date": "2026-04-24",
+    "src": "Hagstofan",
+    "url": "https://hagstofa.is/talnaefni/atvinnuvegir/fyrirtaeki/",
+    "title": "993 ný fyrirtæki skráð á fyrsta ársfjórðungi",
+    "sum": "Tæplega 993 fyrirtæki voru nýskráð í atvinnurekstri á fyrsta fjórðungi, þar af 808 einkahlutafélög — fleiri en á sama tíma 2025. Flestar nýskráningar voru í byggingarstarfsemi og mannvirkjagerð, eða um 150, sem er 6% aukning milli ára."
+  },
+  {
+    "id": 11,
+    "cat": "hagvoxtur",
+    "impact": "nokkur",
+    "dir": "up",
+    "date": "2026-04-21",
+    "src": "Hagstofan",
+    "url": "https://hagstofa.is/",
+    "title": "Velta eykst mikið í bílasölu, sjávarútvegi og tæknigreinum",
+    "sum": "Nýjustu veltutölur sýna kröftugan vöxt í bílasölu, sjávarútvegi og tæknigreinum, sem bendir til þróttar í hluta atvinnulífsins þrátt fyrir háa vexti og hægari hagvöxt á heildina litið."
+  },
+  {
+    "id": 12,
+    "cat": "markadir",
+    "impact": "nokkur",
+    "dir": "flat",
+    "date": "2026-05-26",
+    "src": "Vísir",
+    "url": "https://www.visir.is/f/vidskipti",
+    "title": "Ísfélagið skilar 2,8 milljarða hagnaði og greiðir arð",
+    "sum": "Hagnaður Ísfélagsins í Vestmannaeyjum nam 2,8 milljörðum króna á fyrsta fjórðungi — umtalsverður viðsnúningur milli ára. Stjórnin ætlar að greiða hluthöfum 2,1 milljarð í arð vegna síðasta rekstrarárs."
+  },
+  {
+    "id": 13,
+    "cat": "markadir",
+    "impact": "nokkur",
+    "dir": "flat",
+    "date": "2026-05-22",
+    "src": "Vísir",
+    "url": "https://www.visir.is/f/vidskipti#siminn",
+    "title": "Síminn kaupir Greiðslumiðlun — eftirlitið samþykkir",
+    "sum": "Samkeppniseftirlitið hefur samþykkt kaup Símans á Greiðslumiðlun Íslands ehf., sem rekur greiðslulausnina Pei og innheimtufyrirtækið Motus. Kaupin styrkja stöðu Símans á greiðslumarkaði."
+  },
+  {
+    "id": 14,
+    "cat": "markadir",
+    "impact": "nokkur",
+    "dir": "down",
+    "date": "2026-04-23",
+    "src": "Viðskiptablaðið",
+    "url": "https://vb.is/frettir/",
+    "title": "Coloplast lækkar bókfært virði Kerecis um 57 milljarða",
+    "sum": "Danska Coloplast færir bókfært virði íslenska nýsköpunarfyrirtækisins Kerecis niður um 57 milljarða króna. Niðurfærslan vekur athygli í ljósi þess hve hátt verð var greitt fyrir félagið við yfirtökuna."
+  },
+  {
+    "id": 15,
+    "cat": "gengi",
+    "impact": "nokkur",
+    "dir": "flat",
+    "date": "2026-05-28",
+    "src": "Landsbankinn",
+    "url": "https://www.landsbankinn.is/markadir#gengi",
+    "title": "Gengisvísitala krónunnar í kringum 185,7",
+    "sum": "Gengisvísitalan stóð nærri 185,7 í lok maí. Tiltölulega stöðug króna heldur aftur af innfluttri verðbólgu en gengisþróun ræðst áfram af ferðaþjónustu, útflutningsverðmætum og vaxtamun við útlönd."
+  },
+  {
+    "id": 16,
+    "cat": "markadir",
+    "impact": "vaeg",
+    "dir": "flat",
+    "date": "2026-05-28",
+    "src": "Nasdaq Iceland",
+    "url": "https://www.landsbankinn.is/markadir#omxi",
+    "title": "Úrvalsvísitalan um 2.802 stig",
+    "sum": "Úrvalsvísitala aðallista (OMXI) stóð í um 2.802 stigum. Veltan í Kauphöllinni og afkoma skráðra félaga á fyrsta fjórðungi setja tóninn fyrir sumarið."
+  },
+  {
+    "id": 17,
+    "cat": "eftirlit",
+    "impact": "nokkur",
+    "dir": "flat",
+    "date": "2026-03-18",
+    "src": "Seðlabanki Íslands",
+    "url": "https://sedlabanki.is/",
+    "title": "Niðurstaða könnunar- og matsferlis hjá indó sparisjóði",
+    "sum": "Fjármálaeftirlit Seðlabankans birti niðurstöðu könnunar- og matsferlis (SREP) hjá indó sparisjóði. Slíkt eftirlit metur eiginfjár- og lausafjárstöðu og er hluti af vöktun fjármálastöðugleika."
+  },
+  {
+    "id": 18,
+    "cat": "husnaedi",
+    "impact": "mikil",
+    "dir": "up",
+    "date": "2026-04-24",
+    "src": "Viðskiptablaðið",
+    "url": "https://vb.is/frettir/#skipulag",
+    "title": "Skipulagsstefna Reykjavíkur sögð verðbólguvaldur",
+    "sum": "Umræða hefur skapast um hvort þéttingarstefna og takmarkað lóðaframboð í Reykjavík ýti undir húsnæðisverð og þar með verðbólgu. Húsnæðisliðurinn vegur þungt í vísitölu neysluverðs og hefur bein áhrif á vaxtaákvarðanir."
+  }
+]
