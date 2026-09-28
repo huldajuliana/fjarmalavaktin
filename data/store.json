@@ -1528,5 +1528,65 @@
       "title": "Gera sjónvarpsþætti eftir Sögunni um Ísfólkið",
       "sum": "Einhver vinsælasti bókaflokkur í sögu Noregs verður að sjónvarpsþáttum á TV2 á næstu árum. Sagan um Ísfólkið kom út í 47 bindum á níunda áratug síðustu aldar og naut feikilegra vinsælda, ekki aðeins í Noregi heldur líka í öðrum löndum."
     }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/09/28/apple_daemt_til_ad_greida_690_milljarda/": {
+    "first_seen": "2026-09-28T15:44:33.209016+00:00",
+    "record": {
+      "id": "aef01aa3bd",
+      "cat": "gengi",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/09/28/apple_daemt_til_ad_greida_690_milljarda/",
+      "title": "Apple dæmt til að greiða 690 milljarða",
+      "sum": "Bandaríska tæknifyrirtækið Apple hefur verið dæmt til að greiða 5,7 milljarða bandaríkjadala í skaðabætur eftir að bandarískur kviðdómur komst að þeirri niðurstöðu að fyrirtækið hefði notað tækni annars fyrirtækis án leyfis. Þetta jafngildir um 690 milljörðum króna."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-28-monnunum-fimm-sleppt-ur-haldi-i-bretlandi-488253/": {
+    "first_seen": "2026-09-28T15:44:33.209016+00:00",
+    "record": {
+      "id": "cc0a19c953",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-28-monnunum-fimm-sleppt-ur-haldi-i-bretlandi-488253/",
+      "title": "Mönnunum fimm sleppt úr haldi í Bretlandi",
+      "sum": "Fimm karlmönnum sem voru handteknir í Bretlandi í gær grunaðir um að leggja á ráðin um hryðjuverk verður sleppt úr haldi gegn tryggingu. Hryðjuverkadeild bresku lögreglunnar greinir frá þessu. Fyrr í dag var upplýst að mennirnir væru allir breskir ríkisborgarar, karlmenn á aldrinum 20–25 ára og frá Lundúnum."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-28-tiu-ara-drengur-og-tvaer-konur-forust-a-ermarsundi-488250/": {
+    "first_seen": "2026-09-28T15:44:33.209016+00:00",
+    "record": {
+      "id": "f36c887950",
+      "cat": "gengi",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-28-tiu-ara-drengur-og-tvaer-konur-forust-a-ermarsundi-488250/",
+      "title": "Tíu ára drengur og tvær konur fórust á Ermarsundi",
+      "sum": "Þrjú létust um borð í yfirfullum gúmmíbát á leið frá Frakklandi til Bretlands í dag, tíu ára drengur og tvær konur. Báturinn sökk ekki en talið er að þau hafi troðist undir. Á hverju ári leggur fjöldi flóttafólks leið sína yfir Ermarsund í von um að fá dvalarleyfi á Bretlandi."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-28-oanaegja-foreldra-i-hafnarfirdi-med-breytingar-a-reglum-um-fristundastyrk-488233/": {
+    "first_seen": "2026-09-28T15:44:33.209016+00:00",
+    "record": {
+      "id": "f2eaee3247",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-28-oanaegja-foreldra-i-hafnarfirdi-med-breytingar-a-reglum-um-fristundastyrk-488233/",
+      "title": "Óánægja foreldra í Hafnarfirði með breytingar á reglum um frístundastyrk",
+      "sum": "Hafnarfjarðarbær greiddi frístundastyrk mánaðarlega til foreldra. Sumir foreldrar gátu ekki fullnýtt styrkinn því aðeins var greitt fyrir þá mánuði sem barnið iðkaði frístundina. Frá og með 1. janúar 2026 er allri upphæðinni úthlutað einu sinni á ári. Flestar skráningar í íþróttir eru á haustmánuðum."
+    }
   }
 }
