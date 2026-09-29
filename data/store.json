@@ -1072,7 +1072,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "src": "RÚV",
       "url": "https://ruv.is/rss/",
       "title": "Síða fannst ekki",
@@ -1722,6 +1722,96 @@
       "url": "https://www.ruv.is/frettir/erlent/2026-09-28-dyrasti-muminbolli-i-heimi-seldur-a-meira-en-sex-milljonir-487866/",
       "title": "Dýrasti múmínbolli í heimi seldur á meira en sex milljónir",
       "sum": "Bolli sem sýnir Múmínsnáða kafa innan um skeljar var seldur fyrir rétt rúmlega 46 þúsund evrur í Finnlandi. Upphæðin samsvarar nærri 6,4 milljónum króna. Þetta er hæsta verð sem greitt hefur verið fyrir múmínbolla. Í frétt finnska ríkisútvarpsins, Yle, segir að sams konar bolli hafi átt fyrra met."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/09/28/skattarnir_haerri_en_innflutningsverdid/": {
+    "first_seen": "2026-09-29T01:23:56.926501+00:00",
+    "record": {
+      "id": "1a3a6627ac",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/09/28/skattarnir_haerri_en_innflutningsverdid/",
+      "title": "Skattarnir hærri en innflutningsverðið",
+      "sum": "Skattar á nýjan bensínjeppa eru nú hærri en innflutningsverð bílsins. Há vörugjöld á innflutta bíla leiða til eldri og óöruggari bílaflota og leggjast ójafnt á landsmenn eftir búsetu, enda séu rafbílar óraunhæfur kostur úti á landi."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-hoffellsarbru-lokud-vegna-vidgerda-488289/": {
+    "first_seen": "2026-09-29T01:23:56.926501+00:00",
+    "record": {
+      "id": "a0d6979fa2",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-hoffellsarbru-lokud-vegna-vidgerda-488289/",
+      "title": "Hoffellsárbrú lokuð vegna viðgerða",
+      "sum": "Brúin yfir Hoffellsá.RÚV / Brynja Dögg Friðriksdóttir Hoffellsárbrú í Hornafirði verður lokuð frá klukkan 7:00 þriðjudaginn 29. september til klukkan 16:00 fimmtudaginn 1. október vegna viðhaldsaðgerða á brúnni sem er einbreið."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-28-el-nino-se-ein-staersta-ahaetta-sem-stedji-ad-samfelagi-og-efnahagskerfi-488283/": {
+    "first_seen": "2026-09-29T01:23:56.926501+00:00",
+    "record": {
+      "id": "9811676c41",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-28-el-nino-se-ein-staersta-ahaetta-sem-stedji-ad-samfelagi-og-efnahagskerfi-488283/",
+      "title": "El Niño sé ein stærsta áhætta sem steðji að samfélagi og efnahagskerfi",
+      "sum": "Mikael Allan Mikaelsson, sérfræðingur í loftslagsáhættu hjá Stockholm Environment Institute, segir veðurfarssveifluna El Niño vera eina stærstu áhættuna sem steðjar að samfélagi og efnahagskerfi."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-28-buid-ad-skrifa-undir-fridarplan-samt-er-thad-thannig-ad-thad-er-verid-ad-drepa-born-488284/": {
+    "first_seen": "2026-09-29T01:23:56.926501+00:00",
+    "record": {
+      "id": "4ee2cef39f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-28-buid-ad-skrifa-undir-fridarplan-samt-er-thad-thannig-ad-thad-er-verid-ad-drepa-born-488284/",
+      "title": "Búið að skrifa undir friðarplan „samt er það þannig að það er verið að drepa börn“",
+      "sum": "Þorgerður Katrín Gunnarsdóttir utanríkisráðherra er nýkomin heim af allsherjarþingi Sameinuðu þjóðanna þar sem hún flutti ræðu sem vakti talsverða athygli á heimsvísu. Hún var gestur í Silfri kvöldsins."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-28-markmidid-ad-auka-vellidan-ibua-med-virkni-488273/": {
+    "first_seen": "2026-09-29T01:23:56.926501+00:00",
+    "record": {
+      "id": "197d52304f",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-28-markmidid-ad-auka-vellidan-ibua-med-virkni-488273/",
+      "title": "Markmiðið að auka vellíðan íbúa með virkni",
+      "sum": "Í mars 2023 fengu 378 einstaklingar aðstoð en í júlí á þessu ári voru þeir 70 talsins. Árangurinn má rekja til aukinnar samvinnu milli velferðarsviðsins og Heilbrigðisstofnunar Suðurnesja, Miðstöðvar símenntunar á Suðurnesjum, Vinnumálastofnunar og fleiri stofnana. Hilma H."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-28-borgin-segir-upp-leigusamningum-vid-folk-i-skapandi-storfum-488279/": {
+    "first_seen": "2026-09-29T01:23:56.926501+00:00",
+    "record": {
+      "id": "327b00fc2a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-28",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-28-borgin-segir-upp-leigusamningum-vid-folk-i-skapandi-storfum-488279/",
+      "title": "Borgin segir upp leigusamningum við fólk í skapandi störfum",
+      "sum": "Reykjavíkurborg hefur sagt upp fjölda leigusamninga við fólk í skapandi störfum vegna eldvarna. Leigjendum þykja fyrirheit um hverfi lista og frumkvöðla í Gufunesi hafa farið fyrir lítið. Halldór H. Jónsson arkitekt teiknaði Gufunesveg 40, eitt hús Áburðarverksmiðjunnar. Það má muna fífil sinn fegurri."
     }
   }
 }
