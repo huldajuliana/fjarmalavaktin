@@ -1813,5 +1813,545 @@
       "title": "Borgin segir upp leigusamningum við fólk í skapandi störfum",
       "sum": "Reykjavíkurborg hefur sagt upp fjölda leigusamninga við fólk í skapandi störfum vegna eldvarna. Leigjendum þykja fyrirheit um hverfi lista og frumkvöðla í Gufunesi hafa farið fyrir lítið. Halldór H. Jónsson arkitekt teiknaði Gufunesveg 40, eitt hús Áburðarverksmiðjunnar. Það má muna fífil sinn fegurri."
     }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/09/29/tvofalt_meiri_launahaekkanir_en_i_hinum_rikjum_nord/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "efe30847ef",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/09/29/tvofalt_meiri_launahaekkanir_en_i_hinum_rikjum_nord/",
+      "title": "Tvöfalt meiri launahækkanir en í hinum ríkjum Norðurlanda",
+      "sum": "„Við erum ítrekað að semja um laun umfram það sem hagkerfið ræður við. Þess vegna erum við iðulega með meiri verðbólgu og hærra vaxtastig en okkar samanburðarlönd.“"
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/09/29/vonast_til_ad_thetta_fari_nuna_laekkandi/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "82765ac296",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/09/29/vonast_til_ad_thetta_fari_nuna_laekkandi/",
+      "title": "„Vonast til að þetta fari núna lækkandi“",
+      "sum": "„En þetta er náttúrulega einskiptisaðgerð þannig að við erum að vonast til að þetta fari núna lækkandi,“ segir Finnbjörn Hermannsson, formaður ASÍ."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/09/29/verdbolgan_komin_i_5_9_prosent/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "0a2084593b",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/09/29/verdbolgan_komin_i_5_9_prosent/",
+      "title": "Verðbólgan komin í 5,9%",
+      "sum": "Tólf mánaða verðbólga mælist 5,9% og hækkar lítillega frá síðasta mánuði þegar hún var 5,6%."
+    }
+  },
+  "https://www.visir.is/g/20262941360d/vaxtahaekkunarferli-lokid-en-langt-i-laekkun": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "20e0ef0d75",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262941360d/vaxtahaekkunarferli-lokid-en-langt-i-laekkun",
+      "title": "Vaxta­hækkunar­ferli lokið en langt í lækkun",
+      "sum": "Stýrivextir munu standa í stað næstu mánuði og verða sex prósent undir lok 2028 samkvæmt nýrri þjóðhagsspá Íslandsbanka. Gert er ráð fyrir að kjarasamningar muni halda þrátt fyrir virkt forsenduákvæði."
+    }
+  },
+  "https://www.visir.is/g/20262941266d/ekki-sjai-fyrir-endann-a-uppsognum": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "8d345da7e4",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262941266d/ekki-sjai-fyrir-endann-a-uppsognum",
+      "title": "Ekki sjái fyrir endann á upp­sögnum",
+      "sum": "Forstjóri Vinnumálastofnunar segir hápunkti atvinnuleysis ekki hafa verið náð en staðan á vinnumarkaði komi þó ekki á óvart. Árstíðabundin sveifla sé meiri núna en síðustu ár en fjöldi þeirra sem sagt hafi verið upp verði ekki ljós fyrr en eftir mánaðamót."
+    }
+  },
+  "https://www.visir.is/g/20262941184d/throtabu-play-krefur-einar-um-skadabaetur": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "0b7806490a",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262941184d/throtabu-play-krefur-einar-um-skadabaetur",
+      "title": "Þrota­bú Play krefur Einar um skaða­bætur",
+      "sum": "Skiptastjórar þrotabús flugfélagsins Play hafa höfðað mál á hendur flugvélaleigusala félagsins fallna og Einari Erni Ólafssyni, fyrrverandi forstjóra og eins eigenda félagsins. Þess er krafist að greiðslum til flugvélaleigunnar verði rift og þrotabúinu verði dæmdar skaðabætur vegna þeirra."
+    }
+  },
+  "https://www.visir.is/g/20262941231d/verdbolga-i-tveggja-ara-hamarki-eftir-ad-skattalaekkun-rann-ut": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "3e0c3b2c71",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262941231d/verdbolga-i-tveggja-ara-hamarki-eftir-ad-skattalaekkun-rann-ut",
+      "title": "Verð­bólga í tveggja ára há­marki eftir að skatta­lækkun rann út",
+      "sum": "Verðbólga mældist 5,9 prósent í september og hefur ekki verið meiri í rúm tvö ár. Una Jónsdóttir, hagfræðingur hjá Landsbankanum, segir hækkað eldsneytisverð skýra nær alla aukninguna frá ágúst. Hún býst við að verðbólgan haldist yfir fimm prósentum næstu mánuði."
+    }
+  },
+  "https://www.visir.is/g/20262941121d/oliuflaedid-nalgast-fyrra-horf-en-verd-laekkar-ekki": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "64c488d25f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262941121d/oliuflaedid-nalgast-fyrra-horf-en-verd-laekkar-ekki",
+      "title": "Olíuflæðið nálgast fyrra horf en verð lækkar ekki",
+      "sum": "Flæði olíuafurða frá Mið-Austurlöndum og um Hormússund er nærri því sem það var áður en stríð Bandaríkjanna og Ísrael gegn Íran hófst í febrúar. Klerkastjórnin í Íran virðist vera að missa tökin á sundinu og þar með getuna til að beita efnahagslegum þrýstingi á Bandaríkjamenn, á sama tíma og herkví Bandaríkjanna gegn …"
+    }
+  },
+  "https://www.visir.is/g/20262941097d/verdbolga-ekki-meiri-i-tvo-ar": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "3f38745aab",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262941097d/verdbolga-ekki-meiri-i-tvo-ar",
+      "title": "Verð­bólga ekki meiri í tvö ár",
+      "sum": "Verðbólga eykst um 0,3 prósentustig milli mánaða og er nú 5,9 prósent. Verðbólga hefur ekki mælst meiri síðan í ágúst 2024 og þetta er því mesta verðbólgan síðan ríkisstjórn Kristrúnar Frostadóttur tók við."
+    }
+  },
+  "https://www.visir.is/g/20262940876d/hognudust-um-milljard": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "7a8d15597e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262940876d/hognudust-um-milljard",
+      "title": "Högnuðust um milljarð",
+      "sum": "Laugar ehf., sem á og rekur World Class-líkamsræktarstöðvarnar, hagnaðist um rétt tæpan milljarð króna á síðasta ári. Hagnaðarhlutfall félagsins var 14,6 prósent og greiddu eigendurnir sér 250 milljónir króna í arð."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-madur-i-haldi-eftir-alvarlega-likamsaras-488364/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "ec4a7be0de",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-madur-i-haldi-eftir-alvarlega-likamsaras-488364/",
+      "title": "Maður í haldi eftir alvarlega líkamsárás",
+      "sum": "Karlmaður á fimmtugsaldri er í haldi Lögreglunnar á höfuðborgarsvæðinu vegna rannsóknar á alvarlegri líkamsárás í íbúð fjölbýlishúss í Kópavogi í gærkvöld. Í tilkynningu frá lögreglu segir að maðurinn, sem var handtekinn á vettvangi, sé grunaður um að hafa veist að konu á fertugsaldri, sem var í íbúðinni."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-29-spaensk-stjornvold-kynntu-adgerdir-i-husnaedismalum-488362/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "08603ce230",
+      "cat": "husnaedi",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": true,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-29-spaensk-stjornvold-kynntu-adgerdir-i-husnaedismalum-488362/",
+      "title": "Spænsk stjórnvöld kynntu aðgerðir í húsnæðismálum",
+      "sum": "Ríkisstjórn Spánar hefur brugðist við ákalli mótmælenda og kynnti í dag aðgerðir í húsnæðismálum. Mótmælin hófust þegar kona á níræðisaldri, Maricarmen Abascal, var þvinguð út af heimili sínu í Madríd í síðustu viku því hún hafði ekki lengur efni á að borga leigu."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-telur-morgu-osvarad-um-hverfi-fyrir-erlent-starfsfolk-488349/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "197eb66d5e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-telur-morgu-osvarad-um-hverfi-fyrir-erlent-starfsfolk-488349/",
+      "title": "Telur mörgu ósvarað um hverfi fyrir erlent starfsfólk",
+      "sum": "Hafnarfjarðarbær hefur hafið samstarf við Stólpa um uppbyggingu á nýju tímabundnu hverfi fyrir erlent starfsfólk sem kemur hingað til lands í skemmri tíma, við Krýsuvíkurveg og Hvaleyrarvatnsveg, rétt við Vellina. Gert er ráð fyrir allt að 130 húsum og um 260 íbúðum sem verða um 35 fermetrar."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-utlit-fyrir-mikla-rigningu-488357/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "5ebb74be0e",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-utlit-fyrir-mikla-rigningu-488357/",
+      "title": "Útlit fyrir mikla rigningu",
+      "sum": "Veðurstofan hefur gefið út gular viðvaranir vegna mikillar rigningar sem spáð er á Suðausturlandi og sunnanverðu miðhálendinu í nótt og á morgun. Viðvaranirnar taka gildi klukkan tvö eftir miðnætti og gilda til þrjú síðdegis á morgun. Veðurstofan spáir talsverðri eða mikilli rigningu."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-tvofalt-fleiri-maedur-syna-einkenni-faedingarthunglyndis-488243/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "db0d5d37bd",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-tvofalt-fleiri-maedur-syna-einkenni-faedingarthunglyndis-488243/",
+      "title": "Tvöfalt fleiri mæður sýna einkenni fæðingarþunglyndis",
+      "sum": "Hlutfall kvenna á höfuðborgarsvæðinu sem sýna einkenni fæðingarþunglyndis meira en tvöfaldaðist á ellefu ára tímabili. Árið 2013 sýndu 8% kvenna einkenni fæðingarþunglyndis en árið 2024 var hlutfallið komið í 17%. Það jafngildir 9 prósentustiga aukningu, eða 112,5% hlutfallslegri aukningu."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-bardi-nk-vaentanlega-aftur-a-veidar-fyrir-aramot-488351/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "53b4d12fb4",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-bardi-nk-vaentanlega-aftur-a-veidar-fyrir-aramot-488351/",
+      "title": "Barði NK væntanlega aftur á veiðar fyrir áramót",
+      "sum": "Útlit er fyrir að Barði NK geti farið aftur til veiða fyrir áramót. Unnið hefur verið að viðgerðum á skipinu í Færeyjum síðan eldur kviknaði í vélarrúmi skipsins í júní. Þá var nýbúið að taka vélina upp og var skipið á heimleið frá Færeyjum."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-vill-ad-sanngirni-se-gaett-milli-ithrottafelaga-i-baenum-488343/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "e384b8b9b1",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-vill-ad-sanngirni-se-gaett-milli-ithrottafelaga-i-baenum-488343/",
+      "title": "Vill að sanngirni sé gætt milli íþróttafélaga í bænum",
+      "sum": "Framkvæmdastjóri Fimleikafélagsins Bjarkar vill að Hafnarfjarðarbær gæti sanngirni í styrkveitingum til íþróttafélaga í bænum. Öllum þjálfurum félagsins, eldri en 18 ára, var sagt upp störfum í gær. 80 þjálfarar starfa hjá félaginu sem launþegar, í 30 stöðugildum og iðkendur eru um 1.100 í þremur deildum."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-29-rannsaka-naudgun-a-ny-eftir-ad-groft-hopspjall-kom-i-ljos-488346/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "f4f5b92184",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-29-rannsaka-naudgun-a-ny-eftir-ad-groft-hopspjall-kom-i-ljos-488346/",
+      "title": "Rannsaka nauðgun á ný eftir að gróft hópspjall kom í ljós",
+      "sum": "Tveggja ára gamalt mál hefur komist í hámæli í Bandaríkjunum eftir að saksóknarar í New York ákváðu að taka það upp að nýju. Sjö karlkyns nemendur við Cornell-háskóla eru sakaðir um hópnauðgun og lögmaður konunnar segir skólann hafa boðið þeim mildari refsingu gegn ritgerðarskrifum."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-thetta-eru-mikil-vonbrigdi-488345/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "ea40eab5f3",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-thetta-eru-mikil-vonbrigdi-488345/",
+      "title": "„Þetta eru mikil vonbrigði“",
+      "sum": "„Þetta eru mikil vonbrigði,“ segir Daði Már Kristófersson, fjármála- og efnahagsráðherra, um vaxandi verðbólgu. Hún er 5,9 prósent og hefur ekki verið hærri síðan í ágúst 2024."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-skyrdi-blod-a-vettvangi-med-opnum-sarum-a-hondum-er-hann-hjalpadi-hinum-latna-i-framkvaemdum-488331/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "1062f70fdc",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-skyrdi-blod-a-vettvangi-med-opnum-sarum-a-hondum-er-hann-hjalpadi-hinum-latna-i-framkvaemdum-488331/",
+      "title": "Skýrði blóð á vettvangi með opnum sárum á höndum er hann hjálpaði hinum látna í framkvæmdum",
+      "sum": "Georgios Ntentes, sem er ákærður fyrir að hafa orðið félaga sínum að bana á heimili hans á Kársnesi í Kópavogi, segist hafa verið að aðstoða hann við að gera upp íbúðina. Hann hafi verið þar á hverjum degi í langan tíma og oft verið með sár á höndum vegna vinnu sinnar sem kokkur. Það skýri blóð úr honum á vettvangi."
+    }
+  },
+  "https://www.ruv.is/frettir/menning-og-daegurmal/2026-09-29-svanasongur-selinu-throunarsaga-internetfraegdar-og-ahrifavalda-488332/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "2f7b2a7511",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-09-29-svanasongur-selinu-throunarsaga-internetfraegdar-og-ahrifavalda-488332/",
+      "title": "Svanasöngur Selinu: Þróunarsaga internetfrægðar og áhrifavalda",
+      "sum": "„Þetta eru frábærir þættir,“ segir Brynja Hjálmsdóttir, sjónvarpsgagnrýnandi Lestarinnar, um norsku þættina Rekviem för Selina , eða Svanasöngur Selinu. Hún mætti í hljóðver til þáttastjórnenda Lestarinnar á dögunum til að ræða um þættina sem eru aðgengilegir í spilara RÚV ."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-29-openai-haettir-vid-utgafu-nyjasta-gervigreindarmodels-sins-af-oryggisastaedum-488318/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "aec0deef7b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-29-openai-haettir-vid-utgafu-nyjasta-gervigreindarmodels-sins-af-oryggisastaedum-488318/",
+      "title": "OpenAI hættir við útgáfu nýjasta gervigreindarmódels síns af öryggisástæðum",
+      "sum": "Tæknirisinn OpenAI hefur hætt við að gefa út nýjustu útgáfu gervigreindarlíkans síns af öryggisástæðum. Nýja útgáfan var hönnuð til að leysa flóknari verkefni en áður án hjálpar frá manneskju en stóðst ekki öryggisprófanir."
+    }
+  },
+  "https://www.ruv.is/frettir/ithrottir/2026-09-29-thjodarhollin-a-ad-vera-klar-i-januar-2030-488338/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "985db4ad36",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/ithrottir/2026-09-29-thjodarhollin-a-ad-vera-klar-i-januar-2030-488338/",
+      "title": "Þjóðarhöllin á að vera klár í janúar 2030",
+      "sum": "Borgarráð samþykkti á fundi sínum í morgun fyrirliggjandi verksamning milli Þjóðarhallar ehf. og ÍAV hf. um hönnun og byggingu Þjóðarhallar í Laugardal. Umsamið verð fyrir verkið eru rúmir 16,8 milljarðar króna að meðtöldum virðisaukaskatti. Í sumar gekk Þjóðarhöll ehf."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-formadur-grafiu-bydur-sig-fram-til-forseta-asi-488330/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "1dae046216",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-formadur-grafiu-bydur-sig-fram-til-forseta-asi-488330/",
+      "title": "Formaður GRAFÍU býður sig fram til forseta ASÍ",
+      "sum": "Annar frambjóðandinn til embættis forseta Alþýðusambands Íslands hefur stigið fram. Georg Páll Skúlason, formaður GRAFÍU – stéttarfélags í prent- og miðlunargreinum, tilkynnti í dag um framboð sitt. Áður hafði Arnaldur Grétarsson, samfélagsmiðlasérfræðingur hjá ASÍ, lýst yfir framboði."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-hofudstodvastorf-faerdust-til-chicago-og-framtidin-bjort-i-gardabae-488320/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "c83b68ca93",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-hofudstodvastorf-faerdust-til-chicago-og-framtidin-bjort-i-gardabae-488320/",
+      "title": "Höfuðstöðvastörf færðust til Chicago og framtíðin björt í Garðabæ",
+      "sum": "Árni Sigurðsson, sem var forstjóri Marel en er nú aðstoðarforstjóri JBT Marel, segir að reksturinn í Garðabæ sé mikilvægur og hafi alla möguleika til að blómstra. En meira um það síðar."
+    }
+  },
+  "https://www.ruv.is/frettir/ithrottir/2026-09-29-thjodverjar-koma-ser-saman-um-ad-vilja-olympiuleikana-til-munchen-488322/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "ec258fe968",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/ithrottir/2026-09-29-thjodverjar-koma-ser-saman-um-ad-vilja-olympiuleikana-til-munchen-488322/",
+      "title": "Þjóðverjar koma sér saman um að vilja Ólympíuleikana til München",
+      "sum": "München fékk 90 atkvæði gegn 51 atkvæði Köln-Rín-Ruhr á aukaþingi þýska íþrótta- og ólympíusambandsins, DOSB, í Baden-Baden á laugardag. Ólympíuleikar hafa ekki verið haldnir í Þýskalandi síðan árið 1972."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-neitar-ad-hafa-ordid-felaga-sinum-ad-bana-a-karsnesi-488319/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "58201686d4",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-neitar-ad-hafa-ordid-felaga-sinum-ad-bana-a-karsnesi-488319/",
+      "title": "Neitar að hafa orðið félaga sínum að bana á Kársnesi",
+      "sum": "Aðalmeðferð í máli Georgios Ntentes, sem er ákærður fyrir bana vini sínum á heimili hans á Kársnesi í Kópavogi í nóvember í fyrra, er hafin í Héraðsdómi Reykjaness."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-29-maricarmen-faer-ad-flytja-aftur-heim-488321/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "d8382ba51f",
+      "cat": "gengi",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-29-maricarmen-faer-ad-flytja-aftur-heim-488321/",
+      "title": "Maricarmen fær að flytja aftur heim",
+      "sum": "Lögmaður Maricarmen Abascal sem var borin út úr leiguíbúð sinni í Madríd í síðustu viku segir að hún fái að flytja aftur inn. Málið hefur vakið mikil viðbrögð á Spáni, varð kveikjan að háværum mótmælum og spænsk stjórnvöld ætla að kynna aðgerðir í húsnæðismálum í dag."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-ollum-thjalfurum-sagt-upp-storfum-hja-bjork-488314/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "9400519862",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-ollum-thjalfurum-sagt-upp-storfum-hja-bjork-488314/",
+      "title": "Öllum þjálfurum sagt upp störfum hjá Björk",
+      "sum": "Öllum ráðningarsamningum þjálfara hjá fimleikafélaginu Björk í Hafnarfirði var sagt upp í gærkvöld. Ástæðan er sögð vera slæm fjárhagsstaða félagsins. Hilmar Ingimundarson, framkvæmdastjóri Bjarkar, sendi tilkynningu á foreldra allra iðkenda félagsins í gærkvöld."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-mesta-verdbolga-i-tvo-ar-488315/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "24d0ad1f40",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-mesta-verdbolga-i-tvo-ar-488315/",
+      "title": "Mesta verðbólga í tvö ár",
+      "sum": "Verðbólga jókst fjórða mánuðinn í röð og er komin í 5,9 prósent. Hún hefur ekki verið meiri síðan í ágúst 2024. Mestu munaði um að verð á dísil hækkaði um 18,1 prósent og bensín um 16,1 prósent eftir að tímabundin lækkun á virðisaukaskatti féll niður."
+    }
+  },
+  "https://www.ruv.is/frettir/menning-og-daegurmal/2026-09-29-ofbeldid-hefur-aldrei-verid-gert-upp-488093/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "6a694a0ade",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-09-29-ofbeldid-hefur-aldrei-verid-gert-upp-488093/",
+      "title": "Ofbeldið hefur aldrei verið gert upp",
+      "sum": "„Ég man þetta kvöld, eins og mörg gamlárskvöld á þessum árum, því þá gekk mikið á í miðborginni. Og í minningunni var þetta ekkert merkilegt atvik,“ segir Jón Pétursson fyrrverandi lögreglumaður en hann var fyrstur á vettvang þegar Hafmeyja Nínu Sæmundsson var sprengd á nýársnótt 1960."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-29-finna-ekki-merkasta-nulifandi-landkonnud-veraldar-488309/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "a56294b9c1",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-29-finna-ekki-merkasta-nulifandi-landkonnud-veraldar-488309/",
+      "title": "Finna ekki „merkasta núlifandi landkönnuð veraldar“",
+      "sum": "Einn mesti ævintýramaður Breta á síðustu öld finnst hvergi. Fjölskylda hans og aðdáendur segja í viðtölum við breska fjölmiðla að þau hafi hvorki náð að hitta Sir Ranulph Fiennes né tala við hann síðustu mánuði. Það sé eins og hann hafi horfið af yfirborði jarðar."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-domarnir-og-bokun-35-eg-se-nu-ekki-i-sjalfu-ser-hvad-yrdi-unnid-med-thvi-488287/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "b7207befe4",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-domarnir-og-bokun-35-eg-se-nu-ekki-i-sjalfu-ser-hvad-yrdi-unnid-med-thvi-488287/",
+      "title": "Dómarnir og bókun 35: „Ég sé nú ekki í sjálfu sér hvað yrði unnið með því“",
+      "sum": "Prófessor í lögfræði í Háskólanum í Reykjavík, Gunnar Þór Pétursson, segir að hæstaréttardómur sem féll í máli Önnu Bryndísar Einarsdóttur taugalæknis leiði af sér að frumvarp um bókun 35 verði samþykkt á Alþingi og innleitt með réttum hætti í íslensk lög."
+    }
+  },
+  "https://www.ruv.is/frettir/ithrottir/2026-09-29-hvad-gerist-i-bonusdeildinni-titilvorn-eda-senuthjofar-488251/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "14ccfe1506",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/ithrottir/2026-09-29-hvad-gerist-i-bonusdeildinni-titilvorn-eda-senuthjofar-488251/",
+      "title": "Hvað gerist í Bónusdeildinni: Titilvörn eða senuþjófar?",
+      "sum": "Bónusdeild kvenna í körfubolta hefst með þremur leikjum í kvöld og því ekki úr vegi að spá í veturinn sem fram undan er. Helena Sverrisdóttir, körfuboltasérfræðingur og fyrrum landsliðskona, segir spennandi tímabil í vændum þótt hún spái Njarðvíkingum titilvörn."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-29-vaenta-formlegs-svars-fra-bandarikjastjorn-i-dag-488299/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "3461f472b4",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-29-vaenta-formlegs-svars-fra-bandarikjastjorn-i-dag-488299/",
+      "title": "Vænta formlegs svars frá Bandaríkjastjórn í dag",
+      "sum": "Utanríkisráðherra Íran, Abbas Araghchi (t.v.) á allsherjarþingi Sameinuðu þjóðanna.EPA / SARAH YENESEL Utanríkisráðherra Írans, Abbas Araghchi, segir að stjórnvöld í Íran búist við formlegu svari frá Bandaríkjastjórn í dag varðandi opnun Hormússunds. Íranskur ríkisfjölmiðill greindi frá þessu í gærkvöld."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-29-setja-vidskiptathvinganir-a-usmanov-og-friedman-488295/": {
+    "first_seen": "2026-09-29T15:53:32.843934+00:00",
+    "record": {
+      "id": "5732701e00",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-29-setja-vidskiptathvinganir-a-usmanov-og-friedman-488295/",
+      "title": "Setja viðskiptaþvinganir á Usmanov og Friedman",
+      "sum": "Stjórnvöld í Litáen hafa sett rússnesku milljarðamæringana og ólígarkana Alisher Usmanov og Mikhail Friedman á lista yfir óæskilega einstaklinga, persona non grata – lista stjórnvalda í Litáen. Ólígarkarnir fá ekki að koma til Litáen í fimm ár."
+    }
   }
 }
