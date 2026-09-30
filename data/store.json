@@ -3238,5 +3238,95 @@
       "title": "Atvinnuleysi 6,3% Ã­ jÃºlÃ­",
       "sum": ""
     }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/09/30/magnus_erlendsson_nyr_svidsstjori_hja_kpmg/": {
+    "first_seen": "2026-09-30T18:44:55.463136+00:00",
+    "record": {
+      "id": "95709c714d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/09/30/magnus_erlendsson_nyr_svidsstjori_hja_kpmg/",
+      "title": "Magnús Erlendsson nýr sviðsstjóri hjá KPMG",
+      "sum": "Magnús G. Erlendsson hefur verið ráðinn sviðsstjóri ráðgjafarsviðs KPMG en hann hóf þar störf árið 2005 og varð hluthafi árið 2014."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/09/30/spa_obreyttum_voxtum/": {
+    "first_seen": "2026-09-30T18:44:55.463136+00:00",
+    "record": {
+      "id": "18aa5fbd08",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/09/30/spa_obreyttum_voxtum/",
+      "title": "Spá óbreyttum vöxtum",
+      "sum": "Greiningardeild Landsbankans spáir því að peningastefnunefnd Seðlabanka Íslands haldi vöxtum óbreyttum í næstu viku."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/09/30/ekki_bodlegt_ad_fjarmalaradherra_tali_med_thessum_h/": {
+    "first_seen": "2026-09-30T18:44:55.463136+00:00",
+    "record": {
+      "id": "6f9ce8438a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/09/30/ekki_bodlegt_ad_fjarmalaradherra_tali_med_thessum_h/",
+      "title": "„Ekki boðlegt að fjármálaráðherra tali með þessum hætti“",
+      "sum": "VR, LÍV og fagfélögin gera alvarlegar athugasemdir við málflutning Daða Más Kristóferssonar fjármálaráðherra í viðtali við Vísi."
+    }
+  },
+  "https://www.visir.is/g/20262942055d/valur-njardvik-meistararnir-a-hlidarenda": {
+    "first_seen": "2026-09-30T18:44:55.463136+00:00",
+    "record": {
+      "id": "c6c2946f4c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942055d/valur-njardvik-meistararnir-a-hlidarenda",
+      "title": "Valur - Njarð­vík | Meistararnir á Hlíðar­enda",
+      "sum": "Njarðvík sækir Val heim í fyrstu umferð Bónus-deildar kvenna í körfubolta. Leikurinn hefst klukkan 19:15 og er í beinni á Sýn Sport Ísland."
+    }
+  },
+  "https://www.visir.is/g/20262942154d/vill-ad-dadi-visi-til-thess-sem-hun-a-ad-hafa-sagt": {
+    "first_seen": "2026-09-30T18:44:55.463136+00:00",
+    "record": {
+      "id": "d302c3d31d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942154d/vill-ad-dadi-visi-til-thess-sem-hun-a-ad-hafa-sagt",
+      "title": "Vill að Daði vísi til þess sem hún á að hafa sagt",
+      "sum": "Þingmaður stjórnarandstöðunnar sem var einn þeirra sem fjármálaráðherra kallaði „þetta lið“ segist vart trúa því að hún þurfi enn á ný að „verjast óskiljanlegum brigslyrðum“ hæstvirts fjármálaráðherra í sinn garð."
+    }
+  },
+  "https://www.visir.is/g/20262942146d/magnus-er-nyr-svidsstjori-radgjafarsvids-kpmg": {
+    "first_seen": "2026-09-30T18:44:55.463136+00:00",
+    "record": {
+      "id": "2a8b2b5043",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942146d/magnus-er-nyr-svidsstjori-radgjafarsvids-kpmg",
+      "title": "Magnús er nýr sviðsstjóri ráðgjafarsviðs KPMG",
+      "sum": "Magnús G. Erlendsson hefur verið ráðinn sviðsstjóri ráðgjafarsviðs KPMG. Hann hóf störf hjá ráðgjafarsviði KPMG árið 2005 og varð hluthafi árið 2014 en tekur hann við af Svanbirni Thoroddsen sem lætur nú af störfum hjá KPMG eftir sautján ára feril hjá félaginu"
+    }
   }
 }
