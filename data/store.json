@@ -1072,7 +1072,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "src": "RÚV",
       "url": "https://ruv.is/rss/",
       "title": "Síða fannst ekki",
@@ -2457,6 +2457,171 @@
       "url": "https://www.ruv.is/frettir/erlent/2026-09-29-enn-oljost-med-framhaldid-i-mali-lindsay-clancy-488361/",
       "title": "Enn óljóst með framhaldið í máli Lindsay Clancy",
       "sum": "Lindsay Clancy, sem er ákærð fyrir að hafa myrt þrjú börn sín, kom í dómsal í dag í fyrsta sinn frá því dómari lýsti réttarhöld yfir henni ógild fyrr í þessum mánuði. Enn er óljóst hvort saksóknarar fari fram á ný réttarhöld."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-30-gomul-hjortu-yngjast-i-ungu-folki-488387/": {
+    "first_seen": "2026-09-30T00:56:27.465173+00:00",
+    "record": {
+      "id": "18619277c9",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-30-gomul-hjortu-yngjast-i-ungu-folki-488387/",
+      "title": "Gömul hjörtu yngjast í ungu fólki",
+      "sum": "Ný rannsókn sýnir að aldur hjartaþega segi meira til um hjartaheilsu frekar en aldur hjartagjafa. Nature greinir frá en rannsóknin er enn óbirt og óritrýnd. Þannig lækkar líffræðilegur aldur hjarta sem grædd eru úr eldri einstaklingi í yngri eftir ígræðslu."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-logmonnum-ekki-skylt-ad-veita-upplysingar-um-thiggjendur-skattradgjafar-488386/": {
+    "first_seen": "2026-09-30T00:56:27.465173+00:00",
+    "record": {
+      "id": "3a9ca1aa26",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-logmonnum-ekki-skylt-ad-veita-upplysingar-um-thiggjendur-skattradgjafar-488386/",
+      "title": "Lögmönnum ekki skylt að veita upplýsingar um þiggjendur skattráðgjafar",
+      "sum": "Lögmönnum er ekki skylt að veita skattayfirvöldum upplýsingar um umbjóðendur sína sem þegið hafa skattráðgjöf, ef beiðnin gengur lengra en brýn nauðsyn og meðalhóf krefjast. Þetta er niðurstaða EFTA-dómstólsins í dag. Í niðurstöðum dómsins segir að 36. gr."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-heilbrigdisthjonusta-a-vegum-felagasamtaka-barn-sins-tima-488384/": {
+    "first_seen": "2026-09-30T00:56:27.465173+00:00",
+    "record": {
+      "id": "2034c24340",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-heilbrigdisthjonusta-a-vegum-felagasamtaka-barn-sins-tima-488384/",
+      "title": "Heilbrigðisþjónusta á vegum félagasamtaka barn síns tíma",
+      "sum": "Runólfur Pálsson forstjóri Landspítala telur læknisþjónustu af hálfu félagasamtaka vera barn síns tíma. Útlit er fyrir að Landspítali hlaupi tímabundið undir bagga með SÁÁ í læknisþjónustu á Vogi. Aðeins 14 sjúklingar eru inniliggjandi á Vogi vegna manneklu en þar eru 45 rými."
+    }
+  },
+  "https://www.ruv.is/frettir/ithrottir/2026-09-29-kr-tindastoll-og-grindavik-byrja-bonusdeildina-a-sigri-488385/": {
+    "first_seen": "2026-09-30T00:56:27.465173+00:00",
+    "record": {
+      "id": "8aa8bcd0bc",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/ithrottir/2026-09-29-kr-tindastoll-og-grindavik-byrja-bonusdeildina-a-sigri-488385/",
+      "title": "KR, Tindastóll og Grindavík byrja Bónusdeildina á sigri",
+      "sum": "Þrír fyrstu leikir tímabilsins í Bónusdeild kvenna í körfubolta voru í kvöld: KR 94-87 Stjarnan Tindastóll 73-58 Keflavík Ármann 65-104 Grindavík Gerðu nóg Í Vesturbænum byrjuðu KR-ingar af krafti gegn Stjörnukonum og skoruðu 11 fyrstu stig leiksins."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-haekkandi-verdbolga-thad-er-varla-haegt-ad-bua-her-lengur-488375/": {
+    "first_seen": "2026-09-30T00:56:27.465173+00:00",
+    "record": {
+      "id": "ed4a50d200",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-haekkandi-verdbolga-thad-er-varla-haegt-ad-bua-her-lengur-488375/",
+      "title": "Hækkandi verðbólga – „Það er varla hægt að búa hér lengur“",
+      "sum": "„Þetta er skelfilegt, alveg hreint, skelfilegt. Þetta ætlar engan endi að taka, sko, einhvern veginn,“ segir Þórdís Hreggviðsdóttir um hækkun verðbólgu. Verðbólga jókst fjórða mánuðinn í röð og stendur nú í 5,9%. Fréttastofa tók vegfarendur tali í Bónus í Skeifunni."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-29-eistar-saka-russa-um-tilraun-til-ikveikju-i-vopnafyrirtaeki-488369/": {
+    "first_seen": "2026-09-30T00:56:27.465173+00:00",
+    "record": {
+      "id": "93379669f1",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-29-eistar-saka-russa-um-tilraun-til-ikveikju-i-vopnafyrirtaeki-488369/",
+      "title": "Eistar saka Rússa um tilraun til íkveikju í vopnafyrirtæki",
+      "sum": "Forsætisráðherra Eistlands, Kristen Michal, sakaði rússnesku leyniþjónustuna í dag um að bera ábyrgð á tilraun til íkveikju í vopnaframleiðslufyrirtæki í Tallinn um miðjan ágúst. Í fyrirtækinu, Milrem Robotics, eru framleiddir róbótar sem Úkraínumenn nýta á vígvellinum í baráttu sinni gegn innrásarher Rússlands."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-urskurdadur-i-gaesluvardhald-eftir-ad-hafa-veitt-konu-alvarlega-averka-i-ibud-sinni-488382/": {
+    "first_seen": "2026-09-30T00:56:27.465173+00:00",
+    "record": {
+      "id": "52925f1f4e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-urskurdadur-i-gaesluvardhald-eftir-ad-hafa-veitt-konu-alvarlega-averka-i-ibud-sinni-488382/",
+      "title": "Úrskurðaður í gæsluvarðhald eftir að hafa veitt konu alvarlega áverka í íbúð sinni",
+      "sum": "Karlmaður á fimmtugsaldri hefur verið úrskurðaður í fjögurra vikna gæsluvarðhald vegna rannsóknar lögreglu á alvarlegri líkamsárás í íbúð fjölbýlishúss við Engihjalla í Kópavogi í gærkvöld. Karlmaður var úrskurðaður í fjögurra vikna gæsluvarðhald í dag."
+    }
+  },
+  "https://www.ruv.is/frettir/ithrottir/2026-09-29-storkostleg-byrjun-vals-i-evropudeildinni-488383/": {
+    "first_seen": "2026-09-30T00:56:27.465173+00:00",
+    "record": {
+      "id": "2468eb1cc0",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/ithrottir/2026-09-29-storkostleg-byrjun-vals-i-evropudeildinni-488383/",
+      "title": "Stórkostleg byrjun Vals í Evrópudeildinni",
+      "sum": "Valsmenn höfðu betur gegn Mors-Thy Håndbold í Evrópudeild karla í handbolta í kvöld, 39-28. Þetta var fyrsti leikur deildarinnar í ár en liðin eru með Tatabánya frá Ungverjalandi og RD Slovan frá Slóveníu í H-riðli. Leikurinn var í jafnvægi til að byrja með og allt var jafnt, 9-9, eftir rúmt korter."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-var-svo-lyfjadur-ad-astvinir-heldu-ad-daudinn-nalgadist-488033/": {
+    "first_seen": "2026-09-30T00:56:27.465173+00:00",
+    "record": {
+      "id": "98037ea9f9",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-var-svo-lyfjadur-ad-astvinir-heldu-ad-daudinn-nalgadist-488033/",
+      "title": "Var svo lyfjaður að ástvinir héldu að dauðinn nálgaðist",
+      "sum": "Í byrjun desember árið 2022 kom sonarsonur Kristjáns Péturs Þórðarsonar að afa sínum þar sem hann lá uppi í rúmi með opin augun. Hann brást ekki við þegar sonarsonurinn reyndi að tala við hann. „Þá hélt ég að hann hefði fengið heilablóðfall,“ rifjar sonarsonurinn, Páll Finnbogason, upp í nýjasta þætti Kveiks."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-baerinn-veitir-fyrirgreidslur-til-adstodar-bjork-488378/": {
+    "first_seen": "2026-09-30T00:56:27.465173+00:00",
+    "record": {
+      "id": "b320bafdc8",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-baerinn-veitir-fyrirgreidslur-til-adstodar-bjork-488378/",
+      "title": "Bærinn veitir fyrirgreiðslur til aðstoðar Björk",
+      "sum": "Um 80 þjálfarar starfa hjá Fimleikafélaginu Björk og iðkendur eru um 1100. Slæm fjárhagsstaða er sögð ástæða þess að grípa þurfti til uppsagna. Rekstrarumhverfi félagsins hefur verið erfitt um nokkurt skeið."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-29-landlaeknir-tok-tolfraedi-um-sterk-gedlyf-ur-birtingu-488365/": {
+    "first_seen": "2026-09-30T00:56:27.465173+00:00",
+    "record": {
+      "id": "36847b06f0",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-29",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-29-landlaeknir-tok-tolfraedi-um-sterk-gedlyf-ur-birtingu-488365/",
+      "title": "Landlæknir tók tölfræði um sterk geðlyf úr birtingu",
+      "sum": "37 prósent íbúa hjúkrunarheimila landsins fengu sterk geðlyf í fyrra, samanborið við 34 prósent árið áður. Þessi lyf, geðrofslyf, eru fyrst og fremst ætluð fólki með geðklofa og geðhvörf, en eru notuð í ýmsum öðrum tilvikum."
     }
   }
 }
