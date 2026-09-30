@@ -21,7 +21,7 @@ CATEGORY_KEYWORDS = {
                       "gengisfelling", "evru", "bandaríkjadal"],
     "hagvoxtur":     ["hagvöxt", "hagspá", "landsframleiðsl", "hagkerf", "verg landsframl",
                       "nýskrán", "velta eyk", "hagvísa", "spá um vöxt", "þjóðhags"],
-    "rikisfjarmal":  ["fjárlög", "ríkisfjármál", "ríkissjóð", "skatt", "fjáraukalög",
+    "rikisfjarmal":  ["bókun 35", "bókunar 35", "ees-samning", "ees-regl", "eftirlitsstofnun efta", "efta-dómstól", "ríkisaðstoð", "fjárlög", "ríkisfjármál", "ríkissjóð", "skatt", "fjáraukalög",
                       "aðhald í rekstri", "fjármálaáætlun", "afkoma ríkis"],
     "markadir":      ["kauphöll", "úrvalsvísital", "hlutabréf", "uppgjör", "ársfjórðung",
                       "hagnað", "tap félag", "arð", "yfirtök", "skráð á markað", "afkom",
@@ -115,8 +115,28 @@ def _direction(text: str) -> str:
     return "flat"
 
 
+# --- Ruslsía: villusíður/404 sem geta slæðst inn úr brotnum hlekkjum ---
+JUNK_TITLE_PATTERNS = [
+    "síða fannst ekki", "síðan fannst ekki", "síða finnst ekki",
+    "efnið fannst ekki", "efnið er ekki til", "þessi síða er ekki til",
+    "page not found", "not found", "error 404", "404 error",
+    "aðgangur bannaður", "access denied", "forbidden",
+    "villa kom upp", "þjónusta ekki í boði", "under maintenance",
+]
+
+
+def is_junk(title: str, summary: str = "") -> bool:
+    """True fyrir villusíður/404 og tómar færslur sem eiga ekki heima í safninu."""
+    t = _norm(title).strip()
+    if len(t) < 5:
+        return True
+    return any(p in t for p in JUNK_TITLE_PATTERNS)
+
+
 def classify(title: str, summary: str, default_cat=None, src: str = "",
              always_relevant=False):
+    if is_junk(title, summary):
+        return None
     text = _norm(title + " " + summary)
 
     relevant = always_relevant or any(kw in text for kw in RELEVANCE_KEYWORDS)
