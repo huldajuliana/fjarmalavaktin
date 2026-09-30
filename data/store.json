@@ -1064,21 +1064,6 @@
       "sum": "Framkvæmdastjóri Samtaka ferðaþjónustunnar segir boðað verkfall flugvirkja ekki einungis hafa tímabundin áhrif á rekstur Icelandair og ferðaþjónustu landsins heldur gæti það haft töluverð áhrif á orðspor bæði fyrirtækisins og Íslands. Hann á von á því að stjórnvöld grípi í taumana ef kemur til verkfalls."
     }
   },
-  "https://ruv.is/rss/": {
-    "first_seen": "2026-09-28T10:17:06.254152+00:00",
-    "record": {
-      "id": "7e8503b183",
-      "cat": "markadir",
-      "impact": "nokkur",
-      "dir": "flat",
-      "constr": false,
-      "date": "2026-09-30",
-      "src": "RÚV",
-      "url": "https://ruv.is/rss/",
-      "title": "Síða fannst ekki",
-      "sum": "Þessi síða er ekki til. Farðu á www.ruv.is/rss/ til að skoða öll RSS sem við bjóðum upp á."
-    }
-  },
   "https://www.ruv.is/frettir/innlent/2026-09-28-flugvirkjar-funda-med-icelandair-hja-rikissattasemjara-488227/": {
     "first_seen": "2026-09-28T10:17:06.254152+00:00",
     "record": {
@@ -3072,6 +3057,186 @@
       "url": "https://www.ruv.is/frettir/erlent/2026-09-30-zelensky-sagdur-hafa-ljostrad-upp-um-flutning-nordurkoreskra-stridsfanga-til-ad-tryggja-studning-vid-vopnasolu-488392/",
       "title": "Zelensky sagður hafa ljóstrað upp um flutning norðurkóreskra stríðsfanga til að tryggja stuðning við vopnasölu",
       "sum": "Njósnastofnun Suður-Kóreu telur að Volodymyr Zelensky hafi greint frá flutningi tveggja norðurkóreskra stríðsfanga frá Úkraínu til Suður-Kóreu til þess að auka almennan stuðning þarlendis við vopnasendingar til Úkraínuhers."
+    }
+  },
+  "https://www.visir.is/g/20262942103d/eik-kallar-eftir-rymri-heimildum-til-tidari-ardgreidslna": {
+    "first_seen": "2026-09-30T16:09:23.540955+00:00",
+    "record": {
+      "id": "a34375d019",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942103d/eik-kallar-eftir-rymri-heimildum-til-tidari-ardgreidslna",
+      "title": "Eik kallar eftir rýmri heimildum til tíðari arð­greiðslna",
+      "sum": "Stjórnendur Eikar leggja til að lögum verði breytt þannig að skráð félög geti með einfaldari hætti dreift arðgreiðslum yfir árið, meðal annars með ársfjórðungslegum greiðslum eins og þekkist víða annars staðar."
+    }
+  },
+  "https://www.visir.is/g/20262942101d/fra-styrkjum-til-stefnumotunar": {
+    "first_seen": "2026-09-30T16:09:23.540955+00:00",
+    "record": {
+      "id": "031dcc60a7",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942101d/fra-styrkjum-til-stefnumotunar",
+      "title": "Frá styrkjum til stefnu­mótunar",
+      "sum": "Árin 2018 til 2020 voru umbreytingartími í sjálfbærniumræðu íslensks atvinnulífs. Áherslan færðist frá því að líta á samfélagslega ábyrgð sem styrkveitingar og góðgerðamál yfir í að skilja hana sem órjúfanlegan hluta af rekstri fyrirtækja."
+    }
+  },
+  "https://www.visir.is/g/20262942067d/gera-alvarlegar-athugasemdir-vid-malflutning-dada": {
+    "first_seen": "2026-09-30T16:09:23.540955+00:00",
+    "record": {
+      "id": "9b655782f5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942067d/gera-alvarlegar-athugasemdir-vid-malflutning-dada",
+      "title": "Gera al­var­legar at­huga­semdir við mál­flutning Daða",
+      "sum": "VR, LÍV og Fagfélögin gera alvarlegar athugasemdir við málflutning Daða Más Kristóferssonar fjármálaráðherra í viðtali sem birt var fyrr í dag, miðvikudaginn 30. september, á Vísi. Þau segja málflutning ráðherrans ríma illa við þá stöðu sem blasi við launafólki og að hann vinni gegn því."
+    }
+  },
+  "https://www.visir.is/g/20262941392d/innan-vid-helmingur-karla-vill-refsingar-fyrir-vaendiskaup": {
+    "first_seen": "2026-09-30T16:09:23.540955+00:00",
+    "record": {
+      "id": "3fc0b890f1",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262941392d/innan-vid-helmingur-karla-vill-refsingar-fyrir-vaendiskaup",
+      "title": "Innan við helmingur karla vill refsingar fyrir vændiskaup",
+      "sum": "Innan við helmingur karla er fylgjandi því að refsað sé fyrir kaup á kynlífsþjónustu en yfirgnæfandi meirihluti kvenna er á þeirri skoðun. Til stendur að herða refsingar í málaflokknum en afbrotafræðingur segir slíkt jafnvel geta sett seljendur í erfiðari eða hættulegri stöðu."
+    }
+  },
+  "https://www.visir.is/g/20262941833d/-einn-adili-sem-hefur-til-thessa-skilad-audu-": {
+    "first_seen": "2026-09-30T16:09:23.540955+00:00",
+    "record": {
+      "id": "aef77f0897",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262941833d/-einn-adili-sem-hefur-til-thessa-skilad-audu-",
+      "title": "„Einn aðili sem hefur til þessa skilað auðu“",
+      "sum": "Formaður Starfsgreinasambandsins furðar sig á þeim orðum fjármálaráðherra að launafólk hafi það ekki verra nú en áður og að heimilin standi vel. Einn aðili hafi skilað auðu í því verkefni að láta kjarasamninga halda og það sé ríkið."
+    }
+  },
+  "https://www.visir.is/g/20262941909d/telur-esa-falla-fra-malsokn-ef-althingi-samthykkir-frumvarpid": {
+    "first_seen": "2026-09-30T16:09:23.540955+00:00",
+    "record": {
+      "id": "f3b67a5dd2",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262941909d/telur-esa-falla-fra-malsokn-ef-althingi-samthykkir-frumvarpid",
+      "title": "Telur ESA falla frá mál­sókn ef Al­þingi sam­þykkir frum­varpið",
+      "sum": "Allar líkur eru á að ESA falli frá málsókn gegn Íslandi ef Alþingi samþykkir frumvarp um innleiðingu bókunar 35, segir Þorgerður Katrín Gunnarsdóttir utanríkisráðherra. Hún hvetur þingmenn til að klára málið."
+    }
+  },
+  "https://www.visir.is/g/20262941878d/thegar-fyrirsognin-finnur-orsokina-a-undan-rannsokninni": {
+    "first_seen": "2026-09-30T16:09:23.540955+00:00",
+    "record": {
+      "id": "c9ad718313",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262941878d/thegar-fyrirsognin-finnur-orsokina-a-undan-rannsokninni",
+      "title": "Þegar fyrir­sögnin finnur or­sökina á undan rann­sókninni",
+      "sum": "Ég var heppin á mínum uppvaxtarárum. Afi minn og amma voru bændur og ég ólst upp við góðan mat, ferskvöru og nóg af kjöti."
+    }
+  },
+  "https://www.visir.is/g/20262941858d/ro-a-vinnumarkadi-krefst-skyrra-leikreglna": {
+    "first_seen": "2026-09-30T16:09:23.540955+00:00",
+    "record": {
+      "id": "0de5ade510",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262941858d/ro-a-vinnumarkadi-krefst-skyrra-leikreglna",
+      "title": "Ró á vinnu­markaði krefst skýrra leikreglna",
+      "sum": "Kjarasamningar voru gerðir á sínum tíma með ákveðnum forsendum. Launafólk tók þá meðvitaða áhættu að ganga til hóflegra launahækkana á sama tíma og verðbólga var mikil og óvissa mikil um þróun vaxta og verðlags."
+    }
+  },
+  "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/": {
+    "first_seen": "2026-09-30T16:09:23.540955+00:00",
+    "record": {
+      "id": "61983cba13",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Hagstofan",
+      "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
+      "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
+      "sum": ""
+    }
+  },
+  "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/": {
+    "first_seen": "2026-09-30T16:09:23.540955+00:00",
+    "record": {
+      "id": "e4874aadc5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Hagstofan",
+      "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
+      "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
+      "sum": ""
+    }
+  },
+  "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/": {
+    "first_seen": "2026-09-30T16:09:23.540955+00:00",
+    "record": {
+      "id": "36afbfdb9e",
+      "cat": "hagvoxtur",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Hagstofan",
+      "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
+      "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
+      "sum": ""
+    }
+  },
+  "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-juli-2026/": {
+    "first_seen": "2026-09-30T16:09:23.540955+00:00",
+    "record": {
+      "id": "2bfaed38c2",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Hagstofan",
+      "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-juli-2026/",
+      "title": "Atvinnuleysi 6,3% Ã­ jÃºlÃ­",
+      "sum": ""
     }
   }
 }
