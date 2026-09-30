@@ -2623,5 +2623,455 @@
       "title": "Landlæknir tók tölfræði um sterk geðlyf úr birtingu",
       "sum": "37 prósent íbúa hjúkrunarheimila landsins fengu sterk geðlyf í fyrra, samanborið við 34 prósent árið áður. Þessi lyf, geðrofslyf, eru fyrst og fremst ætluð fólki með geðklofa og geðhvörf, en eru notuð í ýmsum öðrum tilvikum."
     }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/09/30/ekki_bodlegt_ad_fjarmalaradherra_tali_med_thessum_h/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "20a0e8967d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/09/30/ekki_bodlegt_ad_fjarmalaradherra_tali_med_thessum_h/",
+      "title": "„Ekki boðlegt að fjármálaráðherra tali með þessum hætti“",
+      "sum": "VR, LÍV og fagfélögin gera alvarlegar athugasemdir við málflutning Daða Más Kristóferssonar fjármálaráðherra í viðtali við Vísi."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/09/30/forstjori_hertz_verdbolga_naerir_slaeman_rikisrekst/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "4de6dad6db",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/09/30/forstjori_hertz_verdbolga_naerir_slaeman_rikisrekst/",
+      "title": "Forstjóri Hertz: Verðbólga nærir slæman ríkisrekstur",
+      "sum": "„Þau þurfa hærra verðlag til að skila auknum skatttekjum í krónum, nýjar álögur auka síðan verðbólguþrýsting og heimili og fyrirtæki sitja uppi með afleiðingarnar.“"
+    }
+  },
+  "https://www.mbl.is/200milur/frettir/2026/09/30/serislenskar_askoranir_komu_a_ovart/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "e1ffc2382e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/200milur/frettir/2026/09/30/serislenskar_askoranir_komu_a_ovart/",
+      "title": "Séríslenskar áskoranir komu á óvart",
+      "sum": "Forstjóri Kaldvíkur segir að upp hafi komið óvæntar áskoranir. Aðstæður í eldi á Íslandi séu um margt ólíkar því sem hann þekkir frá Noregi. Hann segir að varlega verði farið í eldi á Seyðisfirði."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/09/30/reitir_frysta_leiguverd_til_aramota/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "153c5306c8",
+      "cat": "husnaedi",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/09/30/reitir_frysta_leiguverd_til_aramota/",
+      "title": "Reitir frysta leiguverð til áramóta",
+      "sum": "Reitir hafa ákveðið að frysta leiguverð allra leigusamninga tímabundið í þrjá mánuði frá og með október."
+    }
+  },
+  "https://www.visir.is/g/20262942029d/spa-obreyttum-voxtum": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "8049ba24b8",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942029d/spa-obreyttum-voxtum",
+      "title": "Spá ó­breyttum vöxtum",
+      "sum": "Greiningardeild Landsbankans spáir því að peningastefnunefnd Seðlabankans muni halda vöxtum óbreyttum í næstu viku. Verðbólga hefur ekki mælst meiri í tvö ár."
+    }
+  },
+  "https://www.visir.is/g/20262941949d/minnsta-hlutabrefavelta-fra-faraldursarinu-2020": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "c112ad6603",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262941949d/minnsta-hlutabrefavelta-fra-faraldursarinu-2020",
+      "title": "Minnsta hlutabréfavelta frá faraldursárinu 2020",
+      "sum": "Hlutabréfavelta í Kauphöllinni var sú minnsta í sex ár í ágúst og nam 29 milljörðum króna. Í ágúst 2020, á fyrsta ári faraldursins, var hún 28,8 milljarðar. Magnús Harðarson, forstjóri Kauphallarinnar, segir háa vexti helstu skýringuna á lítilli veltu nú."
+    }
+  },
+  "https://www.ruv.is/frettir/ithrottir/2026-09-30-hversu-godir-eru-valsmenn-evropu-valur-er-annad-skrimsli-488452/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "839374796e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/ithrottir/2026-09-30-hversu-godir-eru-valsmenn-evropu-valur-er-annad-skrimsli-488452/",
+      "title": "Hversu góðir eru Valsmenn? „Evrópu Valur er annað skrímsli“",
+      "sum": "Karlalið Vals í handbolta vann stórsigur á danska liðinu Mors-Thy í Evrópudeildinni í handbolta í gær. Sérfræðingurinn Vignir Stefánsson telur þetta með stærri úrslitum íslenskra liða í Evrópukeppni og að Valsliðið fari í annan ham í Evrópukeppni."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-30-russnesk-stjornvold-sogd-hafa-lagt-a-radin-um-ad-myrda-kasparov-488450/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "58b4806508",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-30-russnesk-stjornvold-sogd-hafa-lagt-a-radin-um-ad-myrda-kasparov-488450/",
+      "title": "Rússnesk stjórnvöld sögð hafa lagt á ráðin um að myrða Kasparov",
+      "sum": "Rússneskir leyniþjónustumenn lögðu á ráðin um drepa Garry Kasparov, stórmeistara í skák, og Ilya Ponomarev, fyrrum þingmann á rússneska þinginu. Frá þessu greinir spænski fjölmiðillinn El Mundo."
+    }
+  },
+  "https://www.ruv.is/frettir/menning-og-daegurmal/2026-09-30-folkid-er-hjartad-i-hasarnum-488379/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "da06e63613",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-09-30-folkid-er-hjartad-i-hasarnum-488379/",
+      "title": "Fólkið er hjartað í hasarnum",
+      "sum": "Hasarinn verður að þjóna sögunni og persónunum, segja hjónin David Leitch og Kelly McCormick sem standa að baki mörgum stærstu hasarmyndum síðustu ára. Hjónin eru stödd á Íslandi um þessar mundir en þau eru heiðursgestir Alþjóðlegu kvikmyndahátíðarinnar í Reykjavík, RIFF."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-30-hardar-arasir-russlandshers-a-orkuinnvidi-ukrainu-i-nott-488455/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "e79ee97b56",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-30-hardar-arasir-russlandshers-a-orkuinnvidi-ukrainu-i-nott-488455/",
+      "title": "Harðar árásir Rússlandshers á orkuinnviði Úkraínu í nótt",
+      "sum": "Rússlandsher gerði í nótt harðar árásir á orkuinnviði í Úkraínu. Síðustu ár hefur herinn gert árásir á orkumannvirki með þeim afleiðingum að fjöldi Úkraínumanna hefur verið án hita og rafmagns í vetrarkulda."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-30-ung-kona-flutt-til-noregs-eftir-vinnuslys-i-borgarfirdi-488446/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "312007fcdf",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-30-ung-kona-flutt-til-noregs-eftir-vinnuslys-i-borgarfirdi-488446/",
+      "title": "Ung kona flutt til Noregs eftir vinnuslys í Borgarfirði",
+      "sum": "Starfsmaður Landsnets sem varð fyrir rafstraumi í vinnuslysi í Borgarfirði var flutt til Noregs í aðgerð eftir slysið. Starfsmaðurinn er kona á þrítugsaldri. Þetta herma heimildir Vísis og DV . Slysið átti sér stað á mánudag við tengivirki í Borgarfirði. Ekki fást upplýsingar um líðan konunnar."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-30-logdu-hald-a-50-milljonir-evra-i-baekistodvum-vitisengla-i-fjorum-londum-488425/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "a14868ed42",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-30-logdu-hald-a-50-milljonir-evra-i-baekistodvum-vitisengla-i-fjorum-londum-488425/",
+      "title": "Lögðu hald á 50 milljónir evra í bækistöðvum Vítisengla í fjórum löndum",
+      "sum": "Lögregla í fjórum Evrópulöndum gerðu rassíur í bækistöðvum Vítisengla á yfir hundrað stöðum vegna gruns um peningaþvætti, fjársvik, vopnalaga- og ofbeldisbrot, auk annarra brota."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-30-folki-er-oft-sama-um-peninginn-af-thvi-thad-eignadist-vin-488444/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "dc7e3aa483",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-30-folki-er-oft-sama-um-peninginn-af-thvi-thad-eignadist-vin-488444/",
+      "title": "„Fólki er oft sama um peninginn af því það eignaðist vin“",
+      "sum": "Fólki sem verður fyrir ástarsvikum á netinu er oft sama um peningana sem það tapar vegna þess að samskipti við annað fólk skiptir það meira máli. Dæmi eru um að Íslendingar hafi tapað tugum milljóna á slíkum svikum, sem oft eru kennd við Nígeríusvindl, en að þeir sætti sig samt við það vegna samverunnar á netinu með …"
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-30-styrkir-til-hugveitu-taldir-til-goda-fyrir-noreg-488442/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "4592695b14",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-30-styrkir-til-hugveitu-taldir-til-goda-fyrir-noreg-488442/",
+      "title": "Styrkir til hugveitu taldir til góða fyrir Noreg",
+      "sum": "Forsætisráðherra Noregs, Jonas Gahr Støre, segir framlög norska ríkisins til hugveitu með tengsl við kynferðisbrotamanninn Jeffrey Epstein hafa verið talin til góða fyrir Noreg. Forsætisráðherrann sat fyrir svörum hjá þingnefnd í morgun vegna fjarframlaganna á tíma hans sem utanríkisráðherra."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-30-rikisstjornarinnar-ad-akveda-vidbrogd-vid-malshofdun-esa-488449/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "3de7276663",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-30-rikisstjornarinnar-ad-akveda-vidbrogd-vid-malshofdun-esa-488449/",
+      "title": "Ríkisstjórnarinnar að ákveða viðbrögð við málshöfðun ESA",
+      "sum": "Guðrún Hafsteinsdóttir, formaður Sjálfstæðisflokksins, segir að það sé ríkisstjórnarinnar að ákveða hvernig hún bregðist við ákvörðun ESA um að höfða mál gegn Íslandi vegna bókunar 35. Hún svarar því ekki hvort Sjálfstæðisflokkurinn greiði atkvæði með eða á móti frumvarpi utanríkisráðherra um innleiðingu bókunarinnar."
+    }
+  },
+  "https://www.ruv.is/frettir/ithrottir/2026-09-30-heimir-hrosar-ira-med-israelskar-raetur-daist-ad-honum-488439/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "95d2b71c1b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/ithrottir/2026-09-30-heimir-hrosar-ira-med-israelskar-raetur-daist-ad-honum-488439/",
+      "title": "Heimir hrósar Íra með ísraelskar rætur: Dáist að honum",
+      "sum": "Heimir Hallgrímsson dáist að leikmanni sínum Finn Azaz. Azaz er írskur landsliðsmaður en á ættir að rekja til Ísrael. Azaz kom ekki við sögu þegar Írar unnu Ísraela 0-3 nýverið í Þjóðadeild karla í fótbolta. Heimir sat fyrir svörum fyrir landsleik gegn Austurríki. Írland og Ísrael mætast svo aftur 3."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-30-fyrsti-forstjori-stofnunar-atvinnuveganna-skipadur-488441/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "3daa818485",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-30-fyrsti-forstjori-stofnunar-atvinnuveganna-skipadur-488441/",
+      "title": "Fyrsti forstjóri Stofnunar atvinnuveganna skipaður",
+      "sum": "Magnús Kristjánsson verður fyrsti forstjóri Stofnunar atvinnuveganna sem verður til við sameiningu Matvælastofnunar, Fiskistofu og Verðlagsstofu skiptaverðs um áramót. Hanna Katrín Friðriksson atvinnuvegaráðherra skipaði Magnús í embætti til fimm ára."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-30-meiri-bragur-ad-thvi-ad-klara-bokun-35-i-hofudborginni-en-luxemborg-488436/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "9ef30493df",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-30-meiri-bragur-ad-thvi-ad-klara-bokun-35-i-hofudborginni-en-luxemborg-488436/",
+      "title": "Meiri bragur að því að klára bókun 35 í höfuðborginni en Lúxemborg",
+      "sum": "Þorgerður Katrín Gunnarsdóttir utanríkisráðherra var upplýst um málsókn ESA, eftirlitsstofnunar EFTA, gegn íslenska ríkinu vegna bókunar 35 um evrópskra efnahagssvæðið."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-30-engin-ummerki-um-blod-i-bil-sakbornings-488428/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "640d78a3d5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-30-engin-ummerki-um-blod-i-bil-sakbornings-488428/",
+      "title": "Engin ummerki um blóð í bíl sakbornings",
+      "sum": "Ekkert blóð fannst í bifreið manns sem ákærður er fyrir að hafa orðið félaga sínum að bana í heimahúsi á Kársnesi í Kópavogi í nóvember í fyrra. Mikið blóð úr honum fannst á vettvangi manndrápsins, sem hann yfirgaf á bíl sínum eftir að hafa verið í heimsókn hjá hinum látna föstudagskvöldið 28. nóvember."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-30-gert-miklu-meiri-mistok-i-skipulagsmalum-en-adur-488427/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "93271ef5b0",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-30-gert-miklu-meiri-mistok-i-skipulagsmalum-en-adur-488427/",
+      "title": "„Gert miklu meiri mistök í skipulagsmálum en áður“",
+      "sum": "Eins og fjallað var um í Speglinum í liðinni viku standa um 1.900 nýjar og tilbúnar íbúðir tómar – 85% fleiri en fyrir ári. Margar hafa verið til sölu í heilt ár. Atvinnuleysi í bygginga- og mannvirkjagerð fer vaxandi og dæmi eru um að öflugt fyrirtæki hafi dregið verulega úr starfseminni."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-30-eg-hafdi-ekki-vitneskju-um-thessi-skilabod-488422/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "20560c4e7f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-30-eg-hafdi-ekki-vitneskju-um-thessi-skilabod-488422/",
+      "title": "„Ég hafði ekki vitneskju um þessi skilaboð“",
+      "sum": "Ragnar Þór Ingólfsson, félags- og húsnæðismálaráðherra, segist ekki hafa vitað af skilaboðum Guðbjargar Ingunnar Magnúsdóttur, eiginkonu sinnar, til Guðmundar Inga Kristinssonar, þar sem hún segir Guðmund hafa tvo kosti; afsögn eða stríð."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-30-esa-hofdar-mal-gegn-islandi-vegna-bokunar-35-488403/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "1d9673a633",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-30-esa-hofdar-mal-gegn-islandi-vegna-bokunar-35-488403/",
+      "title": "ESA höfðar mál gegn Íslandi vegna bókunar 35",
+      "sum": "ESA, Eftirlitsstofnun EFTA hefur hafið málaferli gegn íslenska ríkinu vegna bókunar 35 við samninginn um Evrópska efnahagssvæðið. ESA greindi frá þessu í dag, en undirbúningur að málaferlunum hefur staðið í nokkurn tíma. Stjórnarmaður í ESA segir stofnunina hafa sýnt íslenskum stjórnvöldum mikla biðlund."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-30-ein-vela-fljotsdalsstodvar-biladi-488419/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "0733bda566",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-30-ein-vela-fljotsdalsstodvar-biladi-488419/",
+      "title": "Ein véla Fljótsdalsstöðvar bilaði",
+      "sum": "Bilun í háspennuleiðara við vélaspenni í Fljótsdalsstöð varð til þess að ein af sex vélum stöðvarinnar er óvirk. Útlit er fyrir að viðgerð taki sex til átta vikur. Hinar vélarnar verða teknar úr rekstri í 2-3 daga, hver á fætur annarri, í næsta mánuði til að koma í veg fyrir að þær bili með sama hætti."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-30-store-krafinn-svara-um-styrki-til-hugveitu-med-tengsl-vid-epstein-488415/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "f1d989d69d",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-30-store-krafinn-svara-um-styrki-til-hugveitu-med-tengsl-vid-epstein-488415/",
+      "title": "Støre krafinn svara um styrki til hugveitu með tengsl við Epstein",
+      "sum": "Hvers vegna voru framlög norska ríkisins til hugveitu í New York aukin mikið eftir að Jonas Gahr Støre tók við embætti utanríkisráðherra 2005? Þetta er meðal þeirra spurninga sem Støre þarf að svara stjórnarskrárnefnd norska þingsins í dag."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-30-frysta-leiguverd-til-aramota-488407/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "39dc082eac",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-30-frysta-leiguverd-til-aramota-488407/",
+      "title": "Frysta leiguverð til áramóta",
+      "sum": "Leigufélagið Reitir hefur ákveðið að frysta verð á öllum leigusamningum sínum til áramóta. Í tilkynningu frá fyrirtækinu segir að þetta sé gert til að styðja við leigutaka sína og gera þeim kleift að stuðla að lækkun verðlags og þar með stöðugleika í efnahagslífinu."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-30-thetta-eru-oldungadeildarsaetin-sem-gaetu-radid-urslitum-fyrir-lokasprett-trumps-a-forsetastoli-488363/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "2cc0dbf7c3",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-30-thetta-eru-oldungadeildarsaetin-sem-gaetu-radid-urslitum-fyrir-lokasprett-trumps-a-forsetastoli-488363/",
+      "title": "Þetta eru öldungadeildarsætin sem gætu ráðið úrslitum fyrir lokasprett Trumps á forsetastóli",
+      "sum": "Bandaríkjamenn ganga senn að kjörborðinu og kjósa til þings. Hinn 3. nóvember eru öll 435 sætin í fulltrúadeildinni í húfi og 35 sæti af hundrað í öldungadeildinni. Demókratar hafa lagt ofuráherslu á að ná stjórn á annarri eða báðum deildum þingsins til að geta staðið í vegi fyrir ætlunum Donalds Trump forseta."
+    }
+  },
+  "https://www.ruv.is/frettir/menning-og-daegurmal/2026-09-30-eg-verd-bara-mjog-blid-inni-i-mer-thegar-eg-tala-um-david-oddsson-488370/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "db6cf2ad56",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-09-30-eg-verd-bara-mjog-blid-inni-i-mer-thegar-eg-tala-um-david-oddsson-488370/",
+      "title": "„Ég verð bara mjög blíð inni í mér þegar ég tala um Davíð Oddsson“",
+      "sum": "Kolbrún Bergþórsdóttir, sem hefur ótal oft neitað að koma sem gestur í Vikuna, mætti í útvarpsþátt Gísla Marteins, Plús 1, á Rás 2. Gísli kynnti hana sem bókmenntagagnrýnanda, rithöfund og blaðakonu. „Ég er blaðamaður, ekki blaðakona."
+    }
+  },
+  "https://www.ruv.is/frettir/innlent/2026-09-30-sjonvarp-i-60-ar-svona-var-fyrsti-frettatiminn-488358/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "4b179b5fb5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/innlent/2026-09-30-sjonvarp-i-60-ar-svona-var-fyrsti-frettatiminn-488358/",
+      "title": "Sjónvarp í 60 ár: Svona var fyrsti fréttatíminn",
+      "sum": "Á þessum degi árið 1966 var fyrsti sjónvarpsfréttatíminn sendur út, daginn sem Ríkisútvarpið hóf sjónvarpsútsendingar. Hann var frábrugðinn fréttatímanum sem landsmenn þekkja í dag. Dagskrárliðurinn nefndist Frá liðinni viku og var á dagskrá klukkan 22:45."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-30-talsverdu-magni-af-haldlogdu-kokaini-skipt-ut-fyrir-hveiti-488394/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "3dd6211961",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-30-talsverdu-magni-af-haldlogdu-kokaini-skipt-ut-fyrir-hveiti-488394/",
+      "title": "Talsverðu magni af haldlögðu kókaíni skipt út fyrir hveiti",
+      "sum": "Miklu magni af kókaíni, pökkuðu í plast, hefur verið stolið úr sönnunargagnageymslu í byggingu hæstaréttar Fiji-eyja í höfuðborginni Suva. Hveiti var skilið eftir í staðinn. Rannsóknarlögreglumenn hafa síðan í gær farið yfir allar vísbendingar um hvað kunni að hafa orðið af tugum pakkninga sem innihéldu eiturlyfið."
+    }
+  },
+  "https://www.ruv.is/frettir/erlent/2026-09-30-zelensky-sagdur-hafa-ljostrad-upp-um-flutning-nordurkoreskra-stridsfanga-til-ad-tryggja-studning-vid-vopnasolu-488392/": {
+    "first_seen": "2026-09-30T15:55:58.732724+00:00",
+    "record": {
+      "id": "37bea36732",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "RÚV",
+      "url": "https://www.ruv.is/frettir/erlent/2026-09-30-zelensky-sagdur-hafa-ljostrad-upp-um-flutning-nordurkoreskra-stridsfanga-til-ad-tryggja-studning-vid-vopnasolu-488392/",
+      "title": "Zelensky sagður hafa ljóstrað upp um flutning norðurkóreskra stríðsfanga til að tryggja stuðning við vopnasölu",
+      "sum": "Njósnastofnun Suður-Kóreu telur að Volodymyr Zelensky hafi greint frá flutningi tveggja norðurkóreskra stríðsfanga frá Úkraínu til Suður-Kóreu til þess að auka almennan stuðning þarlendis við vopnasendingar til Úkraínuhers."
+    }
   }
 }
