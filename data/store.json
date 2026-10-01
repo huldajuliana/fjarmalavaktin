@@ -3673,5 +3673,65 @@
       "title": "Hverjum er frelsið ætlað?",
       "sum": "Það er með ólíkindum að lesa viðtal við Helga Gunnlaugsson prófessor í félags- og afbrotafræði um refsingar við kaupum á vændi. Í viðtalinu kemur fram að 60% landsmanna séu fylgjandi því að refsað sé fyrir kaup á vændi. En kynjamunur er sláandi: 84% kvenna eru fylgjandi refsingum en aðeins 47% karla."
     }
+  },
+  "https://www.visir.is/g/20262942626d/arekstur-vid-hamraborg": {
+    "first_seen": "2026-10-01T19:11:46.785255+00:00",
+    "record": {
+      "id": "0287ef9398",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942626d/arekstur-vid-hamraborg",
+      "title": "Á­rekstur við Hamra­borg",
+      "sum": "Árekstur varð á suðurleið á Hafnarfjarðarvegi við Hamraborg í Kópavogi um klukkan hálf fimm. Einn var fluttur á sjúkrahús til nánari skoðunar."
+    }
+  },
+  "https://www.visir.is/g/20262942609d/sjonvarpid-60-ara-thognin-segir-lika-sogu": {
+    "first_seen": "2026-10-01T19:11:46.785255+00:00",
+    "record": {
+      "id": "e9ae23fb0e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942609d/sjonvarpid-60-ara-thognin-segir-lika-sogu",
+      "title": "Sjón­varpið 60 ára: Þögnin segir líka sögu",
+      "sum": "Sjónvarpið með stóru essi varð sextugt í gær og af því tilefni var sýndur sérstakur afmælisþáttur í gærkvöldi þar sem stiklað var á stóru í sögu miðils sem hefur líkast til verið einn áhrifamesti fjölmiðill landsins frá því fyrstu útsendingar hófust."
+    }
+  },
+  "https://www.visir.is/g/20262942605d/gapti-thegar-hun-sa-heimilisbokhaldid-hja-roggu-nagla": {
+    "first_seen": "2026-10-01T19:11:46.785255+00:00",
+    "record": {
+      "id": "17f2b51bef",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942605d/gapti-thegar-hun-sa-heimilisbokhaldid-hja-roggu-nagla",
+      "title": "Gapti þegar hún sá heimilis­bók­haldið hjá Röggu nagla",
+      "sum": "„Ég varð bara mjög afbrýðisöm að heyra af Ragnhildi Þórðardóttur, betur þekkt sem Ragga nagli, sem einhvern veginn er búin að borga niður sextán milljónir króna af íbúðarláninu sínu sem hún tók fyrir tíu árum síðan,“ segir Helga Arnardóttir fjölmiðlakona en Ragnhildur er búsett í Danmörku."
+    }
+  },
+  "https://www.visir.is/g/20262942601d/takk-hordur": {
+    "first_seen": "2026-10-01T19:11:46.785255+00:00",
+    "record": {
+      "id": "26f80ef9dc",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942601d/takk-hordur",
+      "title": "Takk Hörður",
+      "sum": "Hörður Arnarson hefur látið af störfum sem forstjóri Landsvirkjunar eftir sautján ár við stýrið. Hann tók við hlutverkinu í miðri efnahagskreppu 2009 þegar Landsvirkjun var gríðarlega skuldsett, öll lán fyrirtækisins með ríkisábyrgð og arðgreiðslur litlar."
+    }
   }
 }
