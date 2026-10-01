@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -3232,7 +3232,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-juli-2026/",
       "title": "Atvinnuleysi 6,3% Ã­ jÃºlÃ­",
@@ -3327,6 +3327,96 @@
       "url": "https://www.visir.is/g/20262942146d/magnus-er-nyr-svidsstjori-radgjafarsvids-kpmg",
       "title": "Magnús er nýr sviðsstjóri ráðgjafarsviðs KPMG",
       "sum": "Magnús G. Erlendsson hefur verið ráðinn sviðsstjóri ráðgjafarsviðs KPMG. Hann hóf störf hjá ráðgjafarsviði KPMG árið 2005 og varð hluthafi árið 2014 en tekur hann við af Svanbirni Thoroddsen sem lætur nú af störfum hjá KPMG eftir sautján ára feril hjá félaginu"
+    }
+  },
+  "https://www.visir.is/g/20262942214d/-eg-er-bara-otrulega-leidur-yfir-thessu-": {
+    "first_seen": "2026-10-01T00:58:33.463760+00:00",
+    "record": {
+      "id": "afa7f497db",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942214d/-eg-er-bara-otrulega-leidur-yfir-thessu-",
+      "title": "„Ég er bara ó­trú­lega leiður yfir þessu“",
+      "sum": "Drengur varð fyrir líkamsárás af hálfu annars barns í fermingarferð í Vatnaskógi í Hvalfjarðarsveit um helgina. Ársæll Aðalbergsson, framkvæmdastjóri Vatnaskógar, segir atvikið afar leiðinlegt og um leið sjaldgæft."
+    }
+  },
+  "https://www.visir.is/g/20262942055d/uppgjorid-valur-njardvik-77-64-valur-skellti-islandsmeisturunum": {
+    "first_seen": "2026-10-01T00:58:33.463760+00:00",
+    "record": {
+      "id": "82f591e844",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942055d/uppgjorid-valur-njardvik-77-64-valur-skellti-islandsmeisturunum",
+      "title": "Upp­gjörið: Valur - Njarð­vík 77-64| Valur skellti Íslandsmeisturunum",
+      "sum": "Valur fékk Íslandsmeistara Njarðvík í heimsókn í N1 höllina í kvöld þegar síðustu leikir fyrstu umferðar Bónus deild kvenna fóru fram. Eftir jafnan leik framan af stigu Valskonur á bensíngjöfina í fjórða leikhluta og fóru að lokum með öruggan og óvæntan þrettán stiga sigur 77-64."
+    }
+  },
+  "https://www.visir.is/g/20262941395d/gerdu-stutt-hle-a-sprengingunum-en-seu-enn-a-aaetlun-og-verdi-buin-i-lok-oktober": {
+    "first_seen": "2026-10-01T00:58:33.463760+00:00",
+    "record": {
+      "id": "6f6191662c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262941395d/gerdu-stutt-hle-a-sprengingunum-en-seu-enn-a-aaetlun-og-verdi-buin-i-lok-oktober",
+      "title": "Gerðu stutt hlé á sprengingunum en séu enn á á­ætlun og verði búin í lok októ­ber",
+      "sum": "Íbúar nærri framkvæmdasvæðinu Arnarlandi í Garðabæ hafa margir hverjir lýst því að sprengingar á svæðinu finnist vel á heimilum sem skelfi öll. Þá heyrist ekki nægilega vel í hljóðmerkjum sem eigi að koma á undan og á eftir hverri sprengingu."
+    }
+  },
+  "https://www.visir.is/g/20262942209d/-alla-vikuna-hofum-vid-verid-afskrifud-af-ykkur-fjolmidlum-": {
+    "first_seen": "2026-10-01T00:58:33.463760+00:00",
+    "record": {
+      "id": "b19c571238",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942209d/-alla-vikuna-hofum-vid-verid-afskrifud-af-ykkur-fjolmidlum-",
+      "title": "„Alla vikuna höfum við verið af­skrifuð af ykkur fjöl­miðlum“",
+      "sum": "Valskonur unnu gríðarlega öflugan sigur á Íslandsmeisturum Njarðvíkur í fyrstu umferð Bónus deild kvenna 77-64. Jamil Abiad þjálfari Vals var að vonum sáttur í leikslok."
+    }
+  },
+  "https://www.visir.is/g/20262942201d/eldgos-afram-liklegasta-svidsmyndin-en-oljost-hvenaer-thad-yrdi": {
+    "first_seen": "2026-10-01T00:58:33.463760+00:00",
+    "record": {
+      "id": "96ee572672",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942201d/eldgos-afram-liklegasta-svidsmyndin-en-oljost-hvenaer-thad-yrdi",
+      "title": "Eld­gos á­fram lík­legasta sviðs­myndin en ó­ljóst hve­nær það yrði",
+      "sum": "Nýtt hættumat tók gildi í dag, þann 30. september, en hættuvægi vegna sprungna og jarðfalls innan Grindavíkur hefur verið endurmetið með tilliti til sprunguviðgerða. Við breytinguna lækkar heildarhættustig fyrir Grindavík en heildarhætta er áfram metin töluverð."
+    }
+  },
+  "https://www.visir.is/g/20262942167d/esa-geti-ekki-bedid-endalaust": {
+    "first_seen": "2026-10-01T00:58:33.463760+00:00",
+    "record": {
+      "id": "890e390738",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-09-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942167d/esa-geti-ekki-bedid-endalaust",
+      "title": "ESA geti ekki beðið enda­laust",
+      "sum": "ESA getur ekki beðið endalaust eftir því að íslensk stjórnvöld lagfæri innleiðingu bókunar 35 segir stjórnarmaður Eftirlitsstofnunar EFTA. Hann segir fólk og fyrirtæki hér á landi verða fyrir tjóni á meðan málið sé óleyst."
     }
   }
 }
