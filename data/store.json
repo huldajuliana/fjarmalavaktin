@@ -3418,5 +3418,260 @@
       "title": "ESA geti ekki beðið enda­laust",
       "sum": "ESA getur ekki beðið endalaust eftir því að íslensk stjórnvöld lagfæri innleiðingu bókunar 35 segir stjórnarmaður Eftirlitsstofnunar EFTA. Hann segir fólk og fyrirtæki hér á landi verða fyrir tjóni á meðan málið sé óleyst."
     }
+  },
+  "https://sa.is/frettatengt/frettir/i-beinni-arsfundur-atvinnulifsins-2026": {
+    "first_seen": "2026-10-01T16:27:57.010736+00:00",
+    "record": {
+      "id": "8a5229e48d",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Samtök atvinnulífsins",
+      "url": "https://sa.is/frettatengt/frettir/i-beinni-arsfundur-atvinnulifsins-2026",
+      "title": "Í beinni: Ársfundur atvinnulífsins 2026",
+      "sum": "Ársfundur atvinnulífsins 2026 hefst kl. 15 í dag í Silfurbergi í Hörpu. Hægt er að fylgjast með beinu streymi á heimasíðu Samtaka atvinnulífsins."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/01/kristrun_bodar_adgerdir/": {
+    "first_seen": "2026-10-01T16:27:57.010736+00:00",
+    "record": {
+      "id": "082408d185",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/01/kristrun_bodar_adgerdir/",
+      "title": "Kristrún boðar aðgerðir",
+      "sum": "Kristrún Frostadóttir forsætisráðherra ætlar á morgun að leggja fyrir ríkisstjórn aðgerðalista sem miðar að því að verja kjarasamninga, ná verðbólgu niður og skapa skilyrði fyrir lækkun vaxta."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/01/beint_arsfundur_samtaka_atvinnulifsins/": {
+    "first_seen": "2026-10-01T16:27:57.010736+00:00",
+    "record": {
+      "id": "45d9fa332b",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/01/beint_arsfundur_samtaka_atvinnulifsins/",
+      "title": "Beint: Ársfundur Samtaka atvinnulífsins",
+      "sum": "Ársfundur Samtaka atvinnulífsins (SA) fer fram í Silfurbergi í Hörpu í dag klukkan 15-17, en hægt er að fylgjast með honum í beinu streymi hér fyrir neðan."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/01/bryggjan_brugghus_gjaldthrota_odru_sinni/": {
+    "first_seen": "2026-10-01T16:27:57.010736+00:00",
+    "record": {
+      "id": "53e080aa89",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/01/bryggjan_brugghus_gjaldthrota_odru_sinni/",
+      "title": "Bryggjan brugghús gjaldþrota öðru sinni",
+      "sum": "Skiptum á þrotabúi Bryggjunnar brugghúss ehf., sem rak samnefndan veitingastað og brugghús við Grandagarð 8, er lokið. Lýstar kröfur í búið námu rúmlega 80,5 milljónum króna en engar eignir fundust."
+    }
+  },
+  "https://www.visir.is/g/20262942605d/-mjog-afbrydisom-ut-i-roggu-nagla": {
+    "first_seen": "2026-10-01T16:27:57.010736+00:00",
+    "record": {
+      "id": "dfb3c2f29b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942605d/-mjog-afbrydisom-ut-i-roggu-nagla",
+      "title": "„Mjög af­brýðisöm“ út í Röggu nagla",
+      "sum": "„Ég varð bara mjög afbrýðisöm að heyra af Ragnhildi Þórðardóttur, betur þekkt sem Ragga nagli, sem einhvern veginn er búin að borga niður sextán milljónir króna af íbúðarláninu sínu sem hún tók fyrir tíu árum síðan,“ segir Helga Arnardóttir fjölmiðlakona en Ragnhildur er búsett í Danmörku."
+    }
+  },
+  "https://www.visir.is/g/20262942563d/ingo-vedurgud-hafdi-betur-i-landsretti": {
+    "first_seen": "2026-10-01T16:27:57.010736+00:00",
+    "record": {
+      "id": "65a3b170c5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942563d/ingo-vedurgud-hafdi-betur-i-landsretti",
+      "title": "Ingó veðurguð hafði betur í Lands­rétti",
+      "sum": "Landsréttur hefur dæmt ummæli fimmtugrar konu í garð Ingólfs Þórarinssonar, Ingós veðurguðs, dauð og ómerk og gert henni að greiða Ingólfi 350 þúsund krónur auk einnar milljónar króna í málskostnað. Í ummælum sínum gerði konan því skóna að Ingólfur legði það í vana sinn að nauðga ungum konum og beita þær ofbeldi."
+    }
+  },
+  "https://www.visir.is/g/20262942536d/kristrun-tilbuin-i-adgerdir": {
+    "first_seen": "2026-10-01T16:27:57.010736+00:00",
+    "record": {
+      "id": "36be4465d9",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942536d/kristrun-tilbuin-i-adgerdir",
+      "title": "Krist­rún til­búin í að­gerðir",
+      "sum": "Kristrún Frostadóttir segir ríkisstjórnina reiðubúna til að tamarka hækkanir á krónutölugjöldum og gjaldskrám ríkisstofnana við 2,5 prósent ef allir geri sitt og kjarasamningar halda. Þetta tilkynnti hún í ræðu á ársfundi Samtaka atvinnulífsins í dag."
+    }
+  },
+  "https://www.visir.is/g/20262942544d/annar-til-ad-hvolfa-bilnum-a-manudi": {
+    "first_seen": "2026-10-01T16:27:57.010736+00:00",
+    "record": {
+      "id": "5669c0e7d2",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942544d/annar-til-ad-hvolfa-bilnum-a-manudi",
+      "title": "Annar til að hvolfa bílnum á mánuði",
+      "sum": "Lucas Gourna-Douath, leikmaður Hull City, varð fyrir því óláni að hvolfa bíl sínum fyrir utan æfingasvæði félagsins. Hann er annar leikmaður liðsins til að gera það á innan við mánuði."
+    }
+  },
+  "https://www.visir.is/g/20262942361d/bein-utsending-arsfundur-samtaka-atvinnulifsins": {
+    "first_seen": "2026-10-01T16:27:57.010736+00:00",
+    "record": {
+      "id": "a37ea15d87",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942361d/bein-utsending-arsfundur-samtaka-atvinnulifsins",
+      "title": "Bein út­sending: Árs­fundur Sam­taka at­vinnu­lífsins",
+      "sum": "Ársfundur Samtaka atvinnulífsins fer fram í dag, fimmtudaginn 1. október, kl. 15–17 í Silfurbergi í Hörpu undir yfirskriftinni „Sækjum fram.“ Fylgjast má með fundinum í beinni útsendingu á Vísi."
+    }
+  },
+  "https://www.visir.is/g/20262942473d/bokun-35-thegar-molnar-undan-stjornkerfinu": {
+    "first_seen": "2026-10-01T16:27:57.010736+00:00",
+    "record": {
+      "id": "b37b773dd1",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942473d/bokun-35-thegar-molnar-undan-stjornkerfinu",
+      "title": "Bókun 35 – þegar molnar undan stjórn­kerfinu",
+      "sum": "Bókun 35 við EES-samninginn virðist við fyrstu sýn vera frekar tæknilegt lögfræðimál. Hún snýst um það hvernig íslensk lög eiga að fara með reglur sem koma frá EES-samningnum þegar þær rekast á önnur íslensk lög."
+    }
+  },
+  "https://www.visir.is/g/20262942472d/tiu-ara-raunvextir-ordnir-naer-their-somu-og-i-bandarikjunum": {
+    "first_seen": "2026-10-01T16:27:57.010736+00:00",
+    "record": {
+      "id": "4ab2c910f6",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942472d/tiu-ara-raunvextir-ordnir-naer-their-somu-og-i-bandarikjunum",
+      "title": "Tíu ára raun­vextir orðnir nær þeir sömu og í Banda­ríkjunum",
+      "sum": "Raunvaxtamunur Íslands gagnvart Bandaríkjunum hefur minnkað hratt á undanförnum mánuðum og er nú svo komið að tíu ára raunvextir eru nánast þeir sömu í löndunum tveimur."
+    }
+  },
+  "https://www.visir.is/g/20262942463d/pinu-sarsauki-a-unga-folkid-": {
+    "first_seen": "2026-10-01T16:27:57.010736+00:00",
+    "record": {
+      "id": "3c0dc663cb",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942463d/pinu-sarsauki-a-unga-folkid-",
+      "title": "Pínu sárs­auki á unga fólkið?",
+      "sum": "Daði Már Kristófersson fjármálaráðherra sagði í viðtali við Vísi að íslensk heimili ættu að geta þolað þann „sársauka“ sem fylgir því að ná tökum á ríkisfjármálum og verðbólgu."
+    }
+  },
+  "https://www.visir.is/g/20262942402d/austurland-margborgar-sig": {
+    "first_seen": "2026-10-01T16:27:57.010736+00:00",
+    "record": {
+      "id": "89e79147d0",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942402d/austurland-margborgar-sig",
+      "title": "Austur­land margborgar sig",
+      "sum": "Austurland leggur meira til ríkissjóðs en það fær til baka. Tekjur ríkissjóðs sem rekja má til landshlutans eru áætlaðar 54,2 milljarðar króna á ári en útgjöldin 45,5 milljarðar. Nettóframlag Austurlands er því 8,7 milljarðar króna á ári."
+    }
+  },
+  "https://www.visir.is/g/20262942422d/vaentingar-um-utspil-tengt-gjaldahaekkunum": {
+    "first_seen": "2026-10-01T16:27:57.010736+00:00",
+    "record": {
+      "id": "e16f76e186",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942422d/vaentingar-um-utspil-tengt-gjaldahaekkunum",
+      "title": "Væntingar um út­spil tengt gjalda­hækkunum",
+      "sum": "Einungis vika er til stefnu til að bregðast við forsendubresti kjarasamninga og framkvæmdastjóri Samtaka atvinnulífsins segir að væntingar séu um útspil frá stjórnvöldum er varðar gjaldskrárhækkanir. Ekkert svigrúm sé í raun til staðar og tvísýnt með framhaldið. Formaður VR segist ekki bjartsýn."
+    }
+  },
+  "https://www.visir.is/g/20262942297d/thorsteinn-viglunds-selur-kjartansholl-i-gardabaenum": {
+    "first_seen": "2026-10-01T16:27:57.010736+00:00",
+    "record": {
+      "id": "4854ea329b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942297d/thorsteinn-viglunds-selur-kjartansholl-i-gardabaenum",
+      "title": "Þor­steinn Víglunds selur Kjartanshöll í Garða­bænum",
+      "sum": "Þorsteinn Víglundsson formaður Samtaka iðnaðarins og fyrrverandi ráðherra hefur sett hús sitt í Hnoðraholti í Garðabænum á sölu. Hann segir að til standi að færa sig til innan hverfisins og segir að sólarlögin gerist ekki fallegri en í hverfinu."
+    }
+  },
+  "https://www.visir.is/g/20262942396d/verklokafaelni-stjornvalda": {
+    "first_seen": "2026-10-01T16:27:57.010736+00:00",
+    "record": {
+      "id": "92ce4244a4",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942396d/verklokafaelni-stjornvalda",
+      "title": "Verklokafælni stjórn­valda",
+      "sum": "Íslensk stjórnvöld eiga stundum auðveldara með að greina vandamál en að leysa þau. Það er eitt að taka sér tíma til að vanda ákvarðanir."
+    }
+  },
+  "https://www.visir.is/g/20262942413d/hverjum-er-frelsid-aetlad-": {
+    "first_seen": "2026-10-01T16:27:57.010736+00:00",
+    "record": {
+      "id": "5f9b764bb4",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942413d/hverjum-er-frelsid-aetlad-",
+      "title": "Hverjum er frelsið ætlað?",
+      "sum": "Það er með ólíkindum að lesa viðtal við Helga Gunnlaugsson prófessor í félags- og afbrotafræði um refsingar við kaupum á vændi. Í viðtalinu kemur fram að 60% landsmanna séu fylgjandi því að refsað sé fyrir kaup á vændi. En kynjamunur er sláandi: 84% kvenna eru fylgjandi refsingum en aðeins 47% karla."
+    }
   }
 }
