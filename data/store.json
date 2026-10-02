@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -3232,7 +3232,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-juli-2026/",
       "title": "Atvinnuleysi 6,3% Ã­ jÃºlÃ­",
@@ -3732,6 +3732,66 @@
       "url": "https://www.visir.is/g/20262942601d/takk-hordur",
       "title": "Takk Hörður",
       "sum": "Hörður Arnarson hefur látið af störfum sem forstjóri Landsvirkjunar eftir sautján ár við stýrið. Hann tók við hlutverkinu í miðri efnahagskreppu 2009 þegar Landsvirkjun var gríðarlega skuldsett, öll lán fyrirtækisins með ríkisábyrgð og arðgreiðslur litlar."
+    }
+  },
+  "https://www.visir.is/g/20262942699d/borga-halfan-milljard-i-vidbot-fyrir-indverskt-felag": {
+    "first_seen": "2026-10-02T01:13:26.289485+00:00",
+    "record": {
+      "id": "5cbd45ee6e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942699d/borga-halfan-milljard-i-vidbot-fyrir-indverskt-felag",
+      "title": "Borga hálfan milljarð í við­bót fyrir ind­verskt fé­lag",
+      "sum": "Hampiðjan hefur greitt viðbótarkaupgreiðslu til seljenda indverska kaðlaframleiðandans Kohinoor Ropes upp á 4,14 milljónir evra, eða um 569 milljónir króna, þar sem að reksturinn fór fram úr væntingum."
+    }
+  },
+  "https://www.visir.is/g/20262942686d/utskyrir-hvers-vegna-afsokunarbeidnin-for-a-samfelagsmidla": {
+    "first_seen": "2026-10-02T01:13:26.289485+00:00",
+    "record": {
+      "id": "84c86d25a4",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942686d/utskyrir-hvers-vegna-afsokunarbeidnin-for-a-samfelagsmidla",
+      "title": "Út­skýrir hvers vegna af­sökunar­beiðnin fór á samfélagsmiðla",
+      "sum": "Lando Norris, ökumaður McLaren, gagnrýndi Franco Colapinto, ökumann Alpine, harðlega eftir kappaksturinn í Aserbaísjan. Norris fékk mikla gagnrýni fyrir hegðun sína og hefur hann beðið Colapinto afsökunar bæði persónulega og á samfélagsmiðlum."
+    }
+  },
+  "https://www.visir.is/g/20262942684d/reglur-um-dvalarleyfi-hertar-og-filippseyskar-au-pair-ur-sogunni": {
+    "first_seen": "2026-10-02T01:13:26.289485+00:00",
+    "record": {
+      "id": "07a014e0c2",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942684d/reglur-um-dvalarleyfi-hertar-og-filippseyskar-au-pair-ur-sogunni",
+      "title": "Reglur um dvalar­leyfi hertar og filipps­eyskar au pair úr sögunni",
+      "sum": "Erlendir ríkisborgarar munu almennt þurfa að dvelja á Íslandi í sex ár í stað fjögurra áður en þeir öðlast rétt á ótímabundnu dvalarleyfi ef frumvarpsdrög dómsmálaráðherra ná fram að ganga. Þá verður hætt að veita dvalarleyfi til au pair sem koma utan Evrópska efnahagssvæðisins."
+    }
+  },
+  "https://www.visir.is/g/20262942669d/-hlutir-sem-vid-vorum-ekki-sammala-um-": {
+    "first_seen": "2026-10-02T01:13:26.289485+00:00",
+    "record": {
+      "id": "7d5548d134",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942669d/-hlutir-sem-vid-vorum-ekki-sammala-um-",
+      "title": "„Hlutir sem við vorum ekki sam­mála um“",
+      "sum": "Skyndileg starfslok Harðar Arnarsonar sem forstjóra Landsvirkjunar koma í kjölfar ágreinings milli hans og stjórnar Landsvirkjunar. Stjórnarformaðurinn segir forstjórann og stjórnina ekki ávallt hafa verið sammála um allt en hún þakkar Herði fyrir glæsilegan sautján ára feril hjá félaginu."
     }
   }
 }
