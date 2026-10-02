@@ -4033,5 +4033,50 @@
       "title": "Arð­semis­mark­mið Kviku „innan seilingar“ eftir bestun efna­hags­reiknings",
       "sum": "Verðmat á Kviku hefur verið hækkað eftir uppgjör annars ársfjórðungs, einkum vegna bættra væntinga um vaxtamun og kostnaðarstýringu. Greinendur telja að bankinn eigi nú góða möguleika á að ná metnaðarfullu arðsemismarkmiði sínu eftir að hafa átt í erfiðleikum með það undanfarin misseri."
     }
+  },
+  "https://sa.is/frettatengt/frettir/avarp-formanns-a-arsfundi-atvinnulifsins-2026": {
+    "first_seen": "2026-10-02T18:51:24.057182+00:00",
+    "record": {
+      "id": "d240d81ef0",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "Samtök atvinnulífsins",
+      "url": "https://sa.is/frettatengt/frettir/avarp-formanns-a-arsfundi-atvinnulifsins-2026",
+      "title": "Ávarp formanns á Ársfundi atvinnulífsins 2026",
+      "sum": "Jón Ólafur Halldórsson, formaður Samtaka atvinnulífsins, setti Ársfund atvinnulífsins í Hörpu, fimmtudaginn 1. október."
+    }
+  },
+  "https://www.visir.is/g/20262942785d/vikingur-thor-ka-baedi-lid-i-lifsbarattu": {
+    "first_seen": "2026-10-02T18:51:24.057182+00:00",
+    "record": {
+      "id": "0f7bf92061",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942785d/vikingur-thor-ka-baedi-lid-i-lifsbarattu",
+      "title": "Víkingur - Þór/KA | Bæði lið í lífs­bar­áttu",
+      "sum": "Hér fer fram textalýsing frá leik Víkings og Þór/KA í síðustu umferð neðri hluta Bestu deildar kvenna í fótbolta. Annaðhvort munu bæði lið leiksins falla eða bara annað þeirra og því má búast við harðri keppni. Flautað verður til leiks á Víkingsvellinum klukkan 18:00."
+    }
+  },
+  "https://www.visir.is/g/20262943184d/fagfelogin-kalla-eftir-heimild-til-ad-slita-kjarasamningum": {
+    "first_seen": "2026-10-02T18:51:24.057182+00:00",
+    "record": {
+      "id": "4a121026af",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943184d/fagfelogin-kalla-eftir-heimild-til-ad-slita-kjarasamningum",
+      "title": "Fag­fé­lögin kalla eftir heimild til að slíta kjara­samningum",
+      "sum": "Fagfélögin hafa boðað trúnaðarmenn og fulltrúa í samninganefndum aðildarfélaganna til fundar á mánudag til að kalla eftir heimild þeirra til að segja upp kjarasamningum."
+    }
   }
 }
