@@ -3793,5 +3793,245 @@
       "title": "„Hlutir sem við vorum ekki sam­mála um“",
       "sum": "Skyndileg starfslok Harðar Arnarsonar sem forstjóra Landsvirkjunar koma í kjölfar ágreinings milli hans og stjórnar Landsvirkjunar. Stjórnarformaðurinn segir forstjórann og stjórnina ekki ávallt hafa verið sammála um allt en hún þakkar Herði fyrir glæsilegan sautján ára feril hjá félaginu."
     }
+  },
+  "https://sa.is/frettatengt/frettir/ororkubotasjoður-kynntur-a-90-ara-afmælisviðburði-almannatrygginga": {
+    "first_seen": "2026-10-02T15:50:39.039897+00:00",
+    "record": {
+      "id": "dfa25bf804",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "Samtök atvinnulífsins",
+      "url": "https://sa.is/frettatengt/frettir/ororkubotasjoður-kynntur-a-90-ara-afmælisviðburði-almannatrygginga",
+      "title": "Örorkubótasjóður kynntur á 90 ára afmælisviðburði Almannatrygginga",
+      "sum": "Þann 30. september flutti Bjarni Benediktsson, framkvæmdastjóri SA, erindi á 90 ára afmælisráðstefnu almannatrygginga. Erindið fjallaði um þróun almannatryggingakerfisins og þær áskoranir sem nú blasa við þegar kemur að örorku, lífeyrisréttindum og tengslum kerfisins við vinnumarkað og atvinnulíf."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/02/i_lagi_ad_folk_atti_sig_a_ad_thetta_eru_peningar/": {
+    "first_seen": "2026-10-02T15:50:39.039897+00:00",
+    "record": {
+      "id": "b511df34f5",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/02/i_lagi_ad_folk_atti_sig_a_ad_thetta_eru_peningar/",
+      "title": "Í lagi að fólk átti sig á að þetta eru peningar",
+      "sum": "Kristrún Frostadóttir forsætisráðherra lagði í dag fyrir ríkisstjórn tillögur að aðgerðum sem miða að því að ná niður verðbólgu og skapa skilyrði fyrir lækkun vaxta."
+    }
+  },
+  "https://www.mbl.is/bill/frettir/2026/10/02/hyundai_a_islandi_laekkar_verd_a_ollum_bilum/": {
+    "first_seen": "2026-10-02T15:50:39.039897+00:00",
+    "record": {
+      "id": "7e9e271ad8",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/bill/frettir/2026/10/02/hyundai_a_islandi_laekkar_verd_a_ollum_bilum/",
+      "title": "Hyundai á Íslandi lækkar verð á öllum bílum",
+      "sum": "Ingþór segir Hyundai á Íslandi vilja taka þátt í baráttunni við háa vexti og verðbólgu."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/02/styrkas_kaupir_malbikstodina_a_6_milljarda/": {
+    "first_seen": "2026-10-02T15:50:39.039897+00:00",
+    "record": {
+      "id": "d5427663fe",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/02/styrkas_kaupir_malbikstodina_a_6_milljarda/",
+      "title": "Styrkás kaupir Malbikstöðina á 6 milljarða",
+      "sum": "Styrkás hf. hefur undirritað samning um kaup á öllu hlutafé Malbikstöðvarinnar ehf. og lóðum félagsins á Esjumelum."
+    }
+  },
+  "https://www.visir.is/g/20262943131d/allir-sautjan-frjalsir-ferda-sinna": {
+    "first_seen": "2026-10-02T15:50:39.039897+00:00",
+    "record": {
+      "id": "4b05070ed1",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943131d/allir-sautjan-frjalsir-ferda-sinna",
+      "title": "Allir sau­tján frjálsir ferða sinna",
+      "sum": "Þeir tveir sem sátu eftir í gæsluvarðhaldi af þeim sautján sem voru upphaflega handteknir í tengslum við rannsókn lögreglunnar á sölu fíkniefna og peningaþvætti eru nú lausir og frjálsir ferða sinna."
+    }
+  },
+  "https://www.visir.is/g/20262942945d/vsk-a-badlon-vandinn-er-ekki-skatturinn-heldur-fyrirvarinn": {
+    "first_seen": "2026-10-02T15:50:39.039897+00:00",
+    "record": {
+      "id": "1f97d416f6",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942945d/vsk-a-badlon-vandinn-er-ekki-skatturinn-heldur-fyrirvarinn",
+      "title": "VSK á baðlón: Vandinn er ekki skatturinn heldur fyrir­varinn",
+      "sum": "Í fjárlagafrumvarpi fyrir árið 2027 er lagt til að aðgangur að baðlónum og gufuböðum færist úr 11% virðisaukaskattsþrepi í almenna 24% þrepið."
+    }
+  },
+  "https://www.visir.is/g/20262942938d/taekifaerid-i-stofnun-atvinnuveganna": {
+    "first_seen": "2026-10-02T15:50:39.039897+00:00",
+    "record": {
+      "id": "44defd6b88",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942938d/taekifaerid-i-stofnun-atvinnuveganna",
+      "title": "Tæki­færið í Stofnun at­vinnu­veganna",
+      "sum": "Sameiningin býður upp á einfaldari þjónustu, öflugri fagteymi og betri nýtingu gagna fyrir almenning og atvinnulíf"
+    }
+  },
+  "https://www.visir.is/g/20262943086d/minni-gjaldahaekkanir-kosti-rikissjod-2-5-milljarda": {
+    "first_seen": "2026-10-02T15:50:39.039897+00:00",
+    "record": {
+      "id": "1ee6c3f9a1",
+      "cat": "rikisfjarmal",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943086d/minni-gjaldahaekkanir-kosti-rikissjod-2-5-milljarda",
+      "title": "Minni gjaldahækkanir kosti ríkis­sjóð 2,5 milljarða",
+      "sum": "Það myndi kosta ríkissjóð um tvo og hálfan milljarð króna að lækka fyrirhugaðar gjaldahækkanir úr 5,2 prósentum í 2,5 prósent, að sögn fjármálaráðherra. Hann segir svigrúm til þess í fjárlagafrumvarpinu og markmið um hallalaus fjárlög standi áfram."
+    }
+  },
+  "https://www.visir.is/g/20262943068d/segir-agreininginn-i-landsvirkjun-ekki-snuast-um-ardgreidslur": {
+    "first_seen": "2026-10-02T15:50:39.039897+00:00",
+    "record": {
+      "id": "3813850238",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943068d/segir-agreininginn-i-landsvirkjun-ekki-snuast-um-ardgreidslur",
+      "title": "Segir á­greininginn í Lands­virkjun ekki snúast um arð­greiðslur",
+      "sum": "Stjórn Landsvirkjunar nýtur áfram trausts fjármálaráðherra þrátt fyrir ágreining hennar við Hörð Arnarson, fráfarandi forstjóra. Ráðherrann segir þær skýringar sem hann hafi fengið á ágreiningnum vera almenns eðlis en telur fulla ástæðu til að yfirfara málið."
+    }
+  },
+  "https://www.visir.is/g/20262942925d/storefla-tharf-kjarnahlutverk-asi": {
+    "first_seen": "2026-10-02T15:50:39.039897+00:00",
+    "record": {
+      "id": "db9dd5a93e",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942925d/storefla-tharf-kjarnahlutverk-asi",
+      "title": "Stór­efla þarf kjarnahlutverk ASÍ",
+      "sum": "Launafólk á við sterk öfl að etja. Sérhagsmunaöfl heimsins eru vel skipulögð og eiga sér marga málsvara."
+    }
+  },
+  "https://www.visir.is/g/20262942888d/ags-segir-skuldastodu-rikja-thrysta-upp-langtimavoxtum": {
+    "first_seen": "2026-10-02T15:50:39.039897+00:00",
+    "record": {
+      "id": "50f7eb3e91",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942888d/ags-segir-skuldastodu-rikja-thrysta-upp-langtimavoxtum",
+      "title": "AGS segir skulda­stöðu ríkja þrýsta upp langtíma­vöxtum",
+      "sum": "Alþjóðagjaldeyrissjóðurinn telur að vaxandi áhyggjur fjárfesta af mikilli skuldsetningu ríkja eigi þátt í þeirri skörpu hækkun sem orðið hefur á langtímavöxtum á helstu skuldabréfamörkuðum beggja vegna Atlantshafsins."
+    }
+  },
+  "https://www.visir.is/g/20262942815d/menntaskolanemar-motmaela-islensk-stulka-vard-fyrir-taragasi": {
+    "first_seen": "2026-10-02T15:50:39.039897+00:00",
+    "record": {
+      "id": "9062eb07d1",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942815d/menntaskolanemar-motmaela-islensk-stulka-vard-fyrir-taragasi",
+      "title": "Mennta­skóla­nemar mót­mæla: Ís­lensk stúlka varð fyrir tára­gasi",
+      "sum": "Aniella Lóa, dóttir Ásdísar Ólafsdóttur listfræðings, varð fyrir táragasi þegar hún sótti stúdentamótmæli í Frakklandi. Töluverð harka er komin í mótmæli menntaskólanema sem krefjast bætinga á skólaumhverfinu."
+    }
+  },
+  "https://www.visir.is/g/20262942877d/islensk-skolastulka-vard-fyrir-taragasi-i-paris": {
+    "first_seen": "2026-10-02T15:50:39.039897+00:00",
+    "record": {
+      "id": "24c82d66c7",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942877d/islensk-skolastulka-vard-fyrir-taragasi-i-paris",
+      "title": "Ís­lensk skóla­stúlka varð fyrir tára­gasi í París",
+      "sum": "Kristrún Frostadóttir forsætisráðherra staðfestir að stjórnvöld séu reiðubúin að takmarka hækkanir á krónutölugjöldum við 2,5 prósent ef kjarasamningar halda. Þá séu á borðinu aðrar aðgerðir er varða félagslegt réttlæti sem verkalýðshreyfingin hafi barist fyrir auk svokallaðra einföldunarmála sem atvinnulífið hafi …"
+    }
+  },
+  "https://www.visir.is/g/20262942866d/enn-eitt-gjaldthrot-helga-ekkert-i-bodi-i-veislunni": {
+    "first_seen": "2026-10-02T15:50:39.039897+00:00",
+    "record": {
+      "id": "724ed75cd4",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942866d/enn-eitt-gjaldthrot-helga-ekkert-i-bodi-i-veislunni",
+      "title": "Enn eitt gjald­þrot Helga: Ekkert í boði í Veislunni",
+      "sum": "Skiptum er lokið á þrotabúi Veislunnar ehf., sem rak samnefnda veisluþjónustu á Seltjarnarnesi um árabil. Ekki ein einasta króna fékkst upp í kröfur, sem námu tæpum 216 milljónum króna."
+    }
+  },
+  "https://www.visir.is/g/20262942861d/city-menn-bunir-ad-afryja": {
+    "first_seen": "2026-10-02T15:50:39.039897+00:00",
+    "record": {
+      "id": "5eb06cfd4d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942861d/city-menn-bunir-ad-afryja",
+      "title": "City-menn búnir að á­frýja",
+      "sum": "Forráðamenn Manchester City greindu frá því í dag að búið væri að áfrýja úrskurði óháðrar nefndar ensku úrvalsdeildarinnar um að félagið hefði brotið af sér í öllum ákæruliðum tengdum brotum á fjármálareglum deildarinnar."
+    }
+  },
+  "https://www.visir.is/g/20262942843d/ardsemismarkmid-kviku-innan-seilingar-eftir-bestun-efnahagsreiknings": {
+    "first_seen": "2026-10-02T15:50:39.039897+00:00",
+    "record": {
+      "id": "21ac2a8dd9",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942843d/ardsemismarkmid-kviku-innan-seilingar-eftir-bestun-efnahagsreiknings",
+      "title": "Arð­semis­mark­mið Kviku „innan seilingar“ eftir bestun efna­hags­reiknings",
+      "sum": "Verðmat á Kviku hefur verið hækkað eftir uppgjör annars ársfjórðungs, einkum vegna bættra væntinga um vaxtamun og kostnaðarstýringu. Greinendur telja að bankinn eigi nú góða möguleika á að ná metnaðarfullu arðsemismarkmiði sínu eftir að hafa átt í erfiðleikum með það undanfarin misseri."
+    }
   }
 }
