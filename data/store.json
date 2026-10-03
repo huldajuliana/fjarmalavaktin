@@ -4288,5 +4288,65 @@
       "title": "„Hún byrjaði alla daga á því að fara í kirkju­garðinn í Foss­vogi“",
       "sum": "Verjandi Ming Ting Mancel í Edition-málinu segir hana hafa liðið illa að vera ein eftirlifandi eftir andlát eiginmanns síns og dóttur. Ming Ting hlaut tólf ára fangelsisdóm fyrir manndráp og brot í nánu sambandi. Verjandinn krafðist sýknu fyrir héraðsdómi og leggur áherslu á að málinu sé ekki lokið."
     }
+  },
+  "https://www.visir.is/g/20262943428d/mildum-hoggid": {
+    "first_seen": "2026-10-03T17:42:22.932906+00:00",
+    "record": {
+      "id": "779d5f734d",
+      "cat": "rikisfjarmal",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943428d/mildum-hoggid",
+      "title": "Mildum höggið",
+      "sum": "Við í Framsókn styðjum markmiðið um hallalaus fjárlög, en það má ekki vera sama hvað það kostar. Fjárlögin þurfa að byggjast á raunhæfum forsendum og meta þarf hvað leiðin að hallalausum ríkisrekstri þýðir fyrir fjölskyldur í landinu."
+    }
+  },
+  "https://www.visir.is/g/20262943426d/skattahaekkun-a-badlon-tharf-ad-meta-ut-fra-heildarahrifum": {
+    "first_seen": "2026-10-03T17:42:22.932906+00:00",
+    "record": {
+      "id": "0d159cb1f3",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943426d/skattahaekkun-a-badlon-tharf-ad-meta-ut-fra-heildarahrifum",
+      "title": "Skattahækkun á baðlón þarf að meta út frá heildaráhrifum",
+      "sum": "Í grein Guðmundar Björnssonar á Vísi 2. október um virðisaukaskatt á baðlón er meginvandinn talinn vera of skammur fyrirvari og lagt til að hækkuninni verði frestað um ár."
+    }
+  },
+  "https://www.visir.is/g/20262942949d/-okkur-finnst-vid-vera-undanskilin-": {
+    "first_seen": "2026-10-03T17:42:22.932906+00:00",
+    "record": {
+      "id": "382ec3b8cd",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942949d/-okkur-finnst-vid-vera-undanskilin-",
+      "title": "„Okkur finnst við vera undan­skilin“",
+      "sum": "Sú staðreynd að Austurland leggi meira til ríkissjóðs en það fær til baka sýnir með skýrum hætti hversu mikilvægt atvinnulíf og verðmætasköpun á svæðinu er. Því þurfi ríkið að fjárfesta í þeim innviðum sem gera fólki og fyrirtækjum kleift að búa og starfa á svæðinu."
+    }
+  },
+  "https://www.visir.is/g/20262943414d/-...-ekki-alltaf-sammala-um-allt-": {
+    "first_seen": "2026-10-03T17:42:22.932906+00:00",
+    "record": {
+      "id": "4173626b6a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943414d/-...-ekki-alltaf-sammala-um-allt-",
+      "title": "„... ekki alltaf sam­mála um allt“ ?",
+      "sum": "Ljóst er að Hörður Arnarson forstjóri Landsvirkjunar til 17 ára stígur til hliðar á örlagastundu, þegar endurskoðun á mikilvægasta raforkusamningi fyrirtækisins – við Alcoa Fjarðaál – stendur fyrir dyrum."
+    }
   }
 }
