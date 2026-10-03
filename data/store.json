@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-02",
+      "date": "2026-10-03",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-02",
+      "date": "2026-10-03",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-02",
+      "date": "2026-10-03",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -3232,7 +3232,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-02",
+      "date": "2026-10-03",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-juli-2026/",
       "title": "Atvinnuleysi 6,3% Ã­ jÃºlÃ­",
@@ -4077,6 +4077,51 @@
       "url": "https://www.visir.is/g/20262943184d/fagfelogin-kalla-eftir-heimild-til-ad-slita-kjarasamningum",
       "title": "Fag­fé­lögin kalla eftir heimild til að slíta kjara­samningum",
       "sum": "Fagfélögin hafa boðað trúnaðarmenn og fulltrúa í samninganefndum aðildarfélaganna til fundar á mánudag til að kalla eftir heimild þeirra til að segja upp kjarasamningum."
+    }
+  },
+  "https://www.visir.is/g/20262943178d/-of-margar-sogur-af-vondri-medferd-": {
+    "first_seen": "2026-10-03T00:51:58.002617+00:00",
+    "record": {
+      "id": "71d91387e1",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943178d/-of-margar-sogur-af-vondri-medferd-",
+      "title": "„Of margar sögur af vondri með­ferð“",
+      "sum": "Dómsmálaráðherra segir að verkalýðshreyfingin hafi kallað eftir því að lokað yrði á dvalarleyfi fyrir svokallaðar au pair frá löndum utan evrópska efnahagssvæðisins. „Það eru of margar sögur af vondri meðferð þannig að ég er að stíga þetta skref,“ segir hann meðal annars."
+    }
+  },
+  "https://www.visir.is/g/20262943263d/halda-haekkunum-innan-vid-2-5-prosent-og-haetta-vid-laekkun-systkinaafslattar": {
+    "first_seen": "2026-10-03T00:51:58.002617+00:00",
+    "record": {
+      "id": "b9af2fff51",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943263d/halda-haekkunum-innan-vid-2-5-prosent-og-haetta-vid-laekkun-systkinaafslattar",
+      "title": "Halda hækkunum innan við 2,5 prósent og hætta við lækkun systkinaafsláttar",
+      "sum": "Hafnarfjarðarbær hyggst ekki hækka almennar gjaldskrár umfram 2,5 prósent á árinu 2027. Þá hyggst bærinn hverfa frá lækkun á systkinaafsláttarkerfi fyrir leikskóla á þeim grundvelli að sú breyting hefði getað haft í för með sér hækkun umfram 2,5 prósent fyrir tiltekna hópa."
+    }
+  },
+  "https://www.visir.is/g/20262943247d/ibuar-gattadir-eftir-ofrukkanir-fra-vegagerdinni": {
+    "first_seen": "2026-10-03T00:51:58.002617+00:00",
+    "record": {
+      "id": "d1f013ff71",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943247d/ibuar-gattadir-eftir-ofrukkanir-fra-vegagerdinni",
+      "title": "Í­búar gáttaðir eftir ofrukkanir frá Vega­gerðinni",
+      "sum": "Íbúar í Hornafirði og nærsveitum ráku upp stór augu þegar villa hjá Vegagerðarinni olli því að ökumenn voru ofrukkaðir fyrir veggjöld yfir nýjan veg yfir Hornafjarðarlón."
     }
   }
 }
