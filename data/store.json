@@ -4123,5 +4123,170 @@
       "title": "Í­búar gáttaðir eftir ofrukkanir frá Vega­gerðinni",
       "sum": "Íbúar í Hornafirði og nærsveitum ráku upp stór augu þegar villa hjá Vegagerðarinni olli því að ökumenn voru ofrukkaðir fyrir veggjöld yfir nýjan veg yfir Hornafjarðarlón."
     }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/03/myndir_arsfundur_samtaka_atvinnulifsins_2/": {
+    "first_seen": "2026-10-03T14:19:17.055796+00:00",
+    "record": {
+      "id": "c42edddb88",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-03",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/03/myndir_arsfundur_samtaka_atvinnulifsins_2/",
+      "title": "Myndir: Ársfundur Samtaka atvinnulífsins",
+      "sum": "Ársfundur Samtaka atvinnulífsins var haldinn á fimmtudaginn í Silfurbergi í Hörpu. Yfirskrift fundarins var „Sækjum fram.“"
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/03/engin_ein_astaeda_starfsloka/": {
+    "first_seen": "2026-10-03T14:19:17.055796+00:00",
+    "record": {
+      "id": "ce213b4bab",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-03",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/03/engin_ein_astaeda_starfsloka/",
+      "title": "Engin ein ástæða starfsloka",
+      "sum": "Ágreiningur um stjórnarhætti og nálgun við ákvarðanatöku varð til þess að Hörður Arnarson ákvað að láta af störfum sem forstjóri Landsvirkjunar. Kristrún Frostadóttir forsætisráðherra segir Hörð hafa greint sér frá ákvörðuninni á fundi þeirra og skýrt ástæður hennar"
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/03/adgerdir_afgreiddar_ur_rikisstjorn/": {
+    "first_seen": "2026-10-03T14:19:17.055796+00:00",
+    "record": {
+      "id": "2bf8aebe39",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-03",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/03/adgerdir_afgreiddar_ur_rikisstjorn/",
+      "title": "Aðgerðir afgreiddar úr ríkisstjórn",
+      "sum": "Kristrún Frostadóttir forsætisráðherra segir aðgerðaáætlunar til varnar kjarasamningum ekki langt að bíða, en hún verði tilkynnt með aðilum vinnumarkaðarins. Tillögurnar voru kynntar á ríkisstjórnarfundi í gær."
+    }
+  },
+  "https://www.visir.is/g/20262943395d/vaxandi-verdbolguahyggjur-en-vaxtahaekkun-kaemi-nokkud-a-ovart-": {
+    "first_seen": "2026-10-03T14:19:17.055796+00:00",
+    "record": {
+      "id": "b993b6fae7",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943395d/vaxandi-verdbolguahyggjur-en-vaxtahaekkun-kaemi-nokkud-a-ovart-",
+      "title": "Vaxandi verðbólguáhyggjur en vaxta­hækkun kæmi „nokkuð á ó­vart“",
+      "sum": "Þótt verðbólga og verðbólguvæntingar hafi hækkað frá síðustu vaxtaákvörðun og rök séu fyrir því að Seðlabankinn herði taumhaldið enn frekar telja greinendur IFS líklegast að peningastefnunefnd haldi stýrivöxtum óbreytum í næstu viku."
+    }
+  },
+  "https://www.visir.is/g/20262943358d/klopp-bydur-vid-rasiskum-asokunum": {
+    "first_seen": "2026-10-03T14:19:17.055796+00:00",
+    "record": {
+      "id": "5e774b2f46",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943358d/klopp-bydur-vid-rasiskum-asokunum",
+      "title": "Klopp býður við rasískum á­sökunum",
+      "sum": "Fullyrðingar fulltrúa öfgahægriflokksins AfD í Þýskalandi um að landslið Þjóðverja sé ekki nægilega hvítt á hörund fylla landsliðsþjálfarann Jürgen Klopp viðbjóði."
+    }
+  },
+  "https://www.visir.is/g/20262943348d/hvad-gerdist-adur-en-hjukrunarheimilid-vard-lausnin-": {
+    "first_seen": "2026-10-03T14:19:17.055796+00:00",
+    "record": {
+      "id": "510ae34f08",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943348d/hvad-gerdist-adur-en-hjukrunarheimilid-vard-lausnin-",
+      "title": "Hvað gerðist áður en hjúkrunar­heimilið varð lausnin?",
+      "sum": "Umfjöllun Kveiks um lyfjanotkun á hjúkrunarheimilum hefur skiljanlega vakið hörð viðbrögð. Hafandi bæði menntun sem og margra ára reynslu af öldrunarþjónustu og tek ég því nærri mér þegar fólk missir rödd sína, sjálfræði og þátttöku í eigin lífi."
+    }
+  },
+  "https://www.visir.is/g/20262943342d/samgongur-i-lamasessi-eftir-enn-eina-aras-a-bru": {
+    "first_seen": "2026-10-03T14:19:17.055796+00:00",
+    "record": {
+      "id": "6f37bcb6b9",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943342d/samgongur-i-lamasessi-eftir-enn-eina-aras-a-bru",
+      "title": "Sam­göngur í lama­sessi eftir enn eina á­rás á brú",
+      "sum": "Rússar gerðu umfangsmikla drónaárás á brú í norðurhluta Kænugarðs í nótt. Borgarstjóri höfuðborgarinnar í Úkraínu segir árásina merki um aukningu árása á mikilvæga innviði Kænugarðs."
+    }
+  },
+  "https://www.visir.is/g/20262943338d/kunnugleg-framlina-i-malasiu": {
+    "first_seen": "2026-10-03T14:19:17.055796+00:00",
+    "record": {
+      "id": "dbec7f8bb6",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943338d/kunnugleg-framlina-i-malasiu",
+      "title": "Kunnug­leg framlína í Malasíu",
+      "sum": "Max Verstappen verður á ráspól í Barein-kappakstri Formúlu 1 á morgun, en kappaksturinn fer fram í Malasíu sökum stríðsástands í Íran. Lewis Hamilton ræsir honum við hlið í fremstu röð."
+    }
+  },
+  "https://www.visir.is/g/20262939096d/bakgardsaskorun-stefnir-hatt-i-sidasta-bakgardshlaupinu-sinu": {
+    "first_seen": "2026-10-03T14:19:17.055796+00:00",
+    "record": {
+      "id": "6d51ed75ad",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262939096d/bakgardsaskorun-stefnir-hatt-i-sidasta-bakgardshlaupinu-sinu",
+      "title": "Bakgarðsáskorun: Stefnir hátt í síðasta Bakgarðshlaupinu sínu",
+      "sum": "Vísir stendur fyrir Bakgarðsáskoruninni þar sem lesendum gefst tækifæri á að kynnast landsliðsfólki í Bakgarðshlaupi. Adam Komorowski er einn þeirra."
+    }
+  },
+  "https://www.visir.is/g/20262943319d/veggjold-eru-vidurstyggd-refsistefna-rikisstjornar": {
+    "first_seen": "2026-10-03T14:19:17.055796+00:00",
+    "record": {
+      "id": "e639a6dda6",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943319d/veggjold-eru-vidurstyggd-refsistefna-rikisstjornar",
+      "title": "Veggjöld eru viður­styggð — refsistefna ríkis­stjórnar",
+      "sum": "Íbúar í Hornafirði og nágrenni sem oft þurfa að fara yfir Hornafjarðarfljót verða nú að greiða sérstakt veggjald til að fara um þann spotta á hringveginum."
+    }
+  },
+  "https://www.visir.is/g/20262942476d/-hun-byrjadi-alla-daga-a-thvi-ad-fara-i-kirkjugardinn-i-fossvogi-": {
+    "first_seen": "2026-10-03T14:19:17.055796+00:00",
+    "record": {
+      "id": "9449ea1534",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942476d/-hun-byrjadi-alla-daga-a-thvi-ad-fara-i-kirkjugardinn-i-fossvogi-",
+      "title": "„Hún byrjaði alla daga á því að fara í kirkju­garðinn í Foss­vogi“",
+      "sum": "Verjandi Ming Ting Mancel í Edition-málinu segir hana hafa liðið illa að vera ein eftirlifandi eftir andlát eiginmanns síns og dóttur. Ming Ting hlaut tólf ára fangelsisdóm fyrir manndráp og brot í nánu sambandi. Verjandinn krafðist sýknu fyrir héraðsdómi og leggur áherslu á að málinu sé ekki lokið."
+    }
   }
 }
