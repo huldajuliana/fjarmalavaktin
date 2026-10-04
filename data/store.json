@@ -4543,5 +4543,80 @@
       "title": "Höfuð­borgar­svæðið skalf",
       "sum": "Jarðskjálfti fannst víða um höfuðborgarsvæðið nú um klukkan tuttugu mínútur í eitt eftir miðnætti. Hann fannst bæði í vesturbæ Reykjavíkur, Kópavogi, Garðabæ, Hafnarfirði og á Álftanesi svo dæmi séu tekin."
     }
+  },
+  "https://www.visir.is/g/20262943666d/ekki-eina-leidin-til-ad-uppfylla-skuldbindingar-islands": {
+    "first_seen": "2026-10-04T17:56:13.257228+00:00",
+    "record": {
+      "id": "2213a65819",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-04",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943666d/ekki-eina-leidin-til-ad-uppfylla-skuldbindingar-islands",
+      "title": "Ekki eina leiðin til að upp­fylla skuld­bindingar Ís­lands",
+      "sum": "Bókun 35 verður lögð fyrir Alþingi í vikunni í kjölfar þess að máli íslenska ríkisins var vísað til EFTA-dómstólsins. Þingmenn Viðreisnar og Miðflokksins tókust á um málið í Sprengisandi."
+    }
+  },
+  "https://www.visir.is/g/20262943763d/hver-eru-rokin-fyrir-margfoldum-afengisskottum-a-vid-nagrannalondin-": {
+    "first_seen": "2026-10-04T17:56:13.257228+00:00",
+    "record": {
+      "id": "e9ca5a6b8f",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-04",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943763d/hver-eru-rokin-fyrir-margfoldum-afengisskottum-a-vid-nagrannalondin-",
+      "title": "Hver eru rökin fyrir marg­földum áfengissköttum á við ná­granna­löndin?",
+      "sum": "Ísland viðheldur Evrópumeti sínu í skattlagningu á áfenga drykki, miðað við fjárlagafrumvarp ársins og tengd frumvörp. Raunar finnast ekki dæmi á Vesturlöndum um ríkari skattagleði stjórnvalda þegar kemur að áfengum drykkjum. Skoðum nokkur dæmi."
+    }
+  },
+  "https://www.visir.is/g/20262943760d/-thetta-er-bara-viti-og-rautt-spjald-": {
+    "first_seen": "2026-10-04T17:56:13.257228+00:00",
+    "record": {
+      "id": "524d5f77d2",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-04",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943760d/-thetta-er-bara-viti-og-rautt-spjald-",
+      "title": "„Þetta er bara víti og rautt spjald“",
+      "sum": "Jón Ólafur Daníelsson þjálfari ÍBV í Bestu deild kvenna var afar ósáttur með að hans lið hafi ekki fengið vítaspyrnu í tapi gegn FH í Kaplakrika í dag. Sagði hann dómarana hafa tekið margar hörmulegar ákvarðanir en hann fékk að lokum rautt spjald vegna mótmæla í 5-0 tapi Eyjakvenna."
+    }
+  },
+  "https://www.visir.is/g/20262943738d/sjadu-ruglid-i-formulunni-i-morgun": {
+    "first_seen": "2026-10-04T17:56:13.257228+00:00",
+    "record": {
+      "id": "263d4533bd",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-04",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943738d/sjadu-ruglid-i-formulunni-i-morgun",
+      "title": "Sjáðu ruglið í For­múlunni í morgun",
+      "sum": "Allt gekk á afturfótunum í Formúlu 1 í Malasíu í morgun. Kristján Einar Kristjánsson og Bragi Þórðarson lýstu herlegheitunum á Sýn Sport Viaplay."
+    }
+  },
+  "https://www.visir.is/g/20262942408d/gera-thurfi-breytingar-a-thingskopum-til-ad-efla-virdingu-og-traust": {
+    "first_seen": "2026-10-04T17:56:13.257228+00:00",
+    "record": {
+      "id": "300a567ed6",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-04",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262942408d/gera-thurfi-breytingar-a-thingskopum-til-ad-efla-virdingu-og-traust",
+      "title": "Gera þurfi breytingar á þing­sköpum til að efla virðingu og traust",
+      "sum": "Fjármálaráðherra segir það valda áhyggjum hvað virðing og traust til Alþingis Íslendinga sé lítið. Gera þurfi breytingar á þingsköpum en passa upp á minnihlutaverndina."
+    }
   }
 }
