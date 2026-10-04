@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -3232,7 +3232,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-juli-2026/",
       "title": "Atvinnuleysi 6,3% Ã­ jÃºlÃ­",
@@ -4347,6 +4347,36 @@
       "url": "https://www.visir.is/g/20262943414d/-...-ekki-alltaf-sammala-um-allt-",
       "title": "„... ekki alltaf sam­mála um allt“ ?",
       "sum": "Ljóst er að Hörður Arnarson forstjóri Landsvirkjunar til 17 ára stígur til hliðar á örlagastundu, þegar endurskoðun á mikilvægasta raforkusamningi fyrirtækisins – við Alcoa Fjarðaál – stendur fyrir dyrum."
+    }
+  },
+  "https://www.visir.is/g/20262943530d/fh-helt-selfossi-a-botninum": {
+    "first_seen": "2026-10-04T00:16:58.338259+00:00",
+    "record": {
+      "id": "ec1e95279c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943530d/fh-helt-selfossi-a-botninum",
+      "title": "FH hélt Sel­fossi á botninum",
+      "sum": "FH kom sér aftur á sigurbraut í kvöld eftir tapið nauma í Hafnarfjarðarslagnum í síðustu umferð en liðið vann Selfoss á útivelli, 36-31."
+    }
+  },
+  "https://www.visir.is/g/20262943490d/gylfi-sarkvalinn-missti-andann-og-fer-i-myndatoku": {
+    "first_seen": "2026-10-04T00:16:58.338259+00:00",
+    "record": {
+      "id": "680424b38d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943490d/gylfi-sarkvalinn-missti-andann-og-fer-i-myndatoku",
+      "title": "Gylfi sár­kvalinn: Missti andann og fer í mynda­töku",
+      "sum": "Arnar Gunnlaugsson segir útlitið ekki gott varðandi Gylfa Þór Sigurðsson sem fékk högg á rifbeinin og lá eftir sárkvalinn undir lok leiksins við Búlgaríu á Laugardalsvelli í dag."
     }
   }
 }
