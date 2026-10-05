@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -3232,7 +3232,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-juli-2026/",
       "title": "Atvinnuleysi 6,3% Ã­ jÃºlÃ­",
@@ -4617,6 +4617,51 @@
       "url": "https://www.visir.is/g/20262942408d/gera-thurfi-breytingar-a-thingskopum-til-ad-efla-virdingu-og-traust",
       "title": "Gera þurfi breytingar á þing­sköpum til að efla virðingu og traust",
       "sum": "Fjármálaráðherra segir það valda áhyggjum hvað virðing og traust til Alþingis Íslendinga sé lítið. Gera þurfi breytingar á þingsköpum en passa upp á minnihlutaverndina."
+    }
+  },
+  "https://www.visir.is/g/20262943854d/ganga-til-sattavidraedna-vid-samkeppniseftirlitid": {
+    "first_seen": "2026-10-05T00:21:40.904172+00:00",
+    "record": {
+      "id": "d6f03fb842",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-04",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943854d/ganga-til-sattavidraedna-vid-samkeppniseftirlitid",
+      "title": "Ganga til sáttaviðræðna við Samkeppniseftirlitið",
+      "sum": "Ásar, áður Síminn, og Samkeppniseftirlitið hafa hafið sáttaviðræður vegna kaupa fyrirtækisins á Opnum kerfum og Öryggismiðstöðvar Íslands eftir að Samkeppniseftirlitið taldi nauðsynlegt að hlutast til í kaupunum."
+    }
+  },
+  "https://www.visir.is/g/20262943828d/akvordun-vals-algjorlega-galin-og-thad-synir-sig-nuna": {
+    "first_seen": "2026-10-05T00:21:40.904172+00:00",
+    "record": {
+      "id": "07bd97b687",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-04",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943828d/akvordun-vals-algjorlega-galin-og-thad-synir-sig-nuna",
+      "title": "Á­kvörðun Vals al­gjör­lega galin og það sýnir sig núna",
+      "sum": "Sérfræðingarnir í Bestu mörkunum fóru vandlega yfir hið svakalega fall Vals í þætti dagsins, nú þegar ljóst er að liðið spilar í næstefstu deild næsta sumar í fyrsta sinn í sögunni. Þessa stöðu segja þeir mega rekja til „galinna“ ákvarðana ráðamanna félagsins."
+    }
+  },
+  "https://www.visir.is/g/20262938921d/50-er-eg-ad-verda-heyrnarlaus-eda-eru-allir-farnir-ad-oskra-": {
+    "first_seen": "2026-10-05T00:21:40.904172+00:00",
+    "record": {
+      "id": "f25a57f680",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-04",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262938921d/50-er-eg-ad-verda-heyrnarlaus-eda-eru-allir-farnir-ad-oskra-",
+      "title": "50+: Er ég að verða heyrnar­laus eða eru allir farnir að öskra?",
+      "sum": "Það er loksins komið að því að fara út að borða með góðum vinum. Tilhlökkunin er mikil, búið að panta borð, farða sig og jafnvel strauja skyrtu. Nýr veitingastaður sem þú hefur einmitt heyrt af, séð á Instagram og hlakkar til að prófa."
     }
   }
 }
