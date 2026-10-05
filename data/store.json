@@ -4918,5 +4918,65 @@
       "title": "Leigubremsa inn­leidd á Ís­landi!",
       "sum": "Á Alþingi er komið fram frumvarp þar sem innleidd er leigubremsa. Leigubremsa er hugsuð þannig að takmarkandi sé með hvaða hætti leiguverð má þróast."
     }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/05/dadi_mar_ekkert_til_sem_heitir_okeypis_fjarmagn/": {
+    "first_seen": "2026-10-05T21:19:14.594471+00:00",
+    "record": {
+      "id": "008bab1624",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-05",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/05/dadi_mar_ekkert_til_sem_heitir_okeypis_fjarmagn/",
+      "title": "Daði Már: Ekkert til sem heitir ókeypis fjármagn",
+      "sum": "„Það er ekki til neitt sem heitir ókeypis fjármagn. Það fjármagn sem bundið er í ríkisfyrirtækjum kostar alveg eins og allt annað fjármagn.“"
+    }
+  },
+  "https://www.visir.is/g/20262944252d/auglysingatekjur-ruv-undir-fyrirhugudu-thaki-thrju-ar-i-rod": {
+    "first_seen": "2026-10-05T21:19:14.594471+00:00",
+    "record": {
+      "id": "0bb02546d7",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-10-05",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262944252d/auglysingatekjur-ruv-undir-fyrirhugudu-thaki-thrju-ar-i-rod",
+      "title": "Aug­lýsinga­tekjur Rúv undir fyrir­huguðu þaki þrjú ár í röð",
+      "sum": "Auglýsingatekjur RÚV hefðu farið yfir fyrirhugað 2,8 milljarða króna mark aðeins einu sinni á síðustu fjórum árum, samkvæmt samanburði Vísis á tölum ráðuneytisins. Það var árið 2022. Í skriflegu svari til Vísis segir ráðuneytið að mun meira muni um tíu prósenta lækkun á framlagi ríkisins til RÚV en um tekjuþakið."
+    }
+  },
+  "https://www.visir.is/g/20262944371d/fengu-heimild-til-thess-ad-segja-upp-kjarasamningum": {
+    "first_seen": "2026-10-05T21:19:14.594471+00:00",
+    "record": {
+      "id": "83989d8a31",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-05",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262944371d/fengu-heimild-til-thess-ad-segja-upp-kjarasamningum",
+      "title": "Fengu heimild til þess að segja upp kjara­samningum",
+      "sum": "Einróma samþykki var um að segja upp kjarasamningum á fimmtudag að öllu óbreyttu á fundi Fagfélaganna sem fór fram í kvöld. Formaður Rafiðnaðarsambandsins segir niðurstöðuna vera skýra en að félögin séu meðvituð um að vilja leita allra leiða til þess að komast að niðurstöðu þangað til á fimmtudag næstkomandi þegar …"
+    }
+  },
+  "https://www.visir.is/g/20262944335d/rubio-lentur-a-islandi": {
+    "first_seen": "2026-10-05T21:19:14.594471+00:00",
+    "record": {
+      "id": "4a0e01545b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-05",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262944335d/rubio-lentur-a-islandi",
+      "title": "Rubio lentur á Ís­landi",
+      "sum": "Marco Rubio, utanríkisráðherra Bandaríkjanna, er lentur í Keflavík. Hann segist mættur hingað til að ræða sameinleg forgangsmál Íslands og Bandaríkjanna, eins og öryggi á norðurslóðum, efnahagstengsl og varnarsamstarf."
+    }
   }
 }
