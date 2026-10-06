@@ -5143,5 +5143,65 @@
       "title": "Af hverju er efna­hagur Ís­lands veikur? – Hvað getum við lært af Dönum?",
       "sum": "Við eigum fiskinn. Við eigum orkuna. Við eigum vatnið, náttúruna og vel menntað fólk. Við erum aðeins um 400 þúsund. Samt eru vextir háir, verðbólgan þrálát, fjármagnsmarkaðurinn örsmár og nánast engin stór alþjóðleg fyrirtæki hafa rannsóknir og þróunarstarf á Íslandi."
     }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/06/verdid_haekkadi_skarpt_eftir_tilkynningu_i_morgun/": {
+    "first_seen": "2026-10-06T19:15:59.577252+00:00",
+    "record": {
+      "id": "5477996983",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-06",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/06/verdid_haekkadi_skarpt_eftir_tilkynningu_i_morgun/",
+      "title": "Verðið hækkaði skarpt eftir tilkynningu í morgun",
+      "sum": "Hlutabréfaverð námufyrirtækisins Amaroq hækkaði skarpt í viðskiptum í Kauphöllinni í dag, eða um 8,6%. Félagið lét vita af tveimur jákvæðum áföngum fyrir opnun markaða í morgun."
+    }
+  },
+  "https://www.visir.is/g/20262944858d/slakur-fyrri-halfleikur-vard-val-ad-falli": {
+    "first_seen": "2026-10-06T19:15:59.577252+00:00",
+    "record": {
+      "id": "9cc79b9354",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-10-06",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262944858d/slakur-fyrri-halfleikur-vard-val-ad-falli",
+      "title": "Slakur fyrri hálf­leikur varð Val að falli",
+      "sum": "Valur tapaði gegn RD LL Grosist Slovan í Evrópudeildinni í handbolta í dag. Slóvenska liðið reyndist of þungur biti fyrir Val og náði heimaliðið að byggja stórt forskot sem Valur náði ekki að minnka og endaði leikurinn með 34-29 tapi Vals."
+    }
+  },
+  "https://www.visir.is/g/20262944817d/hafnar-saelgaetis-og-faedingarorlofsmalum-sem-rokum-fyrir-bokun-35": {
+    "first_seen": "2026-10-06T19:15:59.577252+00:00",
+    "record": {
+      "id": "70ab3f6490",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-06",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262944817d/hafnar-saelgaetis-og-faedingarorlofsmalum-sem-rokum-fyrir-bokun-35",
+      "title": "Hafnar sæl­gætis- og fæðingar­or­lofsmálum sem rökum fyrir bókun 35",
+      "sum": "Dómsmál um fæðingarorlof og skaðlegt sælgæti hafa verið notuð með villandi hætti til að rökstyðja innleiðingu bókunar 35, að mati Sigríðar Andersen, þingflokksformanns Miðflokksins. Hún sakaði Þorgerði Katrínu Gunnarsdóttur utanríkisráðherra um hálfsannleik og blekkingar í umræðum á Alþingi í dag."
+    }
+  },
+  "https://www.visir.is/g/20262944801d/bidi-og-bidi-eftir-bjarna": {
+    "first_seen": "2026-10-06T19:15:59.577252+00:00",
+    "record": {
+      "id": "a718f18b2c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-06",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262944801d/bidi-og-bidi-eftir-bjarna",
+      "title": "Bíði og bíði eftir Bjarna",
+      "sum": "Það virðist vera langt á milli húsa í Borgartúninu, að sögn formanns VR, sem segist hafa beðið eftir því að fulltrúar Samtaka atvinnulífsins mæti til fundar í karphúsinu frá því klukkan 13."
+    }
   }
 }
