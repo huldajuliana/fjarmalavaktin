@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -3232,7 +3232,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-juli-2026/",
       "title": "Atvinnuleysi 6,3% Ã­ jÃºlÃ­",
@@ -4977,6 +4977,51 @@
       "url": "https://www.visir.is/g/20262944335d/rubio-lentur-a-islandi",
       "title": "Rubio lentur á Ís­landi",
       "sum": "Marco Rubio, utanríkisráðherra Bandaríkjanna, er lentur í Keflavík. Hann segist mættur hingað til að ræða sameinleg forgangsmál Íslands og Bandaríkjanna, eins og öryggi á norðurslóðum, efnahagstengsl og varnarsamstarf."
+    }
+  },
+  "https://www.visir.is/g/20262944385d/vill-sja-breytingar-svo-thad-komi-ekki-annad-kludur": {
+    "first_seen": "2026-10-06T02:00:24.483112+00:00",
+    "record": {
+      "id": "7362e635c8",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-05",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262944385d/vill-sja-breytingar-svo-thad-komi-ekki-annad-kludur",
+      "title": "Vill sjá breytingar svo það komi ekki annað klúður",
+      "sum": "Klúður er orðið sem lýsir best atvikunum sem gerðust í rigningunni í Bahrein-kappakstrinum í Formúlu 1 um helgina sem var haldinn í Malasíu. Ökumenn náðu varla að keyra vegna bilunar í kerfi bílanna sem tafði að keppnin gæti farið af stað."
+    }
+  },
+  "https://www.visir.is/g/20262944400d/milljarda-innflaedi-gaeti-fylgt-amaroq-inn-i-ftse-250": {
+    "first_seen": "2026-10-06T02:00:24.483112+00:00",
+    "record": {
+      "id": "87e06700a1",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-05",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262944400d/milljarda-innflaedi-gaeti-fylgt-amaroq-inn-i-ftse-250",
+      "title": "Milljarða inn­flæði gæti fylgt Amaroq inn í FTSE 250",
+      "sum": "Amaroq verður tekið inn í FTSE 250 vísitöluna síðar í vikunni, stuttu eftir að auðlindafélagið komst fyrst inn í helstu vísitölur FTSE Russell í kjölfar flutnings þess yfir á aðalmarkaðinn í London."
+    }
+  },
+  "https://www.visir.is/g/20262944377d/afgerandi-nidurstada-um-ad-slita-kjarasamningum": {
+    "first_seen": "2026-10-06T02:00:24.483112+00:00",
+    "record": {
+      "id": "e59befddc8",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-05",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262944377d/afgerandi-nidurstada-um-ad-slita-kjarasamningum",
+      "title": "Af­gerandi niður­staða um að slíta kjara­samningum",
+      "sum": "Stjórn VR og samninganefnd LÍV hafa fengið óskorðað umboð til þess að segja upp kjarasamningum. Formaður VR segir afstöðuna afgerandi. Forsvarsmenn VR funda með Samtökum atvinnulífsins á morgun og vonast til að lausn finnist í málinu."
     }
   }
 }
