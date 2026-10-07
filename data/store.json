@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -3232,7 +3232,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-juli-2026/",
       "title": "Atvinnuleysi 6,3% Ã­ jÃºlÃ­",
@@ -5202,6 +5202,111 @@
       "url": "https://www.visir.is/g/20262944801d/bidi-og-bidi-eftir-bjarna",
       "title": "Bíði og bíði eftir Bjarna",
       "sum": "Það virðist vera langt á milli húsa í Borgartúninu, að sögn formanns VR, sem segist hafa beðið eftir því að fulltrúar Samtaka atvinnulífsins mæti til fundar í karphúsinu frá því klukkan 13."
+    }
+  },
+  "https://www.visir.is/g/20262944959d/framlengja-samninga-ut-naesta-ar": {
+    "first_seen": "2026-10-07T01:10:12.304712+00:00",
+    "record": {
+      "id": "27a51c8f44",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-06",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262944959d/framlengja-samninga-ut-naesta-ar",
+      "title": "Fram­lengja samninga út næsta ár",
+      "sum": "Starfsgreinasamband Íslands, Efling, Samiðn og Byggiðn hafa gert samkomulag við Samtök atvinnulífsins um að framlengja kjarasamninga. Samkomulagið felur í sér að kjarasamningar halda gildi sínu út næsta ár og var skrifað undir það í kvöld."
+    }
+  },
+  "https://www.visir.is/g/20262944888d/endurgreidir-ekki-rikinu-fyrir-auglysingarnar-umdeildu": {
+    "first_seen": "2026-10-07T01:10:12.304712+00:00",
+    "record": {
+      "id": "b275f50982",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-06",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262944888d/endurgreidir-ekki-rikinu-fyrir-auglysingarnar-umdeildu",
+      "title": "Endur­greiðir ekki ríkinu fyrir aug­lýsingarnar um­deildu",
+      "sum": "Donald Trump ætlar ekki að endurgreiða bandaríska ríkinu fyrir umdeildar auglýsingar sem hafa verið birtar í sjónvarpi vestanhafs. Í gær sagði forsetinn að pólitísk aðgerðanefnd hans, MAGA Inc, myndi greiða fyrir auglýsingarnar sem hafa verið harðlega gagnrýndar, þar sem þær hafa verið fjármagnaðar með skattfé og …"
+    }
+  },
+  "https://www.visir.is/g/20262944797d/-thad-vaeri-ekki-haegt-ad-skrifa-thetta-handrit-": {
+    "first_seen": "2026-10-07T01:10:12.304712+00:00",
+    "record": {
+      "id": "2c8bd9cdcb",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-06",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262944797d/-thad-vaeri-ekki-haegt-ad-skrifa-thetta-handrit-",
+      "title": "„Það væri ekki hægt að skrifa þetta hand­rit“",
+      "sum": "Þegar hinni indversku Ambiku Sharma bárust sem barni bréf frá íslensku styrktarforeldri þar sem hún bjó í barnaþorpi á Indlandi varð hún heilluð af ljósmyndum af norðurljósum sem fylgdu bréfunum."
+    }
+  },
+  "https://www.visir.is/g/20262944920d/hefur-thu-ahuga-a-namsarangri-og-lidan-barna-i-gardabae-": {
+    "first_seen": "2026-10-07T01:10:12.304712+00:00",
+    "record": {
+      "id": "5bc878321b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-06",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262944920d/hefur-thu-ahuga-a-namsarangri-og-lidan-barna-i-gardabae-",
+      "title": "Hefur þú á­huga á náms­árangri og líðan barna í Garða­bæ?",
+      "sum": "Það er fátt sem skiptir samfélagið meira máli en hvernig okkur tekst að búa börnin okkar undir framtíðina. Þar gegna grunnskólarnir lykilhlutverki. Þeir eiga að skapa börnum færni, sjálfstraust og verkfæri til að takast á við samfélag sem tekur sífelldum breytingum."
+    }
+  },
+  "https://www.visir.is/g/20262944936d/segja-boltann-hja-stjornvoldum": {
+    "first_seen": "2026-10-07T01:10:12.304712+00:00",
+    "record": {
+      "id": "fbe38465c6",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-06",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262944936d/segja-boltann-hja-stjornvoldum",
+      "title": "Segja boltann hjá stjórn­völdum",
+      "sum": "Á meðan fulltrúar verkalýðsfélaga bíða eftir að Samtök atvinnulífsins mæti á sinn fund bíða fulltrúar SA eftir viðbrögðum frá stjórnvöldum. Framkvæmdastjóri SA segir deiluna stranda á nýju forsenduákvæði."
+    }
+  },
+  "https://www.visir.is/g/20262944625d/fh-limoges-33-46-fh-ingar-grofu-ser-of-djupa-holu-i-fyrri-halfleik": {
+    "first_seen": "2026-10-07T01:10:12.304712+00:00",
+    "record": {
+      "id": "92529da265",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-06",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262944625d/fh-limoges-33-46-fh-ingar-grofu-ser-of-djupa-holu-i-fyrri-halfleik",
+      "title": "FH - Limoges 33-46 | FH-ingar grófu sér of djúpa holu í fyrri hálf­leik",
+      "sum": "FH laut í lægra haldi fyrir franska liðinu Limoges þegar liðin áttust við í annarri umferð riðlakeppni Evrópudeildar EHF í handbolta karla í Kaplakrika í kvöld. Slæmur fyrri hálfleikur varð FH-liðinu að falli í þessum leik."
+    }
+  },
+  "https://www.visir.is/g/20262944872d/vid-getum-i-rauninni-ekki-tapad": {
+    "first_seen": "2026-10-07T01:10:12.304712+00:00",
+    "record": {
+      "id": "9b88f887b1",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-06",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262944872d/vid-getum-i-rauninni-ekki-tapad",
+      "title": "Við getum í rauninni ekki tapað",
+      "sum": "Málið varðandi bókun 35 við EES-samninginn er komið til EFTA-dómstólsins samkvæmt ákvörðun Eftirlitsstofnunar EFTA (ESA). Stofnunin hefur sagt að málið verði ekki dregið til baka nema Ísland fullnægi kröfum hennar um að innleitt regluverk frá Evrópusambandinu í gegnum samninginn hafi forgang á almenna löggjöf sem er …"
     }
   }
 }
