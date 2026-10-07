@@ -5713,5 +5713,65 @@
       "title": "Glap­ræði að hafna væntan­legri launa­hækkun",
       "sum": "Formaður Eflingar segir það glapræði að hafna tæplega fimm prósenta launahækkun sem sé væntanleg í janúar samkvæmt núgildandi kjarasamningum. Hún segir það setja þau í undarlega stöðu ætli VR að efna til átaka á vinnumarkaði."
     }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/07/med_samningum_gaetu_skapast_rettar_adstaedur/": {
+    "first_seen": "2026-10-07T19:40:39.682904+00:00",
+    "record": {
+      "id": "e4ba25dc1b",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-07",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/07/med_samningum_gaetu_skapast_rettar_adstaedur/",
+      "title": "Með samningum gætu skapast réttar aðstæður",
+      "sum": "Eftir að eldsneytishækkanir eru nú komnar út í verðlagið, sveitarfélög og ríki hafa lofað að halda gjaldskrárhækkunum í skefjum og fyrirtæki lofa mörg frystingu verðs eða jafnvel lækkunum er bara eitt púsl eftir til að myndin verði skýr og aðstæður fyrir tiltölulega hraða hjöðnun verðbólgu."
+    }
+  },
+  "https://www.visir.is/g/20262945321d/tugmilljona-gjaldthrot-felags-fikniefnasmyglara": {
+    "first_seen": "2026-10-07T19:40:39.682904+00:00",
+    "record": {
+      "id": "6cdd229a0d",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-07",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262945321d/tugmilljona-gjaldthrot-felags-fikniefnasmyglara",
+      "title": "Tug­milljóna gjald­þrot fé­lags fíkniefnasmyglara",
+      "sum": "Ekkert fékkst upp í kröfur í þrotabú félagsins Heklarar ehf, sem námu tæplega 27 milljónum króna. Félagið rataði í fréttir í desember í fyrra þegar fjallað var um smygl á 5,6 kílóum á kókaíni. Í janúar var eigandi félagsins dæmdur í 3,5 ára fangelsi fyrir smyglið ásamt kærasta sínum og þriðja manni."
+    }
+  },
+  "https://www.visir.is/g/20262945136d/njardvik-keflavik-stalin-stinn-i-grannaslag": {
+    "first_seen": "2026-10-07T19:40:39.682904+00:00",
+    "record": {
+      "id": "bc2ae8b11d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-07",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262945136d/njardvik-keflavik-stalin-stinn-i-grannaslag",
+      "title": "Njarð­vík - Kefla­vík | Stálin stinn í grannaslag",
+      "sum": "Íslandsmeistarar Njarðvíkur taka á móti Keflavík í alvöru grannaslag í Bónus-deild kvenna í körfubolta. Leikurinn er sýndur á Sýn Sport Ísland."
+    }
+  },
+  "https://www.visir.is/g/20262945391d/haerri-bankaskattur-vegur-a-moti-sterkari-undirliggjandi-rekstri-arion": {
+    "first_seen": "2026-10-07T19:40:39.682904+00:00",
+    "record": {
+      "id": "942d34ded9",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-07",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262945391d/haerri-bankaskattur-vegur-a-moti-sterkari-undirliggjandi-rekstri-arion",
+      "title": "Hærri banka­skattur vegur á móti sterkari undir­liggjandi rekstri Arion",
+      "sum": "Afkoma Arion banka á þriðja ársfjórðungi ætti að bera þess merki að undirliggjandi rekstur sé áfram sterkur, meðal annars vegna mikilla vaxtatekna og batnandi kostnaðarhlutfalls. Fyrirhuguð hækkun bankaskatts breytir hins vegar myndinni verulega og hefur DNB Carnegie lækkað afkomuspár sínar og verðmat á bankanum."
+    }
   }
 }
