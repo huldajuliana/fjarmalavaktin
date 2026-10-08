@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -5772,6 +5772,81 @@
       "url": "https://www.visir.is/g/20262945391d/haerri-bankaskattur-vegur-a-moti-sterkari-undirliggjandi-rekstri-arion",
       "title": "Hærri banka­skattur vegur á móti sterkari undir­liggjandi rekstri Arion",
       "sum": "Afkoma Arion banka á þriðja ársfjórðungi ætti að bera þess merki að undirliggjandi rekstur sé áfram sterkur, meðal annars vegna mikilla vaxtatekna og batnandi kostnaðarhlutfalls. Fyrirhuguð hækkun bankaskatts breytir hins vegar myndinni verulega og hefur DNB Carnegie lækkað afkomuspár sínar og verðmat á bankanum."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/07/sami_kaupmattur_an_harra_vaxta_og_verdbolgu/": {
+    "first_seen": "2026-10-08T01:28:02.481505+00:00",
+    "record": {
+      "id": "21e79b7b73",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-07",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/07/sami_kaupmattur_an_harra_vaxta_og_verdbolgu/",
+      "title": "Sami kaupmáttur án hárra vaxta og verðbólgu",
+      "sum": "Hægt hefði verið að ná fram sömu kaupmáttaraukningu síðustu 4-5 ár án þess að vera með hátt vaxtastig, mikla verðbólgu og miklar nafnlaunahækkanir. Slíkt hefði sparað þjóðarbúinu háar upphæðir því verðbólga felur alltaf í sér kostnað fyrir samfélagið. Þetta segir Ásgeir Jónsson seðlabankastjóri."
+    }
+  },
+  "https://www.visir.is/g/20262945469d/samthykktu-ad-slita-kjarasamningum": {
+    "first_seen": "2026-10-08T01:28:02.481505+00:00",
+    "record": {
+      "id": "896ec4429a",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-07",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262945469d/samthykktu-ad-slita-kjarasamningum",
+      "title": "Sam­þykktu að slíta kjara­samningum",
+      "sum": "Stjórn VR hefur ákveðið að slíta kjarasamningum á morgun. Formaðurinn segir að samningar myndu þá renna út í lok mánaðar en þetta geti haft í för með sér að opinberu stéttarfélögin megi einnig segja upp sínum samningum."
+    }
+  },
+  "https://www.visir.is/g/20262945136d/uppgjorid-njardvik-keflavik-83-79-montretturinn-er-i-njardvik": {
+    "first_seen": "2026-10-08T01:28:02.481505+00:00",
+    "record": {
+      "id": "8c301a9b43",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-07",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262945136d/uppgjorid-njardvik-keflavik-83-79-montretturinn-er-i-njardvik",
+      "title": "Upp­gjörið: Njarð­vík - Kefla­vík 83-79| Montrétturinn er í Njarð­vík",
+      "sum": "Íslandsmeistararnir í Njarðvík tóku á móti nágrönnum sínum og Bikarmeisturum í Keflavík í 2. umferð Bónus deild kvenna í kvöld. Eftir mikla baráttu eru það Njarðvíkingar sem eiga montréttinn eftir fjögurra stiga sigur 83-79."
+    }
+  },
+  "https://www.visir.is/g/20262945434d/fangelsi-undir-vatnajokli": {
+    "first_seen": "2026-10-08T01:28:02.481505+00:00",
+    "record": {
+      "id": "2099c97b1c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-07",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262945434d/fangelsi-undir-vatnajokli",
+      "title": "Fangelsi undir Vatna­jökli",
+      "sum": "Grímsvötn nefnist nýr leikvangur í hinum heimsfræga tölvuleik Overwatch. Spilarar geta þar etið kappi í skálduðu hámarksöryggisfangelsi í samnefndri eldstöð í Vatnajökulsþjóðgarði."
+    }
+  },
+  "https://www.visir.is/g/20262945442d/leikmadur-arsins-missir-af-landsleikjum": {
+    "first_seen": "2026-10-08T01:28:02.481505+00:00",
+    "record": {
+      "id": "5a23b61b47",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-07",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262945442d/leikmadur-arsins-missir-af-landsleikjum",
+      "title": "Leik­maður ársins missir af lands­leikjum",
+      "sum": "Danielle Rodriguez, leikmaður Njarðvíkur, meiddist í leik liðsins gegn Val í Bónus-deild kvenna. Hún er nýkomin til baka úr meiðslum og fær önnur meiðsli beint í bakið."
     }
   }
 }
