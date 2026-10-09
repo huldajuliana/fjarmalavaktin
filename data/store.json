@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -6222,6 +6222,231 @@
       "url": "https://www.visir.is/g/20262945818d/dagskra-aflyst-i-dag-og-oljost-hvernig-raedukeppnin-fer-fram",
       "title": "Dag­skrá af­lýst í dag og ó­ljóst hvernig ræðukeppnin fer fram",
       "sum": "Rektor Menntaskólans í Reykjavík segir það miður hvernig fór á knattspyrnumóti MR og Verslunarskólans í gærkvöldi, sem virðist hafa farið úr böndunum. Einn fékk flösku í hausinn og kjaftshögg voru látin fljúga."
+    }
+  },
+  "https://www.visir.is/g/20262945969d/opinbera-haustromantik-a-spani": {
+    "first_seen": "2026-10-09T01:36:30.771907+00:00",
+    "record": {
+      "id": "c7dddafef8",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-08",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262945969d/opinbera-haustromantik-a-spani",
+      "title": "Opin­bera haustrómantík á Spáni",
+      "sum": "Helga Möller söngkona og Jóhann Hlíðar Harðarson fréttamaður hafa fundið ástina og það á Spáni. Bæði birtu í kvöld mynd af þeim saman en henni fylgdi textinn: „Haustrómantík í Cartagena…“"
+    }
+  },
+  "https://www.visir.is/g/20262945904d/sluppu-vid-herskyldu-en-fognudu-of-mikid": {
+    "first_seen": "2026-10-09T01:36:30.771907+00:00",
+    "record": {
+      "id": "bdbda18d88",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-08",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262945904d/sluppu-vid-herskyldu-en-fognudu-of-mikid",
+      "title": "Sluppu við her­skyldu en fögnuðu of mikið",
+      "sum": "Mikil fagnaðarlæti brutust út síðustu helgi þegar Suður-Kórea vann Asíuleikana í fótbolta. Fagnaðarlætin voru ekki einungis vegna sigurs heldur einnig því leikmenn losnuðu við herskyldu."
+    }
+  },
+  "https://www.visir.is/g/20262945944d/vilja-auka-vidveru-nato-i-nordri": {
+    "first_seen": "2026-10-09T01:36:30.771907+00:00",
+    "record": {
+      "id": "2c647ec8df",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-08",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262945944d/vilja-auka-vidveru-nato-i-nordri",
+      "title": "Vilja auka við­veru NATO í norðri",
+      "sum": "Þorgerður Katrín Gunnarsdóttir utanríkisráðherra átti í dag fund með Anitu Anad, utanríkisráðherra Kanada. Ráðherrarnir vilja uppfæra fríverslunarsamning landanna og koma á fót tengslaneti fyrir jarðhita til að greina tækifæri til samstarfs. Þá vilja þær styrkja viðveru NATO á norðurslóðum."
+    }
+  },
+  "https://www.visir.is/g/20262945915d/mattu-taema-lonid": {
+    "first_seen": "2026-10-09T01:36:30.771907+00:00",
+    "record": {
+      "id": "dd53d1a16a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-08",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262945915d/mattu-taema-lonid",
+      "title": "Máttu tæma lónið",
+      "sum": "Landsréttur hefur staðfest úrskurð Héraðsdóms sem taldi að Orkuveita Reykjavíkur hefði verið í rétti þegar hún lét tæma Árbæjarlón til frambúðar. Rétturinn viðurkenndi þó að íbúi hefði haft lögvarða hagsmuni af tæmingunni enda byggi hann við nyrðri hluta lónsins og ásýnd svæðisins breyttist mikið."
+    }
+  },
+  "https://www.visir.is/g/20262945906d/leigubremsa-er-almannahagsmunamal": {
+    "first_seen": "2026-10-09T01:36:30.771907+00:00",
+    "record": {
+      "id": "2d2c52c06a",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-08",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262945906d/leigubremsa-er-almannahagsmunamal",
+      "title": "Leigubremsa er almannahagsmunamál",
+      "sum": "Fyrirhugað frumvarp um breytingar á húsaleigulögum sem nú er rætt á Alþingi er ekki bara leigjendum þessa lands til hagsbóta, heldur almenningi sem heild, enda sýna greiningar að húsnæðisliðurinn skýrir um helming verðbólgunnar frá byrjunárs 2015 til september 2026."
+    }
+  },
+  "https://www.vb.is/frettir/fjareign-innlendra-adila-jokst-um-136-milljarda/": {
+    "first_seen": "2026-10-09T01:36:30.771907+00:00",
+    "record": {
+      "id": "a75527d2b5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-09",
+      "src": "Viðskiptablaðið",
+      "url": "https://www.vb.is/frettir/fjareign-innlendra-adila-jokst-um-136-milljarda/",
+      "title": "Fjáreign innlendra aðila jókst um 136 milljarðaFjáreign heimilanna jókst um tæpa 900 milljarða á árinu en fyrirtæki og hið opinbera voru áfram í neikvæðri stöðu.",
+      "sum": ""
+    }
+  },
+  "https://www.vb.is/frettir/beint-bladamannafundur-um-kjarasamninga/": {
+    "first_seen": "2026-10-09T01:36:30.771907+00:00",
+    "record": {
+      "id": "a02d2744f1",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-09",
+      "src": "Viðskiptablaðið",
+      "url": "https://www.vb.is/frettir/beint-bladamannafundur-um-kjarasamninga/",
+      "title": "Beint: Blaða­manna­fundur um kjara­samningaBoðað hefur verið til blaðamannafundar um kjarasamninga í Ráðherrabústaðnum klukkan 17.30.",
+      "sum": ""
+    }
+  },
+  "https://www.vb.is/frettir/sterkasti-annar-fjordungur-hja-beru-fra-upphafi/": {
+    "first_seen": "2026-10-09T01:36:30.771907+00:00",
+    "record": {
+      "id": "ac195018c0",
+      "cat": "gengi",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-10-09",
+      "src": "Viðskiptablaðið",
+      "url": "https://www.vb.is/frettir/sterkasti-annar-fjordungur-hja-beru-fra-upphafi/",
+      "title": "Sterkasti annar fjórðungur hjá Beru frá upp­hafiMóðurfélag Öl­gerðarinnar segir að verð á inn­fluttum vörum hafi lækkað í septem­ber en þar hafi verð á vörum keyptum inn í evrum lækkað um 3,4%.",
+      "sum": ""
+    }
+  },
+  "https://www.vb.is/frettir/kjarasamningar-halda/": {
+    "first_seen": "2026-10-09T01:36:30.771907+00:00",
+    "record": {
+      "id": "68a4738f22",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-09",
+      "src": "Viðskiptablaðið",
+      "url": "https://www.vb.is/frettir/kjarasamningar-halda/",
+      "title": "Kjarasamningar haldaBjarni segir að samkomulag hafi náðst um tiltekin grundvallaratriði.",
+      "sum": ""
+    }
+  },
+  "https://www.vb.is/frettir/starbucks-skodar-yfirtoku-a-chipotle/": {
+    "first_seen": "2026-10-09T01:36:30.771907+00:00",
+    "record": {
+      "id": "a74d3d8376",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-09",
+      "src": "Viðskiptablaðið",
+      "url": "https://www.vb.is/frettir/starbucks-skodar-yfirtoku-a-chipotle/",
+      "title": "Starbucks skoðar yfirtöku á Chipotle",
+      "sum": ""
+    }
+  },
+  "https://www.vb.is/frettir/hagnadur-samsung-nifaldast-milli-ara/": {
+    "first_seen": "2026-10-09T01:36:30.771907+00:00",
+    "record": {
+      "id": "1c3f4f54f8",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-09",
+      "src": "Viðskiptablaðið",
+      "url": "https://www.vb.is/frettir/hagnadur-samsung-nifaldast-milli-ara/",
+      "title": "Hagnaður Samsung nífaldast milli ára",
+      "sum": ""
+    }
+  },
+  "https://www.vb.is/frettir/skattahaekkanir-setja-fjarfestingar-i-uppnam/": {
+    "first_seen": "2026-10-09T01:36:30.771907+00:00",
+    "record": {
+      "id": "016bab02d0",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-09",
+      "src": "Viðskiptablaðið",
+      "url": "https://www.vb.is/frettir/skattahaekkanir-setja-fjarfestingar-i-uppnam/",
+      "title": "Skatta­hækkanir setja fjár­festingar í upp­nám",
+      "sum": ""
+    }
+  },
+  "https://www.vb.is/frettir/ardurinn-meira-en-fjorfaldur-afgangur-rikissjods/": {
+    "first_seen": "2026-10-09T01:36:30.771907+00:00",
+    "record": {
+      "id": "009ef26a31",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-09",
+      "src": "Viðskiptablaðið",
+      "url": "https://www.vb.is/frettir/ardurinn-meira-en-fjorfaldur-afgangur-rikissjods/",
+      "title": "Arðurinn meira en fjór­faldur af­gangur ríkis­sjóðs",
+      "sum": ""
+    }
+  },
+  "https://www.vb.is/frettir/sa-telja-50-milljarda-halla-liklegan-a-naesta-ari/": {
+    "first_seen": "2026-10-09T01:36:30.771907+00:00",
+    "record": {
+      "id": "c813fb34e5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-09",
+      "src": "Viðskiptablaðið",
+      "url": "https://www.vb.is/frettir/sa-telja-50-milljarda-halla-liklegan-a-naesta-ari/",
+      "title": "SA telja 50 milljarða halla lík­legan á næsta ári",
+      "sum": ""
+    }
+  },
+  "https://www.vb.is/frettir/milljards-evra-halli-eykur-thrysting-a-esb/": {
+    "first_seen": "2026-10-09T01:36:30.771907+00:00",
+    "record": {
+      "id": "7ea8d30e85",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-09",
+      "src": "Viðskiptablaðið",
+      "url": "https://www.vb.is/frettir/milljards-evra-halli-eykur-thrysting-a-esb/",
+      "title": "Milljarðs evra halli eykur þrýsting á ESB",
+      "sum": ""
     }
   }
 }
