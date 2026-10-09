@@ -6551,7 +6551,7 @@
       "src": "Vísir",
       "url": "https://www.visir.is/g/20262946301d/husid-helmingi-dyrara-tveimur-arum-sidar",
       "title": "Húsið helmingi dýrara tveimur árum síðar",
-      "sum": "Andrea Róbertsdóttir, formaður FKA, og Jón Þór Eyþórsson hafa sett einbýlishús sitt að Dalsbyggð í Garðabæ á sölu. Eignin telur alls 242 fermetra og er ásett verð 219,5 milljónir króna."
+      "sum": "Andrea Róbertsdóttir, framkvæmdastjóri FKA, og Jón Þór Eyþórsson hafa sett glæsilegt einbýlishús sitt að Dalsbyggð í Garðabæ á sölu eftir miklar breytingar. Eignin telur alls 242 fermetra og er ásett verð 219,5 milljónir króna."
     }
   },
   "https://www.visir.is/g/20262946226d/hvenaer-a-ad-segja-upp-kjarasamningum-": {
@@ -6702,6 +6702,81 @@
       "url": "https://www.visir.is/g/20262946159d/i-beinni-fra-hofudstodvum-olgerdarinnar",
       "title": "Í beinni frá höfuð­stöðvum Öl­gerðarinnar",
       "sum": "Samkeppniseftirlitið hefur hafið húsleit hjá Beru hf., móðurfélagi Ölgerðarinnar, vegna rannsóknar á ætluðum brotum Ölgerðarinnar á samkeppnislögum. Eftirlitið grunar Beru um brot á 11. grein samkeppnislaga sem leggur bann við hvers konar misnotkun eins eða fleiri fyrirtækja á markaðsráðandi stöðu."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/09/leigubremsan_og_logmal_skortsins/": {
+    "first_seen": "2026-10-09T19:10:46.185167+00:00",
+    "record": {
+      "id": "b7cc1c3b6b",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-09",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/09/leigubremsan_og_logmal_skortsins/",
+      "title": "Leigubremsan og lögmál skortsins",
+      "sum": "„Leigubremsan er augljóslega mjög heimskuleg,“ sagði dr. Ásgeir Jónsson seðlabankastjóri eftir vaxtaákvörðunina á miðvikudag. Það voru óvenjuafdráttarlaus ummæli, en reynslan er söm af Skömmtunarnefnd ríkisins og Sovétríkjunum; þegar stjórnvöld takmarka vöruverð er það síst til þess fallið að uppræta skort á …"
+    }
+  },
+  "https://www.visir.is/g/20262946451d/keyrdi-a-og-fludi-en-skildi-numeraplotu-eftir": {
+    "first_seen": "2026-10-09T19:10:46.185167+00:00",
+    "record": {
+      "id": "55c1ab534d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-09",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946451d/keyrdi-a-og-fludi-en-skildi-numeraplotu-eftir",
+      "title": "Keyrði á og flúði en skildi númeraplötu eftir",
+      "sum": "Tilkynnt var um árekstur þar sem ökumaður eins bílsins flúði vettvang og brunaði burt. Hann hafði þó ekki erindi sem erfiði með þessu uppátæki sínu því númeraplatan hans losnaði við áreksturinn og varð eftir á vettvangi."
+    }
+  },
+  "https://www.visir.is/g/20262946131d/njardvik-tindastoll-gestirnir-koma-heitir-fra-evropu": {
+    "first_seen": "2026-10-09T19:10:46.185167+00:00",
+    "record": {
+      "id": "45a0dc03de",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-09",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946131d/njardvik-tindastoll-gestirnir-koma-heitir-fra-evropu",
+      "title": "Njarð­vík - Tinda­stóll | Gestirnir koma heitir frá Evrópu",
+      "sum": "Hér fer fram textalýsing frá leik Njarðvíkur og Tindastóls í fyrstu umferð Bónus-deildar karla í körfubolta. Flautað verður til leiks í IceMar-höllinni klukkan 19.00. Leikurinn er sýndur í beinni útsendingu á Sýn Sport Ísland 2."
+    }
+  },
+  "https://www.visir.is/g/20262946417d/katrin-ekki-i-forsetaslaginn-og-deilur-skekja-asi-fyrir-thing": {
+    "first_seen": "2026-10-09T19:10:46.185167+00:00",
+    "record": {
+      "id": "8c26cd82ad",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-09",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946417d/katrin-ekki-i-forsetaslaginn-og-deilur-skekja-asi-fyrir-thing",
+      "title": "Katrín ekki í forsetaslaginn og deilur skekja ASÍ fyrir þing",
+      "sum": "Rætt hefur verið við Katrínu Jakobsdóttur, fyrrverandi forsætisráðherra, um að bjóða sig fram til forseta Alþýðusambands Íslands. Hún staðfestir að hún ætli ekki fram. Nýr forseti verður kjörinn á þingi sambandsins í næstu viku."
+    }
+  },
+  "https://www.visir.is/g/20262944648d/bein-utsending-af-minkum-og-monnum": {
+    "first_seen": "2026-10-09T19:10:46.185167+00:00",
+    "record": {
+      "id": "3d212d1243",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-09",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262944648d/bein-utsending-af-minkum-og-monnum",
+      "title": "Bein út­sending: Af minkum og mönnum",
+      "sum": "Samtök um dýravelferð, Humane World for Animals og Norræna húsið standa fyrir málþingi um loðdýrarækt á Íslandi í dag. Þar verður meðal annars fjallað um stöðu greinarinnar, þróun hennar síðasta áratug, dýravelferð, efnahagslega þætti og hvað framtíðin kunni að bera í skauti sér."
     }
   }
 }
