@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -6777,6 +6777,66 @@
       "url": "https://www.visir.is/g/20262944648d/bein-utsending-af-minkum-og-monnum",
       "title": "Bein út­sending: Af minkum og mönnum",
       "sum": "Samtök um dýravelferð, Humane World for Animals og Norræna húsið standa fyrir málþingi um loðdýrarækt á Íslandi í dag. Þar verður meðal annars fjallað um stöðu greinarinnar, þróun hennar síðasta áratug, dýravelferð, efnahagslega þætti og hvað framtíðin kunni að bera í skauti sér."
+    }
+  },
+  "https://www.visir.is/g/20262946489d/afall-fyrir-tindastol-eg-er-ekki-laeknir-en-thetta-leit-illa-ut-": {
+    "first_seen": "2026-10-10T01:25:37.089109+00:00",
+    "record": {
+      "id": "ed2eef5cee",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-09",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946489d/afall-fyrir-tindastol-eg-er-ekki-laeknir-en-thetta-leit-illa-ut-",
+      "title": "Á­fall fyrir Tinda­stól: „Ég er ekki læknir en þetta leit illa út“",
+      "sum": "Adomas Drungilas, leikmaður Tindastóls, virtist meiðast illa í leik gegn Njarðvík í fyrstu umferð Bónus deildar karla í körfubolta í kvöld."
+    }
+  },
+  "https://www.visir.is/g/20262946477d/-erfitt-ad-koma-i-thetta-hus-og-saekja-sigur-": {
+    "first_seen": "2026-10-10T01:25:37.089109+00:00",
+    "record": {
+      "id": "c5f5ac1256",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-09",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946477d/-erfitt-ad-koma-i-thetta-hus-og-saekja-sigur-",
+      "title": "„Erfitt að koma í þetta hús og sækja sigur“",
+      "sum": "Tindastóll vann góðan átta stiga sigur 77-85 á Njarðvík í fyrstu umferð Bónus deild karla sem lauk í kvöld. Sigtryggur Arnar Björnsson ræddi við Vísi eftir leik."
+    }
+  },
+  "https://www.visir.is/g/20262946131d/uppgjorid-njardvik-tindastoll-77-85-vinna-i-deildum-evropu-og-her-heima": {
+    "first_seen": "2026-10-10T01:25:37.089109+00:00",
+    "record": {
+      "id": "02200b2d88",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-09",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946131d/uppgjorid-njardvik-tindastoll-77-85-vinna-i-deildum-evropu-og-her-heima",
+      "title": "Upp­gjörið: Njarð­vík - Tinda­stóll 77-85 | Vinna í deildum Evrópu og hér heima",
+      "sum": "Tindastóll hóf tímabil sitt í Bónus deild karla í körfubolta á útisigri gegn Njarðvík í leik sem bauð upp á meiri spennu en menn bjuggust við fyrirfram. Lokatölur 77-85, átta stiga sigur Tindastóls sem hefur farið sigurför um ENBL deildina í upphafi tímabils og heldur nú uppteknum hætti hér heima í Bónus deildinni."
+    }
+  },
+  "https://www.visir.is/g/20262946405d/vance-bidlar-til-ungra-reidra-manna": {
+    "first_seen": "2026-10-10T01:25:37.089109+00:00",
+    "record": {
+      "id": "2b588b1941",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-09",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946405d/vance-bidlar-til-ungra-reidra-manna",
+      "title": "Vance biðlar til ungra reiðra manna",
+      "sum": "Af þeim hópum kjósenda sem skiptu hvað mestu máli við að koma Donald Trump aftur til valda voru ungir menn meðal þeirra áhrifamestu. Margir þeirra segjast hins vegar hafa snúið baki við Trump og hafa lýst yfir reiði í garð ríkisstjórnar hans vegna stríðsins gegn Íran, hækkandi verðlags og annarra atriða."
     }
   }
 }
