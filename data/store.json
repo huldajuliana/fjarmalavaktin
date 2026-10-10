@@ -7018,5 +7018,50 @@
       "title": "Banda­ríkin fjár­festi í stríðs­rekstri Pútíns",
       "sum": "Volódímír Selenskí Úkraínuforseti gagnrýnir harðlega samkomulag Donalds Trump Bandaríkjaforseta um kaup á rússneskri díselolíu. Hann segir samninginn gjöf til Vladimírs Pútíns Rússlandsforseta og fjárfestingu í áframhaldandi stríði."
     }
+  },
+  "https://www.visir.is/g/20262946146d/stjarnan-ka-0-3-halda-ser-ofan-fallsvaedis": {
+    "first_seen": "2026-10-10T18:08:49.561130+00:00",
+    "record": {
+      "id": "38c941a671",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946146d/stjarnan-ka-0-3-halda-ser-ofan-fallsvaedis",
+      "title": "Stjarnan - KA 0-3 | Halda sér ofan fallsvæðis",
+      "sum": "KA vann öruggan þriggja marka sigur á Stjörnunni á Samsungvellinum í Garðabæ í Bestu deild karla í dag. Hallgrímur Mar Steingrímsson og Adam Ægir Pálsson skoruðu í fyrri hálfleik áður en varamaðurinn Valdimar Logi Sævarsson innsiglaði sigurinn eftir að heimamenn misstu mann af velli."
+    }
+  },
+  "https://www.visir.is/g/20262946633d/hvert-fara-milljardarnir-og-hver-hjalpar-folki-ut-ur-neyslunni-": {
+    "first_seen": "2026-10-10T18:08:49.561130+00:00",
+    "record": {
+      "id": "1bdc424e6c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-10-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946633d/hvert-fara-milljardarnir-og-hver-hjalpar-folki-ut-ur-neyslunni-",
+      "title": "Hvert fara milljarðarnir og hver hjálpar fólki út úr neyslunni?",
+      "sum": "Milljörðum króna af almannafé er árlega varið til úrræða vegna vímuefnavanda. Fjármunirnir renna til opinberra stofnana, fyrirtækja og félagasamtaka sem sinna meðal annars skaðaminnkun, neyðarþjónustu, meðferð og stuðningi við bata."
+    }
+  },
+  "https://www.visir.is/g/20262946638d/halla-aetli-ad-solsa-undir-sig-asi": {
+    "first_seen": "2026-10-10T18:08:49.561130+00:00",
+    "record": {
+      "id": "c64d394fe4",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946638d/halla-aetli-ad-solsa-undir-sig-asi",
+      "title": "Halla ætli að sölsa undir sig ASÍ",
+      "sum": "Sólveig Anna Jónsdóttir formaður Eflingar segist telja Höllu Gunnarsdóttur formann VR munu gera tilraun til að sölsa undir sig Alþýðusambands Íslands á aðalþingi sambandsins í næstu viku."
+    }
   }
 }
