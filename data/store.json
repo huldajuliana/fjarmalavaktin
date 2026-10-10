@@ -6838,5 +6838,185 @@
       "title": "Vance biðlar til ungra reiðra manna",
       "sum": "Af þeim hópum kjósenda sem skiptu hvað mestu máli við að koma Donald Trump aftur til valda voru ungir menn meðal þeirra áhrifamestu. Margir þeirra segjast hins vegar hafa snúið baki við Trump og hafa lýst yfir reiði í garð ríkisstjórnar hans vegna stríðsins gegn Íran, hækkandi verðlags og annarra atriða."
     }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/10/raunvirdi_utflutnings_a_nidurleid/": {
+    "first_seen": "2026-10-10T15:23:34.426823+00:00",
+    "record": {
+      "id": "89a22ed8ab",
+      "cat": "hagvoxtur",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-10",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/10/raunvirdi_utflutnings_a_nidurleid/",
+      "title": "Raunvirði útflutnings á niðurleið",
+      "sum": "„Útflutningurinn hefur farið vaxandi að nafnvirði en mælt í raunvirði erum við að horfa á tæplega 5% samdrátt frá 2018 og takist okkur ekki að snúa þessari þróun við er það einfaldlega ávísun á lakari framtíðarlífskjör í landinu“"
+    }
+  },
+  "https://www.visir.is/g/20262946614d/rikid-hefur-gert-sig-ad-ritstjora": {
+    "first_seen": "2026-10-10T15:23:34.426823+00:00",
+    "record": {
+      "id": "d114a917c2",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946614d/rikid-hefur-gert-sig-ad-ritstjora",
+      "title": "Ríkið hefur gert sig að rit­stjóra",
+      "sum": "Flettu blaði, kveiktu á útvarpinu eða skrunaðu niður fréttavef. Þú lest um átök á Alþingi og hækkun stýrivaxta. En þú lest líka um konuna sem missti manninn sinn, unga föðurinn sem greindist með krabbamein, húsnæðismarkaðinn, nýja veitingastaði og arkitektúr. Þetta er fjölmiðlun."
+    }
+  },
+  "https://www.visir.is/g/20262946242d/bein-utsending-samtal-um-framtidina": {
+    "first_seen": "2026-10-10T15:23:34.426823+00:00",
+    "record": {
+      "id": "e5793a3ec5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946242d/bein-utsending-samtal-um-framtidina",
+      "title": "Bein út­sending: Sam­tal um fram­tíðina",
+      "sum": "Verkefnið Samtal fer fram um helgina en markmiðið er að skapa vettvang þar sem fólk á öllum aldri getur komið saman, hlustað á hvert annað og rætt hvernig samfélag það vilji skapan saman. Verkefnið varð til að frumkvæði Höllu Tómasdóttur forseta Íslands sem jafnframt er verndari þess."
+    }
+  },
+  "https://www.visir.is/g/20262946146d/stjarnan-ka-gestirnir-thurfa-stig-i-gardabaenum": {
+    "first_seen": "2026-10-10T15:23:34.426823+00:00",
+    "record": {
+      "id": "258dd90684",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946146d/stjarnan-ka-gestirnir-thurfa-stig-i-gardabaenum",
+      "title": "Stjarnan - KA | Gestirnir þurfa stig í Garða­bænum",
+      "sum": "Hér fer fram textalýsing frá leik Stjörnunnar og KA í þriðju umferð efri hluta Bestu deildar karla í fótbolta. Flautað verður til leiks á Samsungvellinum klukkan 14:00. Leikurinn er sýndur í beinni útsendingu á Sýn Sport Ísland."
+    }
+  },
+  "https://www.visir.is/g/20262946544d/ovaent-truflun-i-njardvik": {
+    "first_seen": "2026-10-10T15:23:34.426823+00:00",
+    "record": {
+      "id": "76d6f5eda9",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946544d/ovaent-truflun-i-njardvik",
+      "title": "Ó­vænt truflun í Njarð­vík",
+      "sum": "Spencer Svejcar, nýliði hjá Njarðvík í Bónus-deild karla í körfubolta, hafði í nægu að snúast í fyrsta leik tímabilsins í gærkvöld. Hann þurfti að sinna föðurhlutverkinu á meðan leik stóð, samhliða spilamennskunni."
+    }
+  },
+  "https://www.visir.is/g/20262946569d/handbremsubeygja-inn-i-haustid": {
+    "first_seen": "2026-10-10T15:23:34.426823+00:00",
+    "record": {
+      "id": "5aa9c4de7b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946569d/handbremsubeygja-inn-i-haustid",
+      "title": "Hand­bremsu­beygja inn í haustið",
+      "sum": "Enn og aftur hefur ríkisstjórnin lagt fram frumvarp til laga sem allir – að Stefáni Ólafssyni félagsfræðingi undanskildum – eru sammála um að sé ígildi efnahagslegs sjálfsmarks, svo ekki sé sterkar að orði kveðið."
+    }
+  },
+  "https://www.visir.is/g/20262946573d/segir-soninn-thann-sem-bundinn-var-a-hondum-og-fotum": {
+    "first_seen": "2026-10-10T15:23:34.426823+00:00",
+    "record": {
+      "id": "72cda9d5b0",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946573d/segir-soninn-thann-sem-bundinn-var-a-hondum-og-fotum",
+      "title": "Segir soninn þann sem bundinn var á höndum og fótum",
+      "sum": "Sverrir Þór Sverrisson, betur þekktur sem Sveppi, fékk nýverið símtal sem engan foreldra langar að fá. Það var lögreglan sem hringdi sem hafði haft afskipti af syni hans. Sá hafði tapað í fjárhættuspili og refsingin varð fréttamatur allra helstu fjölmiðla landsins."
+    }
+  },
+  "https://www.visir.is/g/20262946567d/afkomuoryggi-er-forsenda-listskopunar": {
+    "first_seen": "2026-10-10T15:23:34.426823+00:00",
+    "record": {
+      "id": "f609b21d71",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946567d/afkomuoryggi-er-forsenda-listskopunar",
+      "title": "Afkomuöryggi er for­senda list­sköpunar",
+      "sum": "Bandalag íslenskra listamanna kallar eftir því að íslenska ríkið þrói stuðningskerfi sem tryggir sjálfstætt starfandi listafólki aukið afkomuöryggi milli verkefna."
+    }
+  },
+  "https://www.visir.is/g/20262946333d/sjadu-thig-taktu-eftir-breytingum": {
+    "first_seen": "2026-10-10T15:23:34.426823+00:00",
+    "record": {
+      "id": "3d84a42a08",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946333d/sjadu-thig-taktu-eftir-breytingum",
+      "title": "Sjáðu þig - taktu eftir breytingum",
+      "sum": "Bleikur október er genginn í garð og í ár hvetjum við konur til að beina athyglinni að sjálfum sér undir yfirskriftinni Sjáðu þig."
+    }
+  },
+  "https://www.visir.is/g/20262946546d/half-sagan-um-fjarmagnstekjuskatt": {
+    "first_seen": "2026-10-10T15:23:34.426823+00:00",
+    "record": {
+      "id": "95965d0117",
+      "cat": "markadir",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-10-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946546d/half-sagan-um-fjarmagnstekjuskatt",
+      "title": "Hálf sagan um fjár­magns­tekju­skatt",
+      "sum": "Í umræðum á Samstöðinni sem undirritaður tók nýlega þátt í var því haldið fram að fólk með fjármagnstekjur greiddi ekki sanngjarnan hlut í sameiginlega sjóði. Vísað var til þess að fjármagnstekjuskattur væri aðeins 22%, mun lægri en skattur á launatekjur. Sú skattprósenta segir þó aðeins hálfa söguna."
+    }
+  },
+  "https://www.visir.is/g/20262943132d/bakgardsaskorunin-islandsmeistarinn-einbeittur": {
+    "first_seen": "2026-10-10T15:23:34.426823+00:00",
+    "record": {
+      "id": "c0d5e11b89",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262943132d/bakgardsaskorunin-islandsmeistarinn-einbeittur",
+      "title": "Bakgarðsáskorunin: Íslandsmeistarinn ein­beittur",
+      "sum": "Vísir stendur fyrir Bakgarðsáskoruninni þar sem lesendum gefst tækifæri á að kynnast landsliðsfólki í Bakgarðshlaupi. Þorleifur Þorleifsson er einn þeirra."
+    }
+  },
+  "https://www.visir.is/g/20262946542d/bandarikin-fjarfesti-i-stridsrekstri-putins": {
+    "first_seen": "2026-10-10T15:23:34.426823+00:00",
+    "record": {
+      "id": "c86a0e4208",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946542d/bandarikin-fjarfesti-i-stridsrekstri-putins",
+      "title": "Banda­ríkin fjár­festi í stríðs­rekstri Pútíns",
+      "sum": "Volódímír Selenskí Úkraínuforseti gagnrýnir harðlega samkomulag Donalds Trump Bandaríkjaforseta um kaup á rússneskri díselolíu. Hann segir samninginn gjöf til Vladimírs Pútíns Rússlandsforseta og fjárfestingu í áframhaldandi stríði."
+    }
   }
 }
