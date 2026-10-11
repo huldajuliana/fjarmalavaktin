@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -7062,6 +7062,36 @@
       "url": "https://www.visir.is/g/20262946638d/halla-aetli-ad-solsa-undir-sig-asi",
       "title": "Halla ætli að sölsa undir sig ASÍ",
       "sum": "Sólveig Anna Jónsdóttir formaður Eflingar segist telja Höllu Gunnarsdóttur formann VR munu gera tilraun til að sölsa undir sig Alþýðusambands Íslands á aðalþingi sambandsins í næstu viku."
+    }
+  },
+  "https://www.visir.is/g/20262946724d/vill-nyjan-ukrainuforseta": {
+    "first_seen": "2026-10-11T00:36:50.421054+00:00",
+    "record": {
+      "id": "8b3ade6b6a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946724d/vill-nyjan-ukrainuforseta",
+      "title": "Vill nýjan Úkraínuforseta",
+      "sum": "Bandaríkjaforseti virðist ekki hafa brugðist vel við harðri gagnrýni Úkraínuforseta á dísilsamning Bandaríkjamanna og Rússa og telur að tími sé til kominn að Úkraína fái sér nýjan forseta „sem kunni að gera samninga.“"
+    }
+  },
+  "https://www.visir.is/g/20262946715d/lest-eftir-aras-tigrisdyrs-i-dyragardi": {
+    "first_seen": "2026-10-11T00:36:50.421054+00:00",
+    "record": {
+      "id": "33c71e77e0",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946715d/lest-eftir-aras-tigrisdyrs-i-dyragardi",
+      "title": "Lést eftir á­rás tígris­dýrs í dýra­garði",
+      "sum": "Maður lést eftir að tígrisdýr réðst á hann í dýragarðinum Yorkshire Wildlife Park á Englandi, að sögn lögreglu í Suður-Jórvíkurskíri. Hann er sagður hafa farið inn á afgirt svæði þar sem tígrisdýrið dvaldi."
     }
   }
 }
