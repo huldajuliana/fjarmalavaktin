@@ -7288,5 +7288,20 @@
       "title": "Bakgarðsáskorunin: Þurfti að gefa í þegar maginn sagði til sín",
       "sum": "Vísir stendur fyrir Bakgarðsáskoruninni þar sem lesendum gefst tækifæri á að kynnast landsliðsfólki í Bakgarðshlaupi. Hekla Hannesdóttir er ein þeirra."
     }
+  },
+  "https://www.visir.is/g/20262946248d/liverpool-manchester-city-0-3-hristu-kaerurnar-af-ser-og-unnu-storsigur": {
+    "first_seen": "2026-10-11T18:34:04.267793+00:00",
+    "record": {
+      "id": "b2d6019f0c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-11",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262946248d/liverpool-manchester-city-0-3-hristu-kaerurnar-af-ser-og-unnu-storsigur",
+      "title": "Liverpool - Manchester City 0-3| Hristu kærurnar af sér og unnu stór­sigur",
+      "sum": "Liverpool tók á móti Manchester City í ensku úrvalsdeildinni í dag. Leikurinn var jafn til að byrja með en eftir að Liverpool varð manni færri tóku gestirnir yfir leikinn og unnu 3-0."
+    }
   }
 }
