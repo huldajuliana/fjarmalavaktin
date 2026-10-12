@@ -7513,5 +7513,65 @@
       "title": "Engin ó­birt lof­orð eða leyni­legt sam­komu­lag",
       "sum": "Engin óbirt loforð eða leynilegt samkomulag fylgdu niðurstöðunni við VR og fagfélögin, að sögn Bjarna Benediktssonar, framkvæmdastjóra Samtaka atvinnulífsins. Hann segir enga innistæðu fyrir tortryggni Sólveigar Önnu Jónsdóttur, formanns Eflingar, og segist treysta sér til áframhaldandi samstarfs við …"
     }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/12/hafa_motad_hvernig_sedlabankar_starfa/": {
+    "first_seen": "2026-10-12T21:56:16.121450+00:00",
+    "record": {
+      "id": "482a0ca851",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/12/hafa_motad_hvernig_sedlabankar_starfa/",
+      "title": "Hafa mótað hvernig seðlabankar starfa",
+      "sum": "Varaseðlabankastjóri peningastefnu segir framlag Hall og Woodford hafa verið mikilvægt fyrir mótun nútímahagfræði og aðferðafræði hennar."
+    }
+  },
+  "https://www.visir.is/g/20262947351d/leik-lokid-kr-njardvik-97-115-fyrsta-tap-kr-inga-gegn-islandsmeisturunum": {
+    "first_seen": "2026-10-12T21:56:16.121450+00:00",
+    "record": {
+      "id": "531f3791a0",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947351d/leik-lokid-kr-njardvik-97-115-fyrsta-tap-kr-inga-gegn-islandsmeisturunum",
+      "title": "Leik lokið: KR-Njarðvík 97-115 | Fyrsta tap KR-inga gegn Íslandsmeisturunum",
+      "sum": "Íslandsmeistarar Njarðvíkur unnu 18 stiga sigur gegn KR-ingum 97-115. Jafnræði var með liðunum í fyrri hálfleik en Njarðvíkingar settu í annan gír í seinni hálfleik sem skilaði sigri. Uppgjör og viðtöl væntanleg."
+    }
+  },
+  "https://www.visir.is/g/20262947442d/brytur-tiu-prosenta-murinn-i-skaga-og-faer-heimild-til-virks-eignarhlutar": {
+    "first_seen": "2026-10-12T21:56:16.121450+00:00",
+    "record": {
+      "id": "d3f19bc90c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947442d/brytur-tiu-prosenta-murinn-i-skaga-og-faer-heimild-til-virks-eignarhlutar",
+      "title": "Brýtur tíu pró­senta múrinn í Skaga og fær heimild til virks eignar­hlutar",
+      "sum": "Fjárfestingafélag Bjarna Ármannssonar hefur fengið heimild frá Seðlabankanum til að fara með yfir tíu prósenta eignarhlut í Skaga, sem á meðal annars VÍS og Fossar fjárfestingabanka, eftir að hafa stækkað enn frekar stöðu sína í félaginu."
+    }
+  },
+  "https://www.visir.is/g/20262947411d/nad-ad-bua-til-vid-a-moti-ollum-stemningu": {
+    "first_seen": "2026-10-12T21:56:16.121450+00:00",
+    "record": {
+      "id": "395d255832",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947411d/nad-ad-bua-til-vid-a-moti-ollum-stemningu",
+      "title": "Náð að búa til „við á móti öllum“-stemningu",
+      "sum": "Flottur sigur Manchester City á Anfield í gær og önnur afrek liðsins falla nú í skuggann á umræðunni um afar umfangsmikil brot félagsins á fjármálareglum ensku úrvalsdeildarinnar. En hvaða áhrif hefur umræðan á þjálfara og leikmenn liðsins?"
+    }
   }
 }
