@@ -7318,5 +7318,200 @@
       "title": "Tígris­dýrið verður ekki af­lífað",
       "sum": "Tígrisdýrið Altai sem varð manni að bana í dýragarði eftir að hann fór inn á afgirt svæði dýrsins í gær verður ekki aflífað."
     }
+  },
+  "https://asi.is/47-thing-asi-hefst-a-midvikudag-med-opnu-malthingi/": {
+    "first_seen": "2026-10-12T19:04:29.317663+00:00",
+    "record": {
+      "id": "e9b0bca19b",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "ASÍ",
+      "url": "https://asi.is/47-thing-asi-hefst-a-midvikudag-med-opnu-malthingi/",
+      "title": "47. þing ASÍ hefst á miðvikudag með opnu málþingi",
+      "sum": "Opin dagskrá við setningu þingsins, miðvikudaginn 14. október kl. 10–13 47. þing Alþýðusambands Íslands fer fram dagana 14.–16. október og í tilefni af því verður haldið málþing, opið öllum, miðvikudaginn 14. október kl. 10–13 í hátíðarsal Hilton Reykjavík."
+    }
+  },
+  "https://www.mbl.is/frettir/erlent/2026/10/12/segja_deloitte_hafa_adstodad_vid_skjalafals/": {
+    "first_seen": "2026-10-12T19:04:29.317663+00:00",
+    "record": {
+      "id": "7665a2c17b",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/erlent/2026/10/12/segja_deloitte_hafa_adstodad_vid_skjalafals/",
+      "title": "Segja Deloitte hafa aðstoðað við skjalafals",
+      "sum": "Stærsta endurskoðunarfyrirtæki heims aðstoðaði við að falsa skjöl til að fela auðæfi Romans Abramovich og komast hjá skattgreiðslum, samkvæmt niðurstöðum BBC Panorama."
+    }
+  },
+  "https://www.visir.is/g/20262947351d/i-beinni-kr-njardvik-heldur-sigurganga-kr-afram-": {
+    "first_seen": "2026-10-12T19:04:29.317663+00:00",
+    "record": {
+      "id": "164275f3c4",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947351d/i-beinni-kr-njardvik-heldur-sigurganga-kr-afram-",
+      "title": "Í beinni: KR-Njarðvík | Heldur sigur­ganga KR á­fram?",
+      "sum": "Vísir er með beina textalýsingu frá leik KR og Njarðvíkur í Bónus deild kvenna."
+    }
+  },
+  "https://www.visir.is/g/20262947388d/domurinn-segi-ekki-alla-soguna": {
+    "first_seen": "2026-10-12T19:04:29.317663+00:00",
+    "record": {
+      "id": "cc1d6f2c35",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947388d/domurinn-segi-ekki-alla-soguna",
+      "title": "Dómurinn segi ekki alla söguna",
+      "sum": "Sverrir Einar Eiríksson, skemmtistaða- og áfengisverslunareigandi, segir mikilvægt að ábyrgð á beitingu opinbers valds sé tekin alvarlega en hann var í dag dæmdur í tveggja ára fangelsi fyrir meiriháttar skattalagabrot, meðal annars í rekstri skemmtistaðarins B í Bankastræti."
+    }
+  },
+  "https://www.visir.is/g/20262947314d/vilja-setja-25-ara-thak-a-verdtryggd-lan-fra-aramotum": {
+    "first_seen": "2026-10-12T19:04:29.317663+00:00",
+    "record": {
+      "id": "fcbd8269ef",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947314d/vilja-setja-25-ara-thak-a-verdtryggd-lan-fra-aramotum",
+      "title": "Vilja setja 25 ára þak á verð­tryggð lán frá ára­mótum",
+      "sum": "Verðtryggð húsnæðislán verða almennt ekki veitt til lengri tíma en 25 ára frá næstu áramótum. Áformin taka til nýrra lánveitinga og gera ekki ráð fyrir að eldri lán verði stytt."
+    }
+  },
+  "https://www.visir.is/g/20262947304d/baer-i-vexti-nytt-adalskipulag-hafnarfjardar": {
+    "first_seen": "2026-10-12T19:04:29.317663+00:00",
+    "record": {
+      "id": "7cf82de963",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947304d/baer-i-vexti-nytt-adalskipulag-hafnarfjardar",
+      "title": "Bær í vexti - nýtt aðal­skipu­lag Hafnar­fjarðar",
+      "sum": "Nýtt aðalskipulag Hafnarfjarðar var samþykkt á síðasta bæjarstjórnarfundi og gildir til ársins 2040. Markmið þess er að Hafnarfjörður sé eftirsóknarverður staður til að búa og starfa í."
+    }
+  },
+  "https://www.visir.is/g/20262947197d/drungilas-lengi-fra-thetta-er-drullufult-": {
+    "first_seen": "2026-10-12T19:04:29.317663+00:00",
+    "record": {
+      "id": "c584d0f88f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947197d/drungilas-lengi-fra-thetta-er-drullufult-",
+      "title": "Drungilas lengi frá: „Þetta er drullufúlt“",
+      "sum": "Adomis Drungilas, leikmaður Tindastóls, verður frá keppni næstu vikurnar eftir að hafa meiðst á ökkla í leik gegn Njarðvík í fyrstu umferð Bónus deildarinnar á síðasta föstudag."
+    }
+  },
+  "https://www.visir.is/g/20262947293d/daemdur-fyrir-skattsvik-vegna-b": {
+    "first_seen": "2026-10-12T19:04:29.317663+00:00",
+    "record": {
+      "id": "58c04fd8a8",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947293d/daemdur-fyrir-skattsvik-vegna-b",
+      "title": "Dæmdur fyrir skatt­svik vegna B",
+      "sum": "Skemmtistaða- og áfengisverslunareigandi var dæmdur í tveggja ára fangelsi fyrir meiriháttar skattalagabrot, meðal annars í rekstri skemmtistaðarins B í Bankastræti. Hann þarf að afplána þrjá mánuði af fangelsisrefsingunni og greiða meira en hundrað milljónir í sekt."
+    }
+  },
+  "https://www.visir.is/g/20262947220d/personulegt-nid-skilar-engum-arangri": {
+    "first_seen": "2026-10-12T19:04:29.317663+00:00",
+    "record": {
+      "id": "939bb2d757",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947220d/personulegt-nid-skilar-engum-arangri",
+      "title": "Per­sónu­legt níð skilar engum árangri",
+      "sum": "Þegar kjarasamningar eru í höfn getur myndast togstreita um það hver hafi náð árangri, hvaða aðferð hafi skilað mestum árangri og hver eigi að njóta viðurkenningar fyrir vinnuna."
+    }
+  },
+  "https://www.visir.is/g/20262947278d/samstada-um-sudurnesin-sem-drifkraft-vaxtar": {
+    "first_seen": "2026-10-12T19:04:29.317663+00:00",
+    "record": {
+      "id": "73ebb06c70",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947278d/samstada-um-sudurnesin-sem-drifkraft-vaxtar",
+      "title": "Sam­staða um Suður­nesin sem drif­kraft vaxtar",
+      "sum": "Suðurnesin hafa verið eitt mesta vaxtarsvæði landsins undanfarin ár. Íbúum hefur fjölgað hratt samhliða uppbyggingu atvinnulífs sem reiðir sig að stórum hluta á flug- og ferðaþjónustu."
+    }
+  },
+  "https://www.visir.is/g/20262947215d/hvad-faer-island-fyrir-fiskeldi-": {
+    "first_seen": "2026-10-12T19:04:29.317663+00:00",
+    "record": {
+      "id": "a2a70c787e",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947215d/hvad-faer-island-fyrir-fiskeldi-",
+      "title": "Hvað fær Ís­land fyrir fisk­eldi?",
+      "sum": "Það eru ekki nema rétt um 10 ár síðan laxeldi í sjókvíuum hér við land varð að atvinnugrein sem munar um. Aðstæður eru góðar, vaxtarmöguleikar miklir og laxeldið er arðvænlegt."
+    }
+  },
+  "https://www.visir.is/g/20262947260d/inga-lind-selur-rauda-einbylishusid": {
+    "first_seen": "2026-10-12T19:04:29.317663+00:00",
+    "record": {
+      "id": "508df7e93c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947260d/inga-lind-selur-rauda-einbylishusid",
+      "title": "Inga Lind selur rauða ein­býlis­húsið",
+      "sum": "Inga Lind Karlsdóttir fjölmiðlakona hefur sett einbýlishús sitt við Barónsstíg í miðbæ Reykjavíkur á sölu eftir tveggja ára dvöl í húsinu. Hún keypti húsið eftir sögulega sölu á einbýlishúsi við Mávanes í Garðabæ á 850 milljónir króna."
+    }
+  },
+  "https://www.visir.is/g/20262947225d/engin-obirt-loford-eda-leynilegt-samkomulag": {
+    "first_seen": "2026-10-12T19:04:29.317663+00:00",
+    "record": {
+      "id": "394109d1b5",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947225d/engin-obirt-loford-eda-leynilegt-samkomulag",
+      "title": "Engin ó­birt lof­orð eða leyni­legt sam­komu­lag",
+      "sum": "Engin óbirt loforð eða leynilegt samkomulag fylgdu niðurstöðunni við VR og fagfélögin, að sögn Bjarna Benediktssonar, framkvæmdastjóra Samtaka atvinnulífsins. Hann segir enga innistæðu fyrir tortryggni Sólveigar Önnu Jónsdóttur, formanns Eflingar, og segist treysta sér til áframhaldandi samstarfs við …"
+    }
   }
 }
