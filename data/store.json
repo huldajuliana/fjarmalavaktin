@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -7302,6 +7302,21 @@
       "url": "https://www.visir.is/g/20262946248d/liverpool-manchester-city-0-3-hristu-kaerurnar-af-ser-og-unnu-storsigur",
       "title": "Liverpool - Manchester City 0-3| Hristu kærurnar af sér og unnu stór­sigur",
       "sum": "Liverpool tók á móti Manchester City í ensku úrvalsdeildinni í dag. Leikurinn var jafn til að byrja með en eftir að Liverpool varð manni færri tóku gestirnir yfir leikinn og unnu 3-0."
+    }
+  },
+  "https://www.visir.is/g/20262947035d/tigrisdyrid-verdur-ekki-aflifad": {
+    "first_seen": "2026-10-12T00:53:14.396891+00:00",
+    "record": {
+      "id": "b78e704a0a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-11",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947035d/tigrisdyrid-verdur-ekki-aflifad",
+      "title": "Tígris­dýrið verður ekki af­lífað",
+      "sum": "Tígrisdýrið Altai sem varð manni að bana í dýragarði eftir að hann fór inn á afgirt svæði dýrsins í gær verður ekki aflífað."
     }
   }
 }
