@@ -7873,5 +7873,50 @@
       "title": "Skila­boð Trumps til Úkraínu eru nú skýrari en nokkru sinni fyrr",
       "sum": "Aðgerðir Bandaríkjaforseta síðustu þrjá sólarhringa virðast miða að því að þvinga stjórnvöld í Kænugarði til uppgjafar."
     }
+  },
+  "https://www.visir.is/g/20262947938d/adgerd-pafa-gekk-vel": {
+    "first_seen": "2026-10-13T20:00:22.221853+00:00",
+    "record": {
+      "id": "9ed5bf53b7",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-13",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947938d/adgerd-pafa-gekk-vel",
+      "title": "Að­gerð páfa gekk vel",
+      "sum": "Aðgerð Leós páfa til að fjarlægja hnút í lunga gekk vel, að sögn Páfagarðs. Páfi er kominn aftur á sjúkrastofu sína en öllum verkefnum hans hefur verið frestað fram til 20. október meðan hann jafnar sig."
+    }
+  },
+  "https://www.visir.is/g/20262947926d/for-ur-bilnum-og-hljop-undan-logreglu": {
+    "first_seen": "2026-10-13T20:00:22.221853+00:00",
+    "record": {
+      "id": "fa1e7d36ed",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-13",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947926d/for-ur-bilnum-og-hljop-undan-logreglu",
+      "title": "Fór úr bílnum og hljóp undan lög­reglu",
+      "sum": "Lögregla gaf ökumanni fyrirmæli um að stöðva akstur með forgangsljósum í umdæmi lögreglustöðvar tvö sem sinnir verkefnum í Hafnarfirði, Garðabæ og á Álftanesi. Þau virti hann ekki, stöðvaði þó síðar bílinn en hljóp þá af stað undan lögreglu."
+    }
+  },
+  "https://www.visir.is/g/20262947922d/tgi-fridays-lokad-og-hann-innsigladur": {
+    "first_seen": "2026-10-13T20:00:22.221853+00:00",
+    "record": {
+      "id": "e2d83f7e69",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-13",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947922d/tgi-fridays-lokad-og-hann-innsigladur",
+      "title": "TGI Fridays lokað og hann inn­siglaður",
+      "sum": "Veitingastaðnum TGI Fridays á Laugavegi var lokað og hann innsiglaður í gær að beiðni Skattsins. Lögregluinnsigli blasti við vegfarendum í morgun."
+    }
   }
 }
