@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -7572,6 +7572,66 @@
       "url": "https://www.visir.is/g/20262947411d/nad-ad-bua-til-vid-a-moti-ollum-stemningu",
       "title": "Náð að búa til „við á móti öllum“-stemningu",
       "sum": "Flottur sigur Manchester City á Anfield í gær og önnur afrek liðsins falla nú í skuggann á umræðunni um afar umfangsmikil brot félagsins á fjármálareglum ensku úrvalsdeildarinnar. En hvaða áhrif hefur umræðan á þjálfara og leikmenn liðsins?"
+    }
+  },
+  "https://www.visir.is/g/20262947467d/-eg-skil-hvad-hun-a-vid-en-thannig-virkar-rekstur-ekki-": {
+    "first_seen": "2026-10-13T02:49:01.600034+00:00",
+    "record": {
+      "id": "36fc8bae8c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947467d/-eg-skil-hvad-hun-a-vid-en-thannig-virkar-rekstur-ekki-",
+      "title": "„Ég skil hvað hún á við, en þannig virkar rekstur ekki“",
+      "sum": "Sigríður Dagný Sigurbjörnsdóttir ritstjóri Gestgjafans gefur heldur lítið fyrir ummæli nöfnu sinnar Sigríðar Daggar Auðunsdóttur formanns Blaðamannafélags Íslands í nýlegu viðtali þar sem hún minntist á blaðið."
+    }
+  },
+  "https://www.visir.is/g/20262947468d/-gridarlega-saerandi-ad-hlusta-a-thetta-": {
+    "first_seen": "2026-10-13T02:49:01.600034+00:00",
+    "record": {
+      "id": "6e8758d154",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947468d/-gridarlega-saerandi-ad-hlusta-a-thetta-",
+      "title": "„Gríðar­lega særandi að hlusta á þetta“",
+      "sum": "Þorleifur Þorleifsson, Íslandsmethafi í bakgarðshlaupi, kveðst afar sár yfir umræðu þess efnis að honum sé svo annt um Íslandsmet sitt að hann myndi viljandi hætta keppni fyrr en ella til þess að verja metið sitt."
+    }
+  },
+  "https://www.visir.is/g/20262947463d/-erum-ad-slipa-saman-lidid-": {
+    "first_seen": "2026-10-13T02:49:01.600034+00:00",
+    "record": {
+      "id": "242cfb94fc",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947463d/-erum-ad-slipa-saman-lidid-",
+      "title": "„Erum að slípa saman liðið“",
+      "sum": "Njarðvík vann átján stiga sigur gegn KR 97-115. Einar Árni Jóhannsson, þjálfari Njarðvíkur, var afar ánægður eftir leik og tók undir að þetta hafi verið besti leikur liðsins á tímabilinu."
+    }
+  },
+  "https://www.visir.is/g/20262947351d/uppgjorid-kr-njardvik-97-115-fyrsta-tap-kr-inga-gegn-islandsmeisturunum": {
+    "first_seen": "2026-10-13T02:49:01.600034+00:00",
+    "record": {
+      "id": "3e629ee827",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947351d/uppgjorid-kr-njardvik-97-115-fyrsta-tap-kr-inga-gegn-islandsmeisturunum",
+      "title": "Upp­gjörið: KR-Njarðvík 97-115 | Fyrsta tap KR-inga gegn Íslandsmeisturunum",
+      "sum": "Íslandsmeistarar Njarðvíkur unnu 18 stiga sigur gegn KR-ingum 97-115. Jafnræði var með liðunum í fyrri hálfleik en Njarðvíkingar settu í annan gír í seinni hálfleik sem skilaði sigri. Uppgjör og viðtöl væntanleg."
     }
   }
 }
