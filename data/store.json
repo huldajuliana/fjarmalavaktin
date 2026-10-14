@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -7917,6 +7917,81 @@
       "url": "https://www.visir.is/g/20262947922d/tgi-fridays-lokad-og-hann-innsigladur",
       "title": "TGI Fridays lokað og hann inn­siglaður",
       "sum": "Veitingastaðnum TGI Fridays á Laugavegi var lokað og hann innsiglaður í gær að beiðni Skattsins. Lögregluinnsigli blasti við vegfarendum í morgun."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/13/olgerdin_munum_taka_samninga_til_skodunar/": {
+    "first_seen": "2026-10-14T00:47:36.272772+00:00",
+    "record": {
+      "id": "ecad3d7f53",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-13",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/13/olgerdin_munum_taka_samninga_til_skodunar/",
+      "title": "Ölgerðin: Munum taka samninga til skoðunar",
+      "sum": "Ölgerðin ætlar að taka styrktarsamninga við nemendafélög í háskólum til skoðunar eftir umfjöllun Kveiks í kvöld um viðskiptahætti fyrirtækisins. Í þættinum var meðal annars fjallað um samninga sem takmarka viðskipti við aðra drykkjarbirgja."
+    }
+  },
+  "https://www.visir.is/g/20262947801d/stydur-republikana-med-tugum-milljarda": {
+    "first_seen": "2026-10-14T00:47:36.272772+00:00",
+    "record": {
+      "id": "c84db9ee69",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-13",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947801d/stydur-republikana-med-tugum-milljarda",
+      "title": "Styður Repúblikana með tugum milljarða",
+      "sum": "Forsvarsmenn tveggja pólitískra aðgerðanefnda (super PAC) vestanhafs eru að draga úr aðstoð sinni við að minnsta kosti tvo frambjóðendur Repúblikanaflokksins. Repúblikanar hafa mikið forskot á Demókrata þegar kemur að peningum, þótt staða þeirra þyki ekki góð."
+    }
+  },
+  "https://www.visir.is/g/20262947978d/pafinn-greindist-med-lungnakrabbamein": {
+    "first_seen": "2026-10-14T00:47:36.272772+00:00",
+    "record": {
+      "id": "e22ed5fac1",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-13",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947978d/pafinn-greindist-med-lungnakrabbamein",
+      "title": "Páfinn greindist með lungna­krabba­mein",
+      "sum": "Leó páfi hefur greinst með lungnakrabbamein. Þetta kemur fram í yfirlýsingu frá Páfagarði en neðra blað hægra lunga hans var fjarlægt í aðgerð í dag. Aðgerðin gekk vel."
+    }
+  },
+  "https://www.visir.is/g/20262947784d/vikan-lengdist-og-auglysingahle-urdu-tidari": {
+    "first_seen": "2026-10-14T00:47:36.272772+00:00",
+    "record": {
+      "id": "757511e6dc",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-13",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947784d/vikan-lengdist-og-auglysingahle-urdu-tidari",
+      "title": "Vikan lengdist og aug­lýsinga­hlé urðu tíðari",
+      "sum": "RÚV ákvað að hafa auglýsingahlé reglulega í Vikunni með Gísla Marteini þegar ljóst varð að lenging þáttarins væri komin til að vera. Útvarpsstjóri segir fleiri tónlistaratriði og áhorfendur í sal meðal ástæðna lengingarinnar."
+    }
+  },
+  "https://www.visir.is/g/20262947681d/hvetur-verkalydshreyfinguna-til-samstodu": {
+    "first_seen": "2026-10-14T00:47:36.272772+00:00",
+    "record": {
+      "id": "251e9bb241",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-13",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947681d/hvetur-verkalydshreyfinguna-til-samstodu",
+      "title": "Hvetur verka­lýðs­hreyfinguna til sam­stöðu",
+      "sum": "Kristrún Frostadóttir forsætisráðherra hvetur verkalýðshreyfinguna til samstöðu og segir að formaður VR og formaður Eflingar hafi báðar rétt fyrir sér. Skeytasendingar hafa farið á milli formannanna í fjölmiðlum eftir að samningar sigldu í höfn í lok síðustu viku."
     }
   }
 }
