@@ -8020,8 +8020,8 @@
       "date": "2026-10-14",
       "src": "ASÍ",
       "url": "https://asi.is/beint-streymi-framtid-vinnu-og-verkalydsbarattu/",
-      "title": "Beint streymi: Framtíð vinnu og verkalýðsbaráttu",
-      "sum": "47. þing Alþýðusambands Íslands hefst í dag og í tilefni af því verður haldið málþing, opið öllum, miðvikudaginn 14. október kl. 10–13 í hátíðarsal Hilton Reykjavík. Yfirskrift þingsins að þessu sinni er „Framtíð vinnu og verkalýðsbaráttu“."
+      "title": "Upptaka: Framtíð vinnu og verkalýðsbaráttu",
+      "sum": "47. þing Alþýðusambands Íslands hófst í dag og í tilefni af því var haldið málþing opið öllum. Yfirskrift þingsins að þessu sinni er „Framtíð vinnu og verkalýðsbaráttu“. Þar verður horft fram á veginn og rætt hvernig verkalýðshreyfingin ætlar að mæta þeim áskorunum sem fylgja tækni- og loftslagsbreytingum."
     }
   },
   "https://www.mbl.is/vidskipti/frettir/2026/10/14/verdbolga_a_uppleid_i_bandarikjunum/": {
@@ -8232,6 +8232,111 @@
       "url": "https://www.visir.is/g/20262948215d/deilur-vid-hollu-eigi-ser-langa-sogu",
       "title": "Deilur við Höllu eigi sér langa sögu",
       "sum": "Sólveig Anna Jónsdóttir formaður Eflingar segir það vel koma til greina að Efling segi sig úr Alþýðusambandi Íslands. Það sé hinsvegar langt og flókið ferli, hún segir deilur innan verkalýðshreyfingarinnar eiga sér langa sögu."
+    }
+  },
+  "https://www.visir.is/g/20262948507d/bandariskur-sjodarisi-selur-bankabref-fyrir-marga-milljarda": {
+    "first_seen": "2026-10-14T18:14:57.505788+00:00",
+    "record": {
+      "id": "66d5137dea",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-14",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948507d/bandariskur-sjodarisi-selur-bankabref-fyrir-marga-milljarda",
+      "title": "Banda­rískur sjóðarisi selur banka­bréf fyrir marga milljarða",
+      "sum": "Bandarískur eignastýringarrisi, sem á talsvert undir í mörgum Kauphallarfélögum hér á landi, hefur á síðustu dögum staðið að sölu fyrir samtals milljarða króna í Íslandsbanka og Arion og er á góðri leið með að losa um alla sína hluti í stóru skráðu viðskiptabönkunum."
+    }
+  },
+  "https://www.visir.is/g/20262948472d/nyr-styrktaradili-donsku-urvalsdeildarinnar-i-handbolta-umdeildur": {
+    "first_seen": "2026-10-14T18:14:57.505788+00:00",
+    "record": {
+      "id": "595f18f957",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-14",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948472d/nyr-styrktaradili-donsku-urvalsdeildarinnar-i-handbolta-umdeildur",
+      "title": "Nýr styrktaraðili dönsku úr­vals­deildarinnar í hand­bolta um­deildur",
+      "sum": "Danska úrvalsdeild karla í handbolta hefur fengið nýjan styrktaraðila sem er umdeilanlegur. Næstu þrjú ár verður aðalstyrktaraðili deildarinnar Betoro sem er veðmálasíða."
+    }
+  },
+  "https://www.visir.is/g/20262948476d/malasar-i-samstarf-vid-greenfish": {
+    "first_seen": "2026-10-14T18:14:57.505788+00:00",
+    "record": {
+      "id": "6cd1e6d269",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-14",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948476d/malasar-i-samstarf-vid-greenfish",
+      "title": "Malasar í sam­starf við GreenFish",
+      "sum": "Íslenska tæknifyrirtækið GreenFish undirritaði í dag samstarfssamning við Supratechnic, sem er hluti af USP Group Ltd., um að koma Afla, nýju smáforriti GreenFish fyrir smábátaútgerðir, á markað í Malasíu, Singapúr og Indónesíu."
+    }
+  },
+  "https://www.visir.is/g/20262948246d/kallar-25-ara-thak-a-verdtryggd-lan-syndarmennsku": {
+    "first_seen": "2026-10-14T18:14:57.505788+00:00",
+    "record": {
+      "id": "13ed3015b5",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-14",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948246d/kallar-25-ara-thak-a-verdtryggd-lan-syndarmennsku",
+      "title": "Kallar 25 ára þak á verð­tryggð lán sýndar­mennsku",
+      "sum": "Áform um að takmarka lánstíma nýrra verðtryggðra húsnæðislána við 25 ár eru sýndarmennska, segir Hildur Sverrisdóttir, þingmaður Sjálfstæðisflokksins. Arna Lára Jónsdóttir, þingmaður Samfylkingarinnar, segir breytinguna gott fyrsta skref en skoða þurfi áhrif hennar á fyrstu kaupendur og aðra hópa."
+    }
+  },
+  "https://www.visir.is/g/20262948428d/er-mikid-umframbod-a-fasteignamarkadi-": {
+    "first_seen": "2026-10-14T18:14:57.505788+00:00",
+    "record": {
+      "id": "f5342de04c",
+      "cat": "husnaedi",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": true,
+      "date": "2026-10-14",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948428d/er-mikid-umframbod-a-fasteignamarkadi-",
+      "title": "Er mikið um­fram­boð á fast­eigna­markaði?",
+      "sum": "Ásgeir Jónsson seðlabankastjóri sagði í viðtali við visi.is 7. október síðastliðinn: „Núna erum við að sjá mikið umframboð á fasteignamarkaði.“"
+    }
+  },
+  "https://www.visir.is/g/20262948437d/otholandi-leyndarhyggja-riki-um-nidurstodur-pisa-profa": {
+    "first_seen": "2026-10-14T18:14:57.505788+00:00",
+    "record": {
+      "id": "5c5c46adbc",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-14",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948437d/otholandi-leyndarhyggja-riki-um-nidurstodur-pisa-profa",
+      "title": "Ó­þolandi leyndarhyggja ríki um niður­stöður PISA-prófa",
+      "sum": "Jón Pétur Zimsen, þingmaður Sjálfstæðisflokksins, gagnrýndi harðlega þá ákvörðun ríkisstjórnarinnar að loka af niðurstöður úr PISA-prófi; hann sagði þetta ómetanlegar upplýsingar og um væri að ræða pólitíska ákvörðun."
+    }
+  },
+  "https://www.visir.is/g/20262948396d/hvad-verdur-um-martinez-eftir-gagnrynina-": {
+    "first_seen": "2026-10-14T18:14:57.505788+00:00",
+    "record": {
+      "id": "385afe0a0e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-14",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948396d/hvad-verdur-um-martinez-eftir-gagnrynina-",
+      "title": "Hvað verður um Martinez eftir gagn­rýnina?",
+      "sum": "Óvíst er hvað verður um framtíð Lissandro Martinez, leikmanns Manchester United, hjá félaginu. Hann gagnrýndi stjórn liðsins harðlega eftir leik gærkvöldsins þar sem Manchester United tapaði fyrir Atletico Madrid í Meistaradeild Evrópu."
     }
   }
 }
