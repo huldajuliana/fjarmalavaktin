@@ -8563,5 +8563,125 @@
       "title": "Biðlar til fólks að fara var­lega í vetrarfærðinni",
       "sum": "Aðalvarðstjóri hjá lögreglunni á Norðurlandi vestra biðlar til vegfarenda að fara varlega en vetrarfærð er fyrir norðan með snjó og krapi á vegum. Hann segir landshlutann hafa sloppið betur en á horfðist í óveðri gærdagsins en lögregla hafi haft áhyggjur um tíma af mikilli sjávarhæð við höfnina á Skagaströnd."
     }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/15/deloitte_segir_rikid_ofmeta_tekjur_af_skattahaekkun/": {
+    "first_seen": "2026-10-15T17:57:23.071130+00:00",
+    "record": {
+      "id": "07e5ac637f",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/15/deloitte_segir_rikid_ofmeta_tekjur_af_skattahaekkun/",
+      "title": "Deloitte segir ríkið ofmeta tekjur af skattahækkun",
+      "sum": "Ný greining Deloitte bendir til þess að ríkið kunni að ofmeta tekjur af fyrirhugaðri hækkun virðisaukaskatts á baðlón um 1,8 milljarða króna."
+    }
+  },
+  "https://www.visir.is/g/20262949055d/tillaga-um-ad-faekka-varaforsetum-felld": {
+    "first_seen": "2026-10-15T17:57:23.071130+00:00",
+    "record": {
+      "id": "bc1573317f",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949055d/tillaga-um-ad-faekka-varaforsetum-felld",
+      "title": "Til­laga um að fækka vara­for­setum felld",
+      "sum": "Tillaga um að fækka varaforsetum ASÍ úr þremur í einn var felld á þingi sambandsins með 60 prósentum atkvæða. Tvo þriðju atkvæða þurfti til að ná breytingunni í gegn en 40 prósent kjósenda greiddu atkvæði gegn tillögunni sem hefur reynst umdeild. Þetta varð ljóst rétt í þessu."
+    }
+  },
+  "https://www.visir.is/g/20262949052d/drungilas-tvifotbrotinn": {
+    "first_seen": "2026-10-15T17:57:23.071130+00:00",
+    "record": {
+      "id": "236ff1b965",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949052d/drungilas-tvifotbrotinn",
+      "title": "Drungilas tvífótbrotinn",
+      "sum": "Körfuboltalið Tindastóls varð fyrir miklu áfalli þegar miðherjinn stóri og stæðilegi Adomas Drungilas meiddist illa í leik við Njarðvík í síðustu viku. Nú er orðið skýrara hve alvarleg meiðslin eru."
+    }
+  },
+  "https://www.visir.is/g/20262948968d/ogurstund-fyrir-framtid-eflingar-innan-asi": {
+    "first_seen": "2026-10-15T17:57:23.071130+00:00",
+    "record": {
+      "id": "05cae2fa0c",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948968d/ogurstund-fyrir-framtid-eflingar-innan-asi",
+      "title": "Ögur­stund fyrir fram­tíð Eflingar innan ASÍ",
+      "sum": "Þingfundi á öðrum degi 47. þings Alþýðusambands Íslands verður frestað innan skamms en þá mun liggja fyrir hvort að tillaga sem hefur reynst einkar umdeild og hart hefur verið tekist á um hafi verið samþykkt eða felld."
+    }
+  },
+  "https://www.visir.is/g/20262949000d/lest-i-stormi-i-faereyjum": {
+    "first_seen": "2026-10-15T17:57:23.071130+00:00",
+    "record": {
+      "id": "9f0cecbf4a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949000d/lest-i-stormi-i-faereyjum",
+      "title": "Lést í stormi í Fær­eyjum",
+      "sum": "Fertugur karlmaður lést í óveðrinu sem gekk yfir Færeyjar í gær. Slysið varð í Vági á Suðurey."
+    }
+  },
+  "https://www.visir.is/g/20262948942d/haettir-vid-ad-skjota-hasan-i-beinni": {
+    "first_seen": "2026-10-15T17:57:23.071130+00:00",
+    "record": {
+      "id": "07e927a8b5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948942d/haettir-vid-ad-skjota-hasan-i-beinni",
+      "title": "Hættir við að skjóta Hasan í beinni",
+      "sum": "Nidal Malik Hasan verður ekki skotinn til bana í beinni útsendingu. Donald Trump tilkynnti þá ákvörðun sína að hætta við að streyma aftöku hans á netinu en hún hafði verið harðlega gagnrýnd úr ýmsum áttum vestanhafs."
+    }
+  },
+  "https://www.visir.is/g/20262948782d/gaedi-hjukrunarheimila-eru-maelikvardi-a-velmegun": {
+    "first_seen": "2026-10-15T17:57:23.071130+00:00",
+    "record": {
+      "id": "aca7b3d574",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948782d/gaedi-hjukrunarheimila-eru-maelikvardi-a-velmegun",
+      "title": "Gæði hjúkrunar­heimila eru mæli­kvarði á vel­megun",
+      "sum": "Þegar foreldri eða maki flytur á hjúkrunarheimili breytist margt í lífi fjölskyldunnar. Aðstandendur þurfa að geta treyst því að manneskjan sem þeim þykir vænt um fái góða umönnun."
+    }
+  },
+  "https://www.visir.is/g/20262948905d/krefjast-milljarda-vegna-barnaskola-karsness": {
+    "first_seen": "2026-10-15T17:57:23.071130+00:00",
+    "record": {
+      "id": "e8aaf43f14",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948905d/krefjast-milljarda-vegna-barnaskola-karsness",
+      "title": "Krefjast milljarða vegna Barna­skóla Kársness",
+      "sum": "Kópavogsbær hyggst sækja fullar heimtur vegna vanefnda verktaka við byggingu Barnaskóla Kársness. Krafan er upp á tæpa fjóra milljarða."
+    }
   }
 }
