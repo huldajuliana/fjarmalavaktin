@@ -8683,5 +8683,80 @@
       "title": "Krefjast milljarða vegna Barna­skóla Kársness",
       "sum": "Kópavogsbær hyggst sækja fullar heimtur vegna vanefnda verktaka við byggingu Barnaskóla Kársness. Krafan er upp á tæpa fjóra milljarða."
     }
+  },
+  "https://www.mbl.is/frettir/erlent/2026/10/15/framleidsluverdid_haekkar_umfram_vaentingar/": {
+    "first_seen": "2026-10-15T23:59:41.713521+00:00",
+    "record": {
+      "id": "693f02e87e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/erlent/2026/10/15/framleidsluverdid_haekkar_umfram_vaentingar/",
+      "title": "Framleiðsluverðið hækkar umfram væntingar",
+      "sum": "Framleiðsluverð í Bandaríkjunum hækkaði mun meira en greinendur höfðu búist við í september og var hækkunin sú mesta síðan 2022. Þetta sýna opinberar tölur sem birtar voru í dag. Stríðið í Íran varð til þess að eldsneytisverð rauk upp."
+    }
+  },
+  "https://www.visir.is/g/20262949178d/er-sunnanverdum-vestfjordum-aetlad-ad-lifa-eda-bara-ad-vera-til-a-kortinu-": {
+    "first_seen": "2026-10-15T23:59:41.713521+00:00",
+    "record": {
+      "id": "196532f84d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949178d/er-sunnanverdum-vestfjordum-aetlad-ad-lifa-eda-bara-ad-vera-til-a-kortinu-",
+      "title": "Er sunnan­verðum Vest­fjörðum ætlað að lifa — eða bara að vera til á kortinu?",
+      "sum": "Vetrarþjónusta á Dynjandisheiði lýkur klukkan 17 á virkum dögum og engin reglubundin þjónusta er um helgar. Á sama tíma búa íbúar sunnanverðra Vestfjarða við takmarkaða verslun, hátt verð og langar leiðir til að sækja þjónustu."
+    }
+  },
+  "https://www.visir.is/g/20262949147d/heill-eda-halfur-vollur-ekki-bara-upp-og-nidur-": {
+    "first_seen": "2026-10-15T23:59:41.713521+00:00",
+    "record": {
+      "id": "ae09cb1c77",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949147d/heill-eda-halfur-vollur-ekki-bara-upp-og-nidur-",
+      "title": "Heill eða hálfur völlur: „Ekki bara upp og niður“",
+      "sum": "Jakobi Erni Sigurðarsyni, þjálfara KR, var fyrst og fremst létt eftir 84-73 sigur liðsins á Njarðvík í Bónus deild karla í körfubolta vestur í bæ í kvöld. Segja má að fæðingin hafi verið erfið."
+    }
+  },
+  "https://www.visir.is/g/20262948903d/uppgjorid-kr-njardvik-84-73-vaengbrotnir-gestir-brotlentu": {
+    "first_seen": "2026-10-15T23:59:41.713521+00:00",
+    "record": {
+      "id": "ceb704f462",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948903d/uppgjorid-kr-njardvik-84-73-vaengbrotnir-gestir-brotlentu",
+      "title": "Upp­gjörið: KR - Njarð­vík 84-73 | Vængbrotnir gestir brotlentu",
+      "sum": "KR vann 84-73 heimasigur á Njarðvík í annarri umferð Bónus deildar karla í körfubolta í kvöld. Fæðingin var erfið gegn vængbrotnum Njarðvíkingum, en það hafðist á lokakaflanum."
+    }
+  },
+  "https://www.visir.is/g/20262949055d/tillaga-um-ad-faekka-varaforsetum-naumlega-felld": {
+    "first_seen": "2026-10-15T23:59:41.713521+00:00",
+    "record": {
+      "id": "af19e29504",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949055d/tillaga-um-ad-faekka-varaforsetum-naumlega-felld",
+      "title": "Til­laga um að fækka vara­for­setum naum­lega felld",
+      "sum": "Tillaga um að fækka varaforsetum ASÍ úr þremur í einn var felld á þingi sambandsins nú síðdegis. Alls féllu 60 prósent atkvæða með tillögunni en tvo þriðju þurfti til að ná lagabreytingunni í gegn sem jafngildir 66 prósentum atkvæða."
+    }
   }
 }
