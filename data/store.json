@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -8246,7 +8246,7 @@
       "src": "Vísir",
       "url": "https://www.visir.is/g/20262948507d/bandariskur-sjodarisi-selur-bankabref-fyrir-marga-milljarda",
       "title": "Banda­rískur sjóðarisi selur banka­bréf fyrir marga milljarða",
-      "sum": "Bandarískur eignastýringarrisi, sem á talsvert undir í mörgum Kauphallarfélögum hér á landi, hefur á síðustu dögum staðið að sölu fyrir samtals milljarða króna í Íslandsbanka og Arion og er á góðri leið með að losa um alla sína hluti í stóru skráðu viðskiptabönkunum."
+      "sum": "Bandarískur eignastýringarrisi, sem á talsvert undir í mörgum Kauphallarfélögum hér á landi, hefur á síðustu dögum staðið að sölu fyrir samtals milljarða króna í Íslandsbanka og Arion og er mögulega búið að losa um alla sína hluti í stóru skráðu viðskiptabönkunum."
     }
   },
   "https://www.visir.is/g/20262948472d/nyr-styrktaradili-donsku-urvalsdeildarinnar-i-handbolta-umdeildur": {
@@ -8337,6 +8337,51 @@
       "url": "https://www.visir.is/g/20262948396d/hvad-verdur-um-martinez-eftir-gagnrynina-",
       "title": "Hvað verður um Martinez eftir gagn­rýnina?",
       "sum": "Óvíst er hvað verður um framtíð Lissandro Martinez, leikmanns Manchester United, hjá félaginu. Hann gagnrýndi stjórn liðsins harðlega eftir leik gærkvöldsins þar sem Manchester United tapaði fyrir Atletico Madrid í Meistaradeild Evrópu."
+    }
+  },
+  "https://www.visir.is/g/20262948543d/flaututhristar-og-frabaer-tilthrif-hun-er-eins-og-jardyta-": {
+    "first_seen": "2026-10-15T00:13:30.223474+00:00",
+    "record": {
+      "id": "50715dee59",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-14",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948543d/flaututhristar-og-frabaer-tilthrif-hun-er-eins-og-jardyta-",
+      "title": "Flautuþristar og frá­bær tilþrif: „Hún er eins og jarð­ýta“",
+      "sum": "Frábærir flautuþristar, varin skot og hraðar hreyfingar sem gætu hreinlega valdið meiðslum mótherjanna voru á meðal þess sem sjá mátti í tilþrifum 3. umferðar Bónus-deildar kvenna í körfubolta."
+    }
+  },
+  "https://www.visir.is/g/20262948597d/orlog-elisabetar-i-hondum-fyrrverandi-markvardar-liverpool": {
+    "first_seen": "2026-10-15T00:13:30.223474+00:00",
+    "record": {
+      "id": "b61d014094",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-14",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948597d/orlog-elisabetar-i-hondum-fyrrverandi-markvardar-liverpool",
+      "title": "Ör­lög Elísa­betar í höndum fyrr­verandi mark­varðar Liver­pool",
+      "sum": "Belgíska knattspyrnusambandið vegur nú og metur stöðu Elísabetar Gunnarsdóttur og hvort að henni verði boðið að halda áfram sem þjálfari kvennalandsliðs Belgíu nú þegar HM-draumurinn er úr sögunni."
+    }
+  },
+  "https://www.visir.is/g/20262947586d/umsatur-opinberar-skuggastrid-malalida": {
+    "first_seen": "2026-10-15T00:13:30.223474+00:00",
+    "record": {
+      "id": "1510bc7c12",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-14",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947586d/umsatur-opinberar-skuggastrid-malalida",
+      "title": "Um­sátur opin­berar skuggastríð mála­liða",
+      "sum": "Málaliðar á vegum Erik Prince, stofnanda málaliðafyrirtækisins Blackwater, lentu í umsátri í Austur-Kongó í síðasta mánuði. Að minnsta kosti tuttugu málaliðar og hermenn féllu eða særðust í umsátrinu og þar á meðal maður sem barðist í UFC."
     }
   }
 }
