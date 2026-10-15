@@ -8383,5 +8383,185 @@
       "title": "Um­sátur opin­berar skuggastríð mála­liða",
       "sum": "Málaliðar á vegum Erik Prince, stofnanda málaliðafyrirtækisins Blackwater, lentu í umsátri í Austur-Kongó í síðasta mánuði. Að minnsta kosti tuttugu málaliðar og hermenn féllu eða særðust í umsátrinu og þar á meðal maður sem barðist í UFC."
     }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/15/fjarmalastjori_landsvirkjunar_segir_upp/": {
+    "first_seen": "2026-10-15T14:10:48.502192+00:00",
+    "record": {
+      "id": "efcfa94fac",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/15/fjarmalastjori_landsvirkjunar_segir_upp/",
+      "title": "Fjármálastjóri Landsvirkjunar segir upp",
+      "sum": "Rafnar Lárusson, framkvæmdastjóri fjármála og upplýsingatækni hjá Landsvirkjun, hefur sagt starfi sínu lausu hjá fyrirtækinu."
+    }
+  },
+  "https://www.visir.is/g/20262948858d/rafnar-fylgir-herdi-og-segir-upp": {
+    "first_seen": "2026-10-15T14:10:48.502192+00:00",
+    "record": {
+      "id": "2cf7e2be99",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948858d/rafnar-fylgir-herdi-og-segir-upp",
+      "title": "Rafnar fylgir Herði og segir upp",
+      "sum": "Rafnar Lárusson hefur ákveðið að láta af störfum sem fjármálastjóri Landsvirkjunar. Hann hafi ákveðið fyrir nokkrum árum að fylgja forstjóranum eftir."
+    }
+  },
+  "https://www.visir.is/g/20262948834d/finnska-hugbunadarfyrirtaekid-finago-kaupir-reglu": {
+    "first_seen": "2026-10-15T14:10:48.502192+00:00",
+    "record": {
+      "id": "fadc707483",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948834d/finnska-hugbunadarfyrirtaekid-finago-kaupir-reglu",
+      "title": "Finnska hug­búnaðar­fyrir­tækið Fina­go kaupir Reglu",
+      "sum": "Finnska hugbúnaðarfyrirtækið Finago sem jafnframt er eitt stærsta hugbúnaðarfyrirtæki Norðurlanda á sviði fjármála-, mannauðs- og rekstrarlausna hefur keypt íslenska hugbúnaðarfyrirtækið Reglu. Íslenska fyrirtækið býður skýjalausnir fyrir bókhald, launavinnslu og reikningagerð."
+    }
+  },
+  "https://www.visir.is/g/20262948785d/nidurstadan-hafi-ahrif-a-framtid-eflingar-innan-asi": {
+    "first_seen": "2026-10-15T14:10:48.502192+00:00",
+    "record": {
+      "id": "07dcd8fec7",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948785d/nidurstadan-hafi-ahrif-a-framtid-eflingar-innan-asi",
+      "title": "Niður­staðan hafi á­hrif á fram­tíð Eflingar innan ASÍ",
+      "sum": "Það ræðst í dag hvort varaforsetum Alþýðusambands Íslands verði fækkað úr þremur í einn líkt og lagt hefur verið til. Formenn Eflingar og VR gefa kost á sér í sama embætti og mikil spenna er í loftinu á þingi sambandsins sem stendur nú yfir."
+    }
+  },
+  "https://www.visir.is/g/20262948803d/siglfirdingar-standa-saman-eftir-afall-gaerdagsins-og-spenna-a-asi-thingi": {
+    "first_seen": "2026-10-15T14:10:48.502192+00:00",
+    "record": {
+      "id": "2146566953",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948803d/siglfirdingar-standa-saman-eftir-afall-gaerdagsins-og-spenna-a-asi-thingi",
+      "title": "Sigl­firðingar standa saman eftir á­fall gær­dagsins og spenna á ASÍ þingi",
+      "sum": "Íbúi á Siglufirði segir bæjarbúa standa saman í áfallinu eftir óveðrið í gær. Fjölskyldan hafi fengið skilaboð á skilaboð ofan um húsaskjól en þakið á húsi hennar fauk af í heilu lagi. Óljóst er hvenær þau geti gist í húsi sínu á ný."
+    }
+  },
+  "https://www.visir.is/g/20262948769d/milljardasparnadur-a-indlandi-aetti-ad-auka-samkeppnisforskot-hampidjunnar": {
+    "first_seen": "2026-10-15T14:10:48.502192+00:00",
+    "record": {
+      "id": "cf3d508816",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948769d/milljardasparnadur-a-indlandi-aetti-ad-auka-samkeppnisforskot-hampidjunnar",
+      "title": "Milljarða­sparnaður á Ind­landi ætti að auka samkeppnisforskot Hamp­iðjunnar",
+      "sum": "Mikil uppbygging Hampiðjunnar á Indlandi, þar sem framleiðslukostnaður er mun lægri en í Evrópu, er talin geta skilað félaginu verulegu samkeppnisforskoti og aukinni arðsemi á næstu árum."
+    }
+  },
+  "https://www.visir.is/g/20262948771d/bidja-vidskiptavini-ad-vera-a-vardbergi": {
+    "first_seen": "2026-10-15T14:10:48.502192+00:00",
+    "record": {
+      "id": "9cfef14352",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948771d/bidja-vidskiptavini-ad-vera-a-vardbergi",
+      "title": "Biðja við­skipta­vini að vera á varð­bergi",
+      "sum": "Tískurisinn ASOS biðlar til viðskiptavina sinna að vera á varðbergi gagnvart óvæntum skilaboðum eða símtölum sem sögð eru koma frá fyrirtækinu. Notendur fengu senda meldingu frá meintum tölvuþrjótum."
+    }
+  },
+  "https://www.visir.is/g/20262948741d/islenskir-kaelar-teknir-af-netinu-eftir-aras-i-frakklandi": {
+    "first_seen": "2026-10-15T14:10:48.502192+00:00",
+    "record": {
+      "id": "69a2c63fc1",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948741d/islenskir-kaelar-teknir-af-netinu-eftir-aras-i-frakklandi",
+      "title": "Ís­lenskir kælar teknir af netinu eftir á­rás í Frakk­landi",
+      "sum": "Engar tilkynningar hafa borist um að íslenskar matvöruverslanir hafi orðið fyrir barðinu á tölvuárásum á kæla sem leiddu til þess að miklu magni matvæla var hent í Frakklandi í vikunni. Íslensk fyrirtæki virðast þó hafa brugðist við tíðindunum með því að taka kæla af netinu."
+    }
+  },
+  "https://www.visir.is/g/20262948736d/olett-52-ara": {
+    "first_seen": "2026-10-15T14:10:48.502192+00:00",
+    "record": {
+      "id": "cfc7056d20",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948736d/olett-52-ara",
+      "title": "Ó­létt 52 ára",
+      "sum": "Bandaríska leikkonan Hillary Swank og eiginmaður hennar, Philip Schneider, eiga von á sínu þriðja barni í desember. Swank, sem varð 52 ára í sumar, varð fyrst móðir fyrir rúmum þremur árum þegar hún eignaðist tvíbura. Leikkonan frysti egg sín 37 ára gömul til að geta einbeitt sér að leiklistarferlinum."
+    }
+  },
+  "https://www.visir.is/g/20262948703d/breytum-ekki-bara-einkunnakvardanum-baetum-namsmatid": {
+    "first_seen": "2026-10-15T14:10:48.502192+00:00",
+    "record": {
+      "id": "23125ed434",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948703d/breytum-ekki-bara-einkunnakvardanum-baetum-namsmatid",
+      "title": "Breytum ekki bara einkunnakvarðanum – bætum náms­matið",
+      "sum": "Mennta- og barnamálaráðuneytið hefur birt í Samráðsgátt drög að bráðabirgðaákvæði (mál S-193/2026). Samkvæmt þeim fá nemendur sem ljúka grunnskóla vorið 2027 lokaeinkunnir á talnakvarðanum 4–10 í stað bókstafa. Skólarnir eiga að hafa birt endurskoðaðar skólanámskrár eigi síðar en 10. janúar 2027."
+    }
+  },
+  "https://www.visir.is/g/20262948737d/motmaelir-hardlega-vitissodatilraunum-i-hvalfirdi": {
+    "first_seen": "2026-10-15T14:10:48.502192+00:00",
+    "record": {
+      "id": "69ddc5ce0b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948737d/motmaelir-hardlega-vitissodatilraunum-i-hvalfirdi",
+      "title": "Mót­mælir harð­lega vítissóda­til­raunum í Hval­firði",
+      "sum": "Karl Gauti Hjaltason þingmaður Miðflokksins segir að á næstu dögum muni fara fram einkennileg tilraun í nágrenni höfuðborgarinnar: hella eigi átta tonnum af natríumhýdroxíði, öðru nafni vítissóda, í Hvalfjörðinn. Þetta sagði hann í dagskrárliðnum Störfum þingsins í gær."
+    }
+  },
+  "https://www.visir.is/g/20262948725d/bidlar-til-folks-ad-fara-varlega-i-vetrarfaerdinni": {
+    "first_seen": "2026-10-15T14:10:48.502192+00:00",
+    "record": {
+      "id": "28174e0fda",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948725d/bidlar-til-folks-ad-fara-varlega-i-vetrarfaerdinni",
+      "title": "Biðlar til fólks að fara var­lega í vetrarfærðinni",
+      "sum": "Aðalvarðstjóri hjá lögreglunni á Norðurlandi vestra biðlar til vegfarenda að fara varlega en vetrarfærð er fyrir norðan með snjó og krapi á vegum. Hann segir landshlutann hafa sloppið betur en á horfðist í óveðri gærdagsins en lögregla hafi haft áhyggjur um tíma af mikilli sjávarhæð við höfnina á Skagaströnd."
+    }
   }
 }
