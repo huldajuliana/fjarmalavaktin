@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -8757,6 +8757,231 @@
       "url": "https://www.visir.is/g/20262949055d/tillaga-um-ad-faekka-varaforsetum-naumlega-felld",
       "title": "Til­laga um að fækka vara­for­setum naum­lega felld",
       "sum": "Tillaga um að fækka varaforsetum ASÍ úr þremur í einn var felld á þingi sambandsins nú síðdegis. Alls féllu 60 prósent atkvæða með tillögunni en tvo þriðju þurfti til að ná lagabreytingunni í gegn sem jafngildir 66 prósentum atkvæða."
+    }
+  },
+  "https://sa.is/frettatengt/frettir/til-mikils-að-vinna-með-samþættum-norrænum-markaði": {
+    "first_seen": "2026-10-16T13:58:42.906976+00:00",
+    "record": {
+      "id": "815f7f8740",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-16",
+      "src": "Samtök atvinnulífsins",
+      "url": "https://sa.is/frettatengt/frettir/til-mikils-að-vinna-með-samþættum-norrænum-markaði",
+      "title": "Til mikils að vinna með samþættum norrænum markaði",
+      "sum": "Samþættur norrænn markaður gæti aukið landsframleiðslu Íslands um eða yfir 5%. SA og systursamtök kalla eftir afnámi óþarfa viðskiptahindrana."
+    }
+  },
+  "https://asi.is/47-thing-asi-krefst-rettlatra-umskipta-a-breyttum-vinnumarkadi/": {
+    "first_seen": "2026-10-16T13:58:42.906976+00:00",
+    "record": {
+      "id": "fd32afb993",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-16",
+      "src": "ASÍ",
+      "url": "https://asi.is/47-thing-asi-krefst-rettlatra-umskipta-a-breyttum-vinnumarkadi/",
+      "title": "47. þing ASÍ krefst réttlátra umskipta á breyttum vinnumarkaði",
+      "sum": "47. þingi Alþýðusambands Íslands, sem staðið hefur yfir á Hilton Reykjavík frá 14. október undir yfirskriftinni „Framtíð vinnu og verkalýðsbaráttu“, lýkur í dag. Þingið hefur samþykkt ályktanir um efnahagslegt og félagslegt réttlæti, um góð störf, réttindi og öryggi launafólks á breyttum vinnumarkaði og um færni …"
+    }
+  },
+  "https://asi.is/georg-pall-skulason-nyr-forseti-asi/": {
+    "first_seen": "2026-10-16T13:58:42.906976+00:00",
+    "record": {
+      "id": "f79afc939b",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-16",
+      "src": "ASÍ",
+      "url": "https://asi.is/georg-pall-skulason-nyr-forseti-asi/",
+      "title": "Georg Páll Skúlason nýr forseti ASÍ",
+      "sum": "Georg Páll Skúlasonvar var nú rétt í þessu forseti Alþýðusambands Íslands á 47. þingi sambandsins. Georg hlaut 56,2% atkvæða en mótframbjóðandi hans, Arnaldur Grétarsson, 43,8%. Georg tekur við embættinu af Finnbirni A. Hermannssyni, sem gaf ekki kost á sér til áframhaldandi setu."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/16/mun_gera_krofu_um_styttingu/": {
+    "first_seen": "2026-10-16T13:58:42.906976+00:00",
+    "record": {
+      "id": "0370fd8865",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-16",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/16/mun_gera_krofu_um_styttingu/",
+      "title": "Mun gera kröfu um styttingu",
+      "sum": "Verkafólk á almennum vinnumarkaði er eini hópurinn á íslenskum vinnumarkaði sem ekki nýtur styttingar vinnuvikunnar, segir Vilhjálmur Birgisson, formaður Starfsgreinasambandsins, í samtali við Morgunblaðið."
+    }
+  },
+  "https://www.visir.is/g/20262949481d/halla-kjorin-fyrsti-varaforseti-asi": {
+    "first_seen": "2026-10-16T13:58:42.906976+00:00",
+    "record": {
+      "id": "e73ffe62e7",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-16",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949481d/halla-kjorin-fyrsti-varaforseti-asi",
+      "title": "Halla kjörin fyrsti vara­for­seti ASÍ",
+      "sum": "Halla Gunnarsdóttir, formaður VR, var kjörin fyrsti varaforseti Alþýðusambands Íslands á 47. þingi sambandsins sem fer fram á Hilton Reykjavík."
+    }
+  },
+  "https://www.visir.is/g/20262949472d/trebutur-fannst-i-bonus-hnetublondu": {
+    "first_seen": "2026-10-16T13:58:42.906976+00:00",
+    "record": {
+      "id": "55e16b8281",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-16",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949472d/trebutur-fannst-i-bonus-hnetublondu",
+      "title": "Trébútur fannst í Bónus hnetublöndu",
+      "sum": "Aðföng, að höfðu samráði við Heilbrigðiseftirlit Reykjavíkur, hefur stöðvað sölu og innkallað frá neytendum Bónus Hnetublöndu með trönuberjum og pistasíum."
+    }
+  },
+  "https://www.visir.is/g/20262948854d/saga-og-jon-baetast-i-hop-taskmaster-keppenda": {
+    "first_seen": "2026-10-16T13:58:42.906976+00:00",
+    "record": {
+      "id": "7f9bf3fbda",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-16",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948854d/saga-og-jon-baetast-i-hop-taskmaster-keppenda",
+      "title": "Saga og Jón bætast í hóp Taskmaster-keppenda",
+      "sum": "Saga Garðarsdóttir, leikkona og uppistandari, og Jón Jónsson, einn vinsælasti tónlistarmaður þjóðarinnar, verða í hópi keppenda í nýrri þáttaröð af Taskmaster Ísland sem sýnd verður á Sýn+ í vor."
+    }
+  },
+  "https://www.visir.is/g/20262947335d/utilegumadurinn-bydur-nu-meira-en-ferdavagna-og-utivistarbunad": {
+    "first_seen": "2026-10-16T13:58:42.906976+00:00",
+    "record": {
+      "id": "b45c39ad2c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-16",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262947335d/utilegumadurinn-bydur-nu-meira-en-ferdavagna-og-utivistarbunad",
+      "title": "Úti­legu­maðurinn býður nú meira en ferða­vagna og úti­vistar­búnað",
+      "sum": "Ferðalög um Ísland hafa lengi skipað stóran sess hjá landsmönnum og fátt bendir til þess að áhuginn sé á undanhaldi. Þvert á móti segir Hrafnhildur Harðardóttir, markaðsstjóri Útilegumannsins, hóp þeirra sem ferðast um landið með tjaldvagna, fellihýsi, hjólhýsi og húsbíla sífellt verða stærri og fjölbreyttari."
+    }
+  },
+  "https://www.visir.is/g/20262949386d/nyr-forseti-asi-umdeildur-syknudomur-og-snjoll-markadsbrella": {
+    "first_seen": "2026-10-16T13:58:42.906976+00:00",
+    "record": {
+      "id": "ca2f87860b",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-16",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949386d/nyr-forseti-asi-umdeildur-syknudomur-og-snjoll-markadsbrella",
+      "title": "Nýr for­seti ASÍ, um­deildur sýknudómur og snjöll markaðsbrella",
+      "sum": "Georg Páll Skúlason, formaður Grafíu, var kjörinn nýr forseti Alþýðusambands Íslands á 47. þingi ASÍ fyrir rétt rúmri klukkustund. Georg bar sigur úr býtum með 162 atkvæðum á móti 127 atkvæðum, Arnaldar Grétarssonar, mannfræðings. Georg tekur því við af Finnbirni Hermannssyni sem forseti ASÍ næstu tvö árin."
+    }
+  },
+  "https://www.visir.is/g/20262949385d/sakar-radherra-um-fordoma-og-hvita-forrettindablindu-": {
+    "first_seen": "2026-10-16T13:58:42.906976+00:00",
+    "record": {
+      "id": "a8c70a8418",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-16",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949385d/sakar-radherra-um-fordoma-og-hvita-forrettindablindu-",
+      "title": "Sakar ráð­herra um for­dóma og „hvíta forréttindablindu“",
+      "sum": "María Björk Einarsdóttir, forstjóri Ása, gagnrýnir harðlega áform Þorbjargar Sigríðar Gunnlaugsdóttur dómsmálaráðherra um að afnema dvalarleyfi fyrir au pair frá ríkjum utan EES. Hún segir tillöguna fordómafulla og að hún lykti af „hvítri forréttindablindu“."
+    }
+  },
+  "https://www.visir.is/g/20262949307d/hleypur-i-skardid-vegna-personulegra-mala-reeves": {
+    "first_seen": "2026-10-16T13:58:42.906976+00:00",
+    "record": {
+      "id": "6c78436748",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-16",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949307d/hleypur-i-skardid-vegna-personulegra-mala-reeves",
+      "title": "Hleypur í skarðið vegna per­sónu­legra mála Reeves",
+      "sum": "Leikstjórinn Steven Soderbergh mun klára kvikmyndina The Batman: Part II vegna fjölskyldumála leikstjórans Matt Reeves. Fyrri myndin kom út vorið 2022 og átti framhaldið að koma út þremur árum síðar en útgáfunni hefur verið seinkað í þrígang til ársbyrjunar 2028."
+    }
+  },
+  "https://www.visir.is/g/20262949288d/georg-pall-er-naesti-forseti-asi": {
+    "first_seen": "2026-10-16T13:58:42.906976+00:00",
+    "record": {
+      "id": "01302cfc6c",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-16",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949288d/georg-pall-er-naesti-forseti-asi",
+      "title": "Georg Páll er næsti for­seti ASÍ",
+      "sum": "Georg Páll Skúlason, formaður Grafíu, var kjörinn nýr forseti Alþýðusambands Íslands á 47. þingi ASÍ núna rétt fyrir klukkan ellefu. Georg bar sigur úr býtum með 162 atkvæði á móti 127 atkvæðum og tekur því við af Finnbirni Hermannssyni sem forseti ASÍ næstu tvö árin."
+    }
+  },
+  "https://www.visir.is/g/20262949257d/fyrirlidi-chelsea-undir-hnifinn": {
+    "first_seen": "2026-10-16T13:58:42.906976+00:00",
+    "record": {
+      "id": "5eef7d1472",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-16",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949257d/fyrirlidi-chelsea-undir-hnifinn",
+      "title": "Fyrir­liði Chelsea undir hnífinn",
+      "sum": "Reece James, fyrir­liði enska úr­vals­deildar­félagsins Chelsea, hefur gengist undir minni­háttar að­gerð á hné sökum meiðsla sem hann varð fyrir á æfingu með liði sínu."
+    }
+  },
+  "https://www.visir.is/g/20262949303d/uppgangurinn-i-valdatid-verkstjornar-valkyrjanna": {
+    "first_seen": "2026-10-16T13:58:42.906976+00:00",
+    "record": {
+      "id": "e689ba4604",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-16",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949303d/uppgangurinn-i-valdatid-verkstjornar-valkyrjanna",
+      "title": "Upp­gangurinn í valda­tíð verkstjórnar valkyrjanna",
+      "sum": "Millistjórnandinn leiddi að því líkum í síðustu viku að þegar allt verður yfirstaðið verði bremsufar Ragnars Þórs Ingólfssonar, félags- og húsnæðismálaráðherra, áberandi víða í samfélaginu. Verður það að teljast nokkuð afrek hjá félagsmálaráðherranum í viðleitni sinni við að koma böndum á verðbólgu."
+    }
+  },
+  "https://www.visir.is/g/20262949235d/bakgardur-i-rigningu-og-roki-stjorna-ekki-vedrinu-en-get-buid-mig-undir-thad-": {
+    "first_seen": "2026-10-16T13:58:42.906976+00:00",
+    "record": {
+      "id": "0cc2b0340e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-16",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949235d/bakgardur-i-rigningu-og-roki-stjorna-ekki-vedrinu-en-get-buid-mig-undir-thad-",
+      "title": "Bak­garður í rigningu og roki: „Stjórna ekki veðrinu en get búið mig undir það“",
+      "sum": "Heimsmeistaramótið í Bakgarðshlaupum hefst klukkan tólf á morgun og íslenska landsliðið mun þurfa hafa fyrir hlutunum í rigningu og roki í Elliðaárdalnum hér heima. Stressið er farið úr Íslandsmethafanum sem hefur ákveðið að svekkja sig ekki á því sem hann getur ekki breytt."
     }
   }
 }
