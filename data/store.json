@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -9087,6 +9087,66 @@
       "url": "https://www.visir.is/g/20262949266d/aftur-vandraedagangur-hja-manchester-united-fyrir-utileik-gegn-leeds",
       "title": "Aftur vand­ræða­gangur hjá Manchester United fyrir úti­leik gegn Leeds",
       "sum": "Manchester United heimsækir Elland Road á sunnudaginn þar sem liðið mætir Leeds í ensku úrvalsdeildinni. Sagan virðist ætla að endurtaka sig þar en síðast þegar liðið heimsótti Leeds varð dramatík þegar Jason Wilcox, knattspyrnustjóri Manchester United, var gagnrýndur af þáverandi þjálfara Manchester United, Ruben …"
+    }
+  },
+  "https://www.visir.is/g/20262949546d/varadi-vid-nyju-russlandi-putins": {
+    "first_seen": "2026-10-17T00:05:13.009722+00:00",
+    "record": {
+      "id": "b39eadceaf",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-16",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949546d/varadi-vid-nyju-russlandi-putins",
+      "title": "Varaði við nýju Rúss­landi Pútíns",
+      "sum": "Vólódímír Selenskí segir að Úkraínumenn eigi rétt á því að verja sig og að hann sé einungis að standa vörð um hagsmuni þjóðarinnar. Er það eftir gagnrýni Donalds Trump í hans garð vegna árása á rússneska olíuvinnsluinnviði."
+    }
+  },
+  "https://www.visir.is/g/20262949655d/-fylgjumst-grannt-med-framvindu-mala-": {
+    "first_seen": "2026-10-17T00:05:13.009722+00:00",
+    "record": {
+      "id": "9d004c0805",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-16",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949655d/-fylgjumst-grannt-med-framvindu-mala-",
+      "title": "„Fylgjumst grannt með fram­vindu mála“",
+      "sum": "Moskítóflugan virðist ekki láta íslenska vetrarfrostið á sig fá en skordýraáhugamaður í Kjósinni fann flugu í garðinum hjá sér í vikunni. Hann hafði í sumar leitað að lirfum en án árangurs og átt ekki von á því að finna fleiri flugur. Nú bíður hann spenntur eftir því að sjá hvort fleiri stingi upp kollinum."
+    }
+  },
+  "https://www.visir.is/g/20262949653d/ka-menn-brotlentu-i-gardabae": {
+    "first_seen": "2026-10-17T00:05:13.009722+00:00",
+    "record": {
+      "id": "8d2d4e1c11",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-16",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949653d/ka-menn-brotlentu-i-gardabae",
+      "title": "KA-menn brotlentu í Garða­bæ",
+      "sum": "Stjörnumenn unnu frábæran sigur gegn heitum KA-mönnum í kvöld, 35-33, í 6. umferð Olís-deildar karla í handbolta. Þetta var annar sigur Stjörnunnar og annað tap KA sem situr í 3. sæti."
+    }
+  },
+  "https://www.visir.is/g/20262949328d/uppgjorid-grindavik-njardvik-ibv-2-1-grindavik-njardvik-vann-sidasta-heimaleikinn-a-timabilinu": {
+    "first_seen": "2026-10-17T00:05:13.009722+00:00",
+    "record": {
+      "id": "b88efd7c3b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-16",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949328d/uppgjorid-grindavik-njardvik-ibv-2-1-grindavik-njardvik-vann-sidasta-heimaleikinn-a-timabilinu",
+      "title": "Upp­gjörið: Grindavík/Njarðvík - ÍBV 2-1| Grindavík/Njarðvík vann síðasta heimaleikinn á tíma­bilinu",
+      "sum": "Grindavík/Njarðvík tók á móti ÍBV á gervigrasinu við Nettó höllina í Bestu deild kvenna í dag. Eftir tíðindarlítinn fyrri hálfleik opnaðist leikurinn í þeim seinni og Grindavík/Njarðvík hafði betur 2-1."
     }
   }
 }
