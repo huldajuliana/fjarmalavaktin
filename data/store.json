@@ -9148,5 +9148,230 @@
       "title": "Upp­gjörið: Grindavík/Njarðvík - ÍBV 2-1| Grindavík/Njarðvík vann síðasta heimaleikinn á tíma­bilinu",
       "sum": "Grindavík/Njarðvík tók á móti ÍBV á gervigrasinu við Nettó höllina í Bestu deild kvenna í dag. Eftir tíðindarlítinn fyrri hálfleik opnaðist leikurinn í þeim seinni og Grindavík/Njarðvík hafði betur 2-1."
     }
+  },
+  "https://asi.is/husnaediskaup-utan-seilingar-fyrir-storan-hop-launafolks/": {
+    "first_seen": "2026-10-17T12:59:24.646914+00:00",
+    "record": {
+      "id": "6aaea6f28f",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "ASÍ",
+      "url": "https://asi.is/husnaediskaup-utan-seilingar-fyrir-storan-hop-launafolks/",
+      "title": "Húsnæðiskaup utan seilingar fyrir stóran hóp launafólks",
+      "sum": "Vinnan.is, vefrit Alþýðusambands Íslands, mun á næstu dögum gera grein fyrir þeim kröfum og áherslum sem málefnanefndir 47. þings ASÍ unnu að og þingið samþykkti. Húsnæðiskaup eru orðin óraunhæfur kostur fyrir stóran hluta lág- og millitekjufólks."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/17/utfaersla_vaxtabota_oljos/": {
+    "first_seen": "2026-10-17T12:59:24.646914+00:00",
+    "record": {
+      "id": "146ae5d3a8",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/17/utfaersla_vaxtabota_oljos/",
+      "title": "Útfærsla vaxtabóta óljós",
+      "sum": "Setja þyrfti sérstök lög til að útfæra einskiptisvaxtabætur ef til þeirra kemur. Ekki hefur verið tekin ákvörðun um nákvæmlega hvernig bæturnar yrðu útfærðar."
+    }
+  },
+  "https://www.visir.is/g/20262949360d/ihuga-ad-krefja-olgerdina-skyringa": {
+    "first_seen": "2026-10-17T12:59:24.646914+00:00",
+    "record": {
+      "id": "5bdf68a5f6",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949360d/ihuga-ad-krefja-olgerdina-skyringa",
+      "title": "Í­huga að krefja Ölgerðina skýringa",
+      "sum": "Lífeyrissjóður verzlunarmanna íhugar að kalla eftir skýringum frá stjórnendum Ölgerðarinnar vegna rannsóknar Samkeppniseftirlitsins á fyrirtækinu. Sjóðurinn er einn tíu lífeyrissjóða sem eiga samanlagt tæplega helming í móðurfélagi Ölgerðarinnar."
+    }
+  },
+  "https://www.visir.is/g/20262949787d/skoda-vidbrogd-vid-rannsokn-a-olgerdinni": {
+    "first_seen": "2026-10-17T12:59:24.646914+00:00",
+    "record": {
+      "id": "f9e3df1268",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949787d/skoda-vidbrogd-vid-rannsokn-a-olgerdinni",
+      "title": "Skoða við­brögð við rann­sókn á Öl­gerðinni",
+      "sum": "Lífeyrissjóður verzlunarmanna íhugar að kalla eftir skýringum frá stjórnendum Ölgerðarinnar vegna rannsóknar Samkeppniseftirlitsins á fyrirtækinu. Sjóðurinn er einn tíu lífeyrissjóða sem eiga samanlagt tæplega helming í móðurfélagi Ölgerðarinnar."
+    }
+  },
+  "https://www.visir.is/g/20262949757d/bannad-ad-gagnryna-konur-thad-er-kvenfyrirlitning": {
+    "first_seen": "2026-10-17T12:59:24.646914+00:00",
+    "record": {
+      "id": "01d838e960",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949757d/bannad-ad-gagnryna-konur-thad-er-kvenfyrirlitning",
+      "title": "Bannað að gagn­rýna konur – það er kven­fyrir­litning",
+      "sum": "Samfélag okkar gerir fáránlegar kröfur til karlmanna. Þeir eiga að vera sterkir, en ekki of sterkir, karlmannlegir, en ekki of karlmannlegir, viðkvæmir, en ekki veikgeðja. Þeir eiga að sýna konum áhuga, en helst án þess að horfa á þær."
+    }
+  },
+  "https://www.visir.is/g/20262948742d/bein-utsending-landslidakeppni-i-bakgardshlaupi": {
+    "first_seen": "2026-10-17T12:59:24.646914+00:00",
+    "record": {
+      "id": "31e5ef478d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948742d/bein-utsending-landslidakeppni-i-bakgardshlaupi",
+      "title": "Bein út­sending: Landsliðakeppni í Bakgarðshlaupi",
+      "sum": "Landsliðakeppni í Bakgarðshlaupi fer fram um helgina í Elliðarárdalnum. Fimmtán hlauparar hlaupa af stað í hádeginu á laugardag og stefna á að hlaupa eins lengi og líkaminn leyfir þeim. Vísir verður í beinni útsendingu frá hlaupinu."
+    }
+  },
+  "https://www.visir.is/g/20262949717d/stydjum-kubu-verjum-byltinguna-bandarikin-burt-med-krumlurnar-": {
+    "first_seen": "2026-10-17T12:59:24.646914+00:00",
+    "record": {
+      "id": "bbbd7899ac",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949717d/stydjum-kubu-verjum-byltinguna-bandarikin-burt-med-krumlurnar-",
+      "title": "Styðjum Kúbu, verjum byltinguna, Banda­ríkin burt með krumlurnar!",
+      "sum": "“Alltaf þegar þeir finna upp á einhverju nýju til þess að losna úr snörunni, lokum við þeirri útgönguleið,” sagði Marco Rubio, utanríkisráðherra Bandaríkjanna í ágúst s.l., harðákveðinn í að rústa efnahagslífi Kúbu og knésetja íbúana"
+    }
+  },
+  "https://www.visir.is/g/20262949759d/tvo-lid-haett-vid-hm-og-spanverjar-hlaupa-i-appelsinugulri-vidvorun": {
+    "first_seen": "2026-10-17T12:59:24.646914+00:00",
+    "record": {
+      "id": "3619a0c593",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949759d/tvo-lid-haett-vid-hm-og-spanverjar-hlaupa-i-appelsinugulri-vidvorun",
+      "title": "Tvö lið hætt við HM og Spán­verjar hlaupa í appel­sínu­gulri við­vörun",
+      "sum": "HM í bakgarðshlaupi hefst klukkan 12 að íslenskum tíma í 66 eða 67 löndum og aðstæður eru auðvitað mismunandi á milli landa. Tvær þjóðir hafa neyðst til að draga sig úr keppni og Spánverjar gerðu það einnig en hafa dregið ákvörðunina til baka."
+    }
+  },
+  "https://www.visir.is/g/20262949706d/hvers-vegna-starfa-632-starfsmenn-rikisins-vid-ad-selja-afengi-fyrir-olgerdina-": {
+    "first_seen": "2026-10-17T12:59:24.646914+00:00",
+    "record": {
+      "id": "309e651542",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949706d/hvers-vegna-starfa-632-starfsmenn-rikisins-vid-ad-selja-afengi-fyrir-olgerdina-",
+      "title": "Hvers vegna starfa 632 starfs­menn ríkisins við að selja á­fengi fyrir Ölgerðina?",
+      "sum": "Opið afsökunarbréf til fjármálaráðherra."
+    }
+  },
+  "https://www.visir.is/g/20262948421d/ihugadi-ad-haetta-ekki-stora-markmidid-heldur-hvad-madur-laerir-a-leidinni-": {
+    "first_seen": "2026-10-17T12:59:24.646914+00:00",
+    "record": {
+      "id": "e9772bbc87",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262948421d/ihugadi-ad-haetta-ekki-stora-markmidid-heldur-hvad-madur-laerir-a-leidinni-",
+      "title": "Í­hugaði að hætta: „Ekki stóra mark­miðið heldur hvað maður lærir á leiðinni“",
+      "sum": "Gauti Guðmundsson, skíðakappi og margfaldur Íslandsmeistari, íhugaði að hætta þegar ljóst varð að sæti hans á Vetrarólympíuleikunum varð að engu. Hann hefur nú sett sér ný markmið og stefnir hátt á HM."
+    }
+  },
+  "https://www.visir.is/g/20262949689d/uppraetum-fataekt-a-islandi-": {
+    "first_seen": "2026-10-17T12:59:24.646914+00:00",
+    "record": {
+      "id": "9caf26ca17",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949689d/uppraetum-fataekt-a-islandi-",
+      "title": "Upprætum fá­tækt á Ís­landi!",
+      "sum": "Í tilefni af alþjóðlegum baráttudegi gegn fátækt, 17. október.Fátækt er ekki náttúrulögmál. Hún er heldur ekki eingöngu afleiðing ákvarðana einstaklinga eða óheppilegra aðstæðna."
+    }
+  },
+  "https://www.visir.is/g/20262949755d/alvarlega-slosud-eftir-skotaras-i-ithrottahusi": {
+    "first_seen": "2026-10-17T12:59:24.646914+00:00",
+    "record": {
+      "id": "a583ec4b8c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949755d/alvarlega-slosud-eftir-skotaras-i-ithrottahusi",
+      "title": "Al­var­lega slösuð eftir skot­á­rás í í­þrótta­húsi",
+      "sum": "Kona á þrítugsaldri er alvarlega slösuð í kjölfar skotárásar í íþróttahúsi í Älvsjö í suðurhluta Stokkhólms í gærkvöldi. Tveir ungir karlmenn voru snemma í morgun handteknir og úrskurðaðir í gæsluvarðhald samkvæmt vef SVT. Fjöldi var yfirheyrður í nótt vegna málsins og mennirnir handteknir í kjölfarið."
+    }
+  },
+  "https://www.visir.is/g/20262949708d/uppnam-i-uppsveitum": {
+    "first_seen": "2026-10-17T12:59:24.646914+00:00",
+    "record": {
+      "id": "b17d3e1c33",
+      "cat": "rikisfjarmal",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949708d/uppnam-i-uppsveitum",
+      "title": "Upp­nám í Upp­sveitum",
+      "sum": "Í kjölfar kjördæmaviku á alþingi, þar sem þingmenn kjördæma heimsækja sveitarstjórnir, stofnanir og fyrirtæki og í framhaldi af ný framlögðum fjárlögum fyrir árið 2027, vakna ýmsar spurningar."
+    }
+  },
+  "https://www.visir.is/g/20262949749d/frestar-gildistoku-refsiadgerda-gegn-russlandi": {
+    "first_seen": "2026-10-17T12:59:24.646914+00:00",
+    "record": {
+      "id": "326abbee21",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949749d/frestar-gildistoku-refsiadgerda-gegn-russlandi",
+      "title": "Frestar gildis­töku refsi­að­gerða gegn Rúss­landi",
+      "sum": "Donald Trump forseti Bandaríkjanna undirritaði í gær forsetatilskipun um að fresta gildistöku umfangsmikilla nýrra refsiaðgerða og viðskiptaþvingana gegn rússnesku efnahagslífi. Hann tilkynnti á þinginu í gær að hann væri að fresta gildistökunni í þágu þjóðarhagsmuna en útskýrði það ekki nánar."
+    }
+  },
+  "https://www.visir.is/g/20262949698d/ees-samningurinn-timi-til-kominn-ad-endurmeta-stodu-islands-": {
+    "first_seen": "2026-10-17T12:59:24.646914+00:00",
+    "record": {
+      "id": "297bddc545",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949698d/ees-samningurinn-timi-til-kominn-ad-endurmeta-stodu-islands-",
+      "title": "EES-samningurinn: Tími til kominn að endur­meta stöðu Ís­lands?",
+      "sum": "Í rúm þrjátíu ár hefur EES samningurinn verið einn mikilvægasti alþjóðasamningur sem Ísland hefur gert. Fáir deila um að hann hafi á sínum tíma opnað íslensku atvinnulífi mikil tækifæri, auðveldað viðskipti við Evrópu og skapað aðgang að stærsta markaðssvæði heims."
+    }
   }
 }
