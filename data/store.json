@@ -9373,5 +9373,80 @@
       "title": "EES-samningurinn: Tími til kominn að endur­meta stöðu Ís­lands?",
       "sum": "Í rúm þrjátíu ár hefur EES samningurinn verið einn mikilvægasti alþjóðasamningur sem Ísland hefur gert. Fáir deila um að hann hafi á sínum tíma opnað íslensku atvinnulífi mikil tækifæri, auðveldað viðskipti við Evrópu og skapað aðgang að stærsta markaðssvæði heims."
     }
+  },
+  "https://asi.is/felagslegum-undirbodum-verdi-maett-af-fullri-horku/": {
+    "first_seen": "2026-10-17T16:46:10.805235+00:00",
+    "record": {
+      "id": "64f1e73689",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "ASÍ",
+      "url": "https://asi.is/felagslegum-undirbodum-verdi-maett-af-fullri-horku/",
+      "title": "Félagslegum undirboðum verði mætt af fullri hörku",
+      "sum": "Alþýðusamband Íslands (ASÍ) mun berjast af fullri hörku gegn félagslegum undirboðum og krefst þess að þeir sem hagnast á brotum gegn launafólki sæti ábyrgð. Félagsleg undirboð séu bein atlaga að afkomu, réttindum og starfsöryggi launafólks."
+    }
+  },
+  "https://www.visir.is/g/20262949807d/kynna-vaxtarplan-sem-gaeti-skilad-300-milljarda-vidsnuningi-i-afkomu-rikissjods": {
+    "first_seen": "2026-10-17T16:46:10.805235+00:00",
+    "record": {
+      "id": "df865c1c02",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949807d/kynna-vaxtarplan-sem-gaeti-skilad-300-milljarda-vidsnuningi-i-afkomu-rikissjods",
+      "title": "Kynna vaxtar­plan sem gæti skilað 300 milljarða viðsnúningi í af­komu ríkis­sjóðs",
+      "sum": "Með markvissum aðgerðum til að efla fimm helstu útflutningsgreinar landsins, sölu ríkiseigna og auknu aðhaldi í opinberum útgjöldum væri hægt að auka hagvöxt um nær helming frá núverandi spám og bæta afkomu ríkissjóðs um hátt í 300 milljarða króna á næstu fimm árum, samkvæmt tillögum sem forstjóri Stoða hefur kynnt …"
+    }
+  },
+  "https://www.visir.is/g/20262949806d/island-missti-af-verdlaunum-med-minnsta-mogulega-mun": {
+    "first_seen": "2026-10-17T16:46:10.805235+00:00",
+    "record": {
+      "id": "a3763f9b9a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949806d/island-missti-af-verdlaunum-med-minnsta-mogulega-mun",
+      "title": "Ís­land missti af verð­launum með minnsta mögu­lega mun",
+      "sum": "Íslenska kvennalandsliðið í hópfimleikum missti af verðlaunasæti á EM í Finnlandi í dag með nístingssárum hætti, eða minnsta mögulega mun. Ísland varð einnig í 4. sæti í keppni blandaðra liða."
+    }
+  },
+  "https://www.visir.is/g/20262949433d/isak-sneri-aftur-og-tryggdi-sigur-a-niu-brentford-monnum": {
+    "first_seen": "2026-10-17T16:46:10.805235+00:00",
+    "record": {
+      "id": "c2046e2ad7",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949433d/isak-sneri-aftur-og-tryggdi-sigur-a-niu-brentford-monnum",
+      "title": "Isak sneri aftur og tryggði sigur á níu Brentford-mönnum",
+      "sum": "Liverpool varð í dag fyrsta liðið til að vinna Brentford á þessari leiktíð í ensku úrvalsdeildinni í fótbolta. Brentford missti mann af velli með rautt spjald í fyrri hálfleik og annan undir lok leiks."
+    }
+  },
+  "https://www.visir.is/g/20262949369d/neto-sa-til-thess-ad-everton-tapadi-i-fyrsta-sinn": {
+    "first_seen": "2026-10-17T16:46:10.805235+00:00",
+    "record": {
+      "id": "7b50223d3f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949369d/neto-sa-til-thess-ad-everton-tapadi-i-fyrsta-sinn",
+      "title": "Neto sá til þess að Everton tapaði í fyrsta sinn",
+      "sum": "Pedro Neto skoraði bæði mörk Chelsea þegar liðið varð það fyrsta á þessari leiktíð til að vinna Everton í ensku úrvalsdeildinni í fótbolta."
+    }
   }
 }
