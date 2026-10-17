@@ -9448,5 +9448,50 @@
       "title": "Neto sá til þess að Everton tapaði í fyrsta sinn",
       "sum": "Pedro Neto skoraði bæði mörk Chelsea þegar liðið varð það fyrsta á þessari leiktíð til að vinna Everton í ensku úrvalsdeildinni í fótbolta."
     }
+  },
+  "https://www.visir.is/g/20262950000d/mognud-mari-nytti-hverja-einustu-sekundu": {
+    "first_seen": "2026-10-17T23:41:10.434999+00:00",
+    "record": {
+      "id": "73cc0ad5ed",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950000d/mognud-mari-nytti-hverja-einustu-sekundu",
+      "title": "Mögnuð Mari nýtti hverja einustu sekúndu",
+      "sum": "Það er ekki að sjá á hlaupadrottningunni Mari Jaersk að hún sé á leið heim úr landsliðskeppni í Bakgarðshlaupum á næstunni. Hún nýtir hverja einustu sekúndu milli hringja til hins ítrasta."
+    }
+  },
+  "https://www.visir.is/g/20262949975d/nokkud-viss-um-ad-islandsmetid-verdi-slegid": {
+    "first_seen": "2026-10-17T23:41:10.434999+00:00",
+    "record": {
+      "id": "4b9f8aeb65",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949975d/nokkud-viss-um-ad-islandsmetid-verdi-slegid",
+      "title": "Nokkuð viss um að Ís­lands­metið verði slegið",
+      "sum": "Bakgarðshlauparinn Ríkarður Eyberg Árnason telur að Íslandsmetið verði slegið í yfirstandandi landsliðskeppni."
+    }
+  },
+  "https://www.visir.is/g/20262949952d/tar-fellu-i-bakgardshlaupinu": {
+    "first_seen": "2026-10-17T23:41:10.434999+00:00",
+    "record": {
+      "id": "f69388a658",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949952d/tar-fellu-i-bakgardshlaupinu",
+      "title": "Tár féllu í Bakgarðshlaupinu",
+      "sum": "Gleðitár féllu er ein af dætrum Ís­lands­met­hafans í Bak­garðs­hlaupum, Þor­leifs Þor­leifs­sonar, mætti óvænt til landsins til þess að styðja við bakið á pabba sínum í lands­liðs­keppni sem nú stendur yfir í Elliðaár­dalnum."
+    }
   }
 }
