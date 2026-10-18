@@ -9596,7 +9596,7 @@
       "src": "Vísir",
       "url": "https://www.visir.is/g/20262950068d/telja-alvotech-vera-ad-komast-yfir-erfidasta-hjallann",
       "title": "Telja Al­vot­ech vera að komast yfir erfiðasta hjallann",
-      "sum": "Hlutabréfagreinendur telja að Alvotech sé við það að komast yfir erfiðasta hjallann eftir stormasamt ár og sjá fyrir sér verulegan tekjuvöxt á næstu árum. Jákvæð tíðindi frá bandaríska lyfjaeftirlitinu og aukin fjármögnun eru talin hafa dregið verulega úr óvissu um reksturinn."
+      "sum": "Hlutabréfagreinendur telja að Alvotech sé við það að komast yfir erfiðasta hjallann eftir stormasamt ár og sjá fyrir sér verulegan tekjuvöxt á næstu árum. Jákvæð tíðindi frá bandaríska lyfjaeftirlitinu og aukin fjármögnun eru talin hafa dregið úr óvissu um reksturinn."
     }
   },
   "https://www.visir.is/g/20262950021d/afram-blautt-og-hvasst-med-gulum-vidvorunum": {
@@ -9612,6 +9612,51 @@
       "url": "https://www.visir.is/g/20262950021d/afram-blautt-og-hvasst-med-gulum-vidvorunum",
       "title": "Á­fram blautt og hvasst með gulum við­vörunum",
       "sum": "Í dag er spáð sunnan og suðvestan stormi og eru líkur á mikilli ölduhæð nærri ströndum sunnan og vestan til á landinu. Gular viðvaranir eru ýmist í gildi eða taka gildi síðar í dag. Varað er við vegalokunum eftir hádegi á milli Hafnar og Reyðarfjarðar."
+    }
+  },
+  "https://asi.is/launafolk-njoti-avinnings-taeknibreytinga/": {
+    "first_seen": "2026-10-18T17:01:31.695678+00:00",
+    "record": {
+      "id": "a07b358179",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-18",
+      "src": "ASÍ",
+      "url": "https://asi.is/launafolk-njoti-avinnings-taeknibreytinga/",
+      "title": "Launafólk njóti ávinnings tæknibreytinga",
+      "sum": "Gervigreind, sjálfvirknivæðing og önnur tækniþróun munu hafa mikil áhrif á störf og vinnumarkað. Alþýðusamband Íslands (ASÍ) krefst þess að launafólk fái fulla aðkomu að þeim umskiptum sem fram undan eru og að þau leiði ekki til óöryggis, afkomuskerðinga eða aukins ójafnaðar."
+    }
+  },
+  "https://www.visir.is/g/20262950178d/for-27-hringi-tiu-vikum-eftir-barnsburd-magnad-hvad-likaminn-getur-": {
+    "first_seen": "2026-10-18T17:01:31.695678+00:00",
+    "record": {
+      "id": "a5ae842ec5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-18",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950178d/for-27-hringi-tiu-vikum-eftir-barnsburd-magnad-hvad-likaminn-getur-",
+      "title": "Fór 27 hringi tíu vikum eftir barns­burð: „Magnað hvað líkaminn getur“",
+      "sum": "„Ég get alveg meira. Njöddi er að fara að vinna í fyrramálið og það þarf að sinna þessu barni,“ grínaðist Mari Järsk eftir að hafa hlaupið 27 hringi, rúma 180 kílómetra, á HM í bakgarðshlaupi aðeins tíu vikum eftir að hafa fætt sitt fyrsta barn."
+    }
+  },
+  "https://www.visir.is/g/20262950162d/syrgja-starfsmann-sem-lest-i-slysi": {
+    "first_seen": "2026-10-18T17:01:31.695678+00:00",
+    "record": {
+      "id": "00b0cc7744",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-18",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950162d/syrgja-starfsmann-sem-lest-i-slysi",
+      "title": "Syrgja starfs­mann sem lést í slysi",
+      "sum": "Fjölskyldufaðirinn sem lést í jeppaslysi á Gæsavatnaleið norðan Vatnajökuls á föstudag var starfsmaður Kraftbíla á Akureyri. Fyrirtækið segir í færslu á samfélagsmiðlum að andlátið hafi skilið eftir sig stórt skarð í hjarta fyrirtækisins."
     }
   }
 }
