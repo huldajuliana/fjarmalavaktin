@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -9492,6 +9492,126 @@
       "url": "https://www.visir.is/g/20262949952d/tar-fellu-i-bakgardshlaupinu",
       "title": "Tár féllu í Bakgarðshlaupinu",
       "sum": "Gleðitár féllu er ein af dætrum Ís­lands­met­hafans í Bak­garðs­hlaupum, Þor­leifs Þor­leifs­sonar, mætti óvænt til landsins til þess að styðja við bakið á pabba sínum í lands­liðs­keppni sem nú stendur yfir í Elliðaár­dalnum."
+    }
+  },
+  "https://www.visir.is/g/20262950103d/fleiri-foreldrar-sem-storfudu-i-ees-geti-att-rett-a-skadabotum": {
+    "first_seen": "2026-10-18T13:19:03.788937+00:00",
+    "record": {
+      "id": "059a4b4224",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-18",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950103d/fleiri-foreldrar-sem-storfudu-i-ees-geti-att-rett-a-skadabotum",
+      "title": "Fleiri for­eldrar sem störfuðu í EES geti átt rétt á skaða­bótum",
+      "sum": "Félags- og húsnæðismálaráðuneytið og Vinnumálastofnun vekja athygli á því að foreldrar sem fóru í fæðingarorlof 2022 til 2025 og störfuðu í öðru EES-ríki geti átt rétt á skaðabótum."
+    }
+  },
+  "https://www.visir.is/g/20262949454d/leik-lokid-fh-throttur-0-4-titilvonir-fh-inga-i-taetlum": {
+    "first_seen": "2026-10-18T13:19:03.788937+00:00",
+    "record": {
+      "id": "e9a9b90e23",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-18",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262949454d/leik-lokid-fh-throttur-0-4-titilvonir-fh-inga-i-taetlum",
+      "title": "Leik lokið: FH - Þróttur 0-4 | Titilvonir FH-inga í tætlum",
+      "sum": "Þróttur vann 0-4 útisigur gegn FH. Gestirnir byrjuðu betur og komust tveimur mörkum yfir í fyrri hálfleik. Undir lok síðari hálfleiks bættu Þróttarar við tveimur mörkum og leikurinn endaði með stórsigri gestanna."
+    }
+  },
+  "https://www.visir.is/g/20262950078d/fludi-taragas-logreglu-i-nice": {
+    "first_seen": "2026-10-18T13:19:03.788937+00:00",
+    "record": {
+      "id": "134f746671",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-18",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950078d/fludi-taragas-logreglu-i-nice",
+      "title": "Flúði tára­gas lög­reglu í Nice",
+      "sum": "Einar Baldvin Brimar flúði táragas lögreglunnar í Nice í Frakklandi í gær á heimleið sinni af ströndinni. Hann sá fyrr um daginn mótmælendur safnast saman, friðsamlega, en á heimleið hafi mótmælin verið búin að harðna."
+    }
+  },
+  "https://www.visir.is/g/20262950090d/-thess-vegna-hafdi-eg-mjog-miklar-ahyggjur-fyrir-thetta-hlaup-": {
+    "first_seen": "2026-10-18T13:19:03.788937+00:00",
+    "record": {
+      "id": "51b359dcab",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-18",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950090d/-thess-vegna-hafdi-eg-mjog-miklar-ahyggjur-fyrir-thetta-hlaup-",
+      "title": "„Þess vegna hafði ég mjög miklar á­hyggjur fyrir þetta hlaup“",
+      "sum": "„Hún er líklega best í því að komast í gegnum verki og þess vegna hafði ég mjög miklar áhyggjur fyrir þetta hlaup,“ segir Njörður Lúðvíksson, unnusti Mari Järsk, sem styður við sína konu í Elliðaárdalnum á HM í bakgarðshlaupi. Mari fæddi þeirra fyrsta son í ágúst síðastliðnum."
+    }
+  },
+  "https://www.visir.is/g/20262950079d/thetta-hjolar-sig-ekki-sjalft": {
+    "first_seen": "2026-10-18T13:19:03.788937+00:00",
+    "record": {
+      "id": "0c17102350",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-18",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950079d/thetta-hjolar-sig-ekki-sjalft",
+      "title": "Þetta hjólar sig ekki sjálft",
+      "sum": "Um þessar mundir er margra ára grasrótarstarfi Reiðhjólabænda að ljúka. Félagið sem hóf starfsemi sína fyrir um 20 árum sem óformlegur hópur vina í raunheimum, óx og dafnaði með hjálp Facebookhóps og varð svo árið 2020 að skráðu félagi með kennitölu og var nýlega komið með rúmlega 200 skráða félagsmenn og konur."
+    }
+  },
+  "https://www.visir.is/g/20262950062d/fekk-innilegt-knus-alla-pasuna-holdum-afram-thessari-helvitis-vitleysu-": {
+    "first_seen": "2026-10-18T13:19:03.788937+00:00",
+    "record": {
+      "id": "5300b8a4f5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-18",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950062d/fekk-innilegt-knus-alla-pasuna-holdum-afram-thessari-helvitis-vitleysu-",
+      "title": "Fékk inni­legt knús alla pásuna: „Höldum á­fram þessari hel­vítis vit­leysu“",
+      "sum": "Ofurhlauparinn Elísa Kristinsdóttir er ekki með landsliðinu sem keppandi á HM í bakgarðshlaupi að þessu sinni en gerir það sem hún getur til að hjálpa Þórdísi Ólöfu Jónsdóttur á milli hringja."
+    }
+  },
+  "https://www.visir.is/g/20262950068d/telja-alvotech-vera-ad-komast-yfir-erfidasta-hjallann": {
+    "first_seen": "2026-10-18T13:19:03.788937+00:00",
+    "record": {
+      "id": "f90aba6d80",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-18",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950068d/telja-alvotech-vera-ad-komast-yfir-erfidasta-hjallann",
+      "title": "Telja Al­vot­ech vera að komast yfir erfiðasta hjallann",
+      "sum": "Hlutabréfagreinendur telja að Alvotech sé við það að komast yfir erfiðasta hjallann eftir stormasamt ár og sjá fyrir sér verulegan tekjuvöxt á næstu árum. Jákvæð tíðindi frá bandaríska lyfjaeftirlitinu og aukin fjármögnun eru talin hafa dregið verulega úr óvissu um reksturinn."
+    }
+  },
+  "https://www.visir.is/g/20262950021d/afram-blautt-og-hvasst-med-gulum-vidvorunum": {
+    "first_seen": "2026-10-18T13:19:03.788937+00:00",
+    "record": {
+      "id": "b4a80ab465",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-18",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950021d/afram-blautt-og-hvasst-med-gulum-vidvorunum",
+      "title": "Á­fram blautt og hvasst með gulum við­vörunum",
+      "sum": "Í dag er spáð sunnan og suðvestan stormi og eru líkur á mikilli ölduhæð nærri ströndum sunnan og vestan til á landinu. Gular viðvaranir eru ýmist í gildi eða taka gildi síðar í dag. Varað er við vegalokunum eftir hádegi á milli Hafnar og Reyðarfjarðar."
     }
   }
 }
