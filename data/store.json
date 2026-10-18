@@ -9658,5 +9658,50 @@
       "title": "Syrgja starfs­mann sem lést í slysi",
       "sum": "Fjölskyldufaðirinn sem lést í jeppaslysi á Gæsavatnaleið norðan Vatnajökuls á föstudag var starfsmaður Kraftbíla á Akureyri. Fyrirtækið segir í færslu á samfélagsmiðlum að andlátið hafi skilið eftir sig stórt skarð í hjarta fyrirtækisins."
     }
+  },
+  "https://www.visir.is/g/20262950241d/gamlar-kr-kempur-letu-ir-hafa-fyrir-hlutunum": {
+    "first_seen": "2026-10-18T23:50:13.911635+00:00",
+    "record": {
+      "id": "bf814f2615",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-18",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950241d/gamlar-kr-kempur-letu-ir-hafa-fyrir-hlutunum",
+      "title": "Gamlar KR kempur létu ÍR hafa fyrir hlutunum",
+      "sum": "Valsmenn þurftu að hafa fyrir sigri sínum gegn 1. deildar liði Þórs Þorlákshafnar í 32-liða úrslitum VÍS bikarsins í körfubolta, Njarðvík vann grannaslag gegn Víði Garði og gamlar kempur úr KR létu Breiðhyltinga finna fyrir því."
+    }
+  },
+  "https://www.visir.is/g/20262950222d/afall-fyrir-landslidid-hef-verid-aelandi-i-nitjan-tima-": {
+    "first_seen": "2026-10-18T23:50:13.911635+00:00",
+    "record": {
+      "id": "fa86aec27f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-18",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950222d/afall-fyrir-landslidid-hef-verid-aelandi-i-nitjan-tima-",
+      "title": "Á­fall fyrir lands­liðið: „Hef verið ælandi í ní­tján tíma“",
+      "sum": "Íslenska landsliðið í Bakgarðshlaupum varð fyrir áfalli við upphaf 32. hringjar þegar að einn sterkasti hlaupari liðsins, Þórdís Ólöf Jónsdóttir, hætti keppni eftir að hafa barist við mikla magaverki í yfir nítján klukkustundir."
+    }
+  },
+  "https://www.visir.is/g/20262950204d/viktor-gisli-oflugur-i-sigri-barcelona": {
+    "first_seen": "2026-10-18T23:50:13.911635+00:00",
+    "record": {
+      "id": "f0bd4dc657",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-18",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950204d/viktor-gisli-oflugur-i-sigri-barcelona",
+      "title": "Viktor Gísli öflugur í sigri Barcelona",
+      "sum": "Viktor Gísli Hallgrímsson varði fjórtán skot í níu marka sigri Barcelona gegn Cangas í spænsku úrvalsdeildinni í dag. Lokatölur 28-37 sigur Barcelona."
+    }
   }
 }
