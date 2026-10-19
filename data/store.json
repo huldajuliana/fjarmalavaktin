@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -9702,6 +9702,321 @@
       "url": "https://www.visir.is/g/20262950204d/viktor-gisli-oflugur-i-sigri-barcelona",
       "title": "Viktor Gísli öflugur í sigri Barcelona",
       "sum": "Viktor Gísli Hallgrímsson varði fjórtán skot í níu marka sigri Barcelona gegn Cangas í spænsku úrvalsdeildinni í dag. Lokatölur 28-37 sigur Barcelona."
+    }
+  },
+  "https://sa.is/frettatengt/frettir/glufur-i-stodugleikareglunni": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "028799da9f",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "Samtök atvinnulífsins",
+      "url": "https://sa.is/frettatengt/frettir/glufur-i-stodugleikareglunni",
+      "title": "Glufur í stöðugleikareglunni",
+      "sum": "Glufur í stöðugleikareglunni gera ríkisútgjöldum kleift að vaxa án þess að reyni á mörk reglunnar. SA kalla eftir auknu gagnsæi og skýrara aðhaldi."
+    }
+  },
+  "https://asi.is/asi-varar-vid-vaxandi-valdi-storfyrirtaekja-og-audmanna/": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "a757b986ad",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "ASÍ",
+      "url": "https://asi.is/asi-varar-vid-vaxandi-valdi-storfyrirtaekja-og-audmanna/",
+      "title": "ASÍ varar við vaxandi valdi stórfyrirtækja og auðmanna",
+      "sum": "Alþýðusamband Íslands (ASÍ) varar við þróun í alþjóðasamskiptum þar sem virðing fyrir alþjóðareglum fer minnkandi og áhrif voldugra fjölþjóðlegra fyrirtækja aukast. Sambandið segir gríðarlega auðsöfnun fámenns hóps grafa undan grundvallarréttindum vinnandi fólks og veikja stoðir lýðræðis og velferðar."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/19/krafa_um_skodunarmenn_verdi_felld_ut/": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "50c098d643",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/19/krafa_um_skodunarmenn_verdi_felld_ut/",
+      "title": "Krafa um skoðunarmenn verði felld út",
+      "sum": "Drög að frumvarpi nýrra heildarlaga um bókhald hafa verið birt í samráðsgátt stjórnvalda. Megintilgangur uppfærslunnar er að færa reglur um bókhald til samræmis við nútímaumhverfi, en nýju lögin eiga að leysa af bókhaldslög frá árinu 1994."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/19/ekkert_meira_ad_segja_um_starfslok_hardar/": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "1af46ea0ca",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/19/ekkert_meira_ad_segja_um_starfslok_hardar/",
+      "title": "Ekkert meira að segja um starfslok Harðar",
+      "sum": "„Af hverju hrökklaðist forstjóri Landsvirkjunar úr starfi eftir 17 ára farsælt starf?“ spurði Guðlaugur Þór og sagði almenning eiga rétt á skýringum."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/19/regla_seld_fyrir_naerri_3_5_milljarda/": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "50c31b04b5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/19/regla_seld_fyrir_naerri_3_5_milljarda/",
+      "title": "Regla seld fyrir nærri 3,5 milljarða",
+      "sum": "Finnska tæknifyrirtækið Finago hefur gengið frá kaupum á öllum hlutum í íslenska félaginu Reglu. Kaupverðið er 25,3 milljónir evra eða jafnvirði liðlega 3,45 milljarða króna."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/19/ske_igrundar_domstolaleid_eda_nyja_akvordun/": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "35f2eb936b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/19/ske_igrundar_domstolaleid_eda_nyja_akvordun/",
+      "title": "SKE ígrundar dómstólaleið eða nýja ákvörðun",
+      "sum": "Mun Samkeppniseftirlitið meðal annars afla sjónarmiða á markaðnum og sjónarmiða annarra stjórnvalda á evrópska efnahagssvæðinu um forsendur og ályktanir úrskurðarins."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/19/afryjunarnefnd_fellir_ur_gildi_milljards_sektina/": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "6769bb6a2f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/19/afryjunarnefnd_fellir_ur_gildi_milljards_sektina/",
+      "title": "Áfrýjunarnefnd fellir úr gildi milljarðs sektina",
+      "sum": "Áfrýjunarnefnd samkeppnismála felldi í dag úr gildi ákvörðun Samkeppniseftirlitsins í máli er varðar sölu Landsvirkjunar á raforku til flutningstapa Landsnets."
+    }
+  },
+  "https://www.mbl.is/frettir/erlent/2026/10/19/musk_aetlar_ad_gefa_hverju_barni_hlut_i_spacex/": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "dba78a770c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/erlent/2026/10/19/musk_aetlar_ad_gefa_hverju_barni_hlut_i_spacex/",
+      "title": "Musk ætlar að gefa hverju barni hlut í SpaceX",
+      "sum": "Auðkýfingurinn Elon Musk sagðist í dag ætla að gefa hverju barni í Bandaríkjunum eitt hlutabréf í geimfyrirtæki sínu SpaceX."
+    }
+  },
+  "https://www.mbl.is/200milur/frettir/2026/10/19/svavar_thor_nyr_forstjori_sameinads_felags/": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "1db8f0ebe1",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/200milur/frettir/2026/10/19/svavar_thor_nyr_forstjori_sameinads_felags/",
+      "title": "Svavar Þór nýr forstjóri sameinaðs félags",
+      "sum": "Eðalfang ehf. hefur undirritað samkomulag um sameiningu við Phoenix Seafood ehf., markaðs- og sölufyrirtæki í sjávarútvegi. Viðskiptin eru háð samþykki Samkeppniseftirlitsins."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/19/spa_vaxtalaekkun_i_februar/": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "26fd01e73a",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/19/spa_vaxtalaekkun_i_februar/",
+      "title": "Spá vaxtalækkun í febrúar",
+      "sum": "Greiningardeild Landsbankans gerir ráð fyrir að Seðlabanki Íslands hefji vaxtalækkanir í febrúar á næsta ári og að verðbólga fari niður fyrir 5% á fyrsta ársfjórðungi ársins. Hagvöxtur verður þó áfram lítill og atvinnuleysi nokkuð hátt næstu misseri."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/19/klara_kaup_a_hlut_i_flugrekstrarleyfi_play_a_moltu/": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "85ebaceb6b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/19/klara_kaup_a_hlut_i_flugrekstrarleyfi_play_a_moltu/",
+      "title": "Klára kaup á hlut í flugrekstrarleyfi Play á Möltu",
+      "sum": "Kaup Icelandair á 49% hlut í félagi sem heldur utan um maltneskt flugrekstrarleyfi gamla flugfélagsins Play eru nú að fullu frágengin."
+    }
+  },
+  "https://www.visir.is/g/20262950627d/jardskjalftinn-5-2-ad-staerd": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "61bfbe67c6",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950627d/jardskjalftinn-5-2-ad-staerd",
+      "title": "Jarð­skjálftinn 5,2 að stærð",
+      "sum": "Jarðskjálfti varð í Bárðabungu klukkan 14.44 og mældist 5,2 að stærð."
+    }
+  },
+  "https://www.visir.is/g/20262950579d/hvad-gerist-i-sidari-halfleik-": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "818aa18edd",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950579d/hvad-gerist-i-sidari-halfleik-",
+      "title": "Hvað gerist í síðari hálf­leik?",
+      "sum": "Nú er fótbolta tímabili ársins að ljúka á Íslandi og spennan er eftir því. Rýnt er í ákvarðanir tímabilsins, stór sem smá mistök og hvort þau séu leikmönnum, undirbúningi, leikskipulagi eða þjálfurum að kenna."
+    }
+  },
+  "https://www.visir.is/g/20262950575d/hvers-vegna-skiptir-bokun-35-mali-": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "46c441f1c4",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950575d/hvers-vegna-skiptir-bokun-35-mali-",
+      "title": "Hvers vegna skiptir bókun 35 máli?",
+      "sum": "Mikilvægt er að Íslendingar geri sér grein fyrir þeim miklu og víðtæku réttaráhrifum sem felast í því að samþykkja frumvarp utanríkisráðherra um bókun 35."
+    }
+  },
+  "https://www.visir.is/g/20262950543d/tilbodum-hafnad-i-glaesibruna-en-efnt-til-samkeppnisvidraedna": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "05ea393785",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950543d/tilbodum-hafnad-i-glaesibruna-en-efnt-til-samkeppnisvidraedna",
+      "title": "Til­boðum hafnað í glæsibrúna en efnt til samkeppnisviðræðna",
+      "sum": "Vegagerðin hefur ákveðið að hafna báðum tilboðunum sem bárust í lokaáfanga Vestfjarðavegar um Gufudalssveit. Í staðinn hefur verktökunum verið boðið að taka þátt í samkeppnisviðræðum með það að markmiði að ná niður kostnaði án þess að verklokum seinki."
+    }
+  },
+  "https://www.visir.is/g/20262950504d/bdsm-a-islandi-fordaemir-syknudom-i-ofbeldismali": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "cb0cd5220c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950504d/bdsm-a-islandi-fordaemir-syknudom-i-ofbeldismali",
+      "title": "BDSM á Ís­landi for­dæmir sýknu­dóm í of­beldis­máli",
+      "sum": "BDSM á Íslandi lýsir yfir þungum áhyggjum og fordæmir harðlega niðurstöðu meirihluta Landsréttar í nýbirtum sýknudómi þar sem maður var sýknaður af nauðgun með vísan til samþykkis brotaþola fyrir harkalegu kynlífi."
+    }
+  },
+  "https://www.visir.is/g/20262950450d/titillinn-undir-farid-illa-med-okkur-i-sumar-": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "0dbc140311",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950450d/titillinn-undir-farid-illa-med-okkur-i-sumar-",
+      "title": "Titillinn undir: „Farið illa með okkur í sumar“",
+      "sum": "Ian Jeffs, þjálfari Breiðabliks, segir markmiðið skýrt fyrir leik liðsins við Stjörnuna í Bestu deild kvenna í fótbolta í dag. Blikakonur geta orðið Íslandsmeistarar þriðja árið í röð nái þær í stig í Garðabænum í dag gegn Stjörnuliði sem hefur unnið Breiðablik tvisvar í sumar."
+    }
+  },
+  "https://www.visir.is/g/20262950487d/skorum-fram-ur-i-skadlegu-skattaumhverfi": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "842c0b84cf",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950487d/skorum-fram-ur-i-skadlegu-skattaumhverfi",
+      "title": "Skörum fram úr í skað­legu skattaumhverfi",
+      "sum": "Við búum í landi þar sem skattaumhverfið er skaðlegt. Ísland er í 34. sæti af 38 OECD-ríkjum í vísitölu Tax Foundation um samkeppnishæfni skattkerfa árið 2026. Aðeins fjögur ríki standa verr. Þetta er áfellisdómur yfir þeirri skattastefnu sem stjórnvöld bera ábyrgð á og viðvörun um undirstöður lífskjara landsmanna."
+    }
+  },
+  "https://www.visir.is/g/20262950500d/skoda-ad-utvista-rekstri-husdyragardsins-til-einkaadila": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "6697d2e1a4",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950500d/skoda-ad-utvista-rekstri-husdyragardsins-til-einkaadila",
+      "title": "Skoða að út­vista rekstri Hús­dýragarðsins til einka­aðila",
+      "sum": "Borgin ætlar að skoða að útvista rekstri Fjölskyldu- og húsdýragarðsins til einkaaðila. Forseti borgarstjórnar segir tækifærin fjölmörg og að borgin sé ekki alltaf best til þess fallin að gera allt ein."
+    }
+  },
+  "https://www.visir.is/g/20262950394d/slo-i-brynu-milli-poppara-yfir-ratcliffe": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "0a0cd8683c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950394d/slo-i-brynu-milli-poppara-yfir-ratcliffe",
+      "title": "Sló í brýnu milli poppara yfir Ratcliffe",
+      "sum": "Mikil umræða kviknaði á Facebook um helgina um ítök og áhrif breska auðjöfursins Jims Ratcliffe sem hefur keypt tugi jarða á Norðausturlandi á síðustu áratugum. Sló í brýnu milli veiði- og tónlistarmannanna Bubba Morthens og Pálma Gunnarssonar sem voru ósammála um Ratcliffe og áætlanir hans."
+    }
+  },
+  "https://www.visir.is/g/20262950402d/arfurinn-og-rettur-rikisins-til-skattheimtu": {
+    "first_seen": "2026-10-19T16:29:01.819430+00:00",
+    "record": {
+      "id": "b8b6557c3c",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950402d/arfurinn-og-rettur-rikisins-til-skattheimtu",
+      "title": "Arfurinn og réttur ríkisins til skatt­heimtu",
+      "sum": "Umræða um afnám erfðafjárskatts hefur tekið á sig athyglisverða mynd. Í stað þess að ræða hvort réttmætt sé að skattleggja eignir þegar þær ganga í arf hefur athyglin að verulegu leyti beinst að því hvernig stjórnmálamönnum detti í hug að leggja til afnám skatts sem skilar ríkissjóði umtalsverðum tekjum."
     }
   }
 }
