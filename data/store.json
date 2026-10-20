@@ -10271,7 +10271,7 @@
       "src": "Vísir",
       "url": "https://www.visir.is/g/20262951005d/bein-utsending-fyrsta-skoflustunga-ad-stora-hrauni",
       "title": "Bein út­sending: Fyrsta skóflu­stunga að Stóra-Hrauni",
-      "sum": "Þorbjörg Sigríður Gunnlaugsdóttir dómsmálaráðherra tekur klukkan 14 í dag fyrstu skóflustunguna að öryggisfangelsinu við Stóra-Hraun. Berghildur Erla Bernharðsdóttir fréttamaður verður viðstödd athöfnina og Vísir í beinni útsendingu. Hægt verður að fylgjast með í spilaranum að neðan."
+      "sum": "Þorbjörg Sigríður Gunnlaugsdóttir dómsmálaráðherra tekur klukkan 14 í dag fyrstu skóflustunguna að öryggisfangelsinu við Stóra-Hraun. Berghildur Erla Bernharðsdóttir fréttamaður fylgdist með athöfninni."
     }
   },
   "https://www.visir.is/g/20262951011d/komi-ekki-til-greina-ad-haetta-vid-talnakvardann": {
@@ -10422,6 +10422,201 @@
       "url": "https://www.visir.is/g/20262950853d/fleiri-kronur-taldar-faar-nyjar",
       "title": "Fleiri krónur taldar – fáar nýjar",
       "sum": "Hinn 16. október sendu utanríkisráðuneytið og fjármála- og efnahagsráðuneytið fjárlaganefnd Alþingis sundurliðun á varnartengdum útgjöldum Íslands."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/20/spesia_kynnir_nyja_fjarfestingarthjonustu/": {
+    "first_seen": "2026-10-20T18:14:02.971029+00:00",
+    "record": {
+      "id": "ede2c5684b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/20/spesia_kynnir_nyja_fjarfestingarthjonustu/",
+      "title": "Spesía kynnir nýja fjárfestingarþjónustu",
+      "sum": "„Ísland er að mörgu leyti framarlega þegar kemur að fjármálum en hvað fjárfestingar snertir erum við mjög aftarlega á merinni og nánast á steinöld,“ segir Georg Lúðvíksson hjá Spesíu."
+    }
+  },
+  "https://www.visir.is/g/20262951227d/-thu-ert-buinn-ad-fa-alla-heimsins-verki-": {
+    "first_seen": "2026-10-20T18:14:02.971029+00:00",
+    "record": {
+      "id": "a59e4a63c9",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951227d/-thu-ert-buinn-ad-fa-alla-heimsins-verki-",
+      "title": "„Þú ert búinn að fá alla heimsins verki“",
+      "sum": "Skagamaðurinn Guðjón Ingi Sigurðsson varð í öðru sæti í bakgarðshlaupinu sem lauk snemma í morgun. Guðjón Ingi varð fyrir því óláni að detta í byrjun 69. hringsins og hætti því keppni."
+    }
+  },
+  "https://www.visir.is/g/20262951224d/sigurvin-kalladur-ut-vegna-hildar": {
+    "first_seen": "2026-10-20T18:14:02.971029+00:00",
+    "record": {
+      "id": "e75f7c50fa",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951224d/sigurvin-kalladur-ut-vegna-hildar",
+      "title": "Sigur­vin kallaður út vegna Hildar",
+      "sum": "Björgunarskipið Sigurvin var kallað út í morgun vegna 475 tonna fiskiskips að nafni Hildur sem hafði fengið veiðarfæri í skrúfuna og varð í kjölfarið aflvana. Skipið var statt um miðja vegu milli Siglufjarðar og Grímseyjar."
+    }
+  },
+  "https://www.visir.is/g/20262951186d/tengslarof-rikistjornarinna-vid-atvinnulif-og-samfelog-a-landsbyggdinni": {
+    "first_seen": "2026-10-20T18:14:02.971029+00:00",
+    "record": {
+      "id": "e929ab4207",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951186d/tengslarof-rikistjornarinna-vid-atvinnulif-og-samfelog-a-landsbyggdinni",
+      "title": "Tengslarof ríkistjórnarinna við at­vinnu­líf og sam­fé­lög á lands­byggðinni",
+      "sum": "Kílómetragjaldið er enn eitt dæmið um alvarlegt tengslarof ríkistjórnarinna við atvinnulíf og samfélög á landsbyggðinni. Þeir borga sem nota! Spurt er: Af hverju ætti fólk á höfuðborgarsvæðinu sem aðeins skreppur út á land á sumrin og í páskafríum að greiða fyrir vegi á landsbyggðinni?"
+    }
+  },
+  "https://www.visir.is/g/20262951204d/kristofer-acox-selur-ibud-med-potti-i-urridaholti": {
+    "first_seen": "2026-10-20T18:14:02.971029+00:00",
+    "record": {
+      "id": "34d494b45f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951204d/kristofer-acox-selur-ibud-med-potti-i-urridaholti",
+      "title": "Kristófer Acox selur í­búð með potti í Urriðaholti",
+      "sum": "Körfuboltagoðsögnin Kristófer Acox hefur sett íbúð sína í Urriðaholti í Garðabæ á sölu. Íbúðin er á fyrstu hæð og henni fylgir heitur pottur og pallur."
+    }
+  },
+  "https://www.visir.is/g/20262951195d/ekki-tilraun-til-manndraps-ad-taka-sambyliskonuna-kverkataki": {
+    "first_seen": "2026-10-20T18:14:02.971029+00:00",
+    "record": {
+      "id": "53cfd1a5f4",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951195d/ekki-tilraun-til-manndraps-ad-taka-sambyliskonuna-kverkataki",
+      "title": "Ekki til­raun til mann­dráps að taka sam­býlis­konuna kverka­taki",
+      "sum": "Karlmaður hefur verið dæmdur til 3,5 ára fangelsisvistar fyrir gróft ofbeldi í garð sambýliskonu sinnar. Hann var ákærður fyrir tilraun til manndráps með því að hafa tekið konuna kyrkingartaki en dómurinn taldi ekki sannað að hann hefði haft ásetning til þess að myrða konuna."
+    }
+  },
+  "https://www.visir.is/g/20262950969d/byst-vid-hardri-samkeppni-fra-verstappen": {
+    "first_seen": "2026-10-20T18:14:02.971029+00:00",
+    "record": {
+      "id": "43c0859c75",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950969d/byst-vid-hardri-samkeppni-fra-verstappen",
+      "title": "Býst við harðri sam­keppni frá Verstappen",
+      "sum": "Mercedes byrjaði tímabilið frábærlega og var sterkasta liðið í byrjun tímabilsinsi í Formúlu 1. Eftir því sem leið á tímabilið byrjuðu önnur lið smátt og smátt að ná Mercedes og virðast Red Bull, Ferrari og McLaren vera á svipuðum stað og Mercedes."
+    }
+  },
+  "https://www.visir.is/g/20262951182d/vanraekti-ad-rannsaka-raunverulegan-kostnad-keppinauta-landsvirkjunar": {
+    "first_seen": "2026-10-20T18:14:02.971029+00:00",
+    "record": {
+      "id": "a4ce0b20f7",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951182d/vanraekti-ad-rannsaka-raunverulegan-kostnad-keppinauta-landsvirkjunar",
+      "title": "Van­rækti að rann­saka raun­veru­legan kostnað keppi­nauta Lands­virkjunar",
+      "sum": "Áfrýjunarnefnd samkeppnismála taldi rannsókn Samkeppniseftirlitsins gegn Landsvirkjun haldna verulegum annmörkum á grundvallaratriðum málsins, meðal annars við skilgreiningu markaða og mat á samkeppnishamlandi áhrifum verðlagningar orkufyrirtækisins, og er niðurstaðan sögð hafa „verulega þýðingu fyrir íslenskt …"
+    }
+  },
+  "https://www.visir.is/g/20262951136d/selenski-og-bandamenn-hitta-fulltrua-trump-i-oslo": {
+    "first_seen": "2026-10-20T18:14:02.971029+00:00",
+    "record": {
+      "id": "240027ebca",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951136d/selenski-og-bandamenn-hitta-fulltrua-trump-i-oslo",
+      "title": "Selenskí og banda­menn hitta full­trúa Trump í Osló",
+      "sum": "Volodýmýr Selenskí, forseti Úkraína, ásamt evrópskum bandamönnum fundar nú með fulltrúa Bandaríkjastjórnar í Osló í skugga áframhaldandi harðra árása Rússa á landið. Bandaríkjastjórn hefur nálgast verulega stjórnvöld í Kreml að undanförnu."
+    }
+  },
+  "https://www.visir.is/g/20262951019d/stefna-a-ad-hefja-leit-i-november": {
+    "first_seen": "2026-10-20T18:14:02.971029+00:00",
+    "record": {
+      "id": "bb50e88266",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951019d/stefna-a-ad-hefja-leit-i-november",
+      "title": "Stefna á að hefja leit í nóvember",
+      "sum": "Lögreglustjórinn á Suðurnesjum segir að í næsta mánuði verði mögulega hægt að hefja leit að jarðneskum leifum manns sem féll ofan í sprungu í Grindavík árið 2024. Nú sé unnið að mótvægisaðgerðum."
+    }
+  },
+  "https://www.visir.is/g/20262951115d/komst-ekki-ur-sokkunum-fyrir-blodrum": {
+    "first_seen": "2026-10-20T18:14:02.971029+00:00",
+    "record": {
+      "id": "c9741fea59",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951115d/komst-ekki-ur-sokkunum-fyrir-blodrum",
+      "title": "Komst ekki úr sokkunum fyrir blöðrum",
+      "sum": "Eftir að Íslandsmetið var bætt í Bakgarðshlaupinu í nótt var Guðmundur Lúther Hallgrímsson himinlifandi. Hann fór út í næsta hring en snéri fljótlega við og hætti hlaupinu."
+    }
+  },
+  "https://www.visir.is/g/20262951098d/vilja-125-milljonir-til-ad-halda-flugeldasolunni-gangandi": {
+    "first_seen": "2026-10-20T18:14:02.971029+00:00",
+    "record": {
+      "id": "abe2859547",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951098d/vilja-125-milljonir-til-ad-halda-flugeldasolunni-gangandi",
+      "title": "Vilja 125 milljónir til að halda flugeldasölunni gangandi",
+      "sum": "Fyrirhuguð íbúðablokk við Hvaleyrarbraut í Hafnarfirði kemur í veg fyrir áframhaldandi flugeldasölu í húsnæði Björgunarsveitar Hafnarfjarðar, að sögn sveitarinnar. Hún óskar eftir að bærinn greiði um 125 milljóna króna viðbyggingu svo halda megi sölunni áfram."
+    }
+  },
+  "https://www.visir.is/g/20262951076d/heita-thvi-ad-refsa-nordur-koreu-fyrir-ogranir": {
+    "first_seen": "2026-10-20T18:14:02.971029+00:00",
+    "record": {
+      "id": "4225483df2",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951076d/heita-thvi-ad-refsa-nordur-koreu-fyrir-ogranir",
+      "title": "Heita því að refsa Norður-Kóreu fyrir ögranir",
+      "sum": "Ráðamenn í Suður-Kóreu heita hörðum viðbrögðum standi einræðisstjórn Norður-Kóreu við þær hótanir að auka viðbúnað á landamærum ríkjanna. Aukin spenna er á Kóreuskaga eftir að hermenn frá Suður-Kóreu særðust alvarlega vegna jarðsprengja sem Suður-Kóreumenn segja að hafi verið komið fyrir af hermönnum frá Norður-Kóreu."
     }
   }
 }
