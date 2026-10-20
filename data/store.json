@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -10122,6 +10122,81 @@
       "url": "https://www.visir.is/g/20262950729d/uefa-gefur-infantino-lokafrest-til-ad-afhenta-lykilskjol",
       "title": "UEFA gefur Infantino loka­frest til að af­henta lykilskjöl",
       "sum": "Knattspyrnusamband Evrópu herðir tökin gagnvart Gianni Infantino, forseta FIFA, og krefst þess að lykilskjöl tengd hinum misheppnuðu og harðlega gagnrýndu fjárfestaáætlunum verði gerð opinber fyrir 2. nóvember."
+    }
+  },
+  "https://sa.is/frettatengt/frettir/sa-og-juni-smiða-nyjan-vef": {
+    "first_seen": "2026-10-20T00:51:25.784106+00:00",
+    "record": {
+      "id": "9d5a1118c8",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "Samtök atvinnulífsins",
+      "url": "https://sa.is/frettatengt/frettir/sa-og-juni-smiða-nyjan-vef",
+      "title": "SA og Júní smíða nýjan vef",
+      "sum": "SA og Júní semja um nýjan vef með öflugri leit og greiðara aðgengi að upplýsingum og þjónustu. Stefnt er að hann fari í loftið fyrir miðjan febrúar 2027."
+    }
+  },
+  "https://www.visir.is/g/20262950712d/20-4-milljardar-til-ukrainu-og-aukinn-studningur-vid-palestinu": {
+    "first_seen": "2026-10-20T00:51:25.784106+00:00",
+    "record": {
+      "id": "c5a6e4b8c7",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950712d/20-4-milljardar-til-ukrainu-og-aukinn-studningur-vid-palestinu",
+      "title": "20,4 milljarðar til Úkraínu og aukinn stuðningur við Palestínu",
+      "sum": "Stuðningur Íslands við Úkraínu nam 20,4 milljörðum króna frá upphafi allsherjarinnrásar Rússlands í febrúar 2022 til september síðastliðins. Framlög og samningar um stuðning við Palestínu nema samtals um 1,76 milljörðum samkvæmt samantekt á fjárhæðum í skýrslu forsætisráðherra um framkvæmd ályktana Alþingis frá árinu …"
+    }
+  },
+  "https://www.visir.is/g/20262950815d/gummi-ben-matthias-adstodar-runar-pal-i-stjornunni": {
+    "first_seen": "2026-10-20T00:51:25.784106+00:00",
+    "record": {
+      "id": "953e2a71df",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950815d/gummi-ben-matthias-adstodar-runar-pal-i-stjornunni",
+      "title": "Gummi Ben: Matthías að­stoðar Rúnar Pál í Stjörnunni",
+      "sum": "Matthías Vilhjálmsson yfirgefur Víkina og færir sig yfir í Garðabæinn eftir þetta tímabil samkvæmt því sem Guðmundur Benediktsson sagði frá í Stúkunni í kvöld."
+    }
+  },
+  "https://www.visir.is/g/20262945224d/hvad-veistu-um-nylon-": {
+    "first_seen": "2026-10-20T00:51:25.784106+00:00",
+    "record": {
+      "id": "2d4b6f30b6",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262945224d/hvad-veistu-um-nylon-",
+      "title": "Hvað veistu um… Nylon?",
+      "sum": "Nylon var íslensk stúlknasveit sem sló rækilega í gegn á Íslandi eftir að hún var stofnuð árið 2004. Sveitin varð fljótt ein sú vinsælasta í íslensku popplífi, gaf út fjölda vinsælla laga og naut mikilla vinsælda, sérstaklega meðal yngri hlustenda."
+    }
+  },
+  "https://www.visir.is/g/20262950781d/afkoman-ur-thremur-milljonum-i-plus-i-tuttugu-i-minus": {
+    "first_seen": "2026-10-20T00:51:25.784106+00:00",
+    "record": {
+      "id": "37909e02b7",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950781d/afkoman-ur-thremur-milljonum-i-plus-i-tuttugu-i-minus",
+      "title": "Af­koman úr þremur milljónum í plús í tuttugu í mínus",
+      "sum": "Hækkun kílómetragjalds á flutningabíla mun skila sér beint út í verðlag hér á landi að sögn framkvæmdastjóra Bílgreinasambandsins. Hann segir breytingarnar koma á óheppilegum tíma þegar heimsmarkaðsverð olíu sé í hæstu hæðum, gleymst hafi að líta til áhrifa hækkunarinnar á vöruflutninga."
     }
   }
 }
