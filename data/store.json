@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -10617,6 +10617,156 @@
       "url": "https://www.visir.is/g/20262951076d/heita-thvi-ad-refsa-nordur-koreu-fyrir-ogranir",
       "title": "Heita því að refsa Norður-Kóreu fyrir ögranir",
       "sum": "Ráðamenn í Suður-Kóreu heita hörðum viðbrögðum standi einræðisstjórn Norður-Kóreu við þær hótanir að auka viðbúnað á landamærum ríkjanna. Aukin spenna er á Kóreuskaga eftir að hermenn frá Suður-Kóreu særðust alvarlega vegna jarðsprengja sem Suður-Kóreumenn segja að hafi verið komið fyrir af hermönnum frá Norður-Kóreu."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/20/hlutabrefaverd_netflix_fellur_eftir_uppgjor/": {
+    "first_seen": "2026-10-21T00:17:51.308846+00:00",
+    "record": {
+      "id": "6ecd15941d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/20/hlutabrefaverd_netflix_fellur_eftir_uppgjor/",
+      "title": "Hlutabréfaverð Netflix fellur eftir uppgjör",
+      "sum": "Hlutabréfaverð í Netflix lækkaði um meira en fimm prósent síðdegis í dag eftir að ársfjórðungsuppgjör félagsins náði ekki að sefa áhyggjur fjárfesta af hægari vexti áhorfs og tekna."
+    }
+  },
+  "https://www.visir.is/g/20262951340d/-hvada-skada-hef-eg-valdid-ellidi-": {
+    "first_seen": "2026-10-21T00:17:51.308846+00:00",
+    "record": {
+      "id": "bd1ad4bf09",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951340d/-hvada-skada-hef-eg-valdid-ellidi-",
+      "title": "„Hvaða skaða hef ég valdið, Elliði?“",
+      "sum": "Jasmina Vajzovic, fyrrverandi bæjarfulltrúi í Reykjanesbæ, gagnrýnir ummæli Elliða Vignissonar, bæjarstjóra Ölfuss, í garð múslima."
+    }
+  },
+  "https://www.visir.is/g/20262951272d/segir-logreglumenn-a-vestfjordum-ahyggjufulla": {
+    "first_seen": "2026-10-21T00:17:51.308846+00:00",
+    "record": {
+      "id": "4efc0c579c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951272d/segir-logreglumenn-a-vestfjordum-ahyggjufulla",
+      "title": "Segir lög­reglu­menn á Vest­fjörðum á­hyggju­fulla",
+      "sum": "Formaður bæjarráðs Ísafjarðarbæjar segist hafa verulegar áhyggjur af áformum dómsmálaráðherra um fækkun lögregluembætta úr níu í þrjú. Hann segir farið gegn vilja landsbyggðarinnar í málinu og er hann efins um að staðið verði við loforð um að lögreglustöðinni á Ísafirði verði ekki lokað."
+    }
+  },
+  "https://www.visir.is/g/20262951312d/innleiding-nys-einkunnakerfis-sjaldan-verdur-flytiverk-til-fagnadar": {
+    "first_seen": "2026-10-21T00:17:51.308846+00:00",
+    "record": {
+      "id": "32ceeb0b41",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951312d/innleiding-nys-einkunnakerfis-sjaldan-verdur-flytiverk-til-fagnadar",
+      "title": "Innleiðing nýs einkunnakerfis – Sjaldan verður  \nflýtiverk til fagnaðar",
+      "sum": "Innleiðing nýs einkunnakerfis snýst um meira en að skipta út bókstöfum fyrir tölur. Hún krefst algjörrar samræmingar á stefnu stjórnvalda og framkvæmd í skólastofunni. Vorið 2027 verður tekinn upp nýr talnakvarði (4–10) við útskrift úr grunnskólum."
+    }
+  },
+  "https://www.visir.is/g/20262951030d/evropumeistararnir-skorudu-tvo-mork-i-lokin": {
+    "first_seen": "2026-10-21T00:17:51.308846+00:00",
+    "record": {
+      "id": "016f600a54",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951030d/evropumeistararnir-skorudu-tvo-mork-i-lokin",
+      "title": "Evrópumeistararnir skoruðu tvö mörk í lokin",
+      "sum": "Evrópumeistarar Paris Saint-Germain unnu 4-2 sigur á Barcelona í stórleik kvöldsins í Meistaradeildinni í fótbolta en franska liðið varð þar með það fyrsta til að vinna Börsunga á þessari leiktíð."
+    }
+  },
+  "https://www.visir.is/g/20262950416d/thungmalmar-i-drykkjarvatni-a-svalbarda-vegna-thidnunar": {
+    "first_seen": "2026-10-21T00:17:51.308846+00:00",
+    "record": {
+      "id": "da4b0ff556",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262950416d/thungmalmar-i-drykkjarvatni-a-svalbarda-vegna-thidnunar",
+      "title": "Þung­málmar í drykkjar­vatni á Sval­barða vegna þiðnunar",
+      "sum": "Þiðnun sífrera vegna hnattrænnar hlýnunar er talin orsök þungmálma í drykkjarvatni á Svalbarða. Íbúum þar hefur verið ráðlagt að drekka ekki kranavatn vegna mengunarinnar."
+    }
+  },
+  "https://www.visir.is/g/20262951293d/margar-fengu-ad-skina-i-storsigri-islandsmeistaranna": {
+    "first_seen": "2026-10-21T00:17:51.308846+00:00",
+    "record": {
+      "id": "0f025be9ea",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951293d/margar-fengu-ad-skina-i-storsigri-islandsmeistaranna",
+      "title": "Margar fengu að skína í stór­sigri Ís­lands­meistaranna",
+      "sum": "Njarðvíkurkonur fögnuðu sínum þriðja sigri í röð í Bónus deild kvenna í körfubolta í kvöld þegar liðið vann 53 stiga stórsigur á Fjölni, 108-55."
+    }
+  },
+  "https://www.visir.is/g/20262951288d/bolginn-a-hondunum-skridandi-til-bessastada": {
+    "first_seen": "2026-10-21T00:17:51.308846+00:00",
+    "record": {
+      "id": "fdf0a012bc",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951288d/bolginn-a-hondunum-skridandi-til-bessastada",
+      "title": "Bólginn á höndunum skríðandi til Bessa­staða",
+      "sum": "Ungur maður fer nú skríðandi til Bessastaða en hann hélt af stað frá Njarðvík í gærkvöldi. Hann segir tilganginn vera þann að sanka að sér fleiri fylgjendum á samfélagsmiðlum."
+    }
+  },
+  "https://www.visir.is/g/20262951271d/meintir-njosnarar-handteknir-i-danmorku": {
+    "first_seen": "2026-10-21T00:17:51.308846+00:00",
+    "record": {
+      "id": "65b3a60d7f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951271d/meintir-njosnarar-handteknir-i-danmorku",
+      "title": "Meintir njósnarar hand­teknir í Dan­mörku",
+      "sum": "Tveir ungir menn í Álaborg í Danmörku hafa verið úrskurðaðir í gæsluvarðhald vegna gruns um að njósna um danskt varnarmálafyrirtæki í þágu rússneskra stjórnvalda. Lögregla leitar enn að þriðja manninum."
+    }
+  },
+  "https://www.visir.is/g/20262951261d/skattahaekkanir-sem-beinast-gegn-sudurlandi": {
+    "first_seen": "2026-10-21T00:17:51.308846+00:00",
+    "record": {
+      "id": "cfaca06d20",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951261d/skattahaekkanir-sem-beinast-gegn-sudurlandi",
+      "title": "Skattahækkanir sem beinast gegn Suður­landi",
+      "sum": "Skattaárátta ríkisstjórnarinnar bitnar illa á Suðurkjördæmi. Boðaður er sérstakur skattur á ferðamannastaði í Bláskógabyggð, sem mun hafa áhrif langt út fyrir sveitarfélagið. Auk þess stendur til að hækka virðisaukaskatt á baðlón, sem eru langflest á Suðurlandi og eru burðarásinn í uppbyggingu þar á síðustu árum."
     }
   }
 }
