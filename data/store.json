@@ -10768,5 +10768,230 @@
       "title": "Skattahækkanir sem beinast gegn Suður­landi",
       "sum": "Skattaárátta ríkisstjórnarinnar bitnar illa á Suðurkjördæmi. Boðaður er sérstakur skattur á ferðamannastaði í Bláskógabyggð, sem mun hafa áhrif langt út fyrir sveitarfélagið. Auk þess stendur til að hækka virðisaukaskatt á baðlón, sem eru langflest á Suðurlandi og eru burðarásinn í uppbyggingu þar á síðustu árum."
     }
+  },
+  "https://sa.is/frettatengt/frettir/utgjaldavandinn-hverfur-ekki-þott-skattarnir-hækki": {
+    "first_seen": "2026-10-21T14:30:10.893252+00:00",
+    "record": {
+      "id": "4f0b0a990c",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-21",
+      "src": "Samtök atvinnulífsins",
+      "url": "https://sa.is/frettatengt/frettir/utgjaldavandinn-hverfur-ekki-þott-skattarnir-hækki",
+      "title": "Útgjaldavandinn hverfur ekki þótt skattarnir hækki",
+      "sum": "Útgjaldavanda ríkisins verður ekki mætt með sífelldum skattahækkunum. SA kalla eftir aðhaldi í ríkisrekstri og vara við áhrifum aukinnar skattheimtu á fjárfestingu og atvinnusköpun."
+    }
+  },
+  "https://sa.is/frettatengt/frettir/boðuð-einfoldun-verður-að-meiri-flækju": {
+    "first_seen": "2026-10-21T14:30:10.893252+00:00",
+    "record": {
+      "id": "1ba815360b",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-21",
+      "src": "Samtök atvinnulífsins",
+      "url": "https://sa.is/frettatengt/frettir/boðuð-einfoldun-verður-að-meiri-flækju",
+      "title": "Boðuð einföldun verður að meiri flækju",
+      "sum": "SA gagnrýna að nýjar reglur um skýrslugjöf um kynbundinn launamun auki flækjustig og kostnað þrátt fyrir boðaða einföldun og kalla eftir breyttri framkvæmd."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/21/oseldum_nyjum_ibudum_fjolgar_um_85_prosent/": {
+    "first_seen": "2026-10-21T14:30:10.893252+00:00",
+    "record": {
+      "id": "4fea66e455",
+      "cat": "husnaedi",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": true,
+      "date": "2026-10-21",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/21/oseldum_nyjum_ibudum_fjolgar_um_85_prosent/",
+      "title": "Óseldum nýjum íbúðum fjölgar um 85%",
+      "sum": "Fullbúnum óseldum íbúðum hefur fjölgað um 85% á einu ári og rúmlega helmingur nýbygginga á höfuðborgarsvæðinu seldist undir ásettu verði í ágúst."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/21/daemt_til_ad_endurgreida_throtabui_53_2_milljonir/": {
+    "first_seen": "2026-10-21T14:30:10.893252+00:00",
+    "record": {
+      "id": "00c8b99d54",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-21",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/21/daemt_til_ad_endurgreida_throtabui_53_2_milljonir/",
+      "title": "Dæmt til að endurgreiða þrotabúi 53,2 milljónir",
+      "sum": "Héraðsdómur Reykjaness hefur dæmt Hegra fjárfestingar ehf. til að endurgreiða þrotabúi Bílaleigu Reykjavíkur ehf. rúmar 53,2 milljónir króna, auk vaxta, og greiða 900 þúsund krónur í málskostnað."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/21/atvinnuleysi_maeldist_5_7_prosent_i_september/": {
+    "first_seen": "2026-10-21T14:30:10.893252+00:00",
+    "record": {
+      "id": "5eed184bd3",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-21",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/21/atvinnuleysi_maeldist_5_7_prosent_i_september/",
+      "title": "Atvinnuleysi mældist 5,7% í september",
+      "sum": "Árstíðaleiðrétt atvinnuleysi mældist 5,7% í september og dróst saman um 1,1 prósentustig frá ágúst. Samkvæmt óleiðréttum tölum var atvinnuleysi hins vegar meira en í september í fyrra."
+    }
+  },
+  "https://www.visir.is/g/20262951563d/akall-um-samstarf-ekki-bara-samtal": {
+    "first_seen": "2026-10-21T14:30:10.893252+00:00",
+    "record": {
+      "id": "99658df693",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-21",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951563d/akall-um-samstarf-ekki-bara-samtal",
+      "title": "Á­kall um sam­starf – Ekki bara sam­tal",
+      "sum": "Hún hefur ekki farið fram hjá mörgum undanfarna daga, sú mikla umræða um fyrirhugaðar skattahækkanir og nýjar álögur sem munu að verulegu leyti koma niður á ferðaþjónustunni og þeim samfélögum sem byggja afkomu sína m.a. á henni."
+    }
+  },
+  "https://www.visir.is/g/20262951615d/holmar-orn-haettur-thakklatur-fyrir-allt-ferdalagid-": {
+    "first_seen": "2026-10-21T14:30:10.893252+00:00",
+    "record": {
+      "id": "0aff0d3e9f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-21",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951615d/holmar-orn-haettur-thakklatur-fyrir-allt-ferdalagid-",
+      "title": "Hólmar Örn hættur: „Þakk­látur fyrir allt ferða­lagið“",
+      "sum": "Hólmar Örn Eyjólfsson, fyrirliði Vals, hefur ákveðið að leggja takkaskóna á hilluna eftir þessa leiktíð. Valur mætir Stjörnunni í Garðabæ á laugardaginn í lokaumferð Bestu deildarinnar."
+    }
+  },
+  "https://www.visir.is/g/20262951609d/frumvarp-um-serislenskt-bonusthak-sagt-auka-aaettu-i-rekstri-verdbrefafelaga": {
+    "first_seen": "2026-10-21T14:30:10.893252+00:00",
+    "record": {
+      "id": "0f5ebcfd26",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-21",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951609d/frumvarp-um-serislenskt-bonusthak-sagt-auka-aaettu-i-rekstri-verdbrefafelaga",
+      "title": "Frum­varp um sérís­lenskt bónusþak sagt „auka áættu í rekstri“ verðbréfa­félaga",
+      "sum": "Áform fjármálaráðherra um að viðhalda 25 prósenta hámarki á kaupaukagreiðslur starfsmanna verðbréfafyrirtækja eru til þess fallin að „auka áhættu í rekstri [þeirra] fremur en að draga úr henni,“ að mati framkvæmdastjóra Acro verðbréfa."
+    }
+  },
+  "https://www.visir.is/g/20262951534d/efast-um-ad-vilja-althingis-se-fylgt-i-jafnlaunamalum": {
+    "first_seen": "2026-10-21T14:30:10.893252+00:00",
+    "record": {
+      "id": "35d453549d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-21",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951534d/efast-um-ad-vilja-althingis-se-fylgt-i-jafnlaunamalum",
+      "title": "Efast um að vilja Al­þingis sé fylgt í jafnlaunamálum",
+      "sum": "Boðuð einföldun á jafnlaunareglum hefur aukið vinnu og kostnað fyrirtækja, að mati Önnu Hrefnu Ingimundardóttur, aðstoðarframkvæmdastjóra Samtaka atvinnulífsins. Hún efast um að verið sé að fylgja vilja Alþingis og vill að ný framkvæmd Jafnréttisstofu verði sett á bið."
+    }
+  },
+  "https://www.visir.is/g/20262951520d/attu-attu-": {
+    "first_seen": "2026-10-21T14:30:10.893252+00:00",
+    "record": {
+      "id": "c5831010e1",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-21",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951520d/attu-attu-",
+      "title": "Áttu áttu?",
+      "sum": "Áttu bíl? Áttu heimili? Áttu fyrirtæki? Áttu stóra fjölskyldu? Ferðu stundum í baðlón á afmælisdögum? Þá ert þú hinn fullkomni aðili til að greiða hærri skatt samkvæmt nýjasta fjárlagafrumvarpinu."
+    }
+  },
+  "https://www.visir.is/g/20262951491d/godgerdartreyja-til-styrktar-ingvari-honnud-af-66-nordur": {
+    "first_seen": "2026-10-21T14:30:10.893252+00:00",
+    "record": {
+      "id": "f3328a1684",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-21",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951491d/godgerdartreyja-til-styrktar-ingvari-honnud-af-66-nordur",
+      "title": "Góðgerðartreyja til styrktar Ingvari hönnuð af 66° Norður",
+      "sum": "Íslandsmeistarar Víkings spila síðasta leik tímabilsins næstkomandi laugardag í góðgerðartreyju sem er hönnuð af 66°Norður. Takmarkað magn af treyjum er til sölu og mun allur ágóði af sölunni renna óskiptur til markvarðarins Ingvars Jónssonar og fjölskyldu hans en hann greindist með krabbamein fyrr á árinu og háir nú …"
+    }
+  },
+  "https://www.visir.is/g/20262951484d/vilja-rannsaka-vinnubrogd-serstaks-saksoknara": {
+    "first_seen": "2026-10-21T14:30:10.893252+00:00",
+    "record": {
+      "id": "7ca74fc6cf",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-21",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951484d/vilja-rannsaka-vinnubrogd-serstaks-saksoknara",
+      "title": "Vilja rann­saka vinnu­brögð sér­staks sak­sóknara",
+      "sum": "Þingmenn vilja að sérstök rannsóknarnefnd kanni hvort réttindi sakborninga hafi verið virt við rannsókn mála eftir bankahrunið. Meðal annars verði farið yfir hleranir, handtökur og varðveislu rannsóknargagna hjá sérstökum saksóknara."
+    }
+  },
+  "https://www.visir.is/g/20262951379d/peningaglyjuorar-meida-islenskan-almenning-opid-bref-til-kristrunar-frostadottur-forsaetisradherra": {
+    "first_seen": "2026-10-21T14:30:10.893252+00:00",
+    "record": {
+      "id": "021b1c4197",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-21",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951379d/peningaglyjuorar-meida-islenskan-almenning-opid-bref-til-kristrunar-frostadottur-forsaetisradherra",
+      "title": "Peningaglýjuórar meiða ís­lenskan al­menning -Opið bréf til Krist­rúnar Frostadóttur for­sætis­ráð­herra",
+      "sum": "Árið 2010 átti ég í ritdeilu um verðtryggingu á síðum Pressunnar við lektor við hagfræðideild Háskóla Íslands. Mín afstaða í þessari ritdeilu var að Íslendingar þyrftu að átta sig á að þegar atvik ótengd peningum leiða til hækkunar á verði stakrar vöru í vörukörfu vísitölu neysluverðs, til dæmis þegar þurrkar í …"
+    }
+  },
+  "https://www.visir.is/g/20262951459d/atvinnuleysi-drost-saman": {
+    "first_seen": "2026-10-21T14:30:10.893252+00:00",
+    "record": {
+      "id": "dfe170d1c3",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-21",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951459d/atvinnuleysi-drost-saman",
+      "title": "At­vinnu­leysi dróst saman",
+      "sum": "Atvinnuleysi mældist 5,7 prósent í september en alls voru rúmlega fimmtán þúsund án atvinnu samkvæmt árstíðarleiðréttum niðurstöðum rannsóknar Hagstofunnar."
+    }
+  },
+  "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/": {
+    "first_seen": "2026-10-21T14:30:10.893252+00:00",
+    "record": {
+      "id": "96f924696f",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-21",
+      "src": "Hagstofan",
+      "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
+      "title": "Atvinnuleysi 5,7% Ã­ september",
+      "sum": ""
+    }
   }
 }
