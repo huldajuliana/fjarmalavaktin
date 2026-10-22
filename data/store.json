@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -11097,6 +11097,81 @@
       "url": "https://www.visir.is/g/20262951705d/-nei-putin-er-hardsviradur-mordingi-",
       "title": "„Nei, Pútín er harð­svíraður morðingi“",
       "sum": "Ráðgjafi Vladimírs Pútín segir að Rússar séu tilbúnir til þríhliða viðræðna milli Rússlands, Bandaríkjanna og Úkraínu. Þingmenn Repúblikanaflokksins hafa mótmælt ummælum erindreka Donalds Trump um að Pútín sé mannvinur."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/21/toska_daemt_til_ad_greida_rumar_340_milljonir/": {
+    "first_seen": "2026-10-22T00:21:03.879394+00:00",
+    "record": {
+      "id": "26bd47d734",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-21",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/21/toska_daemt_til_ad_greida_rumar_340_milljonir/",
+      "title": "Toska dæmt til að greiða rúmar 340 milljónir",
+      "sum": "Héraðsdómur Reykjavíkur hefur dæmt Toska ehf., félag í eigu Jóns Hilmars Karlssonar, sonar Karls Emils Wernerssonar, til að greiða Nordic Pharma Investment Ltd. rúmar 340 milljónir króna auk dráttarvaxta."
+    }
+  },
+  "https://www.mbl.is/frettir/erlent/2026/10/21/meta_sektad_um_rumlega_3_000_milljarda/": {
+    "first_seen": "2026-10-22T00:21:03.879394+00:00",
+    "record": {
+      "id": "fdcae0e48a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-21",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/erlent/2026/10/21/meta_sektad_um_rumlega_3_000_milljarda/",
+      "title": "Meta sektað um rúmlega 3.000 milljarða",
+      "sum": "Dómari í Nýju-Mexíkó í Bandaríkjunum dæmdi tæknifyrirtækið Meta í dag til að greiða 25 milljarða dala, jafnvirði um 3.031 milljarðs íslenskra króna, fyrir að blekkja notendur um meðferð persónuupplýsinga þeirra. Fjársektin er ein sú hæsta sem tæknirisa hefur verið gert að greiða."
+    }
+  },
+  "https://www.visir.is/g/20262951799d/setti-tvo-islandsmet-i-snorun-a-evropumotinu": {
+    "first_seen": "2026-10-22T00:21:03.879394+00:00",
+    "record": {
+      "id": "bf19f39c28",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-21",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951799d/setti-tvo-islandsmet-i-snorun-a-evropumotinu",
+      "title": "Setti tvö Ís­lands­met í snörun á Evrópu­mótinu",
+      "sum": "Þórbergur Ernir Hlynsson varð sjötti í sínum þyngdarflokki á Evrópumeistaramóti U23 í ólympískum lyftingum sem fór fram í Durrës í Albaníu."
+    }
+  },
+  "https://www.visir.is/g/20262951864d/meta-sektad-um-thrju-thusund-milljarda-krona": {
+    "first_seen": "2026-10-22T00:21:03.879394+00:00",
+    "record": {
+      "id": "90a756ea84",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-21",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951864d/meta-sektad-um-thrju-thusund-milljarda-krona",
+      "title": "Meta sektað um þrjú þúsund milljarða króna",
+      "sum": "Bandaríska samfélagsmiðlarisanum Meta hefur verið gert að greiða sekt að andvirði 25 milljarða Bandaríkjadollara eða um þrjú þúsund milljarða króna vegna þess hvernig fyrirtækið laug um meðferð þess á gögnum notenda samfélagsmiðilsins Facebook. Um er að ræða stærstu sekt sem fyrirtækið hefur fengið."
+    }
+  },
+  "https://www.visir.is/g/20262951838d/thurfti-ad-spretta-i-markid-eftir-102-klukkutima-a-hlaupum": {
+    "first_seen": "2026-10-22T00:21:03.879394+00:00",
+    "record": {
+      "id": "407c571dd3",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-21",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262951838d/thurfti-ad-spretta-i-markid-eftir-102-klukkutima-a-hlaupum",
+      "title": "Þurfti að spretta í markið eftir 102 klukku­tíma á hlaupum",
+      "sum": "Heimsmeistaramótinu í bakgarðshlaupum er ekki lokið því enn er verið að hlaupa í þremur löndum eða Bandaríkjunum, Japan og Belgíu."
     }
   }
 }
