@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -3217,7 +3217,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/umhverfi/uppfaersla-a-loftslagsbokhaldi-hagkerfisins-til-2025/",
       "title": "Losun grÃ³Ã°urhÃºsalofts frÃ¡ hagkerfinu drÃ³st saman um 5% Ã¡ milli Ã¡ra",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -11592,6 +11592,126 @@
       "url": "https://www.visir.is/g/20262952239d/vilja-afsokunarbeidni-fra-kim-vegna-jardsprengju",
       "title": "Vilja af­sökunar­beiðni frá Kim vegna jarð­sprengju",
       "sum": "Ráðamenn í Suður-Kóreu hafa beðið nágranna sína í norðri um að taka ekki skref sem aukið geta líkurnar á átökum ríkjanna á milli. Norður-Kóreumenn ætla sér að hefja á nýjan leik útsendingar áróðurs yfir landamærin og að auka viðbúnað við hlutlausa svæðið og hafa hótað alvarlegum afleiðingum ef afskiptum af …"
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/22/icelandair_hagnast_um_taepa_12_milljarda/": {
+    "first_seen": "2026-10-23T00:18:41.141917+00:00",
+    "record": {
+      "id": "caee3a11f2",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-22",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/22/icelandair_hagnast_um_taepa_12_milljarda/",
+      "title": "Icelandair hagnast um tæpa 12 milljarða",
+      "sum": "Icelandair hagnaðist um 11,8 milljarða króna eftir skatta á þriðja ársfjórðungi 2026, samanborið við 7,0 milljarða króna á sama tímabili í fyrra."
+    }
+  },
+  "https://www.visir.is/g/20262952458d/runar-ingi-um-bannid-hans-veigars-pals-eg-er-bara-nidurbrotinn-sem-thjalfarinn-hans-": {
+    "first_seen": "2026-10-23T00:18:41.141917+00:00",
+    "record": {
+      "id": "1fc29395dd",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-22",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262952458d/runar-ingi-um-bannid-hans-veigars-pals-eg-er-bara-nidurbrotinn-sem-thjalfarinn-hans-",
+      "title": "Rúnar Ingi um bannið hans Veigars Páls: „Ég er bara niður­brotinn sem þjálfarinn hans“",
+      "sum": "Njarðvík tapaði sínum þriðja leik í Bónus deild karla í kvöld þegar þeir tóku á móti Valsmönnum í IceMar höllinni. Njarðvíkingar eru áfram án sigurs eftir 85-93 tap gegn Val og var Rúnar Ingi Erlingsson þjálfari Njarðvíkur að vonum svekktur í leikslok."
+    }
+  },
+  "https://www.visir.is/g/20262952135d/uppgjorid-njardvik-valur-85-93-olik-stada-eftir-oruggan-valssigur": {
+    "first_seen": "2026-10-23T00:18:41.141917+00:00",
+    "record": {
+      "id": "a076d25f8b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-22",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262952135d/uppgjorid-njardvik-valur-85-93-olik-stada-eftir-oruggan-valssigur",
+      "title": "Upp­gjörið: Njarðvík-Valur 85-93 | Ó­lík staða eftir öruggan Valssigur",
+      "sum": "Valsmenn eru með fullt hús í Bónusdeild karla í körfubolta eftir þriðja sigur sinn í röð. Valur vann átta stiga sigur á Njarðvík, 93-85, og heimamenn í Njarðvík hafa því tapað fyrstu þremur leikjum tímabilsins."
+    }
+  },
+  "https://www.visir.is/g/20262952366d/frafarandi-forstjori-landsvirkjunar-opnar-sig-um-starfslokin": {
+    "first_seen": "2026-10-23T00:18:41.141917+00:00",
+    "record": {
+      "id": "18b3b26b05",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-22",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262952366d/frafarandi-forstjori-landsvirkjunar-opnar-sig-um-starfslokin",
+      "title": "Frá­farandi for­stjóri Lands­virkjunar opnar sig um starfs­lokin",
+      "sum": "Það vakti mikla athygli þegar Hörður Arnarson, fráfarandi forstjóri Landsvirkjunar, tilkynnti starfslok sín en hann gaf engin skýr svör við því hvers vegna hann hafi ákveðið að hætta fyrr."
+    }
+  },
+  "https://www.visir.is/g/20262938132d/hvad-veistu-um-karl-bretakonung-": {
+    "first_seen": "2026-10-23T00:18:41.141917+00:00",
+    "record": {
+      "id": "1db6283dd8",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-22",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262938132d/hvad-veistu-um-karl-bretakonung-",
+      "title": "Hvað veistu um… Karl Breta­konung?",
+      "sum": "Karl Bretakonungur varð konungur árið 2022 eftir andlát móður sinnar, Elísabetar II, sem hafði þá gegnt embætti drottningar frá árinu 1952. Þegar Karl tók við embætti konungs hafði hann verið krónprins í rúmlega sjö áratugi og varð þá elsti maðurinn til að taka við bresku krúnunni."
+    }
+  },
+  "https://www.visir.is/g/20262952371d/italski-baroninn-a-ekki-vatnid": {
+    "first_seen": "2026-10-23T00:18:41.141917+00:00",
+    "record": {
+      "id": "1ecc1ea266",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-22",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262952371d/italski-baroninn-a-ekki-vatnid",
+      "title": "Ítalski baróninn á ekki vatnið",
+      "sum": "Landsréttur hefur staðfest dóm Héraðsdóms Vestfjarða um að vatnsnýtingarréttindi á landi Engjaness í Eyvindarfirði á Ströndum séu í eigu ríkisins. Baróninn hafði samið við orkufyrirtæki um afnot réttindanna vegna fyrirhugaðrar Hvalárvirkjunar."
+    }
+  },
+  "https://www.visir.is/g/20262952367d/thrir-islendingar-i-byrjunarlidi-brann-i-evropusigri": {
+    "first_seen": "2026-10-23T00:18:41.141917+00:00",
+    "record": {
+      "id": "52fc60a797",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-22",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262952367d/thrir-islendingar-i-byrjunarlidi-brann-i-evropusigri",
+      "title": "Þrír Ís­lendingar í byrjunar­liði Brann í Evrópusigri",
+      "sum": "Íslendingalið voru í eldlínunni í Evrópukeppnunum í fótbolta í kvöld. Brann vann góðan útisigur, FC Kaupmannahöfn gerði jafntefli en Hearts varð að sætta sig við tap."
+    }
+  },
+  "https://www.visir.is/g/20262952349d/tvo-umferdarslys-og-thrir-fluttir-a-sjukrahus": {
+    "first_seen": "2026-10-23T00:18:41.141917+00:00",
+    "record": {
+      "id": "b5410d8b2a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-22",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262952349d/tvo-umferdarslys-og-thrir-fluttir-a-sjukrahus",
+      "title": "Tvö um­ferðar­slys og þrír fluttir á sjúkra­hús",
+      "sum": "Lögreglunni á varðsvæði 2, sem sinnir verkefnum í Hafnarfirði, Garðabæ og á Álftanesi, var tilkynnt um umferðarslys á tíunda tímanum í dag en tveir voru fluttir á slysadeild í kjölfarið. Þá barst lögreglunni á stöð 4 tilkynning um umferðarslys um klukkan tólf en umdæmi hennar nær yfir Grafarvog, Mosfellsbæ og Árbæ."
     }
   }
 }
