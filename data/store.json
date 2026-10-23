@@ -11713,5 +11713,230 @@
       "title": "Tvö um­ferðar­slys og þrír fluttir á sjúkra­hús",
       "sum": "Lögreglunni á varðsvæði 2, sem sinnir verkefnum í Hafnarfirði, Garðabæ og á Álftanesi, var tilkynnt um umferðarslys á tíunda tímanum í dag en tveir voru fluttir á slysadeild í kjölfarið. Þá barst lögreglunni á stöð 4 tilkynning um umferðarslys um klukkan tólf en umdæmi hennar nær yfir Grafarvog, Mosfellsbæ og Árbæ."
     }
+  },
+  "https://asi.is/enginn-norraenn-vidbunadur-an-launafolks/": {
+    "first_seen": "2026-10-23T14:15:19.875040+00:00",
+    "record": {
+      "id": "1765150a57",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "ASÍ",
+      "url": "https://asi.is/enginn-norraenn-vidbunadur-an-launafolks/",
+      "title": "Enginn norrænn viðbúnaður án launafólks",
+      "sum": "Helsinki, 23. september 2026 Fimmta þing Norræna verkalýðssambandsins (NFS), sem sameinar norrænu verkalýðshreyfinguna og kom saman í Helsinki dagana 22.–23. september 2026, hvetur ríkisstjórnir Norðurlandanna og Norrænu ráðherranefndina til að tryggja að aðilar vinnumarkaðarins gegni skýru og skipulegu hlutverki í …"
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/23/vill_lata_reyna_a_haefi_domarans/": {
+    "first_seen": "2026-10-23T14:15:19.875040+00:00",
+    "record": {
+      "id": "a8d645af22",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/23/vill_lata_reyna_a_haefi_domarans/",
+      "title": "Vill láta reyna á hæfi dómarans",
+      "sum": "Þorsteinn Már Baldvinsson ætlar að láta reyna á hæfi Jóhannesar Rúnars Jóhannssonar héraðsdómara, sem í gær sýknaði Seðlabankann af miskabótakröfu hans vegna varðveislu persónuupplýsinga. Náin tengsl hans við Steinar Þór Guðgeirsson, lögmann Seðlabankans, veki alvarlegar spurningar um hæfi hans."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/23/varnirnar_skiludu_3_5_milljordum/": {
+    "first_seen": "2026-10-23T14:15:19.875040+00:00",
+    "record": {
+      "id": "ce0198b06e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/23/varnirnar_skiludu_3_5_milljordum/",
+      "title": "Varnirnar skiluðu 3,5 milljörðum",
+      "sum": "Icelandair var með varnir á hækkun eldsneytisverðs sem skiluðu því að eldsneytiskostnaður fyrirtækisins hækkaði aðeins um 11% á þriðja ársfjórðungi miðað við sama tímabil í fyrra, þrátt fyrir að verð á heimsmarkaði hafi meira en tvöfaldast."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/23/hagnadur_sjovar_naer_threfaldast_milli_ara/": {
+    "first_seen": "2026-10-23T14:15:19.875040+00:00",
+    "record": {
+      "id": "4b4d841b74",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/23/hagnadur_sjovar_naer_threfaldast_milli_ara/",
+      "title": "Hagnaður Sjóvár nær þrefaldast milli ára",
+      "sum": "Hagnaður Sjóvár nam 1.905 milljónum króna á fyrstu níu mánuðum ársins, samanborið við 666 milljónir á sama tímabili í fyrra."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/23/leleg_lodasala_setti_strik_i_reikninginn/": {
+    "first_seen": "2026-10-23T14:15:19.875040+00:00",
+    "record": {
+      "id": "2577573f65",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/23/leleg_lodasala_setti_strik_i_reikninginn/",
+      "title": "Léleg lóðasala setti strik í reikninginn",
+      "sum": "Hafnarfjarðarbær þarf að grípa til verulegs aðhalds í rekstri, endurskoða þarf forgangsröð og óhjákvæmilegt er að fresta einhverjum fyrirhuguðum aðgerðum við gerð fjárhagsáætlunar fyrir 2027."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/23/verkfallid_kostadi_icelandair_halfan_milljard/": {
+    "first_seen": "2026-10-23T14:15:19.875040+00:00",
+    "record": {
+      "id": "96df2ae2f0",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/23/verkfallid_kostadi_icelandair_halfan_milljard/",
+      "title": "Verkfallið kostaði Icelandair hálfan milljarð",
+      "sum": "Kostnaður Icelandair við verkfall flugvirkja í september var um 4 milljónir dala, eða um hálfur milljarður króna. Þetta er meðal þess sem kemur fram í uppgjörskynningu félagsins, en í gær birti félagið uppgjör fyrir þriðja ársfjórðungs."
+    }
+  },
+  "https://www.mbl.is/frettir/erlent/2026/10/23/volvo_tilkynnir_nidurskurd_um_2_500_storf/": {
+    "first_seen": "2026-10-23T14:15:19.875040+00:00",
+    "record": {
+      "id": "9c59d13230",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/erlent/2026/10/23/volvo_tilkynnir_nidurskurd_um_2_500_storf/",
+      "title": "Volvo tilkynnir niðurskurð um 2.500 störf",
+      "sum": "Sænski bílaframleiðandinn Volvo Cars greindi frá því í dag að fyrirtækið hygðist fækka störfum um 2.500 á heimsvísu, en bandarískir tollar og hörð samkeppni frá innlendum vörumerkjum í Kína ollu tapi á þriðja ársfjórðungi."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/23/tugir_milljarda_hafa_streymt_inn/": {
+    "first_seen": "2026-10-23T14:15:19.875040+00:00",
+    "record": {
+      "id": "dbaa537a37",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/23/tugir_milljarda_hafa_streymt_inn/",
+      "title": "Tugir milljarða hafa streymt inn",
+      "sum": "Á undanförnum fimm árum hefur verið fjárfest fyrir samtals 167 milljarða króna í íslensku gagnaverunum."
+    }
+  },
+  "https://www.visir.is/g/20262952767d/fyrsta-konan-sem-kjorin-er-formadur-hafnarsambandsins": {
+    "first_seen": "2026-10-23T14:15:19.875040+00:00",
+    "record": {
+      "id": "e1da5e8a1e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262952767d/fyrsta-konan-sem-kjorin-er-formadur-hafnarsambandsins",
+      "title": "Fyrsta konan sem kjörin er for­maður Hafnar­sam­bandsins",
+      "sum": "Jóna Árný Þórðardóttir, bæjar- og hafnarstjóri Fjarðabyggðar, var kjörin formaður Hafnarsambands Íslands á ársþingi sambandsins sem lauk í dag. Hún er jafnframt fyrsta konan til að gegna embætti formanns Hafnarsambandsins."
+    }
+  },
+  "https://www.visir.is/g/20262952713d/fresturinn-lidinn-en-enn-osamid-vid-flugvirkja": {
+    "first_seen": "2026-10-23T14:15:19.875040+00:00",
+    "record": {
+      "id": "ce96c44fee",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262952713d/fresturinn-lidinn-en-enn-osamid-vid-flugvirkja",
+      "title": "Fresturinn liðinn en enn ó­samið við flug­virkja",
+      "sum": "Fjögurra vikna frestur sem Icelandair og flugvirkjar gáfu sér til að ná nýjum kjarasamningi rann út á miðvikudag án þess að samningar næðust. Ekki hefur verið boðað til nýs fundar í deilunni en búist er við óformlegum samtölum í næstu viku."
+    }
+  },
+  "https://www.visir.is/g/20262952618d/telur-domarann-vanhaefan-vegna-starfa-i-slitastjorn": {
+    "first_seen": "2026-10-23T14:15:19.875040+00:00",
+    "record": {
+      "id": "a842591b7d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262952618d/telur-domarann-vanhaefan-vegna-starfa-i-slitastjorn",
+      "title": "Telur dómarann van­hæfan vegna starfa í slitastjórn",
+      "sum": "Þorsteinn Már Baldvinsson, fyrrverandi forstjóri Samherja, ætlar að láta reyna á hæfi héraðsdómarans Jóhannesar Rúnars Jóhannssonar, sem sýknaði Seðlabankann í gær af öllum kröfum Þorsteins Más. Hann telur dómarann vanhæfan vegna tengsla við lögmann Seðlabankans en þeir sátu saman í slitastjórn Kaupþings á sínum tíma."
+    }
+  },
+  "https://www.visir.is/g/20262952590d/falleinkunn-fyrir-heima-daemi": {
+    "first_seen": "2026-10-23T14:15:19.875040+00:00",
+    "record": {
+      "id": "c20433257a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262952590d/falleinkunn-fyrir-heima-daemi",
+      "title": "Fall­ein­kunn fyrir Heima-dæmi",
+      "sum": "Það er kostulegt að lesa nýlegan dóm Hæstaréttar í máli gegn fasteignafélaginu Heimum. Falleinkunn er rétta lýsingin á hrópandi dæmi um vanrækslu sem á ekki að þekkjast hjá félagi sem er metið á 63 milljarða króna á hlutabréfamarkaði."
+    }
+  },
+  "https://www.visir.is/g/20262952587d/hottur-slitur-samstarfi-og-fhl-heyrir-sogunni-til": {
+    "first_seen": "2026-10-23T14:15:19.875040+00:00",
+    "record": {
+      "id": "bf98988443",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262952587d/hottur-slitur-samstarfi-og-fhl-heyrir-sogunni-til",
+      "title": "Höttur slítur sam­starfi og FHL heyrir sögunni til",
+      "sum": "Höttur frá Egilsstöðum mun tefla fram liði undir sínu nafni í Lengjudeild kvenna í fótbolta á næstu leiktíð eftir að hafa slitið samstarfi við Fjarðabyggð og Leikni Fáskrúðsfirði."
+    }
+  },
+  "https://www.visir.is/g/20262952610d/lifeyrissjods-tekjur-og-skerding-ellilifeyris": {
+    "first_seen": "2026-10-23T14:15:19.875040+00:00",
+    "record": {
+      "id": "9ba3068a2c",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262952610d/lifeyrissjods-tekjur-og-skerding-ellilifeyris",
+      "title": "Líf­eyris­sjóðs tekjur og skerðing elli­líf­eyris",
+      "sum": "Þó lög um almannatryggingar skilgreini atvinnutekjur og lífeyrissjóðstekjur í orðskýringum laganna með vísan í annars vegar lög um tekjuskatt og hins vegar lög um skyldutryggingu lífeyrisréttinda ..., þá er ekki þar með sagt að vísan orðskýringanna sé skýr lagaheimild um að frítekjumark vegna atvinnutekna nái ekki til …"
+    }
+  },
+  "https://www.visir.is/g/20262952580d/afkoman-yfir-vaentingum-en-horfurnar-versna-med-haekkandi-eldsneytisverdi": {
+    "first_seen": "2026-10-23T14:15:19.875040+00:00",
+    "record": {
+      "id": "b2c7914478",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262952580d/afkoman-yfir-vaentingum-en-horfurnar-versna-med-haekkandi-eldsneytisverdi",
+      "title": "Af­koman yfir væntingum en horfurnar versna með hækkandi elds­neytis­verði",
+      "sum": "Árangur af umfangsmiklum breytingum á rekstri Icelandair er þegar farinn að skila sér í ávinningi upp á nærri tuttugu milljarða á ársgrundvelli, að sögn stjórnenda flugfélagsins, sem segja undirliggjandi afkomu sterkari en nýjar uppgjörstölur gefa til kynna."
+    }
   }
 }
