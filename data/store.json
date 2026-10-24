@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -12042,6 +12042,96 @@
       "url": "https://www.visir.is/g/20262952797d/segist-hafa-tryggt-stadbundid-vopnahle",
       "title": "Segist hafa tryggt stað­bundið vopna­hlé",
       "sum": "Melania Trump, forsetafrú Bandaríkjanna, er sögð hafa tryggt staðbundið mannúðarvopnahlé í Úkraínu. Vopnahlé þetta er bundið við bæinn Oleshky í Kherson-héraði, suður af Dnípróá. Þaðan hafa um nokkuð skeið borist fregnir af hræðilegum aðbúnaði íbúa og harðræði sem þeir eru beittir af Rússum."
+    }
+  },
+  "https://www.visir.is/g/20262953009d/-rasisk-hrydjuverkaaras-ad-mati-macron": {
+    "first_seen": "2026-10-24T00:10:30.403166+00:00",
+    "record": {
+      "id": "cf62c90449",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953009d/-rasisk-hrydjuverkaaras-ad-mati-macron",
+      "title": "„Rasísk hryðjuverkaárás“ að mati Macron",
+      "sum": "Emmanuel Macron Frakklandsforseti segir að skotárás sem framin var í úthverfi Parísar í dag hafi verið „rasísk hryðjuverkaárás“. Einn er látinn og fimm særðir, þar á miðal tólf ára stúlka sem er í alvarlegu ástandi."
+    }
+  },
+  "https://www.visir.is/g/20262952917d/knattspyrnusamband-asiu-tekur-u-beygju-i-malum-infantino": {
+    "first_seen": "2026-10-24T00:10:30.403166+00:00",
+    "record": {
+      "id": "c08f69b42c",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262952917d/knattspyrnusamband-asiu-tekur-u-beygju-i-malum-infantino",
+      "title": "Knattspyrnusamband Asíu tekur U-beygju í málum Infantino",
+      "sum": "Knattspyrnusamband Asíu lýsir nú yfir fullum stuðningi við endurkjör Giannis Infantino sem forseta Alþjóðaknattspyrnusambandsins FIFA. Tilkynningin kom frá forseta AFC, Salman bin Ibrahim al-Khalifa sjeik, á þingi sambandsins í Tókýó."
+    }
+  },
+  "https://www.visir.is/g/20262952990d/gylfi-vid-erum-odyrasta-lidid-i-thessari-deild-": {
+    "first_seen": "2026-10-24T00:10:30.403166+00:00",
+    "record": {
+      "id": "ec7f98b7f5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262952990d/gylfi-vid-erum-odyrasta-lidid-i-thessari-deild-",
+      "title": "Gylfi: „Við erum ó­dýrasta liðið í þessari deild“",
+      "sum": "Gylfi Tryggvason, þjálfari Grindavíkur/Njarðvíkur, var þakklátur fyrir tímabilið þrátt fyrir 3-2 tap gegn Þrótti í lokaumferð Bestu deildar kvenna í kvöld. Hann segir liðið hafa náð frábærum árangri miðað við fjárhagslega stöðu félagsins."
+    }
+  },
+  "https://www.visir.is/g/20262952980d/oljost-hvers-vegna-their-hittust-i-volundarhusi-bilastaedahussins": {
+    "first_seen": "2026-10-24T00:10:30.403166+00:00",
+    "record": {
+      "id": "77d3386287",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262952980d/oljost-hvers-vegna-their-hittust-i-volundarhusi-bilastaedahussins",
+      "title": "Ó­ljóst hvers vegna þeir hittust í „völundar­húsi“ bílastæða­hússins",
+      "sum": "Ekki liggur fyrir hvers vegna fjöldi manna komu saman í bílakjallara undir Höfðatorgi í Reykjavík aðfaranóttina 17. mars síðastliðinn, eða hví ráðist var að einum þeirra með svo alvarlegum hætti að hann hlaut lífshættulega áverka."
+    }
+  },
+  "https://www.visir.is/g/20262952978d/briet-fjola-sjalfstraustid-er-komid-til-baka-": {
+    "first_seen": "2026-10-24T00:10:30.403166+00:00",
+    "record": {
+      "id": "63422fb2a4",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262952978d/briet-fjola-sjalfstraustid-er-komid-til-baka-",
+      "title": "Bríet Fjóla: „Sjálfs­traustið er komið til baka“",
+      "sum": "Bríet Fjóla Bjarnadóttir, leikmaður Þróttar, var ánægð eftir 3-2 sigur liðsins gegn Grindavík/Njarðvík í lokaumferð Bestu deildar kvenna í kvöld. Hún segir mikla baráttu hafa einkennt leikinn en er jafnframt ánægð með eigin frammistöðu að undanförnu."
+    }
+  },
+  "https://www.visir.is/g/20262952682d/uppgjorid-throttur-grind-njardv.-3-2-markaveisla-i-seinni": {
+    "first_seen": "2026-10-24T00:10:30.403166+00:00",
+    "record": {
+      "id": "d47537edba",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262952682d/uppgjorid-throttur-grind-njardv.-3-2-markaveisla-i-seinni",
+      "title": "Upp­gjörið: Þróttur-Grind/Njarðv. 3-2 | Markaveisla í seinni",
+      "sum": "Bikarmeistarar Þróttar enduðu tímabilið á 3-2 sigri á Grindavík/Njarðvík en liðin sem mættust í bikarúrslitaleiknum mættust einnig í lokaumferð Bestu deildar kvenna í fótbolta. Það var markalaust í hálfleik en mörkunum rigndi inn í þeim seinni. Þróttur endar í fjórða sæti, stigi á eftir ÍBV."
     }
   }
 }
