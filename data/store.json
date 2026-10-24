@@ -12268,5 +12268,50 @@
       "title": "Telja brýnt að endur­skoða fækkun lögregluembætta",
       "sum": "Lögreglufélag Vestfjarða lýsir áhyggjum af fyrirhugaðri fækkun lögregluembætta úr níu í þrjú og telur brýnt að endurskoða fyrirætlanir dómsmálaráðherra. Það telur það ekki séð hvernig breytingarnar muni bæta löggæslu á landsbyggðinni og tryggja öryggi."
     }
+  },
+  "https://www.visir.is/g/20262953193d/fjolskyldulif-a-eigin-abyrgd": {
+    "first_seen": "2026-10-24T17:08:09.726812+00:00",
+    "record": {
+      "id": "2c7cb4e014",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-24",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953193d/fjolskyldulif-a-eigin-abyrgd",
+      "title": "Fjöl­skyldu­líf á eigin á­byrgð",
+      "sum": "Ungt fólk á Íslandi er ítrekað að fá þau skilaboð að þau eigi að eignast fleiri börn. Við eigum að stofna fjölskyldur, byggja upp samfélagið og taka þátt í atvinnulífinu."
+    }
+  },
+  "https://www.visir.is/g/20262953197d/holmar-orn-eyjolfsson-horfi-til-baka-og-er-bara-stoltur-": {
+    "first_seen": "2026-10-24T17:08:09.726812+00:00",
+    "record": {
+      "id": "c6270d9fe7",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-24",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953197d/holmar-orn-eyjolfsson-horfi-til-baka-og-er-bara-stoltur-",
+      "title": "Hólmar Örn Eyjólfs­son: „Horfi til baka og er bara stoltur“",
+      "sum": "Hólmar Örn Eyjólfsson, fyrirliði Vals, var á bekknum í dag sem aðstoðarþjálfari Vals í leik sem átti að hafa verið hans síðasti leikur á ferlinum sem leikmaður. Töpuðu Valsmenn 6-0 fyrir Stjörnunni í Garðabænum og var ekki um neinn draumaleik að ræða á þessum tímamótum hjá Hólmari Erni."
+    }
+  },
+  "https://www.visir.is/g/20262953103d/draugar-og-ofreskjur-taka-yfir-husdyragardinn": {
+    "first_seen": "2026-10-24T17:08:09.726812+00:00",
+    "record": {
+      "id": "c4151361b5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-24",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953103d/draugar-og-ofreskjur-taka-yfir-husdyragardinn",
+      "title": "Draugar og ó­freskjur taka yfir Húsdýragarðinn",
+      "sum": "Alls konar vættir, draugar og ófreskjur úr íslenskum sagnaarfi munu lifna við í Húsdýragarðinum í dag. Þjóðfræðingur sem mun leiða gesti um garðinn til að hitta umrædd skrímsli segir gönguna fyrir unga sem aldna en þó sé mikilvægt að þeir sem mæta séu hugaðir."
+    }
   }
 }
