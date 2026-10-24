@@ -12313,5 +12313,80 @@
       "title": "Draugar og ó­freskjur taka yfir Húsdýragarðinn",
       "sum": "Alls konar vættir, draugar og ófreskjur úr íslenskum sagnaarfi munu lifna við í Húsdýragarðinum í dag. Þjóðfræðingur sem mun leiða gesti um garðinn til að hitta umrædd skrímsli segir gönguna fyrir unga sem aldna en þó sé mikilvægt að þeir sem mæta séu hugaðir."
     }
+  },
+  "https://www.visir.is/g/20262953315d/kimi-antonelli-a-raspolnum-a-morgun": {
+    "first_seen": "2026-10-24T23:54:24.013390+00:00",
+    "record": {
+      "id": "138573d9b8",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-24",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953315d/kimi-antonelli-a-raspolnum-a-morgun",
+      "title": "Kimi Antonelli á ráspólnum á morgun",
+      "sum": "Ítalski ökumaðurinn Kimi Antonelli hjá Mercedes verður á ráspól í Texas-kappakstrinum í Formúlu 1 en það varð ljóst eftir tímatökuna í kvöld."
+    }
+  },
+  "https://www.visir.is/g/20262953234d/thusund-handteknir-og-taragasid-hvergi-sparad": {
+    "first_seen": "2026-10-24T23:54:24.013390+00:00",
+    "record": {
+      "id": "93328d5840",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-24",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953234d/thusund-handteknir-og-taragasid-hvergi-sparad",
+      "title": "Þúsund hand­teknir og tára­gasið hvergi sparað",
+      "sum": "Hundruð þúsunda hafa tekið þátt í mótmælum víðs vegar um Frakkland í dag. Franska innanríkisráðuneytið telur um 410 þúsund hafa komið saman en verkalýðssambandið CGT segir þátttakendur hafa verið nær 800 þúsund."
+    }
+  },
+  "https://www.visir.is/g/20262953130d/nei-nu-staekkar-nefid-thitt-gosi..-sonn-frasogn": {
+    "first_seen": "2026-10-24T23:54:24.013390+00:00",
+    "record": {
+      "id": "e2668afc52",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-24",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953130d/nei-nu-staekkar-nefid-thitt-gosi..-sonn-frasogn",
+      "title": "Nei nú stækkar nefið þitt Gosi.. sönn frá­sögn",
+      "sum": "Í liðinni viku sat undirrituð fund Samtaka ferðaþjónustunnar í Hjálmakletti í Borgarnesi. Fundurinn er liður í fundarröð SAF og ber yfirheitið Mótvindur – eru stjórnvöld helsta hindrun ferðaþjónustunnar? Aðalumræðuefni er aukin skattlagning ríkisstjórnarinnar sem kemur niður á ferðaþjónustunni með margvíslegum hætti."
+    }
+  },
+  "https://www.visir.is/g/20262953232d/jolageitin-risin": {
+    "first_seen": "2026-10-24T23:54:24.013390+00:00",
+    "record": {
+      "id": "5a8b00115c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-24",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953232d/jolageitin-risin",
+      "title": "Jólageitin risin",
+      "sum": "Jólageitin er komin á sinn stað fyrir utan verslun Ikea í Kauptúni í Garðabæ. Hún hefur mátt þola ýmislegt í gegnum árin en hefur fengið að standa svo til óáreitt undanfarin ár."
+    }
+  },
+  "https://www.visir.is/g/20262953198d/vid-getum-ekki-maelt-okkur-ut-ur-vandanum": {
+    "first_seen": "2026-10-24T23:54:24.013390+00:00",
+    "record": {
+      "id": "69a3c64073",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-24",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953198d/vid-getum-ekki-maelt-okkur-ut-ur-vandanum",
+      "title": "Við getum ekki mælt okkur út úr vandanum",
+      "sum": "Enn einu sinni er menntakerfið komið í hringiðu pólitískra deilna. Nú snýst umræðan um nýjan einkunnakvarða, hvort hann sé til bóta og hvort ráðherra hafi sjálfur skilið breytingarnar."
+    }
   }
 }
