@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -12387,6 +12387,96 @@
       "url": "https://www.visir.is/g/20262953198d/vid-getum-ekki-maelt-okkur-ut-ur-vandanum",
       "title": "Við getum ekki mælt okkur út úr vandanum",
       "sum": "Enn einu sinni er menntakerfið komið í hringiðu pólitískra deilna. Nú snýst umræðan um nýjan einkunnakvarða, hvort hann sé til bóta og hvort ráðherra hafi sjálfur skilið breytingarnar."
+    }
+  },
+  "https://www.visir.is/g/20262953374d/sjadu-rauda-spjald-palmer-og-arsenal-jafna-man.-city": {
+    "first_seen": "2026-10-25T13:43:35.277911+00:00",
+    "record": {
+      "id": "fb9e69dd03",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953374d/sjadu-rauda-spjald-palmer-og-arsenal-jafna-man.-city",
+      "title": "Sjáðu rauða spjald Palmer og Arsenal jafna Man. City",
+      "sum": "Það var nóg um að vera í ensku úrvalsdeildinni í gær þar sem fjórir leikir fóru fram. Manchester City tapaði óvænt fyrir Aston Villa, Chelsea varð manni færri og tapaði gegn Tottenham, Arsenal vann öruggan sigur á Everton og Fulham náði að knýja fram sigur gegn nýliðunum í Coventry."
+    }
+  },
+  "https://www.visir.is/g/20262953351d/laesisaaetlun-an-boka": {
+    "first_seen": "2026-10-25T13:43:35.277911+00:00",
+    "record": {
+      "id": "b29cfd232b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953351d/laesisaaetlun-an-boka",
+      "title": "Læsisáætlun án bóka",
+      "sum": "Í samráðsgátt stjórnvalda liggja drög að þriðju aðgerðaáætlun menntastefnu til 2030. Markmiðin þar eru skýr er varðar læsi, að 65% fimmtán ára nemenda nái grunnhæfni í lesskilningi sem var 56% í PISA 2025."
+    }
+  },
+  "https://www.visir.is/g/20262953343d/emin-kadri-heldur-afram-ad-vera-osigradur": {
+    "first_seen": "2026-10-25T13:43:35.277911+00:00",
+    "record": {
+      "id": "3527fbf8b7",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953343d/emin-kadri-heldur-afram-ad-vera-osigradur",
+      "title": "Emin Kadri heldur á­fram að vera ó­sigraður",
+      "sum": "Hnefaleikakappinn Emin Kadri Eminsson hélt áfram á sinni vegferð að verða fyrsti íslenski heimsmeistarinn í atvinnuhnefaleikum í gær. Hann barðist á Spáni við Lettann Dinars Skripkins þar sem Emin vann í annarri lotu."
+    }
+  },
+  "https://www.visir.is/g/20262953293d/-eg-vissi-ekkert-um-island-a-thessum-tima-": {
+    "first_seen": "2026-10-25T13:43:35.277911+00:00",
+    "record": {
+      "id": "a3725220c7",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953293d/-eg-vissi-ekkert-um-island-a-thessum-tima-",
+      "title": "„Ég vissi ekkert um Ís­land á þessum tíma“",
+      "sum": "Knattspyrnukonan Natasha Anasi tók þá stóru ákvörðun að leggja fótboltaskóna upp á hillu eftir þetta tímabil en hún hjálpaði nýliðum Grindavíkur/Njarðvíkur að stimpla sig af miklum krafti inn í Bestu deildina í sumar og auk þess að komast alla leið í bikarúrslitaleikinn."
+    }
+  },
+  "https://www.visir.is/g/20262952213d/dyra-steikin-a-matsedlinum-er-ekki-tharna-til-ad-seljast": {
+    "first_seen": "2026-10-25T13:43:35.277911+00:00",
+    "record": {
+      "id": "0adc665969",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262952213d/dyra-steikin-a-matsedlinum-er-ekki-tharna-til-ad-seljast",
+      "title": "Dýra steikin á mat­seðlinum er ekki þarna til að seljast",
+      "sum": "Flestir upplifa að ákvarðanir þeirra séu almennt upplýstar eða rökréttar. En svo er víst ekki alltaf."
+    }
+  },
+  "https://www.visir.is/g/20262953329d/nog-se-komid-af-trump": {
+    "first_seen": "2026-10-25T13:43:35.277911+00:00",
+    "record": {
+      "id": "b37144fffc",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953329d/nog-se-komid-af-trump",
+      "title": "Nóg sé komið af Trump",
+      "sum": "Barack Obama, fyrrverandi forseti Bandaríkjanna, gagnrýndi núverandi Bandaríkjaforseta harðlega á kosningafundi í Ohio í gær í aðdraganda þingkosninga. Donald Trump gæti engum kennt nema sjálfum sér um hátt verðlag og nú væri nóg komið."
     }
   }
 }
