@@ -12478,5 +12478,65 @@
       "title": "Nóg sé komið af Trump",
       "sum": "Barack Obama, fyrrverandi forseti Bandaríkjanna, gagnrýndi núverandi Bandaríkjaforseta harðlega á kosningafundi í Ohio í gær í aðdraganda þingkosninga. Donald Trump gæti engum kennt nema sjálfum sér um hátt verðlag og nú væri nóg komið."
     }
+  },
+  "https://www.visir.is/g/20262953509d/vard-markahaestur-i-deildinni-gegn-brodur-sinum.": {
+    "first_seen": "2026-10-25T17:20:36.233797+00:00",
+    "record": {
+      "id": "9944ae3076",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953509d/vard-markahaestur-i-deildinni-gegn-brodur-sinum.",
+      "title": "Varð marka­hæstur í deildinni gegn bróður sínum.",
+      "sum": "Brynjólfur Willumsson skoraði bæði mörk Groningen þegar liðið heimsótti NEC í hollensku úrvalsdeildinni í fótbolta. Leikurinn endaði með 2-2 jafntefli en Bryjólfur fékk ekki að spila gegn bróður sínum."
+    }
+  },
+  "https://www.visir.is/g/20262953420d/engin-trygging-fyrir-thvi-ad-peningarnir-nytist-i-innvidi": {
+    "first_seen": "2026-10-25T17:20:36.233797+00:00",
+    "record": {
+      "id": "345981e4e8",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953420d/engin-trygging-fyrir-thvi-ad-peningarnir-nytist-i-innvidi",
+      "title": "Engin trygging fyrir því að peningarnir nýtist í inn­viði",
+      "sum": "Formaður Sjálfstæðisflokksins segir enga tryggingu fyrir því að gjaldtaka á ferðamannastaði verði eyrnamerkt innviðauppbyggingu. Um sé að ræða skatt á eina sveit."
+    }
+  },
+  "https://www.visir.is/g/20262953486d/hinn-grunadi-med-gedklofa-og-fluttur-a-geddeild": {
+    "first_seen": "2026-10-25T17:20:36.233797+00:00",
+    "record": {
+      "id": "e06f9dd367",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953486d/hinn-grunadi-med-gedklofa-og-fluttur-a-geddeild",
+      "title": "Hinn grunaði með geð­klofa og fluttur á geð­deild",
+      "sum": "Maður sem grunaður er um að hafa hafið skothríð í bæ í grennd við París hefur verið fluttur úr gæsluvarðhaldi á geðdeild. Einn lést í árásinni og slösuðust fimm, þar á meðal tólf ára gömul stúlka sem liggur þungt haldin."
+    }
+  },
+  "https://www.visir.is/g/20262953484d/thakkar-hoflegum-launahaekkunum-ad-sviar-gatu-laekkad-vexti-hradar": {
+    "first_seen": "2026-10-25T17:20:36.233797+00:00",
+    "record": {
+      "id": "296cd6bda6",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953484d/thakkar-hoflegum-launahaekkunum-ad-sviar-gatu-laekkad-vexti-hradar",
+      "title": "Þakkar hóf­legum launa­hækkunum að Svíar gátu lækkað vexti hraðar",
+      "sum": "Hóflegar launahækkanir í Svíþjóð á tímum mikillar verðbólgu áttu veigamikinn þátt í því að hægt var að ná verðbólgunni hraðar niður en víða annars staðar og lækka vexti fyrr og meira, að sögn varaseðlabankastjóra Svíþjóðar."
+    }
   }
 }
