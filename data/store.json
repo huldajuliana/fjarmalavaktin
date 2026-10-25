@@ -12538,5 +12538,65 @@
       "title": "Þakkar hóf­legum launa­hækkunum að Svíar gátu lækkað vexti hraðar",
       "sum": "Hóflegar launahækkanir í Svíþjóð á tímum mikillar verðbólgu áttu veigamikinn þátt í því að hægt var að ná verðbólgunni hraðar niður en víða annars staðar og lækka vexti fyrr og meira, að sögn varaseðlabankastjóra Svíþjóðar."
     }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/25/herdi_ekki_bodid_i_hadegisverd_stjornarinnar/": {
+    "first_seen": "2026-10-25T23:42:01.627441+00:00",
+    "record": {
+      "id": "b9cb0de72e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-25",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/25/herdi_ekki_bodid_i_hadegisverd_stjornarinnar/",
+      "title": "Herði ekki boðið í hádegisverð stjórnarinnar",
+      "sum": "Brynja Baldursdóttir stjórnarformaður Landsvirkjunar segir enga stjórnarfundi hafa verið haldna án Harðar Arnarsonar, fráfarandi forstjóra, nema þá þar sem hans mál hafi verið rædd eins og lög gera ráð fyrir."
+    }
+  },
+  "https://www.visir.is/g/20262953595d/njardvikingar-somdu-vid-david-okeke-og-kvedja-fotios": {
+    "first_seen": "2026-10-25T23:42:01.627441+00:00",
+    "record": {
+      "id": "ab615f06ac",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953595d/njardvikingar-somdu-vid-david-okeke-og-kvedja-fotios",
+      "title": "Njarð­víkingar sömdu við David Okeke og kveðja Fotios",
+      "sum": "Njarðvíkingar hafa yngt aðeins upp í leikmannahópnum sínum í Bónusdeild karla í körfubolta með því að skipta Grikkjanum Fotios Lampropoulos út fyrir Ítalann David Okeke."
+    }
+  },
+  "https://www.visir.is/g/20262953546d/stjornarskrain-trompi-alltaf-bokun-35": {
+    "first_seen": "2026-10-25T23:42:01.627441+00:00",
+    "record": {
+      "id": "b1fc775fa8",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953546d/stjornarskrain-trompi-alltaf-bokun-35",
+      "title": "Stjórnar­skráin trompi alltaf bókun 35",
+      "sum": "Hafsteinn Dan Kristjánsson lagaprófessor telur ekki mikinn vafa leika á því að hægt sé að lögfesta svokallaða bókun 35 án þess að brjóta gegn stjórnarskrá. Hann segir þó líklegt að látið verði reyna á málið mjög fljótlega fyrir dómstólum verði frumvarpið samþykkt."
+    }
+  },
+  "https://www.visir.is/g/20262953521d/linda-drofn-og-totla-sjodheitt-par": {
+    "first_seen": "2026-10-25T23:42:01.627441+00:00",
+    "record": {
+      "id": "b1b81c251f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953521d/linda-drofn-og-totla-sjodheitt-par",
+      "title": "Linda Dröfn og Tótla sjóð­heitt par",
+      "sum": "Linda Dröfn Gunnarsdóttir framkvæmdastýra Kvennaathvarfsins og Tótla I. Sæmundsdóttir framkvæmdastjóri Barnaheilla eru nýtt par. Þar er sannarlega á ferðinni ofurpar sem lætur sig velferð kvenna og barna varða."
+    }
   }
 }
