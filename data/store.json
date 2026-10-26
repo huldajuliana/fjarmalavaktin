@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -12551,7 +12551,7 @@
       "src": "mbl.is",
       "url": "https://www.mbl.is/frettir/innlent/2026/10/25/herdi_ekki_bodid_i_hadegisverd_stjornarinnar/",
       "title": "Herði ekki boðið í hádegisverð stjórnarinnar",
-      "sum": "Brynja Baldursdóttir stjórnarformaður Landsvirkjunar segir enga stjórnarfundi hafa verið haldna án Harðar Arnarsonar, fráfarandi forstjóra, nema þá þar sem hans mál hafi verið rædd eins og lög gera ráð fyrir."
+      "sum": "Brynja Baldursdóttir, stjórnarformaður Landsvirkjunar, segir enga stjórnarfundi hafa verið haldna án Harðar Arnarsonar, fráfarandi forstjóra, nema þá þar sem hans mál hafi verið rædd eins og lög gera ráð fyrir."
     }
   },
   "https://www.visir.is/g/20262953595d/njardvikingar-somdu-vid-david-okeke-og-kvedja-fotios": {
@@ -12597,6 +12597,216 @@
       "url": "https://www.visir.is/g/20262953521d/linda-drofn-og-totla-sjodheitt-par",
       "title": "Linda Dröfn og Tótla sjóð­heitt par",
       "sum": "Linda Dröfn Gunnarsdóttir framkvæmdastýra Kvennaathvarfsins og Tótla I. Sæmundsdóttir framkvæmdastjóri Barnaheilla eru nýtt par. Þar er sannarlega á ferðinni ofurpar sem lætur sig velferð kvenna og barna varða."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/26/tekjur_anthropic_rjuka_upp_en_felagid_varar_vid_aha/": {
+    "first_seen": "2026-10-26T16:08:36.237443+00:00",
+    "record": {
+      "id": "ff57d1e085",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/26/tekjur_anthropic_rjuka_upp_en_felagid_varar_vid_aha/",
+      "title": "Tekjur Anthropic rjúka upp en félagið varar við áhættu",
+      "sum": "Anthropic, eitt fremsta gervigreindarfyrirtæki heims, birti í dag gögn vegna fyrirhugaðs hlutafjárútboðs og skráningar á hlutabréfamarkað. Skráningin verður mikilvægur prófsteinn á hvort mikill uppgangur í gervigreindargeiranum geti skilað hagnaði."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/26/uppsagnir_hja_atvr/": {
+    "first_seen": "2026-10-26T16:08:36.237443+00:00",
+    "record": {
+      "id": "7ac864c50d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/26/uppsagnir_hja_atvr/",
+      "title": "Uppsagnir hjá ÁTVR",
+      "sum": "ÁTVR hefur fækkað sviðum innan fyrirtækisins og lagt niður stöðu framkvæmdastjóra. Þá hefur stöðugildum á skrifstofu og í dreifingarmiðstöð jafnframt fækkað um tæplega sex. Ekki verður ráðið í allar lausar stöður næstu misserin."
+    }
+  },
+  "https://www.mbl.is/frettir/erlent/2026/10/26/let_forstjora_audi_heyra_thad/": {
+    "first_seen": "2026-10-26T16:08:36.237443+00:00",
+    "record": {
+      "id": "b6731edb7c",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/erlent/2026/10/26/let_forstjora_audi_heyra_thad/",
+      "title": "Lét forstjóra Audi heyra það",
+      "sum": "Formaður þýska verkalýðsfélagsins IG Metall gagnrýndi í dag forstjóra bílaframleiðandans Audi harðlega fyrir að koma fram á kosningafundi með Donald Trump Bandaríkjaforseta."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/26/buast_vid_haerri_ibudalanavoxtum_vegna_bankaskatts/": {
+    "first_seen": "2026-10-26T16:08:36.237443+00:00",
+    "record": {
+      "id": "6597094c7e",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/26/buast_vid_haerri_ibudalanavoxtum_vegna_bankaskatts/",
+      "title": "Búast við hærri íbúðalánavöxtum vegna bankaskatts",
+      "sum": "Viðskiptabankarnir gera ráð fyrir að vextir og vaxtaálag á íbúðalánum hækki á næstu sex mánuðum, meðal annars vegna fyrirhugaðrar hækkunar bankaskatts. Þetta kemur fram í nýrri útlánakönnun Seðlabanka Íslands meðal viðskiptabankanna fjögurra."
+    }
+  },
+  "https://www.visir.is/g/20262953948d/minni-afengisneysla-i-takt-vid-markmid-rikisins": {
+    "first_seen": "2026-10-26T16:08:36.237443+00:00",
+    "record": {
+      "id": "8afa15e133",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953948d/minni-afengisneysla-i-takt-vid-markmid-rikisins",
+      "title": "Minni á­fengis­neysla í takt við mark­mið ríkisins",
+      "sum": "Sala áfengis í Vínbúðunum dróst saman um 7,5 prósent í lítrum talið fyrstu níu mánuði ársins, að sögn forstjóra ÁTVR. Hún hefur ekki gögn sem skýra hversu mikið samdrátturinn tengist minni áfengisneyslu og hversu mikið því að viðskiptin hafi færst annað."
+    }
+  },
+  "https://www.visir.is/g/20262953776d/sjadu-skelfileg-meidsli-jalen-williams": {
+    "first_seen": "2026-10-26T16:08:36.237443+00:00",
+    "record": {
+      "id": "805d5f008f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953776d/sjadu-skelfileg-meidsli-jalen-williams",
+      "title": "Sjáðu skelfi­leg meiðsli Jalen Williams",
+      "sum": "Jalen Williams, einn lykilmanna Oklahoma City Thunder í NBA-deildinni, varð fyrir alvarlegum meiðslum á vinstri fæti undir lok leiks liðsins gegn Los Angeles Clippers í nótt."
+    }
+  },
+  "https://www.visir.is/g/20262953880d/oryggi-thjodarinnar-verdur-ekki-tryggt-i-excel-skjali": {
+    "first_seen": "2026-10-26T16:08:36.237443+00:00",
+    "record": {
+      "id": "9a58995f7c",
+      "cat": "hagvoxtur",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953880d/oryggi-thjodarinnar-verdur-ekki-tryggt-i-excel-skjali",
+      "title": "Öryggi þjóðarinnar verður ekki tryggt í Excel-skjali",
+      "sum": "Öryggi lands og þjóðar verður ekki tryggt með því einu að sýna fram á að Ísland verji tilteknu hlutfalli landsframleiðslu til varnarmála. Það sér hver maður. Fjármunirnir verða að skila raunverulegri getu til að mæta ógnum, verja borgarana og standa við skuldbindingar okkar gagnvart bandamönnum."
+    }
+  },
+  "https://www.visir.is/g/20262953847d/hilmir-snaer-svarar-gagnrynendum": {
+    "first_seen": "2026-10-26T16:08:36.237443+00:00",
+    "record": {
+      "id": "c00e33e9c3",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953847d/hilmir-snaer-svarar-gagnrynendum",
+      "title": "Hilmir Snær svarar gagn­rýn­endum",
+      "sum": "Hilmir Snær svaraði harðri gagnrýni um leiksýninguna Djöfla í Vikunni hjá Gísla Marteini og sagði mýflugur ekki stoppa gæðing á spretti. Menningarvaktin ræddi sýninguna Djöfla og viðtökur hennar, tilvonandi uppsetningu á Stellu í orlofi í Borgarleikhúsinu, kvikmyndina Digger og nýja plötu Teits Magnússonar."
+    }
+  },
+  "https://www.visir.is/g/20262953855d/vidreisn-god-stefna-dugar-ekki-ein-og-ser": {
+    "first_seen": "2026-10-26T16:08:36.237443+00:00",
+    "record": {
+      "id": "c215c26c72",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953855d/vidreisn-god-stefna-dugar-ekki-ein-og-ser",
+      "title": "Við­reisn – góð stefna dugar ekki ein og sér",
+      "sum": "Viðreisn var stofnuð á grunni frjálslyndra hugsjóna. Lýðræði, mannréttindi, frelsi einstaklingsins, jafnrétti og ábyrgð eru þar í öndvegi. Við viljum opið samfélag þar sem fólk fær að njóta hæfileika sinna, óháð aldri, uppruna eða efnahag, og við berum virðingu fyrir ólíkum skoðunum."
+    }
+  },
+  "https://www.visir.is/g/20262953798d/lifaed-vestfjarda-hrunin": {
+    "first_seen": "2026-10-26T16:08:36.237443+00:00",
+    "record": {
+      "id": "4dde5a6db0",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953798d/lifaed-vestfjarda-hrunin",
+      "title": "Líf­æð Vest­fjarða hrunin",
+      "sum": "Vestfjarðavegur 60 um Dalasýslu er lífæð Vestfjarða, en ástand vegarins er orðið með öllu óásættanlegt."
+    }
+  },
+  "https://www.visir.is/g/20262953748d/-eg-sa-folk-grata-ur-gledi-": {
+    "first_seen": "2026-10-26T16:08:36.237443+00:00",
+    "record": {
+      "id": "13e2c11369",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953748d/-eg-sa-folk-grata-ur-gledi-",
+      "title": "„Ég sá fólk gráta úr gleði“",
+      "sum": "Sigurður Ragnar Eyjólfsson fagnar færeyskum meistaratitli með liði sínu NSÍ Runavík. Liðið varð meistari í gær eftir eitt besta tímabil í sögu félagsins."
+    }
+  },
+  "https://www.visir.is/g/20262953793d/fjarhagsstada-hafnarfjardar-er-grafalvarleg-og-naudsynlegt-ad-gripa-i-taumana-strax": {
+    "first_seen": "2026-10-26T16:08:36.237443+00:00",
+    "record": {
+      "id": "7743e55694",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953793d/fjarhagsstada-hafnarfjardar-er-grafalvarleg-og-naudsynlegt-ad-gripa-i-taumana-strax",
+      "title": "Fjár­hags­staða Hafnar­fjarðar er graf­alvar­leg og nauð­syn­legt að grípa í taumana strax",
+      "sum": "Rekstur Hafnarfjarðarbæjar er ekki sjálfbær. Það hefur raunar legið fyrir um nokkurn tíma. Bæði ársreikningur síðasta árs og árshlutauppgjör þess árs leiða svo í ljós að staðan hefur farið hratt versnandi. Rekstur bæjarins hefur á undanförnum árum hvílt á einskiptis tekjum vegna lóðasölu, þ.e."
+    }
+  },
+  "https://www.visir.is/g/20262953723d/treyja-gylfa-for-a-milljon": {
+    "first_seen": "2026-10-26T16:08:36.237443+00:00",
+    "record": {
+      "id": "99f889309e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953723d/treyja-gylfa-for-a-milljon",
+      "title": "Treyja Gylfa fór á milljón",
+      "sum": "Góðgerðatreyja Víkings og 66° Norður sem Gylfi Þór Sigurðsson klæddist í lokaleik tímabilsins í 2-2 jafntefli við Fram seldist á eina milljón króna. Alls söfnuðust tæplega þrjár milljónir sem renna óskipt til Ingvars Jónssonar, markvarðar Víkingsliðsins."
+    }
+  },
+  "https://www.visir.is/g/20262953788d/hefja-leit-ad-ludvik-i-fyrramalid": {
+    "first_seen": "2026-10-26T16:08:36.237443+00:00",
+    "record": {
+      "id": "50913dca3b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953788d/hefja-leit-ad-ludvik-i-fyrramalid",
+      "title": "Hefja leit að Lúð­vík í fyrra­málið",
+      "sum": "Lögreglustjórinn á Suðurnesjum verður á morgun með aðgerð sem miðar að leit að líkamsleifum Lúðvíks Péturssonar sem féll niður um jarðfall í Grindavík í janúar 2024."
     }
   }
 }
