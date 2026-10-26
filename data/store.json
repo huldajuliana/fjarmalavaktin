@@ -12808,5 +12808,65 @@
       "title": "Hefja leit að Lúð­vík í fyrra­málið",
       "sum": "Lögreglustjórinn á Suðurnesjum verður á morgun með aðgerð sem miðar að leit að líkamsleifum Lúðvíks Péturssonar sem féll niður um jarðfall í Grindavík í janúar 2024."
     }
+  },
+  "https://www.visir.is/g/20262953995d/harma-akvordun-hattar": {
+    "first_seen": "2026-10-26T19:40:50.811010+00:00",
+    "record": {
+      "id": "ba8aef474b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953995d/harma-akvordun-hattar",
+      "title": "Harma á­kvörðun Hattar",
+      "sum": "Stjórn og framkvæmdastjóri Knattspyrnufélags Austfjarða í Fjarðabyggð hafa sent frá sér yfirlýsingu þar sem ákvörðun Hattar á Egilsstöðum um að slíta samstarfinu um kvennalið FHL er hörmuð."
+    }
+  },
+  "https://www.visir.is/g/20262953980d/haekkun-thar-haekkun-her-a-endanum-allt-kaupid-i-skattana-fer-": {
+    "first_seen": "2026-10-26T19:40:50.811010+00:00",
+    "record": {
+      "id": "1f7920feb6",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953980d/haekkun-thar-haekkun-her-a-endanum-allt-kaupid-i-skattana-fer-",
+      "title": "Hækkun þar, hækkun hér, á endanum allt kaupið í skattana fer!",
+      "sum": "Það eru takmörk fyrir því hvað hægt er að leggja á venjulegt fólk. Fjölskyldur geta ekki endalaust unnið meira, sparað meira og frestað því sem þarf að gera. Einhvern tímann er komið að þolmörkum. Ábyrg stjórnvöld eiga að bregðast við áður en þeim þolmörkum er náð."
+    }
+  },
+  "https://www.visir.is/g/20262953992d/hjukrunarheimili-i-nyherjahusid": {
+    "first_seen": "2026-10-26T19:40:50.811010+00:00",
+    "record": {
+      "id": "e89c172e35",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953992d/hjukrunarheimili-i-nyherjahusid",
+      "title": "Hjúkrunar­heimili í Ný­herja­húsið",
+      "sum": "Reitum hefur borist tilkynning frá Framkvæmdasýslunni – Ríkiseignum þess efnis að Borgartún 37 hafi verið valið í markaðskönnun um hjúkrunarheimili á höfuðborgarsvæðinu en mat tilboða byggðist meðal annars á verði, stærð, staðsetningu og öryggi."
+    }
+  },
+  "https://www.visir.is/g/20262953975d/nyr-einkunnakvardi-er-adeins-hluti-af-sogunni": {
+    "first_seen": "2026-10-26T19:40:50.811010+00:00",
+    "record": {
+      "id": "65b2be33b5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262953975d/nyr-einkunnakvardi-er-adeins-hluti-af-sogunni",
+      "title": "Nýr einkunnakvarði er að­eins hluti af sögunni",
+      "sum": "Nemendur sem nú eru í 10. bekk eiga að útskrifast úr grunnskóla vorið 2027 með tölueinkunnir í stað bókstafaeinkunna. Skólaárið er þegar hafið en enn er unnið að útfærslu breytinganna. Því skiptir máli að spyrja hvaða undirbúning þarf til að nýr einkunnakvarði skili þeim skýrleika, samræmi og jafnræði sem að er stefnt."
+    }
   }
 }
