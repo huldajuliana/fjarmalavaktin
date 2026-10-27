@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -12867,6 +12867,51 @@
       "url": "https://www.visir.is/g/20262953975d/nyr-einkunnakvardi-er-adeins-hluti-af-sogunni",
       "title": "Nýr einkunnakvarði er að­eins hluti af sögunni",
       "sum": "Nemendur sem nú eru í 10. bekk eiga að útskrifast úr grunnskóla vorið 2027 með tölueinkunnir í stað bókstafaeinkunna. Skólaárið er þegar hafið en enn er unnið að útfærslu breytinganna. Því skiptir máli að spyrja hvaða undirbúning þarf til að nýr einkunnakvarði skili þeim skýrleika, samræmi og jafnræði sem að er stefnt."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/26/ekkert_bolar_a_adgerdum_gegn_taeknirisunum/": {
+    "first_seen": "2026-10-27T01:02:13.863626+00:00",
+    "record": {
+      "id": "9fc5fdff70",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/26/ekkert_bolar_a_adgerdum_gegn_taeknirisunum/",
+      "title": "Ekkert bólar á aðgerðum gegn tæknirisunum",
+      "sum": "Ekkert bólar á aðgerðaáætlun stjórnvalda í málefnum fjölmiðla, en tillögur áttu að liggja fyrir í vor."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/26/orkuveitan_hyggst_fjarfesta_fyrir_218_7_milljarda/": {
+    "first_seen": "2026-10-27T01:02:13.863626+00:00",
+    "record": {
+      "id": "1008969b36",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/26/orkuveitan_hyggst_fjarfesta_fyrir_218_7_milljarda/",
+      "title": "Orkuveitan hyggst fjárfesta fyrir 218,7 milljarða",
+      "sum": "Árið 2031 áætlar Orkuveitan að hagnaðurinn verði 16,4 milljarðar."
+    }
+  },
+  "https://www.visir.is/g/20262954036d/viktor-nalaegt-sigurmarki-en-fck-gefur-eftir": {
+    "first_seen": "2026-10-27T01:02:13.863626+00:00",
+    "record": {
+      "id": "f6cc0d582e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-26",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262954036d/viktor-nalaegt-sigurmarki-en-fck-gefur-eftir",
+      "title": "Viktor ná­lægt sigurmarki en FCK gefur eftir",
+      "sum": "Íslendingaliðið FC Kaupmannahöfn varð að sætta sig við 1-1 jafntefli við OB á heimavelli í kvöld í dönsku úrvalsdeildinni í fótbolta og mistókst þar með að endurheimta toppsætið."
     }
   }
 }
