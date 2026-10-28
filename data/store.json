@@ -13423,5 +13423,95 @@
       "title": "Opin­beri geirinn „skilar nánast auðu“ í að­lögun hag­kerfisins",
       "sum": "Mikil kólnun á íslenskum vinnumarkaði og vaxandi svartsýni atvinnurekenda bendir til þess að hagvaxtarhorfur næstu missera kunni að vera ofmetnar, samkvæmt nýrri greiningu."
     }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/28/hagnadur_festar_nam_2_3_milljordum/": {
+    "first_seen": "2026-10-28T19:13:12.416265+00:00",
+    "record": {
+      "id": "e964827679",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-28",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/28/hagnadur_festar_nam_2_3_milljordum/",
+      "title": "Hagnaður Festar nam 2,3 milljörðum",
+      "sum": "Hagnaður Festar nam 2.309 milljónum króna á þriðja ársfjórðungi og dróst saman um 12,9% frá sama tímabili í fyrra. Vöru- og þjónustusala jókst um 8,6% milli ára en framlegð lækkaði um 1,3%. Arðsemi eigin fjár nam 12,2%."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/28/arion_banki_hagnadist_um_8_7_milljarda/": {
+    "first_seen": "2026-10-28T19:13:12.416265+00:00",
+    "record": {
+      "id": "742767e093",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-28",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/28/arion_banki_hagnadist_um_8_7_milljarda/",
+      "title": "Arion banki hagnaðist um 8,7 milljarða",
+      "sum": "Hagnaður Arion banka nam 8,7 milljörðum króna á þriðja ársfjórðungi, samanborið við 8,2 milljarða á sama tímabili í fyrra. Hagnaðurinn jókst því um 500 milljónir króna milli ára. Arðsemi eigin fjár var 16,3%, samanborið við 16% fyrir ári."
+    }
+  },
+  "https://www.visir.is/g/20262955070d/hsi-syrgir-einstakan-studningsmann": {
+    "first_seen": "2026-10-28T19:13:12.416265+00:00",
+    "record": {
+      "id": "f985432567",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-28",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955070d/hsi-syrgir-einstakan-studningsmann",
+      "title": "HSÍ syrgir ein­stakan stuðnings­mann",
+      "sum": "Handknattleikssamband Íslands minnist Sævars Þórs Sigurgeirssonar á miðlum sínum en þessi gallharði stuðningsmaður strákanna okkar lést þann 12. október síðastliðinn."
+    }
+  },
+  "https://www.visir.is/g/20262955084d/birta-gott-uppgjor-og-hnyta-i-rikisstjornina": {
+    "first_seen": "2026-10-28T19:13:12.416265+00:00",
+    "record": {
+      "id": "9cd5e9ddc6",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-28",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955084d/birta-gott-uppgjor-og-hnyta-i-rikisstjornina",
+      "title": "Birta gott upp­gjör og hnýta í ríkis­stjórnina",
+      "sum": "Afkoma Arion banka á þriðja ársfjórðungi er í samræmi við markmið að sögn bankastjóra. Hann segir áform stjórnvalda um að hækka bankaskatt um ríflega 75 prósent þó vera skammsýna ráðstöfun og það sé nauðsynlegt að til staðar sé framtíðarsýn um starfsumhverfi fyrirtækja."
+    }
+  },
+  "https://www.visir.is/g/20262954897d/i-fyrsta-sinn-utan-ukrainu": {
+    "first_seen": "2026-10-28T19:13:12.416265+00:00",
+    "record": {
+      "id": "47219460b6",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-28",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262954897d/i-fyrsta-sinn-utan-ukrainu",
+      "title": "Í fyrsta sinn utan Úkraínu",
+      "sum": "Það var margt um manninn á Listasafni Íslands í síðustu viku við opnun sýningarinnar Þar sem ljósið lifir: Úkraínskar helgimyndir í aldanna rás. Þar eru til sýnis 32 fágætar helgimyndir úr safneign Listasafns Úkraínu í Kænugarði. Verkin eru frá 12. öld fram á öndverða 19."
+    }
+  },
+  "https://www.visir.is/g/20262955016d/spaenskt-felag-kaupir-samskip": {
+    "first_seen": "2026-10-28T19:13:12.416265+00:00",
+    "record": {
+      "id": "20f5e6f6f9",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-28",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955016d/spaenskt-felag-kaupir-samskip",
+      "title": "Spænskt fé­lag kaupir Sam­skip",
+      "sum": "Spænska skipafélagið Boluda Shipping hefur fest kaup á flutningsfyrirtækinu Samskipum og dótturfélögum þess. Hjónin Ólafur Ólafsson og Ingibjörg Kristjánsdóttir voru langsamlega stærstu eigendur skipafélagsins rótgróna. Kaupverðið er trúnaðarmál."
+    }
   }
 }
