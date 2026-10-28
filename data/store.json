@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -13182,6 +13182,81 @@
       "url": "https://www.visir.is/g/20262954425d/gengst-vid-dulnefninu-en-vill-samt-ekki-kannast-vid-thad",
       "title": "Gengst við dul­nefninu en vill samt ekki kannast við það",
       "sum": "Rithöfundurinn Hermann Stefánsson virðist gangast við því að hafa skrifað glæpasöguna Páfagaukagarðinn sem kom út sumarið 2025 og var skrifuð undir dulnefninu Akörn. Glæpasagan er á lista yfir fyrr verk Hermanns í nýútkomnu skáldsögunni Sauðburði."
+    }
+  },
+  "https://www.visir.is/g/20262954616d/haukar-voltudu-yfir-kr-og-armann-hrekkti-meistarana": {
+    "first_seen": "2026-10-28T00:51:27.317605+00:00",
+    "record": {
+      "id": "809d1ef720",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-27",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262954616d/haukar-voltudu-yfir-kr-og-armann-hrekkti-meistarana",
+      "title": "Haukar völtuðu yfir KR og Ár­mann hrekkti meistarana",
+      "sum": "Íslandsmeistarar Njarðvíkur unnu ansi nauman sigur gegn Ármanni í Laugardalshöll í kvöld í 5. umferð Bónus-deildar kvenna í körfubolta. Spennan var hins vegar engin á Ásvöllum þar sem Haukar unnu stórsigur gegn KR, 96-67."
+    }
+  },
+  "https://www.visir.is/g/20262954613d/arnor-med-ellefu-og-valsmenn-nalgast-toppinn": {
+    "first_seen": "2026-10-28T00:51:27.317605+00:00",
+    "record": {
+      "id": "4cd4745070",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-27",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262954613d/arnor-med-ellefu-og-valsmenn-nalgast-toppinn",
+      "title": "Arnór með ellefu og Vals­menn nálgast toppinn",
+      "sum": "Íslandsmeistarar Vals unnu fjórða leik sinn í röð í Olís-deild karla í handbolta í kvöld þegar þeir unnu Stjörnuna í Garðabæ, 37-34."
+    }
+  },
+  "https://www.visir.is/g/20262954571d/-skorid-nidur-til-thess-eins-ad-skera-nidur-": {
+    "first_seen": "2026-10-28T00:51:27.317605+00:00",
+    "record": {
+      "id": "32fb2832fc",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-27",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262954571d/-skorid-nidur-til-thess-eins-ad-skera-nidur-",
+      "title": "„Skorið niður til þess eins að skera niður“",
+      "sum": "Borgarfulltrúar minnihlutans í Reykjavík gagnrýna harðlega hagræðingaraðgerðir og uppsagnir meirihlutans. Þeir saka meirihlutann um vanþekkingu, óvönduð vinnubrögð, skort á pólitískri forystu og að blekkja borgarbúa. Niðurskurður meirihlutans í borginni sé til þess eins að haka við verkefni á verkefnalista."
+    }
+  },
+  "https://www.visir.is/g/20262954592d/vill-setja-fimmtungshlut-i-landsvirkjun-a-markad-til-ad-lada-ad-erlenda-fjarfesta": {
+    "first_seen": "2026-10-28T00:51:27.317605+00:00",
+    "record": {
+      "id": "d4dba56897",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-27",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262954592d/vill-setja-fimmtungshlut-i-landsvirkjun-a-markad-til-ad-lada-ad-erlenda-fjarfesta",
+      "title": "Vill setja fimmtungs­hlut í Lands­virkjun á markað til að laða að er­lenda fjár­festa",
+      "sum": "Framkvæmdastjóri Birtu lífeyrissjóðs telur að skráning Landsvirkjunar á hlutabréfamarkað og sala á minnihluta í fyrirtækinu gæti laðað erlenda fjárfesta til landsins og gert íslenska markaðinn, sem sé núna „í þriðju deild í ensku“, að álitlegri fjárfestingarkost."
+    }
+  },
+  "https://www.visir.is/g/20262954576d/engar-visbendingar-fundist-en-formlegri-leit-lokid": {
+    "first_seen": "2026-10-28T00:51:27.317605+00:00",
+    "record": {
+      "id": "e55e3aaf3c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-27",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262954576d/engar-visbendingar-fundist-en-formlegri-leit-lokid",
+      "title": "Engar vís­bendingar fundist en form­legri leit lokið",
+      "sum": "Leitinni að líkamsleifum Lúðvíks Péturssonar sem féll í sprungu í Grindavík árið 2024 er formlega lokið. Engar vísbendingar hafi fundist sem varpað gætu ljósi á hvar jarðneskar leifar Lúðvíks sé að finna. Ekki verði ráðist í frekari leitaraðgerðir."
     }
   }
 }
