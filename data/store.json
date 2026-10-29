@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -13512,6 +13512,111 @@
       "url": "https://www.visir.is/g/20262955016d/spaenskt-felag-kaupir-samskip",
       "title": "Spænskt fé­lag kaupir Sam­skip",
       "sum": "Spænska skipafélagið Boluda Shipping hefur fest kaup á flutningsfyrirtækinu Samskipum og dótturfélögum þess. Hjónin Ólafur Ólafsson og Ingibjörg Kristjánsdóttir voru langsamlega stærstu eigendur skipafélagsins rótgróna. Kaupverðið er trúnaðarmál."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/28/segir_haekkun_bankaskatts_skammsyna_radstofun/": {
+    "first_seen": "2026-10-29T01:27:48.500246+00:00",
+    "record": {
+      "id": "d15d94de87",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-28",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/28/segir_haekkun_bankaskatts_skammsyna_radstofun/",
+      "title": "Segir hækkun bankaskatts skammsýna ráðstöfun",
+      "sum": "Benedikt Gíslason, bankastjóri Arion banka, gagnrýnir fyrirhugaða hækkun bankaskatts og segir hana skammsýna ráðstöfun til að mæta tímabundnum aðstæðum. Verði af hækkuninni sé eðlilegt að hún falli niður eftir eitt til tvö ár."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/28/ekki_svigrum_til_ad_velta_haekkunum_ad_fullu_ut_i_v/": {
+    "first_seen": "2026-10-29T01:27:48.500246+00:00",
+    "record": {
+      "id": "ab53471f5c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-28",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/28/ekki_svigrum_til_ad_velta_haekkunum_ad_fullu_ut_i_v/",
+      "title": "Ekki svigrúm til að velta hækkunum að fullu út í verðlag",
+      "sum": "Ásta S. Fjeldsted, forstjóri Festi, segir hærra hrávöruverð og fækkun ferðamanna hafa sett mark sitt á rekstur samstæðunnar á þriðja ársfjórðungi. Afkoman hafi verið undir áætlun en horfur fyrir fjórða ársfjórðung séu góðar."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/28/halda_voxtum_obreyttum_sex_dogum_fyrir_kosningar/": {
+    "first_seen": "2026-10-29T01:27:48.500246+00:00",
+    "record": {
+      "id": "02ece7b35d",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-28",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/28/halda_voxtum_obreyttum_sex_dogum_fyrir_kosningar/",
+      "title": "Halda vöxtum óbreyttum sex dögum fyrir kosningar",
+      "sum": "Seðlabanki Bandaríkjanna hélt stýrivöxtum óbreyttum í dag, í samræmi við væntingar markaðsaðila, þrátt fyrir vaxandi verðbólgu. Ákvörðunin kemur sex dögum fyrir mikilvægar þingkosningar þar sem verðbólga hefur verið eitt helsta kosningamálið."
+    }
+  },
+  "https://www.visir.is/g/20262955222d/notch-setur-glaesihusid-a-solu": {
+    "first_seen": "2026-10-29T01:27:48.500246+00:00",
+    "record": {
+      "id": "dfd2dca0bb",
+      "cat": "gengi",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-29",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955222d/notch-setur-glaesihusid-a-solu",
+      "title": "Notch setur glæsihúsið á sölu",
+      "sum": "Markus Persson, höfundur Minecraft, hefur sett stórhýsi sitt í Beverly Hills í Kaliforníu á sölu. Húsnæðið er verðsett á sjötíu milljónir bandaríkjadala, eða 8,5 milljarða króna."
+    }
+  },
+  "https://www.visir.is/g/20262955087d/knattspyrnuforkolfur-segir-af-ser-til-ad-motmaela-studningi-vid-infantino": {
+    "first_seen": "2026-10-29T01:27:48.500246+00:00",
+    "record": {
+      "id": "44146e6534",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-28",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955087d/knattspyrnuforkolfur-segir-af-ser-til-ad-motmaela-studningi-vid-infantino",
+      "title": "Knattspyrnuforkólfur segir af sér til að mót­mæla stuðningi við Infantino",
+      "sum": "Takeshi Okada lætur af embætti varaforseta Knattspyrnusambands Japans í kjölfar ákvörðunar knattspyrnusambanda Asíu um að styðja Gianni Infantino í forsetakjöri FIFA á næsta ári."
+    }
+  },
+  "https://www.visir.is/g/20262955193d/bodar-samtok-sendla-eftir-fylufund-med-wolt-og-thad-verdur-stort-verkfall-": {
+    "first_seen": "2026-10-29T01:27:48.500246+00:00",
+    "record": {
+      "id": "a20a05a792",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-28",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955193d/bodar-samtok-sendla-eftir-fylufund-med-wolt-og-thad-verdur-stort-verkfall-",
+      "title": "Boðar sam­tök sendla eftir fýlufund með Wolt: „Og það verður stórt verk­fall“",
+      "sum": "Wolt-sendlar á Íslandi gengu margir ósáttir af fundi með finnskum stjórnendum fyrirtækisins í dag. Talsmaður sendlanna segir þá hafa búist við því að geta rætt kröfur sínar en þess í stað hafi þeir fengið fyrirlestur um hvernig appið og algrímið virkaði."
+    }
+  },
+  "https://www.visir.is/g/20262955173d/styrivextir-obreyttir-og-stutt-i-kosningar": {
+    "first_seen": "2026-10-29T01:27:48.500246+00:00",
+    "record": {
+      "id": "5499fc35cf",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-28",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955173d/styrivextir-obreyttir-og-stutt-i-kosningar",
+      "title": "Stýrivextir ó­breyttir og stutt í kosningar",
+      "sum": "Seðlabanki Bandaríkjanna ákvað í dag að halda stýrivöxtum óbreyttum og standa þeir enn í 3,75-4 prósentum. Líklegt þykir að ákvörðunin eigi eftir að reita Bandaríkjaforseta til reiði enda stutt í þingkosningar í landinu."
     }
   }
 }
