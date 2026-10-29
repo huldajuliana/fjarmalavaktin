@@ -13858,5 +13858,140 @@
       "title": "Feginn að verð­bólga stendur í stað og meiri­hluti mót­fallinn þátt­töku í Euro­vision",
       "sum": "Fjármála- og efnahagsráðherra segir mjög ánægjulegt að sjá verðbólgu standa í stað og að hún sé helst drifin áfram af utanaðkomandi þáttum. Hagstofa Íslands birti verðbólgutölur fyrir október í morgun, sem sýna að hún er óbreytt frá fyrri mánuði og stendur í 5,9 prósentum."
     }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/29/segir_haekkun_bankaskatts_veikja_samkeppnisstoduna/": {
+    "first_seen": "2026-10-29T19:22:08.486338+00:00",
+    "record": {
+      "id": "58cee5f124",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-29",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/29/segir_haekkun_bankaskatts_veikja_samkeppnisstoduna/",
+      "title": "Segir hækkun bankaskatts veikja samkeppnisstöðuna",
+      "sum": "Jón Guðni Ómarsson, bankastjóri Íslandsbanka, segir fyrirhugaða hækkun bankaskatts draga enn frekar úr samkeppnishæfni íslenska fjármálakerfisins. Hann hafnar því jafnframt að lækkun skattsins árið 2020 hafi ekki skilað sér til viðskiptavina."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/29/hagnadur_landsbankans_nam_33_1_milljardi/": {
+    "first_seen": "2026-10-29T19:22:08.486338+00:00",
+    "record": {
+      "id": "409233ab22",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-29",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/29/hagnadur_landsbankans_nam_33_1_milljardi/",
+      "title": "Hagnaður Landsbankans nam 33,1 milljarði",
+      "sum": "Hagnaður Landsbankans eftir skatta nam 33,1 milljarði króna á fyrstu níu mánuðum ársins, samanborið við 29,5 milljarða á sama tímabili í fyrra. Hagnaður á þriðja ársfjórðungi nam 11,1 milljarði króna."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/29/hagnadur_islandsbanka_nam_7_3_milljordum/": {
+    "first_seen": "2026-10-29T19:22:08.486338+00:00",
+    "record": {
+      "id": "e52c5853d0",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-29",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/29/hagnadur_islandsbanka_nam_7_3_milljordum/",
+      "title": "Hagnaður Íslandsbanka nam 7,3 milljörðum",
+      "sum": "Hagnaður Íslandsbanka nam 7,3 milljörðum króna á þriðja ársfjórðungi, samanborið við 6,9 milljarða á sama tímabili í fyrra. Arðsemi eigin fjár var 13,6% á ársgrundvelli, samanborið við 12,2% ári áður."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/29/eignasala_a_bordinu_eftir_uppsagnirnar/": {
+    "first_seen": "2026-10-29T19:22:08.486338+00:00",
+    "record": {
+      "id": "e8a99a1274",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-29",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/29/eignasala_a_bordinu_eftir_uppsagnirnar/",
+      "title": "Eignasala á borðinu eftir uppsagnirnar",
+      "sum": "Til greina kemur að selja eignir Hafnarfjarðarbæjar og fresta fyrirhuguðum fjárfestingum til að bregðast við erfiðri fjárhagsstöðu sveitarfélagsins."
+    }
+  },
+  "https://www.visir.is/g/20262955713d/arekstur-a-vesturlandsvegi-tefur-umferd": {
+    "first_seen": "2026-10-29T19:22:08.486338+00:00",
+    "record": {
+      "id": "959711c7a0",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-29",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955713d/arekstur-a-vesturlandsvegi-tefur-umferd",
+      "title": "Á­rekstur á Vestur­lands­vegi tefur um­ferð",
+      "sum": "Árekstur varð á Vesturlandsvegi í Reykjavík í kvöld þar sem ökumaður bifreiðar keyrði utan í tvo aðra bíla. Engin slys urðu á fólki en nokkuð er um umferðartafir á svæðinu á meðan unnið er að því að hreinsa vettvanginn, að sögn lögreglu."
+    }
+  },
+  "https://www.visir.is/g/20262955682d/landslidsmadur-i-fri-hja-felagi-sinu-vegna-personulegra-astaedna": {
+    "first_seen": "2026-10-29T19:22:08.486338+00:00",
+    "record": {
+      "id": "98c4147495",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-29",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955682d/landslidsmadur-i-fri-hja-felagi-sinu-vegna-personulegra-astaedna",
+      "title": "Lands­liðs­maður í frí hjá fé­lagi sínu vegna per­sónu­legra á­stæðna",
+      "sum": "Íslenski landsliðsmiðvörðurinn Daníel Leó Grétarsson verður ekki með danska félaginu AGF á næstunni af persónulegum ástæðum. Þetta kemur fram á heimasíðu félagsins."
+    }
+  },
+  "https://www.visir.is/g/20262955673d/hagnast-um-33-milljarda-en-sja-vidvorunarljos": {
+    "first_seen": "2026-10-29T19:22:08.486338+00:00",
+    "record": {
+      "id": "898bd5a024",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-29",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955673d/hagnast-um-33-milljarda-en-sja-vidvorunarljos",
+      "title": "Hagnast um 33 milljarða en sjá viðvörunar­ljós",
+      "sum": "Landsbankinn hagnaðist um 33,1 milljarð króna eftir skatta á fyrstu níu mánuðum þessa árs. Þetta er aukning frá síðasta ári þegar hagnaður nam 29,5 milljörðum á sama tímabili. Hreinar vaxtatekjur voru 58,3 milljarðar króna samanborið við 49,4 milljarða á fyrstu níu mánuðum 2025."
+    }
+  },
+  "https://www.visir.is/g/20262955637d/veruleikinn-breyttur-eftir-ofsaakstur-a-onytum-bil": {
+    "first_seen": "2026-10-29T19:22:08.486338+00:00",
+    "record": {
+      "id": "72e6ff4851",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-29",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955637d/veruleikinn-breyttur-eftir-ofsaakstur-a-onytum-bil",
+      "title": "Veru­leikinn breyttur eftir ofsaakstur á ó­nýtum bíl",
+      "sum": "Ungur karlmaður hefur verið dæmdur til fimm mánaða skilorðsbundins fangelsis vegna umferðarslyss sem varð í grennd við Hofsós í apríl í fyrra, þegar hann var tæplega átján ára. Einn þriggja farþega í bílnum slasaðist mjög alvarlega og slysið mun marka allt hans líf, að sögn læknis."
+    }
+  },
+  "https://www.visir.is/g/20262955642d/aukinn-vaxtamunur-og-hagnadur-upp-a-taepa-22-milljarda": {
+    "first_seen": "2026-10-29T19:22:08.486338+00:00",
+    "record": {
+      "id": "4d53b158a5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-29",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955642d/aukinn-vaxtamunur-og-hagnadur-upp-a-taepa-22-milljarda",
+      "title": "Aukinn vaxta­munur og hagnaður upp á tæpa 22 milljarða",
+      "sum": "Hagnaður af rekstri Íslandsbanka nam 7,3 milljörðum króna á þriðja ársfjórðungi þessa árs. Jókst hann ár frá ári en bankinn hagnaðist um 6,9 milljarða á sama þriggja mánaða tímabili árið 2025."
+    }
   }
 }
