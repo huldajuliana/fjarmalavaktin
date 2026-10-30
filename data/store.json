@@ -14098,5 +14098,395 @@
       "title": "Upp­gjörið: Stjarnan-ÍR 102-96 | Loksins Stjörnusigur",
       "sum": "Stjörnumenn fögnuðu sínum fyrsta sigri í Bónusdeild karla í körfubolta í kvöld þegar liðið vann sex stiga sigur á ÍR-ingum í Garðabænum, 102-96. Stjörnuliðið hafði tapað fyrstu þremur leikjum sínum."
     }
+  },
+  "https://asi.is/verdbolga-obreytt-milli-manada/": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "2125844dd2",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "ASÍ",
+      "url": "https://asi.is/verdbolga-obreytt-milli-manada/",
+      "title": "Verðbólga óbreytt milli mánaða",
+      "sum": "Vísitala neysluverðs hækkaði um 0,44% milli mánaða í október og mældist verðbólga óbreytt milli mánaða, 5,9%. Sé horft fram hjá áhrifum húsnæðiskostnaðar hækkaði vísitalan um 0,49% og mælist ársverðbólga sú sama á mælikvarða VNV og VNV án húsnæðis."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/30/asi_verdbolga_gaeti_aukist_i_november/": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "07973a395c",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/30/asi_verdbolga_gaeti_aukist_i_november/",
+      "title": "ASÍ: Verðbólga gæti aukist í nóvember",
+      "sum": "Ársverðbólga gæti aukist í nóvember ef afsláttardagar hafa ekki sambærileg áhrif á verðmælingar og í fyrra."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/30/sau_haettu_a_utilokun_keppinauta/": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "51eb9fd305",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/30/sau_haettu_a_utilokun_keppinauta/",
+      "title": "Sáu hættu á útilokun keppinauta",
+      "sum": "Gögn um kaup Ása á Öryggismiðstöð Íslands og Opnum kerfum bentu að frummati Samkeppniseftirlitsins til þess að sameinað félag myndi hafa bæði hvata og getu til að beita útilokandi háttsemi gagnvart keppinautum. Kaupin gætu jafnframt aukið hindranir á innkomu nýrra fyrirtækja og vexti þeirra sem þegar væru á markaði."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/30/heimilar_kaup_asa_a_oryggismidstodinni_og_opnum_ker/": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "7f942a03f2",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/30/heimilar_kaup_asa_a_oryggismidstodinni_og_opnum_ker/",
+      "title": "Heimilar kaup Ása á Öryggismiðstöðinni og Opnum kerfum",
+      "sum": "Samkeppniseftirlitið hefur heimilað Ásum hf. að kaupa allt hlutafé í Öryggismiðstöð Íslands og Opnum kerfum með skilyrði. Gert er ráð fyrir að gengið verði frá viðskiptunum á næstu vikum."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/30/verdfall_a_wall_street/": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "f075aa3207",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/30/verdfall_a_wall_street/",
+      "title": "Verðfall á Wall Street",
+      "sum": "Lækkanirnar juku enn á ugg fjárfesta eftir að hlutabréfaverð Meta og Alphabet, móðurfélags Google, hafði áður lækkað í kjölfar uppgjöra félaganna."
+    }
+  },
+  "https://www.mbl.is/200milur/frettir/2026/10/30/thorsteinn_mar_styrir_framkvaemdinni/": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "064c46d849",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/200milur/frettir/2026/10/30/thorsteinn_mar_styrir_framkvaemdinni/",
+      "title": "Þorsteinn Már stýrir framkvæmdinni",
+      "sum": "Tuttugasta apríl nk. á ný landeldisstöð Samherja á Reykjanesi að taka við fyrstu seiðunum. Ári síðar er fyrsta slátrun og Eldisgarður fyrirtækisins þar með farinn að skila tekjum."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/30/hlutafjarutbod_og_blaa_lonid_a_leid_a_markad/": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "0007c4ec9a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/30/hlutafjarutbod_og_blaa_lonid_a_leid_a_markad/",
+      "title": "Hlutafjárútboð og Bláa lónið á leið á markað",
+      "sum": "Á hluthafafundi Bláa lónsins í dag var formlega samþykkt að efna til almenns hlutafjárútboðs og óska eftir töku hlutabréfa félagsins til viðskipta á Aðalmarkaði Nasdaq Iceland."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/30/milljonagreidslur_i_badar_attir_vegna_netverslunar/": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "5105ea91ad",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/30/milljonagreidslur_i_badar_attir_vegna_netverslunar/",
+      "title": "Milljónagreiðslur í báðar áttir vegna netverslunar",
+      "sum": "Í skaðabótamálinu komst dómurinn að þeirri niðurstöðu að Samkaup hefðu vísvitandi leynt Netgenginu samstarfi við danska vefstofu um uppbyggingu nýrrar netverslunar."
+    }
+  },
+  "https://www.mbl.is/200milur/frettir/2026/10/30/hlutafjaraukning_fyrirhugud_hja_kaldvik/": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "21393916c4",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/200milur/frettir/2026/10/30/hlutafjaraukning_fyrirhugud_hja_kaldvik/",
+      "title": "Hlutafjáraukning fyrirhuguð hjá Kaldvík",
+      "sum": "Gangi eftir áætlanir Kaldvíkur um hlutafjáraukningu fyrir lok árs eykur félagið rekstrarfé sitt um 9,5 milljarða króna. Greint hefur verið frá nýju samkomulagi félagsins við lánveitendur og hluthafa."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/30/hefur_ahyggjur_af_trausti_til_landsvirkjunar/": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "493bba9e73",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/30/hefur_ahyggjur_af_trausti_til_landsvirkjunar/",
+      "title": "Hefur áhyggjur af trausti til Landsvirkjunar",
+      "sum": "Daði Már hefur áhyggjur af því hvaða áhrif mál Harðar Arnarsonar, fráfarandi forstjóra Landsvirkjunar, hefur á traust þjóðarinnar til fyrirtækisins."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/30/mettekjur_hja_nova_en_framlegdin_minnkar/": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "2b8072fa9e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/30/mettekjur_hja_nova_en_framlegdin_minnkar/",
+      "title": "Mettekjur hjá Nova en framlegðin minnkar",
+      "sum": "Tekjur Nova jukust um 66% á þriðja ársfjórðungi miðað við sama tíma í fyrra. Helgast þetta aðallega af kaupum á tæknifyrirtækinu Ofar. Rekstrarhagnaður félagsins dróst hins vegar saman um 5% og EBITDA-hlutfallið fór úr 31,6% í 18,1%."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/30/raeda_solu_a_blikastadalandi_fyrir_14_16_milljarda/": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "3a85703854",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/30/raeda_solu_a_blikastadalandi_fyrir_14_16_milljarda/",
+      "title": "Ræða sölu á Blikastaðalandi fyrir 14-16 milljarða",
+      "sum": "Arion banki hefur ákveðið að ganga til einkaviðræðna við Íslensk verðbréf, dótturfélags Skaga, fyrir hönd óstofnaðs sérhæfðs sjóðs um kaup sjóðsins á öllu hlutafé dótturfélags Arion banka, Landeyjar, í Blikastaðalandi ehf."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/30/vaentingar_um_ad_hamarki_se_nad/": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "290311c847",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/30/vaentingar_um_ad_hamarki_se_nad/",
+      "title": "Væntingar um að hámarki sé náð",
+      "sum": "Miklar hækkanir eldsneytisverðs halda verðbólgunni uppi, þrátt fyrir skýr merki um að verðbólguþrýstingur sé að minnka. Verðbólga mældist 5,9% í október, samkvæmt nýjum tölum Hagstofu Íslands sem birtar voru í gær, og stendur því í stað milli mánaða."
+    }
+  },
+  "https://www.mbl.is/frettir/erlent/2026/10/30/tolvuaras_a_staerstu_rafmyntakaupholl_heims/": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "0335b21055",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/erlent/2026/10/30/tolvuaras_a_staerstu_rafmyntakaupholl_heims/",
+      "title": "Tölvuárás á stærstu rafmyntakauphöll heims",
+      "sum": "Bin­ance, stærsta raf­mynta­kaup­höll heims, varð fyrir umfangsmikilli tölvuárás sem náði til fjármuna að andvirði um 6,3 milljarða dala, en um helmingur þeirrar fjárhæðar var frystur til að koma í veg fyrir stórfelldan þjófnað."
+    }
+  },
+  "https://www.visir.is/g/20262956194d/vidskiptarad-og-laki-jardalfur": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "efd4bd0352",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956194d/vidskiptarad-og-laki-jardalfur",
+      "title": "Við­skipta­ráð og Láki jarðálfur",
+      "sum": "Þegar Viðskiptaráð skilar af sér skýrslu má bóka að viðfangsefnið sé að eyðileggja eitthvað sem er mikilvægt, fallegt og jafnvel heilagt og svo má líka bóka að skýrslan sé óvönduð og uppfull af villum."
+    }
+  },
+  "https://www.visir.is/g/20262956196d/wolt-kaerir-hotanir-sendlanna-til-logreglu": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "5d2299b97c",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956196d/wolt-kaerir-hotanir-sendlanna-til-logreglu",
+      "title": "Wolt kærir hótanir sendlanna til lög­reglu",
+      "sum": "Samskiptastjóri Wolt á Íslandi segir starfsfólk heimsendingarþjónustunnar hafa orðið fyrir „ágengum ummælum“ af hálfu nokkurra Wolt-sendla. Sendlarnir hafa verið tilkynntir til lögreglu. Fundur sendla og forsvarsmanna var haldinn í vikunni."
+    }
+  },
+  "https://www.visir.is/g/20262956113d/nyttu-hagnadinn-i-styrki-fyrir-ithrottastarfsemi": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "588a418a37",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956113d/nyttu-hagnadinn-i-styrki-fyrir-ithrottastarfsemi",
+      "title": "Nýttu hagnaðinn í styrki fyrir í­þrótta­starf­semi",
+      "sum": "Hagnaður samstæðu Kaupfélags Suðurnesja (KSK) fyrstu sjö mánuði ársins nam 633 milljónum króna. Bókfært fé nemur níu milljörðum króna en nýlega tilkynnti Reykjanesbær um kaup félagsins á fasteign þar sem hjúkrunarheimili er starfrækt."
+    }
+  },
+  "https://www.visir.is/g/20262956197d/mega-kaupa-oryggismidstodina-og-opin-kerfi": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "d6fddd695e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956197d/mega-kaupa-oryggismidstodina-og-opin-kerfi",
+      "title": "Mega kaupa Öryggis­miðstöðina og Opin kerfi",
+      "sum": "Samkeppniseftirlitið hefur samþykkt kaup Ása, áður Símans, á Öryggismiðstöð Íslands og Opnum kerfum. Samþykkið er þó háð því skilyrði að Öryggismiðstöðin bjóði ekki betri kjör á öryggisþjónustu ef kaupandi er í fjarskiptaviðskiptum við Símann."
+    }
+  },
+  "https://www.visir.is/g/20262956134d/-minar-skodanir-skipta-i-thessu-mali-litlu-": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "89af7d27c8",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956134d/-minar-skodanir-skipta-i-thessu-mali-litlu-",
+      "title": "„Mínar skoðanir skipta í þessu máli litlu“",
+      "sum": "Daði Már Kristófersson fjármálaráðherra segir eðlilegt að þjónusta vínbúðanna þróist í takt við samfélagið þegar hann er spurður um áform ríkisins um heimsendingu á áfengi. Hans skoðanir á því hvort gera eigi verslun með áfengi frjálsa skipti litlu máli þar sem skiptar skoðanir eru á málinu í ríkisstjórninni."
+    }
+  },
+  "https://www.visir.is/g/20262956135d/blaa-lonid-a-markad-i-november": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "9d38157553",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956135d/blaa-lonid-a-markad-i-november",
+      "title": "Bláa lónið á markað í nóvember",
+      "sum": "Á hluthafafundi Bláa Lónsins hf. í dag var formlega samþykkt að efna til almenns hlutafjárútboðs og óska eftir töku hlutabréfa félagsins til viðskipta á aðalmarkað Nasdaq Iceland. Hluthafar samþykktu einnig kaupréttaráætlun fyrir allt fastráðið starfsfólk samstæðunnar."
+    }
+  },
+  "https://www.visir.is/g/20262956114d/samningur-arnars-ad-renna-ut-vonandi-ekki-sidasta-motid-": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "768588e9a6",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956114d/samningur-arnars-ad-renna-ut-vonandi-ekki-sidasta-motid-",
+      "title": "Samningur Arnars að renna út: „Vonandi ekki síðasta mótið“",
+      "sum": "Samningur Arnars Péturssonar, landsliðsþjálfara kvenna í handbolta, rennur út eftir komandi Evrópumót. Hann segist vonast eftir nýjum samningi frá sambandinu og formaður HSÍ gaf því undir fótinn að yfirlýsingar væri að vænta varðandi framhaldið."
+    }
+  },
+  "https://www.visir.is/g/20262956082d/vill-loka-studlum-og-opna-nytt-urraedi": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "9070e9c48c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956082d/vill-loka-studlum-og-opna-nytt-urraedi",
+      "title": "Vill loka Stuðlum og opna nýtt úr­ræði",
+      "sum": "Mennta- og barnamálaráðherra vill loka meðferðarheimilinu Stuðlum um leið og nýtt hús í Garðabæ verður tilbúið. Starfsemin sé til fyrirmyndar en húsnæðið óöruggt."
+    }
+  },
+  "https://www.visir.is/g/20262956087d/telur-ekki-ad-verid-se-ad-vikja-fra-gildandi-samningi": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "8b8735e0f3",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956087d/telur-ekki-ad-verid-se-ad-vikja-fra-gildandi-samningi",
+      "title": "Telur ekki að verið sé að víkja frá gildandi samningi",
+      "sum": "Fjármálaráðherra telur ekki að tillaga stjórnvalda til kennara þýði að vikið sé frá gildandi kjarasamningi. Samningar kennara eru í uppnámi vegna túlkunar á ákvæði um gerð virðismats en náist ekki samkomulag gætu samningar kennara losnað í mars."
+    }
+  },
+  "https://www.visir.is/g/20262956075d/klakki-adur-exista-gjaldthrota": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "29fe277808",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956075d/klakki-adur-exista-gjaldthrota",
+      "title": "Klakki, áður Exista, gjald­þrota",
+      "sum": "Klakki ehf., sem hét áður Exista og var eitt stærsta félag landsins á árunum fyrir hrun, er gjaldþrota."
+    }
+  },
+  "https://www.visir.is/g/20262955960d/aetla-ad-brenna-rusl-og-skapa-orku": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "7c512d3efd",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955960d/aetla-ad-brenna-rusl-og-skapa-orku",
+      "title": "Ætla að brenna rusl og skapa orku",
+      "sum": "Forstjóri Orkuveitunnar segir að sorpbrennsla muni hefja rekstur hér á landi á næstu fimm til sjö árum. Verkefnið muni kosta marga milljarða og gæti sorpbrennslustöðin risið í grennd við íbúðarbyggð eins og tíðkast víða."
+    }
+  },
+  "https://www.visir.is/g/20262956063d/kjarasamningar-kennara-i-uppnami": {
+    "first_seen": "2026-10-30T15:56:49.062920+00:00",
+    "record": {
+      "id": "6b0c68d3c3",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956063d/kjarasamningar-kennara-i-uppnami",
+      "title": "Kjara­samningar kennara í upp­námi",
+      "sum": "Kjarasamningar kennara eru í uppnámi vegna túlkunar á ákvæði um gerð virðismats. Stjórnvöld eru sögð hafa lagt fram tillögu sem fer út fyrir þann ramma sem samningur gerir ráð fyrir. Náist ekki samkomulag fyrir sunnudag gætu samningar kennara losnað í mars. Fjallað verður um málið í hádegisfréttum á Bylgjunni."
+    }
   }
 }
