@@ -14488,5 +14488,50 @@
       "title": "Kjara­samningar kennara í upp­námi",
       "sum": "Kjarasamningar kennara eru í uppnámi vegna túlkunar á ákvæði um gerð virðismats. Stjórnvöld eru sögð hafa lagt fram tillögu sem fer út fyrir þann ramma sem samningur gerir ráð fyrir. Náist ekki samkomulag fyrir sunnudag gætu samningar kennara losnað í mars. Fjallað verður um málið í hádegisfréttum á Bylgjunni."
     }
+  },
+  "https://www.visir.is/g/20262955426d/landsbankamalid-gaeti-kostad-rikid-hundrud-milljona": {
+    "first_seen": "2026-10-30T18:56:28.434733+00:00",
+    "record": {
+      "id": "75ddfbcd72",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955426d/landsbankamalid-gaeti-kostad-rikid-hundrud-milljona",
+      "title": "Landsbankamálið gæti kostað ríkið hundruð milljóna",
+      "sum": "Ákveði sakborningarnir sjötíu í Landsbankamálinu svokallaða að halda uppi vörnum er ekki óvarlegt að áætla að málskostnaður nemi hundruðum milljóna króna, sem myndi líklega lenda á ríkissjóði að stórum hluta. Reyndir verjendur sem Vísir hefur rætt við telja réttast að þorri sakborninga játi sök."
+    }
+  },
+  "https://www.visir.is/g/20262955956d/borgarnesrettlaetid-saga-ur-umferdinni": {
+    "first_seen": "2026-10-30T18:56:28.434733+00:00",
+    "record": {
+      "id": "79bf284292",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955956d/borgarnesrettlaetid-saga-ur-umferdinni",
+      "title": "Borgarnesréttlætið – saga úr um­ferðinni",
+      "sum": "Málavextir eru þeir að ég var að aka norður Vesturlandsveg, í samfloti við bróður sem ók á undan mér og vorum við komnir á mót við Álfhólsskóg norðan Akrafjalls þegar bróðir minn ók fram úr svartri bifreið, sem var á um 75 til 85 km/klst og ég fylgdi á eftir."
+    }
+  },
+  "https://www.visir.is/g/20262956196d/wolt-kaerir-hotanir-til-logreglu": {
+    "first_seen": "2026-10-30T18:56:28.434733+00:00",
+    "record": {
+      "id": "0ceb8d39e5",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956196d/wolt-kaerir-hotanir-til-logreglu",
+      "title": "Wolt kærir hótanir til lög­reglu",
+      "sum": "Samskiptastjóri Wolt á Íslandi segir starfsfólk heimsendingarþjónustunnar hafa orðið fyrir „ágengum ummælum“ af hálfu nokkurra Wolt-sendla. Nafnlausar hótanir hafa verið tilkynntar til lögreglu. Fundur sendla og forsvarsmanna var haldinn í vikunni."
+    }
   }
 }
