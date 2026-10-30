@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -13992,6 +13992,111 @@
       "url": "https://www.visir.is/g/20262955642d/aukinn-vaxtamunur-og-hagnadur-upp-a-taepa-22-milljarda",
       "title": "Aukinn vaxta­munur og hagnaður upp á tæpa 22 milljarða",
       "sum": "Hagnaður af rekstri Íslandsbanka nam 7,3 milljörðum króna á þriðja ársfjórðungi þessa árs. Jókst hann ár frá ári en bankinn hagnaðist um 6,9 milljarða á sama þriggja mánaða tímabili árið 2025."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/29/segir_throunina_i_byggingaridnadi_ahyggjuefni/": {
+    "first_seen": "2026-10-30T01:29:15.086641+00:00",
+    "record": {
+      "id": "17f7adaecc",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-29",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/29/segir_throunina_i_byggingaridnadi_ahyggjuefni/",
+      "title": "Segir þróunina í byggingariðnaði áhyggjuefni",
+      "sum": "Lilja Björk Einarsdóttir, bankastjóri Landsbankans, segir skýr merki um að verulega hafi hægt á umsvifum í byggingariðnaði. Háir vextir og hægari sala íbúða auki fjármagnskostnað og geti gengið hratt á eigið fé byggingarfyrirtækja."
+    }
+  },
+  "https://www.visir.is/g/20262955700d/fifa-hagnadist-um-620-milljarda-a-midum-a-hm-leiki": {
+    "first_seen": "2026-10-30T01:29:15.086641+00:00",
+    "record": {
+      "id": "9dca9aa310",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-29",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955700d/fifa-hagnadist-um-620-milljarda-a-midum-a-hm-leiki",
+      "title": "FIFA hagnaðist um 620 milljarða á miðum á HM-leiki",
+      "sum": "Alþjóðaknattspyrnusambandið er sagt hafa halað inn gríðarlegar fjárhæðir á sölu miða á heimsmeistaramótið í Norður-Ameríku síðasta sumar."
+    }
+  },
+  "https://www.visir.is/g/20262955800d/tekjur-nova-i-haestu-haedum": {
+    "first_seen": "2026-10-30T01:29:15.086641+00:00",
+    "record": {
+      "id": "55fa8c700e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-29",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955800d/tekjur-nova-i-haestu-haedum",
+      "title": "Tekjur Nova í hæstu hæðum",
+      "sum": "Nova Klúbburinn skilaði hæstu tekjum í sögu sinni á þriðja ársfjórðungi, en þetta er fyrsti heili fjórðungurinn eftir að félagið Ofar kom inn í samstæðuna. Tekjur námu 5,8 milljörðum króna og hagnaður jókst um 24 prósent milli ára."
+    }
+  },
+  "https://www.visir.is/g/20262955775d/-forum-ad-gera-klaufamistok-og-klikka-a-daudafaerum-": {
+    "first_seen": "2026-10-30T01:29:15.086641+00:00",
+    "record": {
+      "id": "c28a0d9b9c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-29",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955775d/-forum-ad-gera-klaufamistok-og-klikka-a-daudafaerum-",
+      "title": "„Förum að gera klaufamistök og klikka á dauðafærum“",
+      "sum": "Haraldur Þorvarðarson, þjálfari Fram, var eðlilega súr og svekktur eftir tap liðsins gegn Haukum í kaflaskiptum leik í Olís-deild kvenna í kvöld."
+    }
+  },
+  "https://www.visir.is/g/20262955770d/utilokar-ekki-verkfall-eftir-utspil-sem-kom-eins-og-thruma-ur-heidskiru-lofti": {
+    "first_seen": "2026-10-30T01:29:15.086641+00:00",
+    "record": {
+      "id": "9c240aad6f",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-29",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955770d/utilokar-ekki-verkfall-eftir-utspil-sem-kom-eins-og-thruma-ur-heidskiru-lofti",
+      "title": "Úti­lokar ekki verk­fall eftir út­spil sem kom eins og þruma úr heið­skíru lofti",
+      "sum": "Formaður Kennarasambands Íslands segir óvænt útspil stjórnvalda á þriðjudag hafa sett kjarasamninga kennara í uppnám. Lagt hafi verið til að hvika frá því markmiði sem lengi hafi verið stefnt að nokkrum dögum áður en frestur til að virkja forsenduákvæði í gildandi samningi rynni út."
+    }
+  },
+  "https://www.visir.is/g/20262955701d/thristurinn-gefinn-flugsafni-islands": {
+    "first_seen": "2026-10-30T01:29:15.086641+00:00",
+    "record": {
+      "id": "3bfd8c40df",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-29",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955701d/thristurinn-gefinn-flugsafni-islands",
+      "title": "Þristurinn gefinn Flugsafni Ís­lands",
+      "sum": "Stjórn Þristasjóðs, Flugsafn Íslands og DC-3 Þristavinafélagið hafa komist að samkomulagi um að eignarhald flugvélarinnar TF-NPK, eða Þristsins Páls Sveinssonar, færist til Flugsafns Íslands á Akureyri og til framtíðarvarðveislu. Viljayfirlýsing þess efnis var undirrituð í Flugsafninu á Akureyrarflugvelli í dag."
+    }
+  },
+  "https://www.visir.is/g/20262955508d/uppgjorid-stjarnan-ir-102-96-loksins-stjornusigur": {
+    "first_seen": "2026-10-30T01:29:15.086641+00:00",
+    "record": {
+      "id": "962b5186c5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-29",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955508d/uppgjorid-stjarnan-ir-102-96-loksins-stjornusigur",
+      "title": "Upp­gjörið: Stjarnan-ÍR 102-96 | Loksins Stjörnusigur",
+      "sum": "Stjörnumenn fögnuðu sínum fyrsta sigri í Bónusdeild karla í körfubolta í kvöld þegar liðið vann sex stiga sigur á ÍR-ingum í Garðabænum, 102-96. Stjörnuliðið hafði tapað fyrstu þremur leikjum sínum."
     }
   }
 }
