@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -14532,6 +14532,126 @@
       "url": "https://www.visir.is/g/20262956196d/wolt-kaerir-hotanir-til-logreglu",
       "title": "Wolt kærir hótanir til lög­reglu",
       "sum": "Samskiptastjóri Wolt á Íslandi segir starfsfólk heimsendingarþjónustunnar hafa orðið fyrir „ágengum ummælum“ af hálfu nokkurra Wolt-sendla. Nafnlausar hótanir hafa verið tilkynntar til lögreglu. Fundur sendla og forsvarsmanna var haldinn í vikunni."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/30/769_milljardar_undir_hvernig_komust_tolvuthrjotarni/": {
+    "first_seen": "2026-10-31T01:19:08.734495+00:00",
+    "record": {
+      "id": "6e39961ff8",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/30/769_milljardar_undir_hvernig_komust_tolvuthrjotarni/",
+      "title": "769 milljarðar undir: Hvernig komust tölvuþrjótarnir inn?",
+      "sum": "Binance, stærsta rafmyntakauphöll heims, áætlar að tölvuárás á viðskiptavettvanginn hafi haft áhrif á eignir að verðmæti 6,3 milljarða Bandaríkjadala, jafnvirði um 768,7 milljarða króna."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/10/30/asi_hlutur_oliufelaga_aukist_um_16_kronur_a_litra/": {
+    "first_seen": "2026-10-31T01:19:08.734495+00:00",
+    "record": {
+      "id": "165a7f96ff",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/10/30/asi_hlutur_oliufelaga_aukist_um_16_kronur_a_litra/",
+      "title": "ASÍ: Hlutur olíufélaga aukist um 16 krónur á lítra",
+      "sum": "Hlutur olíufélaga í verði hvers selds eldsneytislítra hefur aukist um 16 krónur frá lokum ágúst, samkvæmt útreikningum Alþýðusambands Íslands."
+    }
+  },
+  "https://www.visir.is/g/20262956380d/halla-forseti-var-ekki-heima-thegar-hann-loks-skiladi-ser-a-leidarenda": {
+    "first_seen": "2026-10-31T01:19:08.734495+00:00",
+    "record": {
+      "id": "85ae431d68",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-31",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956380d/halla-forseti-var-ekki-heima-thegar-hann-loks-skiladi-ser-a-leidarenda",
+      "title": "Halla for­seti var ekki heima þegar hann loks skilaði sér á leiðar­enda",
+      "sum": "Axel Máni Bjarnason skilaði sér á Bessastaði um klukkan sex í kvöld eftir að hafa skriðið þangað frá Njarðvík yfir tólf daga tímabil. Eins og sönnu nútímaungmenni sæmir var vegferðinni streymt í beinni útsendingu á samfélagsmiðlinum Tiktok þar sem fleiri þúsund manns fylgdust með athæfinu."
+    }
+  },
+  "https://www.visir.is/g/20262956380d/halla-ekki-heima-thegar-hann-maetti-skridandi-eftir-tolf-daga-ferdalag": {
+    "first_seen": "2026-10-31T01:19:08.734495+00:00",
+    "record": {
+      "id": "e9c6042bb9",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956380d/halla-ekki-heima-thegar-hann-maetti-skridandi-eftir-tolf-daga-ferdalag",
+      "title": "Halla ekki heima þegar hann mætti skríðandi eftir tólf daga ferða­lag",
+      "sum": "Axel Máni Bjarnason skilaði sér á Bessastaði um klukkan sex í kvöld eftir að hafa skriðið þangað frá Njarðvík yfir tólf daga tímabil. Eins og sönnu nútímaungmenni sæmir var allri vegferðinni streymt í beinni útsendingu á Tiktok þar sem fleiri þúsund manns fylgdust með athæfinu."
+    }
+  },
+  "https://www.visir.is/g/20262956287d/arteta-hardur-vid-dowman-thetta-er-ekki-disneyland-": {
+    "first_seen": "2026-10-31T01:19:08.734495+00:00",
+    "record": {
+      "id": "52e8c93a58",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956287d/arteta-hardur-vid-dowman-thetta-er-ekki-disneyland-",
+      "title": "Arteta harður við Dowman: „Þetta er ekki Disneyland“",
+      "sum": "Mörgum þótti knattspyrnustjórinn Mikel Arteta ganga aðeins of langt þegar hann lét kornungan leikmann Arsenal heyra það fyrir framan myndavélarnar."
+    }
+  },
+  "https://www.visir.is/g/20262956327d/styttan-af-dwyane-wade-fekk-nyjan-haus": {
+    "first_seen": "2026-10-31T01:19:08.734495+00:00",
+    "record": {
+      "id": "dbb0ccd92a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956327d/styttan-af-dwyane-wade-fekk-nyjan-haus",
+      "title": "Styttan af Dwyane Wade fékk nýjan haus",
+      "sum": "NBA-goðsögnin Dwyane Wade fékk styttu af sér fyrir utan íþróttahöll Miami Heat fyrir tveimur árum en hún varð í framhaldinu efni í hvern brandarann á fætur öðrum á netmiðlum. Nú hefur Wade bókstaflega fengið nýjan haus á umrædda styttu."
+    }
+  },
+  "https://www.visir.is/g/20262956013d/uppgjorid-grindavik-njardvik-104-103-pargo-med-sigurkorfuna": {
+    "first_seen": "2026-10-31T01:19:08.734495+00:00",
+    "record": {
+      "id": "84592ce637",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956013d/uppgjorid-grindavik-njardvik-104-103-pargo-med-sigurkorfuna",
+      "title": "Upp­gjörið: Grindavík-Njarðvík 104-103 | Pargo með sigurkörfuna",
+      "sum": "Jeremy Pargo tryggði Grindavík dramatískan 104-103 sigur í framlengdum lokaleik fjórðu umferðar Bónusdeildar karla í körfubolta. Staðan var 94-94 eftir venjulegan leiktíma."
+    }
+  },
+  "https://www.visir.is/g/20262956342d/osattir-sendlar-bjoda-wolt-fram-adstod-sina": {
+    "first_seen": "2026-10-31T01:19:08.734495+00:00",
+    "record": {
+      "id": "7f53aa8881",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-30",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956342d/osattir-sendlar-bjoda-wolt-fram-adstod-sina",
+      "title": "Ó­sáttir sendlar bjóða Wolt fram að­stoð sína",
+      "sum": "Talsmaður Wolt-sendla fordæmir hótanir í garð starfsfólks fyrirtækisins og býður fram aðstoð sína. Samskiptastjóri Wolt á Íslandi segir búið að tilkynna hótanirnar til lögreglu en þær hafi allar verið nafnlausar."
     }
   }
 }
