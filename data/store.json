@@ -14833,5 +14833,35 @@
       "title": "Sam­staða um Suður­nesin sem drif­kraft vaxtar",
       "sum": "Suðurnesin hafa verið eitt mesta vaxtarsvæði landsins undanfarin ár. Íbúum hefur fjölgað hratt samhliða uppbyggingu atvinnulífs sem reiðir sig að stórum hluta á flug- og ferðaþjónustu. Svo hröðum vexti fylgja miklar áskoranir, ekki síst fyrir sveitarfélögin sem þurfa að halda í við eftirspurn eftir húsnæði."
     }
+  },
+  "https://www.visir.is/g/20262956263d/kvikumagnid-undir-svartsengi-ordid-mun-meira-en-adur": {
+    "first_seen": "2026-10-31T18:05:53.057413+00:00",
+    "record": {
+      "id": "8f30d9f78d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-31",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956263d/kvikumagnid-undir-svartsengi-ordid-mun-meira-en-adur",
+      "title": "Kvikumagnið undir Svarts­engi orðið mun meira en áður",
+      "sum": "Aukin áhersla er lögð á eftirlit með jarðhræringum í kringum Grindavík vegna fólksfjölda í bænum. Næstum því helmingi meira af kviku hefur safnast saman undir Svartsengi nú en fyrir síðustu eldgos."
+    }
+  },
+  "https://www.visir.is/g/20262956541d/frestur-til-midnaettis-ad-taka-afstodu-til-tillogu-rikissattasemjara": {
+    "first_seen": "2026-10-31T18:05:53.057413+00:00",
+    "record": {
+      "id": "82793d97f2",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-31",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956541d/frestur-til-midnaettis-ad-taka-afstodu-til-tillogu-rikissattasemjara",
+      "title": "Frestur til mið­nættis að taka af­stöðu til til­lögu ríkissátta­semjara",
+      "sum": "Ríkissáttasemjari hefur lagt fram tillögu í virðismatsdeilu kennara og sveitarfélaga. Hafa aðilarnir tíma til miðnættis til að taka afstöðu til tillögunnar en þá rennur út frestur til að virkja forsenduákvæði í kjarasamningi."
+    }
   }
 }
