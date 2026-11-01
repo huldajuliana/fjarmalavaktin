@@ -14953,5 +14953,140 @@
       "title": "Njarð­vík sagði upp samningi við Smit",
       "sum": "Hollenski markvörðurinn Guy Smit getur hafið leit að nýju félagi eftir að Njarðvíkingar nýttu sér ákvæði til að segja upp samningi við hann."
     }
+  },
+  "https://www.mbl.is/frettir/erlent/2026/11/01/fbi_segir_nordur_koreu_standa_ad_baki_rafmyntathjof/": {
+    "first_seen": "2026-11-01T16:03:34.081973+00:00",
+    "record": {
+      "id": "33abc7d87a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-01",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/erlent/2026/11/01/fbi_segir_nordur_koreu_standa_ad_baki_rafmyntathjof/",
+      "title": "FBI segir Norður-Kóreu standa að baki rafmyntaþjófnaði",
+      "sum": "Bin­ance, stærsta raf­mynta­kaup­höll heims, greindi frá því í dag að úttektir hefðu verið opnaðar á ný eftir að eignum að verðmæti meira en 6 milljarða dala var stolið frá rafmyntakauphöllinni í umfangsmiklu tölvuinnbroti á dögunum sem bandaríska alríkislögreglan FBI segir Norður-Kóreu bera ábyrgð á."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/10/31/visar_ummaelum_hardar_a_bug/": {
+    "first_seen": "2026-11-01T16:03:34.081973+00:00",
+    "record": {
+      "id": "afa3f5bf59",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-31",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/10/31/visar_ummaelum_hardar_a_bug/",
+      "title": "Vísar ummælum Harðar á bug",
+      "sum": "Páll Gunnar Pálsson forstjóri Samkeppniseftirlitsins vísar gagnrýni Harðar Arnarsonar, fráfarandi forstjóra Landsvirkjunar, á bug."
+    }
+  },
+  "https://www.visir.is/g/20262956773d/vafasama-vidreisn": {
+    "first_seen": "2026-11-01T16:03:34.081973+00:00",
+    "record": {
+      "id": "2eca71928d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956773d/vafasama-vidreisn",
+      "title": "Vafa­sama Við­reisn",
+      "sum": "Helsta afrek Viðreisnar frá upphafi hefur verið að kynna stærstu fullveldismál þjóðarinnar sem smávægilegt tæknilegt atriði. Flokkurinn varð til í kringum Evrópumálin og markmið hans hefur aldrei farið leynt. Aðferðin hefur hins vegar verið sú að tala sem minnst um áfangastaðinn og afleiðingarnar."
+    }
+  },
+  "https://www.visir.is/g/20262956775d/marc-mcausland-tekur-vid-njardvik": {
+    "first_seen": "2026-11-01T16:03:34.081973+00:00",
+    "record": {
+      "id": "86fc5f4bff",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956775d/marc-mcausland-tekur-vid-njardvik",
+      "title": "Marc McAusland tekur við Njarð­vík",
+      "sum": "Skotinn Marc McAusland er nýr þjálfari karlaliðs Njarðvíkur í fótbolta. Hann tekur við af Davíð Smára Lamude."
+    }
+  },
+  "https://www.visir.is/g/20262956762d/palmi-rafn-tekur-hanskana-af-hillunni-og-semur-vid-njardvik": {
+    "first_seen": "2026-11-01T16:03:34.081973+00:00",
+    "record": {
+      "id": "2515111f8d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956762d/palmi-rafn-tekur-hanskana-af-hillunni-og-semur-vid-njardvik",
+      "title": "Pálmi Rafn tekur hanskana af hillunni og semur við Njarð­vík",
+      "sum": "Pálmi Rafn Arinbjörnsson hefur ákveðið að hefja fótboltaiðkun á ný og mun verja mark Njarðvíkur í Lengjudeildinni næsta sumar."
+    }
+  },
+  "https://www.visir.is/g/20262956754d/barist-um-samband-bulgariu-vid-russland": {
+    "first_seen": "2026-11-01T16:03:34.081973+00:00",
+    "record": {
+      "id": "d178ca1afa",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956754d/barist-um-samband-bulgariu-vid-russland",
+      "title": "Barist um sam­band Búlgaríu við Rúss­land",
+      "sum": "Búlgarar ganga að kjörborðinu í dag í seinni umferð forsetakosninga sem hefur einkennst af umræðu um öryggisógnir og áhyggjur af efnahagsmálum."
+    }
+  },
+  "https://www.visir.is/g/20262956738d/-thad-var-engu-baett-inn-i-samninginn-sem-sneri-ad-tolulegum-thattum-": {
+    "first_seen": "2026-11-01T16:03:34.081973+00:00",
+    "record": {
+      "id": "e84b488080",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956738d/-thad-var-engu-baett-inn-i-samninginn-sem-sneri-ad-tolulegum-thattum-",
+      "title": "„Það var engu bætt inn í samninginn sem sneri að tölu­legum þáttum“",
+      "sum": "Formaður Kennarasambandsins segir afar mikilvægt að samkomulag hafi náðst í deilu kennara og sveitarfélagana. Skrifað var undir samkomulag í gærkvöldi, rétt áður en frestur rann út til að virkja forsenduákvæði í kjarasamningum sem hefði þýtt að kjarasamningar yrðu mögulega lausir í mars."
+    }
+  },
+  "https://www.visir.is/g/20262956540d/furda-sig-a-thvi-ad-veigar-megi-ekki-aefa-alveg-faranlegt-": {
+    "first_seen": "2026-11-01T16:03:34.081973+00:00",
+    "record": {
+      "id": "cd051b278d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956540d/furda-sig-a-thvi-ad-veigar-megi-ekki-aefa-alveg-faranlegt-",
+      "title": "Furða sig á því að Veigar megi ekki æfa: „Al­veg fá­rán­legt“",
+      "sum": "Teitur Örlygsson og Helgi Már Magnússon segja út í hött að Veigar Páll Alexandersson, leikmaður Njarðvíkur, fái ekki að æfa með körfuboltaliði félagsins meðan hann tekur út lyfjabann. Veigar var dæmdur í ársbann vegna inntöku ADHD-lyfja á dögunum."
+    }
+  },
+  "https://www.visir.is/g/20262924647d/skemmtilega-soguhornid-hneykslanlegt-ad-borda-med-gaffli-frekar-en-puttunum": {
+    "first_seen": "2026-11-01T16:03:34.081973+00:00",
+    "record": {
+      "id": "918ef6ab1c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262924647d/skemmtilega-soguhornid-hneykslanlegt-ad-borda-med-gaffli-frekar-en-puttunum",
+      "title": "Skemmti­lega sögu­hornið: Hneykslan­legt að borða með gaffli frekar en puttunum",
+      "sum": "Okkur finnst það ákveðinn áfangi þegar lítil börn læra að halda sjálf á skeið þegar þau matast. Skiptir þá litlu þótt maturinn fari oft út á kinn eða detti jafn harðan af skeiðinni."
+    }
   }
 }
