@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -14862,6 +14862,96 @@
       "url": "https://www.visir.is/g/20262956541d/frestur-til-midnaettis-ad-taka-afstodu-til-tillogu-rikissattasemjara",
       "title": "Frestur til mið­nættis að taka af­stöðu til til­lögu ríkissátta­semjara",
       "sum": "Ríkissáttasemjari hefur lagt fram tillögu í virðismatsdeilu kennara og sveitarfélaga. Hafa aðilarnir tíma til miðnættis til að taka afstöðu til tillögunnar en þá rennur út frestur til að virkja forsenduákvæði í kjarasamningi."
+    }
+  },
+  "https://www.visir.is/g/20262956628d/hnyta-i-trump-i-nyrri-herferd-velkomin-til-skitalands-": {
+    "first_seen": "2026-11-01T00:36:16.856421+00:00",
+    "record": {
+      "id": "a56fcc0093",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-31",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956628d/hnyta-i-trump-i-nyrri-herferd-velkomin-til-skitalands-",
+      "title": "Hnýta í Trump í nýrri her­ferð: „Vel­komin til skítalands“",
+      "sum": "Ferðamálastofa Noregs hefur ráðist í nýja auglýsingaherferð þar sem hún býður ferðamenn velkomna til „skítalandsins“ Noregs. Hnýta Norðmenn þar í Donald Trump Bandaríkjaforseta sem fór ófögrum orðum um landið eftir að honum varð ljóst að hann hlyti enn og aftur ekki friðarverðlaun Nóbels."
+    }
+  },
+  "https://www.visir.is/g/20262956642d/sjadu-morkin-og-raudu-spjoldin-skoradi-sitjandi-og-neydarlegt-sjalfsmark": {
+    "first_seen": "2026-11-01T00:36:16.856421+00:00",
+    "record": {
+      "id": "90b0c68461",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-31",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956642d/sjadu-morkin-og-raudu-spjoldin-skoradi-sitjandi-og-neydarlegt-sjalfsmark",
+      "title": "Sjáðu mörkin og rauðu spjöldin: Skoraði sitjandi og neyðar­legt sjálfs­mark",
+      "sum": "Brighton stimplaði sig inn í titilbaráttuna með útisigri á Manchester City, Tottenham kom sér í efri hlutann og neyðarlegt sjálfsmark markvarðar Aston Villa reyndist dýrkeypt. Öll mörkin, rauðu spjöldin og helstu atvik leikja dagsins í ensku úrvalsdeildinni má sjá á Vísi."
+    }
+  },
+  "https://www.visir.is/g/20262956644d/hamilton-fremstur-i-fyrsta-sinn-i-rum-thrju-ar": {
+    "first_seen": "2026-11-01T00:36:16.856421+00:00",
+    "record": {
+      "id": "a4b6a74704",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-31",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956644d/hamilton-fremstur-i-fyrsta-sinn-i-rum-thrju-ar",
+      "title": "Hamilton fremstur í fyrsta sinn í rúm þrjú ár",
+      "sum": "Lewis Hamilton sýndi hvað enn er í hann spunnið þegar hann varð efstur í tímatökum fyrir Mexíkókappaksturinn í Formúlu 1. Hamilton, sem er 41 árs gamall, bætti þar með metið sitt yfir það að hafa oftast verið á ráspól en hann hefur þurft að bíða lengi síðan síðast."
+    }
+  },
+  "https://www.visir.is/g/20262956597d/yfirburdir-hauka-sem-tapa-ekki-leik": {
+    "first_seen": "2026-11-01T00:36:16.856421+00:00",
+    "record": {
+      "id": "538231cdd5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-31",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956597d/yfirburdir-hauka-sem-tapa-ekki-leik",
+      "title": "Yfir­burðir Hauka sem tapa ekki leik",
+      "sum": "Hverjir ætla að stöðva Hauka? Það er erfitt að sjá nú þegar liðið hefur unnið fyrstu níu leiki sína í Olís-deild karla í handbolta. Í kvöld urðu KA-menn fyrir barðinu á Haukaliðinu á Akureyri þar sem gestirnir fögnuðu 36-27 sigri."
+    }
+  },
+  "https://www.visir.is/g/20262955465d/nota-allar-leidir-til-thess-ad-smygla-fikniefnum": {
+    "first_seen": "2026-11-01T00:36:16.856421+00:00",
+    "record": {
+      "id": "b6c3283b10",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-31",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262955465d/nota-allar-leidir-til-thess-ad-smygla-fikniefnum",
+      "title": "Nota allar leiðir til þess að smygla fíkni­efnum",
+      "sum": "Alls konar leiðir eru notaðar til að smygla fíkniefnum inn fyrir veggi fangelsa á Íslandi, þar á meðal með drónum. Vegna þessa þarf viðbragð fangavarða einnig að vera fjölbreytt þótt það sjáist fljótt á föngunum þegar fíkniefni komast í umferð."
+    }
+  },
+  "https://www.visir.is/g/20262956581d/njardvik-sagdi-upp-samningi-vid-smit": {
+    "first_seen": "2026-11-01T00:36:16.856421+00:00",
+    "record": {
+      "id": "80e30de8d3",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-10-31",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956581d/njardvik-sagdi-upp-samningi-vid-smit",
+      "title": "Njarð­vík sagði upp samningi við Smit",
+      "sum": "Hollenski markvörðurinn Guy Smit getur hafið leit að nýju félagi eftir að Njarðvíkingar nýttu sér ákvæði til að segja upp samningi við hann."
     }
   }
 }
