@@ -15311,7 +15311,7 @@
       "src": "Vísir",
       "url": "https://www.visir.is/g/20262957301d/abendingar-borist-um-skemmdarverkin",
       "title": "Á­bendingar borist um skemmdar­verkin",
-      "sum": "Lögreglunni á höfuðborgarsvæðinu hafa borist ábendingar varðandi skemmdarverk á ökutækjum á Seltjarnarnesi sem framin voru í nótt. Lögreglan"
+      "sum": "Lögreglunni á höfuðborgarsvæðinu hafa borist ábendingar varðandi skemmdarverk á ökutækjum á Seltjarnarnesi sem framin voru í nótt."
     }
   },
   "https://www.visir.is/g/20262957272d/se-ekki-spurning-um-ad-finna-ludvik-heldur-saekja-hann": {
@@ -15372,6 +15372,66 @@
       "url": "https://www.visir.is/g/20262957138d/hitaveitan-er-ekki-aflatsbref-forfedurnir-voru-brautrydjendur-af-hverju-hikum-vid-",
       "title": "Hita­veitan er ekki af­láts­bréf: For­feðurnir voru \nbraut­ryðj­endur, af hverju hikum við?",
       "sum": "​Aðalsteinn Júlíus Magnússon, fjármálahagfræðingur, kynnir áhugaverða nálgun á hagfræði og loftslagsmálum í grein á Vísi."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/02/radherra_raeddi_landsnetsdeilu_an_forstjora/": {
+    "first_seen": "2026-11-02T22:32:55.083543+00:00",
+    "record": {
+      "id": "a21408c7ba",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-02",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/02/radherra_raeddi_landsnetsdeilu_an_forstjora/",
+      "title": "Ráðherra ræddi Landsnetsdeilu án forstjóra",
+      "sum": "Daði Már Kristófersson fjármála- og efnahagsráðherra ræddi ágreining Landsvirkjunar og Landsnets við stjórn Landsvirkjunar á fundi 6. janúar síðastliðinn, án þess að Hörður Arnarson, þáverandi forstjóri fyrirtækisins, væri viðstaddur."
+    }
+  },
+  "https://www.visir.is/g/20262957305d/-eydilagdur-yfir-sogulegum-titli-italska-ungstirnisins": {
+    "first_seen": "2026-11-02T22:32:55.083543+00:00",
+    "record": {
+      "id": "d77a04897c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262957305d/-eydilagdur-yfir-sogulegum-titli-italska-ungstirnisins",
+      "title": "„Eyði­lagður“ yfir sögu­legum titli ítalska ungstirnisins",
+      "sum": "George Russell, ökuþór Formúlu 1-liðs Mercedes, var að sögn liðsstjóra liðsins eyðilagður eftir að liðsfélagi hans, ungstirnið Kimi Antonelli, varð í gær yngsti heimsmeistari sögunnar í mótaröðinni."
+    }
+  },
+  "https://www.visir.is/g/20262957352d/-timinn-er-a-throtum-": {
+    "first_seen": "2026-11-02T22:32:55.083543+00:00",
+    "record": {
+      "id": "aa7f742767",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262957352d/-timinn-er-a-throtum-",
+      "title": "„Tíminn er á þrotum“",
+      "sum": "Útlit er fyrir að flugvél sem hrapaði nánast lóðrétt til jarðar í Palm Beach í Bandaríkjunum í gær hafi verið að rifna í sundur á leiðinni niður. Rannsakendur búast við því að brak úr flugvélinni megi finna langt frá því þar sem flugvélin brotlenti í íbúðarhverfi. Níu voru um borð og létu allir lífið."
+    }
+  },
+  "https://www.visir.is/g/20262957288d/enginn-a-ad-standa-einn-serstaklega-ekki-fyrir-jolin": {
+    "first_seen": "2026-11-02T22:32:55.083543+00:00",
+    "record": {
+      "id": "ba873296f7",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-02",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262957288d/enginn-a-ad-standa-einn-serstaklega-ekki-fyrir-jolin",
+      "title": "Enginn á að standa einn – sér­stak­lega ekki fyrir jólin",
+      "sum": "Nú þegar nóvember er genginn í garð og jólin nálgast fara flest okkar að huga að undirbúningi hátíðanna. Við hlökkum til samverustunda með fjölskyldunni, góðs matar og þess að gleðja börnin okkar. En því miður eru jólin ekki jafn áhyggjulaus hjá öllum."
     }
   }
 }
