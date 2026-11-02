@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -15087,6 +15087,96 @@
       "url": "https://www.visir.is/g/20262924647d/skemmtilega-soguhornid-hneykslanlegt-ad-borda-med-gaffli-frekar-en-puttunum",
       "title": "Skemmti­lega sögu­hornið: Hneykslan­legt að borða með gaffli frekar en puttunum",
       "sum": "Okkur finnst það ákveðinn áfangi þegar lítil börn læra að halda sjálf á skeið þegar þau matast. Skiptir þá litlu þótt maturinn fari oft út á kinn eða detti jafn harðan af skeiðinni."
+    }
+  },
+  "https://www.visir.is/g/20262956906d/grunur-um-fjarkugun-i-manndrapsmali": {
+    "first_seen": "2026-11-02T01:10:09.337071+00:00",
+    "record": {
+      "id": "a6cbfb30ad",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956906d/grunur-um-fjarkugun-i-manndrapsmali",
+      "title": "Grunur um fjár­kúgun í manndrápsmáli",
+      "sum": "Feðgar voru í kvöld úrskurðaðir í gæsluvarðhald í tengslum við manndráp í Breiðholti í nótt, aðfaranótt sunnudags. Sonurinn er grunaður um að stinga tvo menn sem eru grunaðir um að reyna að kúga hann til fjár."
+    }
+  },
+  "https://www.visir.is/g/20262956899d/skikkadur-i-vardhald-i-tengslum-vid-manndrap-i-breidholti": {
+    "first_seen": "2026-11-02T01:10:09.337071+00:00",
+    "record": {
+      "id": "91ef9134df",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956899d/skikkadur-i-vardhald-i-tengslum-vid-manndrap-i-breidholti",
+      "title": "Skikkaður í varð­hald í tengslum við mann­dráp í Breið­holti",
+      "sum": "Maður sem grunaður er um aðild að manndrápi í Breiðholti aðfaranótt sunnudags hefur verið úrskurðaður í gæsluvarðhald."
+    }
+  },
+  "https://www.visir.is/g/20262956900d/italinn-ungi-hagret-eftir-sogulegan-heimsmeistaratitil": {
+    "first_seen": "2026-11-02T01:10:09.337071+00:00",
+    "record": {
+      "id": "d165058da8",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956900d/italinn-ungi-hagret-eftir-sogulegan-heimsmeistaratitil",
+      "title": "Ítalinn ungi há­grét eftir sögu­legan heims­meistara­titil",
+      "sum": "Ítalinn tvítugi Kimi Antonelli varð í kvöld heimsmeistari í Formúlu 1 í fyrsta sinn. Hann er yngstur í sögunni til þess að verða heimsmeistari og fyrsti Ítalinn síðan árið 1953."
+    }
+  },
+  "https://www.visir.is/g/20262956861d/tomas-ridadi-eftir-hofudhogg-og-endadi-a-sjukrahusi": {
+    "first_seen": "2026-11-02T01:10:09.337071+00:00",
+    "record": {
+      "id": "80e04452e3",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956861d/tomas-ridadi-eftir-hofudhogg-og-endadi-a-sjukrahusi",
+      "title": "Tómas riðaði eftir höfuð­högg og endaði á sjúkra­húsi",
+      "sum": "Tómas Bent Magnússon varð að hætta snemma vegna höfuðhöggs, í leik með Hearts í Edinborgarslagnum gegn Hibernian í skoska deildabikarnum í fótbolta í dag."
+    }
+  },
+  "https://www.visir.is/g/20262956842d/leiddur-fyrir-domara-vegna-mannslats": {
+    "first_seen": "2026-11-02T01:10:09.337071+00:00",
+    "record": {
+      "id": "10a7835b48",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956842d/leiddur-fyrir-domara-vegna-mannslats",
+      "title": "Leiddur fyrir dómara vegna mannsláts",
+      "sum": "Lögreglan leiddi í kvöld einn sakborning fyrir dómara í tengslum við andlát eftir líkamsárás í Breiðholti í nótt. Farið verður fram á gæsluvarðhald yfir manninum. Þrír voru handteknir vegna málsins í dag."
+    }
+  },
+  "https://www.visir.is/g/20262956872d/starfsmenn-disney-world-handteknir-i-storu-barnanidsmali": {
+    "first_seen": "2026-11-02T01:10:09.337071+00:00",
+    "record": {
+      "id": "b44cbe30e3",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-01",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262956872d/starfsmenn-disney-world-handteknir-i-storu-barnanidsmali",
+      "title": "Starfs­menn Disney World hand­teknir í stóru barnaníðsmáli",
+      "sum": "Sautján starfsmenn Disney World og Universal Studios eru meðal þeirra 281 sem grunaðir eru í umfangsmiklu lögreglumáli í Flórída í Bandaríkjunum er varðar mansal og kynferðisbrot gegn börnum."
     }
   }
 }
