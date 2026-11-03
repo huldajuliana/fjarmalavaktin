@@ -15718,5 +15718,80 @@
       "title": "Bláskógaskatturinn hefur á­hrif víða",
       "sum": "Áform ríkisstjórnarinnar um náttúru- og innviðagjald við Þingvelli, Geysi og Gullfoss hafa verið nefnd Bláskógaskatturinn. Þó gjaldtakan sé bundin við þessa þrjá staði munu áhrif hennar ekki einskorðast við sveitarfélagamörk Bláskógabyggðar."
     }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/03/gagnaversrisa_stefnt_fyrir_900_milljonir/": {
+    "first_seen": "2026-11-03T20:21:57.345804+00:00",
+    "record": {
+      "id": "ed7819a491",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/03/gagnaversrisa_stefnt_fyrir_900_milljonir/",
+      "title": "Gagnaversrisa stefnt fyrir 900 milljónir",
+      "sum": "Borealis Data Center, sem rekur gagnaver við Blönduós, hefur verið stefnt fyrir Héraðsdóm Reykjavíkur vegna meintra vanefnda á leigusamningi."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/03/vel_moguleiki_a_ad_ahrifin_verdi_onnur/": {
+    "first_seen": "2026-11-03T20:21:57.345804+00:00",
+    "record": {
+      "id": "f954d0308c",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/03/vel_moguleiki_a_ad_ahrifin_verdi_onnur/",
+      "title": "„Vel möguleiki á að áhrifin verði önnur“",
+      "sum": "Ásgeir Jónsson seðlabankastjóri segir alveg ljóst að bankaskattur leggist á skuldarlið banka og hækkun hans leiði væntanlega annaðhvort til þess, þegar til lengri tíma er litið, að innlánavextir lækki eða útlánavextir hækki."
+    }
+  },
+  "https://www.visir.is/g/20262958000d/reynslumikill-flugmadur-vid-stjornina": {
+    "first_seen": "2026-11-03T20:21:57.345804+00:00",
+    "record": {
+      "id": "5ead9b3afe",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262958000d/reynslumikill-flugmadur-vid-stjornina",
+      "title": "Reynslumikill flug­maður við stjórnina",
+      "sum": "Flugvélinni sem brotlenti í Palm Beach í Bandaríkjunum á dögunum var flogið af mjög reynslumiklum flugmanni. Allir níu sem voru um borð í flugvélinni létu lífið þegar hún hrapaði skyndilega til jarðar í íbúðarhverfi en enginn lést á jörðu niðri."
+    }
+  },
+  "https://www.visir.is/g/20262957784d/njardvik-grindavik-islandsmeistararnir-fa-topplidid-i-heimsokn": {
+    "first_seen": "2026-11-03T20:21:57.345804+00:00",
+    "record": {
+      "id": "2a5317faa2",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262957784d/njardvik-grindavik-islandsmeistararnir-fa-topplidid-i-heimsokn",
+      "title": "Njarðvík-Grindavík | Ís­lands­meistararnir fá toppliðið í heim­sókn",
+      "sum": "Íslandsmeistarar Njarðvíkur taka á móti toppliði Grindavíkur í Bónusdeild kvenna í körfubolta í kvöld en gestirnir úr Grindavík hafa unnið alla fimm leiki sína til þessa á meðan Njarðvíkurkonur eru sjálfar á fjögurra leikja sigurgöngu."
+    }
+  },
+  "https://www.visir.is/g/20262957934d/-rangfaerslur-og-jafnvel-hreinar-lygar-": {
+    "first_seen": "2026-11-03T20:21:57.345804+00:00",
+    "record": {
+      "id": "4b6e91b381",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262957934d/-rangfaerslur-og-jafnvel-hreinar-lygar-",
+      "title": "„Rang­færslur og jafn­vel hreinar lygar“",
+      "sum": "„Mér finnst þetta fyrst og fremst bara sorglegt,“ segir Ólafur Ragnar Grímsson, fyrrverandi forseti Íslands, sem telur ummæli Þorgerðar Katrínar Gunnars utanríkisráðherra í sinn garð vart svaraverð."
+    }
   }
 }
