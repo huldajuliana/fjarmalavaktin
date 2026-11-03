@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -15432,6 +15432,291 @@
       "url": "https://www.visir.is/g/20262957288d/enginn-a-ad-standa-einn-serstaklega-ekki-fyrir-jolin",
       "title": "Enginn á að standa einn – sér­stak­lega ekki fyrir jólin",
       "sum": "Nú þegar nóvember er genginn í garð og jólin nálgast fara flest okkar að huga að undirbúningi hátíðanna. Við hlökkum til samverustunda með fjölskyldunni, góðs matar og þess að gleðja börnin okkar. En því miður eru jólin ekki jafn áhyggjulaus hjá öllum."
+    }
+  },
+  "https://asi.is/mikill-verdmunur-a-umfelgun-folksbila/": {
+    "first_seen": "2026-11-03T17:04:08.822216+00:00",
+    "record": {
+      "id": "1a4d857092",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "ASÍ",
+      "url": "https://asi.is/mikill-verdmunur-a-umfelgun-folksbila/",
+      "title": "Mikill verðmunur á umfelgun fólksbíla",
+      "sum": "Mikill verðmunur getur verið á umfelgun og dekkjaskiptum hjá dekkjaverkstæðum samkvæmt verðlagseftirliti ASÍ þar sem borin voru saman verð hjá 29 fyrirtækjum á tímabilinu 13.–26. október. Í samanburðinum voru verð á umfelgun og dekkjaskiptum skoðuð fyrir ólíkar felgu- og bílastærðir."
+    }
+  },
+  "https://www.mbl.is/200milur/frettir/2026/11/03/vidsnuningur_i_rekstri_hja_arnarlaxi/": {
+    "first_seen": "2026-11-03T17:04:08.822216+00:00",
+    "record": {
+      "id": "0acf97c26f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/200milur/frettir/2026/11/03/vidsnuningur_i_rekstri_hja_arnarlaxi/",
+      "title": "Viðsnúningur í rekstri hjá Arnarlaxi",
+      "sum": "Viðsnúningur varð til hins betra í rekstri Arnarlax samkvæmt nýbirtu árshlutauppgjöri. Fyrirtækið greinir frá 1,4 milljóna evra rekstrarhagnaði fyrir fjármagnsliði og skatta."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/03/haekkun_gaeti_bitnad_a_sparnadi/": {
+    "first_seen": "2026-11-03T17:04:08.822216+00:00",
+    "record": {
+      "id": "e1a19f2a1b",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/03/haekkun_gaeti_bitnad_a_sparnadi/",
+      "title": "Hækkun gæti bitnað á sparnaði",
+      "sum": "Seðlabankinn tekur ekki afstöðu til þess hvort draga eigi hækkun bankaskatts til baka og segir áhrif hækkunarinnar á peningalegt aðhald ekki ótvíræð. Svör Seðlabanka Íslands við fjórum spurningum Morgunblaðsins um fyrirhugaða hækkun bankaskatts bárust eftir nærri mánaðar bið"
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/03/spa_2_8_milljarda_afgangi_hja_reykjavikurborg/": {
+    "first_seen": "2026-11-03T17:04:08.822216+00:00",
+    "record": {
+      "id": "4e22207538",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/03/spa_2_8_milljarda_afgangi_hja_reykjavikurborg/",
+      "title": "Spá 2,8 milljarða afgangi hjá Reykjavíkurborg",
+      "sum": "Fjárhagsáætlun Reykjavíkurborgar fyrir næsta ár gerir ráð fyrir að afgangur verði af rekstri borgarsjóðs (A-hluti) upp á 2,8 milljarða. Þá gerir uppfærð útkomuspá borgarinnar fyrir þetta ár ráð fyrir að tap verði á rekstrinum upp á 6,6 milljarða."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/03/bulgaria_fellur_af_ahaettulista_sedlabankans/": {
+    "first_seen": "2026-11-03T17:04:08.822216+00:00",
+    "record": {
+      "id": "46f9a33d97",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/03/bulgaria_fellur_af_ahaettulista_sedlabankans/",
+      "title": "Búlgaría fellur af áhættulista Seðlabankans",
+      "sum": "Búlgaría hefur verið tekin af lista Seðlabanka Íslands yfir ríki sem teljast áhættusöm og ósamvinnuþýð í skilningi laga um aðgerðir gegn peningaþvætti og fjármögnun hryðjuverka."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/03/eldsneytiskostnadurinn_haekkar_um_272_milljarda/": {
+    "first_seen": "2026-11-03T17:04:08.822216+00:00",
+    "record": {
+      "id": "c9f8592843",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/03/eldsneytiskostnadurinn_haekkar_um_272_milljarda/",
+      "title": "Eldsneytiskostnaðurinn hækkar um 272 milljarða",
+      "sum": "Þýska flugfélagasamstæðan Lufthansa gerir ráð fyrir að eldsneytiskostnaður hennar verði tveimur milljörðum evra, jafnvirði 272,4 milljarða króna, meiri á þessu ári en í fyrra. Stríðið í Íran heldur orkuverði á heimsmarkaði háu."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/03/raeddu_uttekt_adur_en_hordur_sagdi_upp/": {
+    "first_seen": "2026-11-03T17:04:08.822216+00:00",
+    "record": {
+      "id": "75b41be0b3",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/03/raeddu_uttekt_adur_en_hordur_sagdi_upp/",
+      "title": "Ræddu úttekt áður en Hörður sagði upp",
+      "sum": "Hugsanleg rekstrarúttekt fjármála- og efnahagsráðuneytisins á Landsvirkjun var til umræðu á fundi fulltrúa ráðuneytisins með Brynju Baldursdóttur stjórnarformanni fyrirtækisins og Berglindi Ásgeirsdóttur varaformanni 11. september síðastliðinn."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/03/ahugi_hja_fleirum_en_samkaupum/": {
+    "first_seen": "2026-11-03T17:04:08.822216+00:00",
+    "record": {
+      "id": "36f97ad9c8",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/03/ahugi_hja_fleirum_en_samkaupum/",
+      "title": "Áhugi hjá fleirum en Samkaupum",
+      "sum": "Fleiri en einn aðili höfðu áhuga á að kaupa verslunina Fjarðarkaup í Hafnarfirði að sögn Gísla Sigurbergssonar framkvæmdastjóra."
+    }
+  },
+  "https://www.visir.is/g/20262957295d/hvernig-filardu-bondin-a-airwaves-": {
+    "first_seen": "2026-11-03T17:04:08.822216+00:00",
+    "record": {
+      "id": "9670bcdd47",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262957295d/hvernig-filardu-bondin-a-airwaves-",
+      "title": "Hvernig fílarðu böndin á Airwaves?",
+      "sum": "Iceland Airwaves verður sett á morgun með tónleikum á hjúkrunarheimilinu Grund áður en þriggja daga tónlistarveisla tekur við. Áhugasamir geta kynnt sér listamennina sem komust í gegnum niðurskurðinn með því að hlusta á lagalista hátíðarinnar."
+    }
+  },
+  "https://www.visir.is/g/20262957899d/bardi-barn-en-malid-fyrndist": {
+    "first_seen": "2026-11-03T17:04:08.822216+00:00",
+    "record": {
+      "id": "ca09848bb8",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262957899d/bardi-barn-en-malid-fyrndist",
+      "title": "Barði barn en málið fyrndist",
+      "sum": "Karlmaður hefur verið sýknaður af ákæru fyrir líkamsárás og barnaverndarlagabrot, með því að hafa barið dreng í höfuðið eftir að hann sparkaði upp hurð að heimili mannsins. Ekki var talið að maðurinn hefði vitað að um barn væri að ræða og því var ekki hægt að dæma hann fyrir barnaverndarlagabrot."
+    }
+  },
+  "https://www.visir.is/g/20262957871d/borealis-stefnt-vegna-hundruda-milljona-krona-leiguskuldar": {
+    "first_seen": "2026-11-03T17:04:08.822216+00:00",
+    "record": {
+      "id": "e9435e789b",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262957871d/borealis-stefnt-vegna-hundruda-milljona-krona-leiguskuldar",
+      "title": "Borealis stefnt vegna hundruða milljóna króna leiguskuldar",
+      "sum": "Gagnaverafyrirtækinu Borealis Data Center hefur verið stefnt fyrir Héraðsdóm Reykjavíkur vegna meintra vanefnda á leigusamningi um tölvubúnað. Stefnufjárhæðin nemur rúmum 6,57 milljónum bandaríkjadala, jafnvirði tæplega 900 milljóna króna, auk vaxta."
+    }
+  },
+  "https://www.visir.is/g/20262957858d/einkunnakvardi-er-ekki-namsmat-": {
+    "first_seen": "2026-11-03T17:04:08.822216+00:00",
+    "record": {
+      "id": "54cc5cdd28",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262957858d/einkunnakvardi-er-ekki-namsmat-",
+      "title": "Einkunnakvarði er ekki náms­mat!",
+      "sum": "Það þarf töluvert hugmyndaflug til að sjá stórkostlegar umbætur í því að skipta bókstafnum B út fyrir töluna 7."
+    }
+  },
+  "https://www.visir.is/g/20262957810d/karl-wernersson-opnar-sig": {
+    "first_seen": "2026-11-03T17:04:08.822216+00:00",
+    "record": {
+      "id": "c503514677",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262957810d/karl-wernersson-opnar-sig",
+      "title": "Karl Wernersson opnar sig",
+      "sum": "Karl Wernersson hefur boðað vini sína og vandamenn á fund á morgun. Þar mun Karl fara yfir sögu sína frá því að fjárfestingarfélagið Milestone var úrskurðað gjaldþrota árið 2009, fyrir 17 árum síðan. Fjölmiðlum er einnig boðið á fundinn."
+    }
+  },
+  "https://www.visir.is/g/20262957842d/dadi-og-gudlaugur-kaupa-ut-adra-hluthafa-visku-sjoda": {
+    "first_seen": "2026-11-03T17:04:08.822216+00:00",
+    "record": {
+      "id": "0fee30bbc6",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262957842d/dadi-og-gudlaugur-kaupa-ut-adra-hluthafa-visku-sjoda",
+      "title": "Daði og Guð­laugur kaupa út aðra hlut­hafa Visku sjóða",
+      "sum": "Tveir af stofnendum Visku sjóða, þeir Daði Kristjánsson og Guðlaugur Steinarr Gíslason, hafa keypt út fjóra aðra hluthafa sjóðastýringarfélagsins og fara nú saman með allt hlutafé þess. Félagið breikkaði út starfsemina sína á liðnu ári með stofnun nýs hlutabréfasjóðs sem er um tveir milljarðar að stærð."
+    }
+  },
+  "https://www.visir.is/g/20262957709d/verdur-likamleg-og-andleg-baratta": {
+    "first_seen": "2026-11-03T17:04:08.822216+00:00",
+    "record": {
+      "id": "5df7fe366c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262957709d/verdur-likamleg-og-andleg-baratta",
+      "title": "Verður líkam­leg og and­leg bar­átta",
+      "sum": "„Þetta leggst bara mjög vel í mig og alla leikmenn. Þetta er náttúrulega stærsta prófraunin til þessa. Þannig að vonandi erum við bara vel undirbúnar og hérna tilbúnar í þetta."
+    }
+  },
+  "https://www.visir.is/g/20262957820d/fullyrda-ad-dadi-mar-hafi-logid-ad-thinginu": {
+    "first_seen": "2026-11-03T17:04:08.822216+00:00",
+    "record": {
+      "id": "8a6a00ad7d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262957820d/fullyrda-ad-dadi-mar-hafi-logid-ad-thinginu",
+      "title": "Full­yrða að Daði Már hafi logið að þinginu",
+      "sum": "Stjórnarandstaðan fór mikinn undir dagskrárliðnum Fundarstjórn forseta og krafðist þess að Daði Már Kristófersson, fjármála- og efnahagsráðherra, mætti í þingið til að gera grein fyrir máli sínu; hann hafi talað gegn betri vitund þegar hann svaraði fyrirspurn Guðlaugs Þórs Þórðarsonar um ástæður þess að Hörður …"
+    }
+  },
+  "https://www.visir.is/g/20262957656d/-eg-faeddist-nefnilega-a-endalausu-breytingarskeidi-": {
+    "first_seen": "2026-11-03T17:04:08.822216+00:00",
+    "record": {
+      "id": "55b44f1438",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262957656d/-eg-faeddist-nefnilega-a-endalausu-breytingarskeidi-",
+      "title": "„Ég fæddist nefni­lega á enda­lausu breytingar­skeiði“",
+      "sum": "Þegar dagarnir styttast og veturinn gengur í garð vaknar hjá mörgum löngunin til að gera heimilið hlýrra og notalegra. Soffía Dögg, sem heldur úti Skreytum hús, þekkir þá tilfinningu vel. Hún hefur um árabil veitt Íslendingum innblástur um liti, innréttingar og heimilishald í samstarfi við Slippfélagið."
+    }
+  },
+  "https://www.visir.is/g/20262957450d/threttanda-mark-bjarka-i-ellefu-leikjum-kom-beint-ur-aukaspyrnu": {
+    "first_seen": "2026-11-03T17:04:08.822216+00:00",
+    "record": {
+      "id": "407780e138",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262957450d/threttanda-mark-bjarka-i-ellefu-leikjum-kom-beint-ur-aukaspyrnu",
+      "title": "Þrettánda mark Bjarka í ellefu leikjum kom beint úr aukaspyrnu",
+      "sum": "Bjarki Hrafn Garðarsson er að gera mjög flotta hluti með unglingaliði Borussia Dortmund en hann skoraði frábært mark í síðasta leik."
+    }
+  },
+  "https://www.visir.is/g/20262957749d/blaskogaskatturinn-hefur-ahrif-vida": {
+    "first_seen": "2026-11-03T17:04:08.822216+00:00",
+    "record": {
+      "id": "443997ae52",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262957749d/blaskogaskatturinn-hefur-ahrif-vida",
+      "title": "Bláskógaskatturinn hefur á­hrif víða",
+      "sum": "Áform ríkisstjórnarinnar um náttúru- og innviðagjald við Þingvelli, Geysi og Gullfoss hafa verið nefnd Bláskógaskatturinn. Þó gjaldtakan sé bundin við þessa þrjá staði munu áhrif hennar ekki einskorðast við sveitarfélagamörk Bláskógabyggðar."
     }
   }
 }
