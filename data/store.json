@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -15792,6 +15792,66 @@
       "url": "https://www.visir.is/g/20262957934d/-rangfaerslur-og-jafnvel-hreinar-lygar-",
       "title": "„Rang­færslur og jafn­vel hreinar lygar“",
       "sum": "„Mér finnst þetta fyrst og fremst bara sorglegt,“ segir Ólafur Ragnar Grímsson, fyrrverandi forseti Íslands, sem telur ummæli Þorgerðar Katrínar Gunnars utanríkisráðherra í sinn garð vart svaraverð."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/03/reitir_finna_fyrir_kolnun_i_hagkerfinu/": {
+    "first_seen": "2026-11-04T01:47:41.946598+00:00",
+    "record": {
+      "id": "b6941c12b6",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/03/reitir_finna_fyrir_kolnun_i_hagkerfinu/",
+      "title": "Reitir finna fyrir kólnun í hagkerfinu",
+      "sum": "„Rekstrarumhverfið var þó nokkuð krefjandi á þriðja ársfjórðungi og við höfum fundið fyrir þeirri kólnun í hagkerfinu sem sett hefur svip sinn á haustið. Á meðan vaxtastig helst hátt má gera ráð fyrir að ytri aðstæður verði áfram krefjandi,“ segir Guðni."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/03/turninn_vedsettur_fyrir_taepa_tuttugu_milljarda/": {
+    "first_seen": "2026-11-04T01:47:41.946598+00:00",
+    "record": {
+      "id": "b7ce4cd5a5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/03/turninn_vedsettur_fyrir_taepa_tuttugu_milljarda/",
+      "title": "Turninn veðsettur fyrir tæpa tuttugu milljarða",
+      "sum": "Miklar skuldir hvíla á hótelturninum fræga við Skúlagötu þar sem sautján hæða hótel Radisson Red átti að opna, en þar voru framkvæmdir stöðvaðar, verktökum vísað af byggingarstað og svæðinu lokað í gær."
+    }
+  },
+  "https://www.visir.is/g/20262958036d/-thydir-ekkert-ad-vera-vera-horfa-upp-a-toppinn-a-everest-": {
+    "first_seen": "2026-11-04T01:47:41.946598+00:00",
+    "record": {
+      "id": "3d596ad331",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262958036d/-thydir-ekkert-ad-vera-vera-horfa-upp-a-toppinn-a-everest-",
+      "title": "„Þýðir ekkert að vera vera horfa upp á toppinn á Everest“",
+      "sum": "Grindavík hélt sigurgöngu sinni áfram í kvöld þegar þær heimsóttu Íslandsmeistara Njarðvíkur í IceMar höllina í Bónus deild kvenna í kvöld. Eftir mikinn baráttu leik hafði Grindavík að lokum betur með fjögurra stiga mun 93-97. Pétur Már Sigurðsson þjálfari Grindavíkur að stoltur í leikslok."
+    }
+  },
+  "https://www.visir.is/g/20262957784d/uppgjorid-njardvik-grindavik-93-97-grindavik-a-toppnum-med-fullt-hus-stiga": {
+    "first_seen": "2026-11-04T01:47:41.946598+00:00",
+    "record": {
+      "id": "f940556bb4",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-03",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262957784d/uppgjorid-njardvik-grindavik-93-97-grindavik-a-toppnum-med-fullt-hus-stiga",
+      "title": "Upp­gjörið: Njarðvík-Grindavík 93-97 | Grinda­vík á toppnum með fullt hús stiga",
+      "sum": "Grindavík er með fullt hús stiga á toppi Bónus deildar kvenna í körfubolta eftir sterkan fjögurra stiga sigur 97-93, gegn ríkjandi Íslandsmeisturum Njarðvíkur í kvöld."
     }
   }
 }
