@@ -16093,5 +16093,50 @@
       "title": "Mörgum þyki netspjall þægi­legra en sím­tal",
       "sum": "Lögreglan á höfuðborgarsvæðinu hefur opnað netspjall á heimasíðunni lrh.is þar sem almenningur getur nú haft samband við þjónustuborð lögreglunnar. Netspjallið var opnað í sumar og hafa þegar hundruð netspjalla farið fram. Hægt er að hafa samband undir nafni, með auðkenningu eða nafnlaust."
     }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/04/vildu_segja_ollum_upp_og_taema_fjardarkaup/": {
+    "first_seen": "2026-11-04T20:37:48.500544+00:00",
+    "record": {
+      "id": "67862f0b54",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-04",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/04/vildu_segja_ollum_upp_og_taema_fjardarkaup/",
+      "title": "Vildu segja öllum upp og tæma Fjarðarkaup",
+      "sum": "Fjárfestingarfélag sem sýndi áhuga á að kaupa Fjarðarkaup í Hafnarfirði vildi fá húsnæði verslunarinnar afhent tómt og gera ráð fyrir því að öllum starfsmönnum yrði sagt upp."
+    }
+  },
+  "https://www.visir.is/g/20262958543d/krefst-73-milljarda-ur-danarbui-jacksons": {
+    "first_seen": "2026-11-04T20:37:48.500544+00:00",
+    "record": {
+      "id": "d30bcfc437",
+      "cat": "gengi",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-04",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262958543d/krefst-73-milljarda-ur-danarbui-jacksons",
+      "title": "Krefst 73 milljarða úr dánar­búi Jacksons",
+      "sum": "Paris Jackson, dóttir Michaels Jackson heitins, hefur farið fram á að 600 milljónir Bandaríkjadala (um 73 milljarðar íslenskra króna) verði millifærðar úr dánarbúi popparans í fjárvörslusjóð fyrir börn hans þrjú."
+    }
+  },
+  "https://www.visir.is/g/20262958454d/husfyllir-hja-karli-wernerssyni-sautjan-ar-i-supunni-": {
+    "first_seen": "2026-11-04T20:37:48.500544+00:00",
+    "record": {
+      "id": "2929e62b22",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-04",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262958454d/husfyllir-hja-karli-wernerssyni-sautjan-ar-i-supunni-",
+      "title": "Hús­fyllir hjá Karli Wernerssyni: „Sau­tján ár í súpunni“",
+      "sum": "Karl Wernersson athafnamaður stóð fyrir fundi í Smárabíói klukkan 13 undir yfirskriftinni Sautján ár í súpunni. Þar fór hann yfir sína hlið á þeim sautján árum sem liðin eru frá gjaldþroti Milestone. Fundurinn var vel sóttur og sjá mátti mörg þekkt andlit úr atvinnulífinu í salnum."
+    }
   }
 }
