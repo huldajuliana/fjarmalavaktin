@@ -16438,5 +16438,65 @@
       "title": "Heilsa lög­reglu­manna sé í hættu: „Mælirinn er fullur“",
       "sum": "Varðstjóri hjá lögreglunni á Vestfjörðum segir öryggi og heilsu lögreglumanna á Ísafirði ógnað vegna gjörsamlega óviðunandi vinnuaðstöðu. Mælirinn sé fullur. Vinnueftirlitið hafi gert fjölmargar athugasemdir við aðstöðuna en ekkert hafi verið gert til úrbóta af hálfu Framkvæmdasýslunnar."
     }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/05/spa_758_milljon_krona_afgangi_fyrir_austan/": {
+    "first_seen": "2026-11-05T20:53:58.521408+00:00",
+    "record": {
+      "id": "de26265a4b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/05/spa_758_milljon_krona_afgangi_fyrir_austan/",
+      "title": "Spá 758 milljón króna afgangi fyrir austan",
+      "sum": "Bæjarstjórn Fjarðabyggðar gerir ráð fyrir 758 milljóna króna rekstrarafgangi og rúmlega milljarðs króna fjárfestingum árið 2027."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/05/syn_tapadi_70_milljonum/": {
+    "first_seen": "2026-11-05T20:53:58.521408+00:00",
+    "record": {
+      "id": "c31d1a149f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/05/syn_tapadi_70_milljonum/",
+      "title": "Sýn tapaði 70 milljónum",
+      "sum": "Fjarskipta- og fjölmiðlafyrirtækið Sýn tapaði 70 milljónum króna á þriðja ársfjórðungi ársins. Á sama tímabili í fyrra tapaði félagið 238 milljónum."
+    }
+  },
+  "https://www.visir.is/g/20262958998d/landslidsthjalfarinn-maetti-i-jardarfor-jesus-vildum-vera-til-stadar-": {
+    "first_seen": "2026-11-05T20:53:58.521408+00:00",
+    "record": {
+      "id": "784dda2f29",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262958998d/landslidsthjalfarinn-maetti-i-jardarfor-jesus-vildum-vera-til-stadar-",
+      "title": "Landsliðsþjálfarinn mætti í jarðar­för Jesus: „Vildum vera til staðar“",
+      "sum": "Knattspyrnumaðurinn Jesus de Miguel, sem lést með sviplegum hætti í kjölfar samstuðs í leik Tenerife gegn Andorra í spænsku B-deildinni var jarðsunginn í dag. Landsliðsþjálfari Spánar var viðstaddur jarðarförina."
+    }
+  },
+  "https://www.visir.is/g/20262959016d/sjotiu-milljona-tap-hja-syn": {
+    "first_seen": "2026-11-05T20:53:58.521408+00:00",
+    "record": {
+      "id": "c2bef03bf4",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262959016d/sjotiu-milljona-tap-hja-syn",
+      "title": "Sjö­tíu milljóna tap hjá Sýn",
+      "sum": "Sýn tapaði 70 milljónum á þriðja fjórðungi ársins, sem er töluverð breyting á milli ára. Á sama tímabili í fyrra tapaði félagið 238 milljónum. Forstjóri segir ársfjórðungsuppgjör Sýnar sýna að aðgerðir undanfarinna ára séu að skila árangri. Tekjur af fjölmiðlun jukust um 19,4 prósent."
+    }
   }
 }
