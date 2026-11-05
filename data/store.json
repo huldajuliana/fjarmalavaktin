@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -3202,7 +3202,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fjarmal-hins-opinbera/fjarmal-hins-opinbera-a-2-arsfjordungi-2026/",
       "title": "Afkoma hins opinbera neikvÃ¦Ã° Ã¡ Ã¶Ã°rum Ã¡rsfjÃ³rÃ°ungi",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -16137,6 +16137,51 @@
       "url": "https://www.visir.is/g/20262958454d/husfyllir-hja-karli-wernerssyni-sautjan-ar-i-supunni-",
       "title": "Hús­fyllir hjá Karli Wernerssyni: „Sau­tján ár í súpunni“",
       "sum": "Karl Wernersson athafnamaður stóð fyrir fundi í Smárabíói klukkan 13 undir yfirskriftinni Sautján ár í súpunni. Þar fór hann yfir sína hlið á þeim sautján árum sem liðin eru frá gjaldþroti Milestone. Fundurinn var vel sóttur og sjá mátti mörg þekkt andlit úr atvinnulífinu í salnum."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/04/matorka_gjaldthrota/": {
+    "first_seen": "2026-11-05T01:55:42.029502+00:00",
+    "record": {
+      "id": "44de605725",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-04",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/04/matorka_gjaldthrota/",
+      "title": "Matorka gjaldþrota",
+      "sum": "Matorka hefur stundað umfangsmikið landeldi á bleikju við Grindavík en starfsemin varð fyrir miklum áföllum vegna jarðskjálftanna í nóvember 2023."
+    }
+  },
+  "https://www.visir.is/g/20262958619d/54-milljardar-musks-skiludu-litlu": {
+    "first_seen": "2026-11-05T01:55:42.029502+00:00",
+    "record": {
+      "id": "affa22e2a4",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-04",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262958619d/54-milljardar-musks-skiludu-litlu",
+      "title": "54 milljarðar Musks skiluðu litlu",
+      "sum": "Elon Musk, auðugasti maður heims, varði gífurlegum fjármunum í að styðja Repúblikana í nýyfirstöðnum kosningum vestanhafs. Demókratar eru líklegir til að nota meirihluta sína á báðum deildum Bandaríkjaþings til að rannsaka Musk og jafnvel ákæra hann, ef tilefni er til."
+    }
+  },
+  "https://www.visir.is/g/20262958538d/tjair-sig-i-fyrsta-sinn-um-atvikid-sem-vard-jesus-ad-bana": {
+    "first_seen": "2026-11-05T01:55:42.029502+00:00",
+    "record": {
+      "id": "7374678b05",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-04",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262958538d/tjair-sig-i-fyrsta-sinn-um-atvikid-sem-vard-jesus-ad-bana",
+      "title": "Tjáir sig í fyrsta sinn um at­vikið sem varð Jesús að bana",
+      "sum": "Jesus Owono, markvörður Andorra, sem var rekinn af velli eftir samstuð við Jesus De Miguel sem lést stuttu seinna, segist vera að ganga í gegnum erfiðustu daga ævi sinnar."
     }
   }
 }
