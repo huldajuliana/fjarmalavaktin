@@ -16183,5 +16183,260 @@
       "title": "Tjáir sig í fyrsta sinn um at­vikið sem varð Jesús að bana",
       "sum": "Jesus Owono, markvörður Andorra, sem var rekinn af velli eftir samstuð við Jesus De Miguel sem lést stuttu seinna, segist vera að ganga í gegnum erfiðustu daga ævi sinnar."
     }
+  },
+  "https://sa.is/frettatengt/frettir/taka-þarf-varanlegt-tillit-til-serstoðu-islands-i-ets": {
+    "first_seen": "2026-11-05T17:25:22.596719+00:00",
+    "record": {
+      "id": "f51466f307",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "Samtök atvinnulífsins",
+      "url": "https://sa.is/frettatengt/frettir/taka-þarf-varanlegt-tillit-til-serstoðu-islands-i-ets",
+      "title": "Taka þarf varanlegt tillit til sérstöðu Íslands í ETS",
+      "sum": "SA leggja áherslu á að sérstaða Íslands verði viðurkennd með varanlegum og raunhæfum lausnum innan ETS-kerfisins."
+    }
+  },
+  "https://asi.is/alyktun-midstjornar-asi-um-breytingar-a-loftbru/": {
+    "first_seen": "2026-11-05T17:25:22.596719+00:00",
+    "record": {
+      "id": "ba59528e98",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "ASÍ",
+      "url": "https://asi.is/alyktun-midstjornar-asi-um-breytingar-a-loftbru/",
+      "title": "Ályktun miðstjórnar ASÍ um breytingar á Loftbrú",
+      "sum": "Miðstjórn Alþýðusambands Íslands skorar á stjórnvöld að draga þegar í stað til baka illa ígrunduð áform um breytingar á Loftbrú og efna til raunverulegs samráðs við íbúa, sveitarfélög og hagsmunasamtök á landsbyggðinni um framtíð kerfisins."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/05/fyrsta_haekkun_styrivaxta_i_thrju_ar/": {
+    "first_seen": "2026-11-05T17:25:22.596719+00:00",
+    "record": {
+      "id": "d931476278",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/05/fyrsta_haekkun_styrivaxta_i_thrju_ar/",
+      "title": "Fyrsta hækkun stýrivaxta í þrjú ár",
+      "sum": "Englandsbanki hefur hækkað stýrivexti úr 3,75% í 4%. Þetta er í fyrsta sinn sem bankinn hækkar vextina síðan í ágúst 2023."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/05/mikill_ahugi_a_einbylishusalodum/": {
+    "first_seen": "2026-11-05T17:25:22.596719+00:00",
+    "record": {
+      "id": "04b0140627",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/05/mikill_ahugi_a_einbylishusalodum/",
+      "title": "Mikill áhugi á einbýlishúsalóðum",
+      "sum": "Garðabær auglýsti í október byggingarrétt fyrir 26 einbýlishúsalóðir og samtals 23 íbúðir í fjórum raðhúsalengjum til sölu á almennum markaði."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/05/fjogur_felog_vilja_kaupa_eigin_bref_fyrir_milljarda/": {
+    "first_seen": "2026-11-05T17:25:22.596719+00:00",
+    "record": {
+      "id": "6756b7cf3c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/05/fjogur_felog_vilja_kaupa_eigin_bref_fyrir_milljarda/",
+      "title": "Fjögur félög vilja kaupa eigin bréf fyrir milljarða",
+      "sum": "Fjögur stór félög í Kauphöll Íslands hafa á síðustu dögum ákveðið að kaupa eigin hlutabréf eða kynnt áform um slík kaup. Um er að ræða Íslandsbanka, Festi, Nova og Reiti og geta kaupin samtals numið allt að 5,2 milljörðum króna."
+    }
+  },
+  "https://www.mbl.is/200milur/frettir/2026/11/05/opinber_gjold_aldrei_verid_haerri/": {
+    "first_seen": "2026-11-05T17:25:22.596719+00:00",
+    "record": {
+      "id": "c3110ad1e6",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/200milur/frettir/2026/11/05/opinber_gjold_aldrei_verid_haerri/",
+      "title": "Opinber gjöld aldrei verið hærri",
+      "sum": "Meðalarðsemi eigin fjár í fiskveiðum og vinnslu á árunum 2015 til 2024 er 13,7 prósent, að því er fram kom á Sjávarútvegsdeginum 2026 sem fram fór í gær. Að deginum standa Samtök fyrirtækja í sjávarútvegi, Samtök atvinnulífsins og Deloitte."
+    }
+  },
+  "https://www.visir.is/g/20262958999d/thau-thrju-verja-island-gegn-esa": {
+    "first_seen": "2026-11-05T17:25:22.596719+00:00",
+    "record": {
+      "id": "eba470c2a1",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262958999d/thau-thrju-verja-island-gegn-esa",
+      "title": "Þau þrjú verja Ís­land gegn ESA",
+      "sum": "Utanríkisráðuneytið hefur fengið þrjá lögmenn til liðs við sig vegna málshöfðunar Eftirlitsstofnunar EFTA gegn íslenska ríkinu vegna bókunar 35 við EES-samninginn. Stjórnvöld hyggjast óska eftir fresti fram yfir áramót til að skila málsvörn sinni."
+    }
+  },
+  "https://www.visir.is/g/20262958974d/stakk-einn-vid-rettarholtsskola-og-bardi-annan-i-mjoddinni": {
+    "first_seen": "2026-11-05T17:25:22.596719+00:00",
+    "record": {
+      "id": "05841b4950",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262958974d/stakk-einn-vid-rettarholtsskola-og-bardi-annan-i-mjoddinni",
+      "title": "Stakk einn við Réttar­holts­skóla og barði annan í Mjóddinni",
+      "sum": "Ungur karlmaður hefur verið dæmdur til fimmtán mánaða skilorðsbundinnar fangelsisvistar fyrir fíkniefnalagabrot og tvær alvarlegar líkamsárásir, sem hann framdi áður en hann náði átján ára aldri."
+    }
+  },
+  "https://www.visir.is/g/20262958869d/kannadist-ekki-vid-spittid-og-sagdist-hafa-verid-i-isbiltur": {
+    "first_seen": "2026-11-05T17:25:22.596719+00:00",
+    "record": {
+      "id": "1a8221eca7",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262958869d/kannadist-ekki-vid-spittid-og-sagdist-hafa-verid-i-isbiltur",
+      "title": "Kannaðist ekki við spíttið og sagðist hafa verið í ísbíltúr",
+      "sum": "Karlmaður hefur verið úrskurðaður í gæsluvarðhald í tengslum við rannsókn á tilraun til innflutnings 4,8 kílóa af amfetamíni, sem kom til landsins með hraðsendingu."
+    }
+  },
+  "https://www.visir.is/g/20262958844d/kjosa-um-verkfall-i-leiguflugi-icelandair": {
+    "first_seen": "2026-11-05T17:25:22.596719+00:00",
+    "record": {
+      "id": "3e0ef5fbbd",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262958844d/kjosa-um-verkfall-i-leiguflugi-icelandair",
+      "title": "Kjósa um verk­fall í leigu­flugi Icelandair",
+      "sum": "Flugmenn Icelandair ætla að kjósa um verkfall í leiguflugi Icelandair og Loftleiða fyrir þriðja aðila. Aðgerðirnar myndu ekki ná til áætlunarflugs Icelandair."
+    }
+  },
+  "https://www.visir.is/g/20262958663d/taladi-um-odyr-og-klaufaleg-mork-og-vardi-lidsvalid": {
+    "first_seen": "2026-11-05T17:25:22.596719+00:00",
+    "record": {
+      "id": "bbe09f353e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262958663d/taladi-um-odyr-og-klaufaleg-mork-og-vardi-lidsvalid",
+      "title": "Talaði um „ó­dýr og klaufa­leg mörk“ og varði liðsvalið",
+      "sum": "Andoni Iraola, knattspyrnustjóri Liverpool, talaði um slakan varnarleik liðs síns í föstum leikatriðum sem leiddi til „ódýrra og klaufalegra“ marka sem kostuðu liðið 3-2 tap gegn Fenerbahce í Meistaradeildinni í gær."
+    }
+  },
+  "https://www.visir.is/g/20262958788d/vaxtarmorkin-flugvollurinn-og-oliuhofnin-i-endurskodun": {
+    "first_seen": "2026-11-05T17:25:22.596719+00:00",
+    "record": {
+      "id": "eac8de5677",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262958788d/vaxtarmorkin-flugvollurinn-og-oliuhofnin-i-endurskodun",
+      "title": "Vaxtarmörkin, flug­völlurinn og olíuhöfnin í endur­skoðun",
+      "sum": "Meirihlutinn í Reykjavík vill endurskoða vaxtarmörk borgarinnar og ákvæði um það hversu lengi flugstarfsemi verði heimil í Vatnsmýri. Einnig á að skoða nýja byggð á Geldinganesi og íbúðarbyggð í Örfirisey."
+    }
+  },
+  "https://www.visir.is/g/20262958804d/telur-ekki-of-seint-ad-hafa-uppi-a-mordingjanum": {
+    "first_seen": "2026-11-05T17:25:22.596719+00:00",
+    "record": {
+      "id": "b338596e4b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262958804d/telur-ekki-of-seint-ad-hafa-uppi-a-mordingjanum",
+      "title": "Telur ekki of seint að hafa uppi á morðingjanum",
+      "sum": "Verjandi Georgios Ntentes, sem var í gær sýknaður af ákæru fyrir manndráp við Skjólbraut í Kópavogi, telur ekki of seint fyrir lögreglu að finna þann sem varð Edilsson Martin Zingara að bana. Ntentes hefur verið sleppt úr haldi lögreglu."
+    }
+  },
+  "https://www.visir.is/g/20262958792d/skilnadur-og-200-milljona-gjaldthrot": {
+    "first_seen": "2026-11-05T17:25:22.596719+00:00",
+    "record": {
+      "id": "301bf4cd2c",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262958792d/skilnadur-og-200-milljona-gjaldthrot",
+      "title": "Skilnaður og 200 milljóna gjald­þrot",
+      "sum": "Breaking Bad-stjarnan Dean Norris á ekki sjö dagana sæla um þessar mundir. Hann stendur í skilnaði við Bridget Norris, eiginkonu sína til 25 ára, og eru þau hjónin jafnframt að ganga í gegnum gjaldþrot vegna skulda veitingastaðar síns."
+    }
+  },
+  "https://www.visir.is/g/20262958814d/fjarmalaradherra-fagnar": {
+    "first_seen": "2026-11-05T17:25:22.596719+00:00",
+    "record": {
+      "id": "37bcf39ccb",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262958814d/fjarmalaradherra-fagnar",
+      "title": "Fjár­mála­ráð­herra fagnar",
+      "sum": "Fjármálaráðherra fagnar því mjög að stjórnskipunar- og eftirlitsnefnd Alþingis hafi ákveðið að kalla eftir gögnum og samskiptum ráðherrans og Landsvirkjunar til skoðunar. Hann hafnar því að hafa haft pólitísk afskipti í málinu."
+    }
+  },
+  "https://www.visir.is/g/20262958785d/fagnar-skodun-stjornskipunar-og-eftirlitsnefndar-a-landsvirkjunarmalinu": {
+    "first_seen": "2026-11-05T17:25:22.596719+00:00",
+    "record": {
+      "id": "9f5e5ad535",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262958785d/fagnar-skodun-stjornskipunar-og-eftirlitsnefndar-a-landsvirkjunarmalinu",
+      "title": "Fagnar skoðun stjórn­skipunar- og eftir­lits­nefndar á Landsvirkjunarmálinu",
+      "sum": "Fjármálaráðherra fagnar því mjög að stjórnskipunar- og eftirlitsnefnd Alþingis hafi ákveðið að taka Landsvirkjunarmálið til skoðunar og kalla eftir gögnum og samskiptum ráðherrans og Landsvirkjunar. Hann hafnar því að hafa haft pólitísk afskipti í málinu."
+    }
+  },
+  "https://www.visir.is/g/20262958805d/heilsa-logreglumanna-se-i-haettu-maelirinn-er-fullur-": {
+    "first_seen": "2026-11-05T17:25:22.596719+00:00",
+    "record": {
+      "id": "c382dc8cb7",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262958805d/heilsa-logreglumanna-se-i-haettu-maelirinn-er-fullur-",
+      "title": "Heilsa lög­reglu­manna sé í hættu: „Mælirinn er fullur“",
+      "sum": "Varðstjóri hjá lögreglunni á Vestfjörðum segir öryggi og heilsu lögreglumanna á Ísafirði ógnað vegna gjörsamlega óviðunandi vinnuaðstöðu. Mælirinn sé fullur. Vinnueftirlitið hafi gert fjölmargar athugasemdir við aðstöðuna en ekkert hafi verið gert til úrbóta af hálfu Framkvæmdasýslunnar."
+    }
   }
 }
