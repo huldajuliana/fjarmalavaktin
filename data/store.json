@@ -16723,5 +16723,35 @@
       "title": "Bak­slag í við­ræðum Icelandair og flug­manna",
       "sum": "Flugmenn og Icelandair hafa ekki fundað í um tvær vikur eftir að bakslag varð á viðræðunum. Þær eru sagðar stranda einkum á launum og áformum Icelandair á Möltu. Flugvirkjar funduðu hins vegar í gær og funda aftur eftir helgi."
     }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/06/olseig_tugga_um_bankaskatt/": {
+    "first_seen": "2026-11-06T20:12:09.867636+00:00",
+    "record": {
+      "id": "cae52da521",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-06",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/06/olseig_tugga_um_bankaskatt/",
+      "title": "Ólseig tugga um bankaskatt",
+      "sum": "Lilja Björk Einarsdóttir, bankastjóri Landsbankans, segir í færslu á Linkedin gamla tuggu um bankaskatt ólseiga, en rangt sé að þegar bankaskattur hafi verið lækkaður hafi ekkert gerst."
+    }
+  },
+  "https://www.visir.is/g/20262959535d/leikmenn-thor-ka-senda-fra-ser-yfirlysingu-mikil-vonbrigdi-": {
+    "first_seen": "2026-11-06T20:12:09.867636+00:00",
+    "record": {
+      "id": "3930689b29",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-06",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262959535d/leikmenn-thor-ka-senda-fra-ser-yfirlysingu-mikil-vonbrigdi-",
+      "title": "Leik­menn Þór/KA senda frá sér yfir­lýsingu: „Mikil von­brigði“",
+      "sum": "Leikmenn Þórs/KA í fótbolta hafa sent frá sér yfirlýsingu þar sem þær lýsa yfir vonbrigðum með ákvörðun KA að slíta samstarfi félaganna. Virðingarleysi í garð þeirra hafi einkennt ferlið."
+    }
   }
 }
