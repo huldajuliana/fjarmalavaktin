@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -16497,6 +16497,51 @@
       "url": "https://www.visir.is/g/20262959016d/sjotiu-milljona-tap-hja-syn",
       "title": "Sjö­tíu milljóna tap hjá Sýn",
       "sum": "Sýn tapaði 70 milljónum á þriðja fjórðungi ársins, sem er töluverð breyting á milli ára. Á sama tímabili í fyrra tapaði félagið 238 milljónum. Forstjóri segir ársfjórðungsuppgjör Sýnar sýna að aðgerðir undanfarinna ára séu að skila árangri. Tekjur af fjölmiðlun jukust um 19,4 prósent."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/05/vid_erum_personuleg_heildsala/": {
+    "first_seen": "2026-11-06T01:57:02.764609+00:00",
+    "record": {
+      "id": "f2ef052778",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/05/vid_erum_personuleg_heildsala/",
+      "title": "Við erum persónuleg heildsala",
+      "sum": "Heildsölufyrirtækið ÓJ&amp;K-ÍSAM fagnar 120 ára afmæli á þessu ári. Á tímamótunum er gaman að rifja upp skemmtilegar sögur úr rekstrinum þó að forstjórinn Ólafur Ó. Johnson leggi í samtali við Morgunblaðið ekki síður áherslu á að tala um framtíðina &hellip;"
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/05/taeknihlutabref_hridfalla_eftir_sigur_demokrata/": {
+    "first_seen": "2026-11-06T01:57:02.764609+00:00",
+    "record": {
+      "id": "c8427927e7",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/05/taeknihlutabref_hridfalla_eftir_sigur_demokrata/",
+      "title": "Tæknihlutabréf hríðfalla eftir sigur demókrata",
+      "sum": "Gengi bandarískra tæknihlutabréfa hríðféll í dag."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/05/audvitad_er_buid_ad_threngja_ad_okkur/": {
+    "first_seen": "2026-11-06T01:57:02.764609+00:00",
+    "record": {
+      "id": "2a506dc74c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-05",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/05/audvitad_er_buid_ad_threngja_ad_okkur/",
+      "title": "„Auðvitað er búið að þrengja að okkur“",
+      "sum": "Hörð samkeppni á matvörumarkaði átti sinn þátt í því að eigendur Fjarðarkaupa ákváðu að selja verslunina eftir 53 ára rekstur fjölskyldunnar. Þetta segir Gísli Sigurbergsson, framkvæmdastjóri Fjarðarkaupa, í samtali við Dagmál."
     }
   }
 }
