@@ -16783,5 +16783,110 @@
       "title": "Furðar sig á 20 milljarða kostnaði við ráðgjöf",
       "sum": "„Hver er nákvæmlega tilgangurinn með þessu ráðgjafarteymi og væri ekki unnt að sinna þeim verkefnum sem því er ætlað að sinna með hagkvæmari hætti?“"
     }
+  },
+  "https://www.mbl.is/200milur/frettir/2026/11/07/kaldvik_laekkar_skarpt_a_markadi/": {
+    "first_seen": "2026-11-07T15:40:22.792804+00:00",
+    "record": {
+      "id": "116573c52f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-07",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/200milur/frettir/2026/11/07/kaldvik_laekkar_skarpt_a_markadi/",
+      "title": "Kaldvík lækkar skarpt á markaði",
+      "sum": "Verð hlutabréfa sjókvíaeldisfyrirtækisins Kaldvíkur lækkaði um 40 prósent á First North-markaðnum í síðustu viðskiptum í vikunni."
+    }
+  },
+  "https://www.visir.is/g/20262959747d/matvis-kallar-eftir-hertu-eftirliti-med-dyravelferd": {
+    "first_seen": "2026-11-07T15:40:22.792804+00:00",
+    "record": {
+      "id": "6788495da4",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-07",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262959747d/matvis-kallar-eftir-hertu-eftirliti-med-dyravelferd",
+      "title": "MATVÍS kallar eftir hertu eftir­liti með dýravelferð",
+      "sum": "Matvæla- og veitingafélag Íslands, MATVÍS, lýsir yfir þungum áhyggjum af myndefni og fréttaflutningi af aðbúnaði svína hjá Stjörnugrís. Félagið mótmælir harðlega allri illri meðferð á dýrum og kallar eftir því að aðstæður þeirra verði rannsakaðar til hlítar og brugðist verði tafarlaust við því sem úrbóta þarfnast."
+    }
+  },
+  "https://www.visir.is/g/20262959715d/parisarsamkomulagid-er-plaga-": {
+    "first_seen": "2026-11-07T15:40:22.792804+00:00",
+    "record": {
+      "id": "94d4ab9467",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-07",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262959715d/parisarsamkomulagid-er-plaga-",
+      "title": "Parísarsamkomulagið er plága!",
+      "sum": "Laugardagsmorgunn í Reykjavík og ofnarnir farnir að hitna. Vatnið kemur úr iðrum jarðar og sinnir sínu án þess að gefin sé út sérstök yfirlýsing um það. Okkur þykir það sjálfsagt."
+    }
+  },
+  "https://www.visir.is/g/20262959714d/bjartsynn-a-ad-samkomulag-naist-innan-nokkurra-vikna": {
+    "first_seen": "2026-11-07T15:40:22.792804+00:00",
+    "record": {
+      "id": "adbbd3c285",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-07",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262959714d/bjartsynn-a-ad-samkomulag-naist-innan-nokkurra-vikna",
+      "title": "Bjart­sýnn á að sam­komu­lag náist innan nokkurra vikna",
+      "sum": "Stjórnarformaður Tækniskólans segir viðræður milli skólans og Reykjavíkurborgar um lóð fyrir skólann ganga vel og hann sé bjartsýnn á að samkomulagi verði siglt í höfn á næstu vikum. Þá hefur skólinn krafið Hafnarfjarðarbæ um tugmilljóna bætur eftir að bænum tókst ekki að útvega skólanum lóð eins og fyrirhugað var."
+    }
+  },
+  "https://www.visir.is/g/20262958856d/-bloskrar-hvad-thetta-er-yfirgengilega-dyrt-a-islandi-": {
+    "first_seen": "2026-11-07T15:40:22.792804+00:00",
+    "record": {
+      "id": "0b1643d76a",
+      "cat": "eftirlit",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-07",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262958856d/-bloskrar-hvad-thetta-er-yfirgengilega-dyrt-a-islandi-",
+      "title": "„Blöskrar hvað þetta er yfir­gengi­lega dýrt á Ís­landi“",
+      "sum": "„Þegar það kemur að fjárfestingum á Íslandi þá er verið að okra þar. Það er líklega versta dæmið innan bankakerfisins. Þetta er svolítið eins og með gengisálag. Þú fattar þetta ekki."
+    }
+  },
+  "https://www.visir.is/g/20262959703d/hver-gaetir-vardanna-": {
+    "first_seen": "2026-11-07T15:40:22.792804+00:00",
+    "record": {
+      "id": "d61fa68be9",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-07",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262959703d/hver-gaetir-vardanna-",
+      "title": "Hver gætir varðanna?",
+      "sum": "Nýstofnað ríkisfyrirtæki, Göng og brú ohf., hefur auglýst útboð á umfangsmikilli ráðgjafaþjónustu vegna fyrirhugaðra samgönguframkvæmda. Áætlað heildarvirði samningsins er 150 milljónir evra, jafnvirði um 20 milljarða króna."
+    }
+  },
+  "https://www.visir.is/g/20262959648d/almenningur-hefur-brugdist-stjorn-landsvirkjunar-og-carbfix": {
+    "first_seen": "2026-11-07T15:40:22.792804+00:00",
+    "record": {
+      "id": "ad7e1bcd42",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-07",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262959648d/almenningur-hefur-brugdist-stjorn-landsvirkjunar-og-carbfix",
+      "title": "Al­menningur hefur brugðist stjórn Lands­virkjunar og Car­b­fix",
+      "sum": "Áform Daða Más Kristinssonar fjármálaráðherra um að koma á „faglegri“ skipan í stjórnir ríkisfyrirtækja hafa gengið sérstaklega vel eftir. Nú, átján mánuðum eftir að fjármálaráðherra skipti út öllum stjórnarmönnum og setti sitt fólk í staðinn, hefur farsæll forstjóri til sautján ára hrökklast frá störfum ásamt …"
+    }
   }
 }
