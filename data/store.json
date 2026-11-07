@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -16752,6 +16752,36 @@
       "url": "https://www.visir.is/g/20262959535d/leikmenn-thor-ka-senda-fra-ser-yfirlysingu-mikil-vonbrigdi-",
       "title": "Leik­menn Þór/KA senda frá sér yfir­lýsingu: „Mikil von­brigði“",
       "sum": "Leikmenn Þórs/KA í fótbolta hafa sent frá sér yfirlýsingu þar sem þær lýsa yfir vonbrigðum með ákvörðun KA að slíta samstarfi félaganna. Virðingarleysi í garð þeirra hafi einkennt ferlið."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/06/segir_vidtal_dada_stangast_a_vid_svor_raduneytisins/": {
+    "first_seen": "2026-11-07T01:29:23.155822+00:00",
+    "record": {
+      "id": "c575a485cf",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-06",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/06/segir_vidtal_dada_stangast_a_vid_svor_raduneytisins/",
+      "title": "Segir viðtal Daða stangast á við svör ráðuneytisins",
+      "sum": "Guðmundur segir málið ekki þola neina bið. Innlendir fjölmiðlar eigi á brattann að sækja sem og íslenska tungumálið."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/06/furdar_sig_a_20_milljarda_kostnadi_vid_radgjof/": {
+    "first_seen": "2026-11-07T01:29:23.155822+00:00",
+    "record": {
+      "id": "86831562f9",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-06",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/06/furdar_sig_a_20_milljarda_kostnadi_vid_radgjof/",
+      "title": "Furðar sig á 20 milljarða kostnaði við ráðgjöf",
+      "sum": "„Hver er nákvæmlega tilgangurinn með þessu ráðgjafarteymi og væri ekki unnt að sinna þeim verkefnum sem því er ætlað að sinna með hagkvæmari hætti?“"
     }
   }
 }
