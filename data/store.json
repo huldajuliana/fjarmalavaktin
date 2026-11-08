@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -16902,6 +16902,66 @@
       "url": "https://www.visir.is/g/20262959769d/-eins-og-ad-laekna-sjuklinginn-med-thvi-ad-drepa-hann-",
       "title": "„Eins og að lækna sjúk­linginn með því að drepa hann“",
       "sum": "Lilja Dögg Alfreðsdóttir, formaður Framsóknarflokksins, segir ríkisstjórnina hafa brugðist í efnahagsmálum. Tvö glötuð ár séu að baki, mikilvægt sé að draga úr verðbólgu með skynsömum hætti en ekki með því að kæfa efnahagslífið."
+    }
+  },
+  "https://www.visir.is/g/20262959768d/her-er-mikil-frjosemi-baedi-i-fenu-og-folkinu": {
+    "first_seen": "2026-11-08T00:59:00.608097+00:00",
+    "record": {
+      "id": "9b98156f16",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-07",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262959768d/her-er-mikil-frjosemi-baedi-i-fenu-og-folkinu",
+      "title": "Hér er mikil frjó­semi, bæði í fénu og fólkinu",
+      "sum": "Ungir sauðfjárbændur og barnmargar fjölskyldur eru áberandi á sveitabæjum á Vatnsnesi við Húnaflóa. Sumir myndu jafnvel telja þetta útnes harðbýlt til landbúnaðar. Bændurnir segja það þó henta vel til sauðfjárræktar og segja bæði féð og fólkið frjósamt."
+    }
+  },
+  "https://www.visir.is/g/20262959379d/uppgjorid-njardvik-stjarnan-79-103-stjarnan-gjorsigradi-lanlausa-njardvikinga": {
+    "first_seen": "2026-11-08T00:59:00.608097+00:00",
+    "record": {
+      "id": "a15a125dc3",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-07",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262959379d/uppgjorid-njardvik-stjarnan-79-103-stjarnan-gjorsigradi-lanlausa-njardvikinga",
+      "title": "Upp­gjörið: Njarðvík-Stjarnan 79-103: Stjarnan gjörsigraði lán­lausa Njarðvíkinga",
+      "sum": "Njarðvík tók á móti Stjörnunni í lokaleik fimmtu umferðar Bónus deild karla í kvöld. Bæði lið hafa byrjað mótið erfiðlega og því var til mikils að vinna í IceMar höllinni í kvöld. Leikurinn varð aldrei sú spenna sem búist var við og Stjarnan gjörsigraði Njarðvík með 24 stigum 79-103."
+    }
+  },
+  "https://www.visir.is/g/20262959839d/-eg-tharf-ad-taka-abyrgd-a-thvi-og-bidjast-bara-afsokunar-til-njardvikinga-": {
+    "first_seen": "2026-11-08T00:59:00.608097+00:00",
+    "record": {
+      "id": "3d3b8cf57e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-07",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262959839d/-eg-tharf-ad-taka-abyrgd-a-thvi-og-bidjast-bara-afsokunar-til-njardvikinga-",
+      "title": "„Ég þarf að taka á­byrgð á því og biðjast bara af­sökunar til Njarðvíkinga“",
+      "sum": "Rúnar Ingi Erlingsson var að vonum gríðarlega svekktur með sitt lið Njarðvík eftir að þeir steinlágu fyrir Stjörnunni 79-103 í lokaleik 5. umferðar Bónus deild karla sem fram fór í kvöld."
+    }
+  },
+  "https://www.visir.is/g/20262959832d/-jakvaett-ad-vid-naum-loksins-ad-tengja-godar-aefingar-vid-godan-leik-": {
+    "first_seen": "2026-11-08T00:59:00.608097+00:00",
+    "record": {
+      "id": "c06f37c7d4",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-07",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262959832d/-jakvaett-ad-vid-naum-loksins-ad-tengja-godar-aefingar-vid-godan-leik-",
+      "title": "„Já­kvætt að við náum loksins að tengja góðar æfingar við góðan leik“",
+      "sum": "Stjarnan vann gríðarlega öflugan og öruggan 24 stiga sigur á Njarðvík 79-103 í IceMar höllinni í kvöld þegar 5. umferð Bónus deild karla kláraðist í kvöld. Hilmar Smári Henningsson átti góðan leik fyrir Stjörnuna og ræddi við Vísi eftir leik."
     }
   }
 }
