@@ -17098,5 +17098,50 @@
       "title": "Sprengi­sandur: Ný könnun um traust til stjórnar Lands­virkjunar",
       "sum": "Fjármálaráðherra segist bera fullt traust til stjórnar Landsvirkjunar. Á Sprengisandi upplýsum við hvort eigandi Landsvirkjunar, þjóðin, beri líka „fullt traust“ til stjórnarinnar. Ný könnun Maskínu fyrir Sprengisand segir til um það."
     }
+  },
+  "https://www.visir.is/g/20262960017d/olafur-ragnar-hafi-farid-med-hlutverk-flugfreyju-flugstjora-og-raestitaeknis": {
+    "first_seen": "2026-11-08T18:36:36.239072+00:00",
+    "record": {
+      "id": "1e0a430664",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-08",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262960017d/olafur-ragnar-hafi-farid-med-hlutverk-flugfreyju-flugstjora-og-raestitaeknis",
+      "title": "Ólafur Ragnar hafi farið með hlut­verk flug­freyju, flug­stjóra og ræstitæknis",
+      "sum": "Lúðvík Bergvinsson, fyrrverandi þingmaður og hæstaréttarlögmaður, gagnrýnir Ólaf Ragnar Grímsson fyrrverandi forseta fyrir orð sín í garð utanríkisráðherra. Titillinn „fyrrum forseti“ undanskilji hann ekki gagnrýni. Þá segir hann Ólaf hafa farið með ýmis hlutverk í hruninu eftir hans eigin hentisemi."
+    }
+  },
+  "https://www.visir.is/g/20262959956d/er-ekki-til-einfaldari-leid-til-ad-innheimta-innvidagjald-af-ferdamonnum-": {
+    "first_seen": "2026-11-08T18:36:36.239072+00:00",
+    "record": {
+      "id": "f3eebcaa18",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-08",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262959956d/er-ekki-til-einfaldari-leid-til-ad-innheimta-innvidagjald-af-ferdamonnum-",
+      "title": "Er ekki til ein­faldari leið til að inn­heimta innviðagjald af ferða­mönnum?",
+      "sum": "Undanfarnar vikur hefur talsverð umræða skapast um fyrirhugað náttúru- og innviðagjald ríkisstjórnarinnar, sem gjarnan hefur verið nefnt Bláskógaskatturinn."
+    }
+  },
+  "https://www.visir.is/g/20262960005d/framkvaemdastjori-thingflokks-vidreisnar-i-leyfi-vegna-krabbameins": {
+    "first_seen": "2026-11-08T18:36:36.239072+00:00",
+    "record": {
+      "id": "79b620f010",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-08",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262960005d/framkvaemdastjori-thingflokks-vidreisnar-i-leyfi-vegna-krabbameins",
+      "title": "Fram­kvæmda­stjóri þing­flokks Við­reisnar í leyfi vegna krabba­meins",
+      "sum": "Sigurjón Njarðarson framkvæmdastjóri þingflokks Viðreisnar er kominn í leyfi frá störfum. Ástæðan er krabbamein sem hann er með í síðu en stefnt er að uppskurði á næstu vikum."
+    }
   }
 }
