@@ -17443,5 +17443,35 @@
       "title": "Vildi vita hvort Krist­rún vissi af við­vörunum Harðar fyrir fundinn",
       "sum": "Guðrún Hafsteinsdóttir spurði Kristrúnu Frostadóttur forsætisráðherra á Alþingi í dag hvort hún hefði vitað af viðvörunum Harðar Arnarsonar um hættu á pólitískum afskiptum af Landsvirkjun fyrir fundinn með Herði 1. október."
     }
+  },
+  "https://www.visir.is/g/20262960797d/mccartney-ordinn-thridji-rikasti-tonlistarmadurinn": {
+    "first_seen": "2026-11-09T23:14:24.672846+00:00",
+    "record": {
+      "id": "be92e4f546",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-09",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262960797d/mccartney-ordinn-thridji-rikasti-tonlistarmadurinn",
+      "title": "McCartney orðinn þriðji ríkasti tón­listar­maðurinn",
+      "sum": "Paul McCartney er orðinn milljarðamæringur og þar með orðinn þriðji ríkasti tónlistarmaður heimsins. Auk tekna frá Bítladögum tónlistarmannsins á hann einnig útgáfurétt að sígildum jólalögum og söngleikjalögum."
+    }
+  },
+  "https://www.visir.is/g/20262960781d/-grafalvarlegt-mal-gagnvart-neytendum-": {
+    "first_seen": "2026-11-09T23:14:24.672846+00:00",
+    "record": {
+      "id": "17434671ad",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-09",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262960781d/-grafalvarlegt-mal-gagnvart-neytendum-",
+      "title": "„Grafalvarlegt mál gagn­vart neyt­endum“",
+      "sum": "Formaður Starfsgreinasambandsins segir fyrirtæki í landinu ekki skila gengishækkunum út í verðlag líkt og gengislækkunum. Hann segir það ekkert nema græðgi og telur það grafalvarlegt mál gagnvart íslenskum neytendum."
+    }
   }
 }
