@@ -17173,5 +17173,275 @@
       "title": "Öfug­snúin staða að um­hverfis­ráð­herra sé „harðasti virkjunarsinni landsins“",
       "sum": "Vinstri græn lýsa yfir þungum áhyggjum af „metnaðarleysi“ umhverfisráðherra og ríkisstjórnarinnar í umhverfis- og loftslagsmálum. Varaborgarfulltrúi flokksins segir það öfugsnúna stöðu að vera með „harðasta virkjunarsinna landsins“ sem umhverfisráðherra."
     }
+  },
+  "https://sa.is/frettatengt/frettir/sa-styðja-við-frumkvoðlastarf-ungs-folks": {
+    "first_seen": "2026-11-09T19:50:36.580588+00:00",
+    "record": {
+      "id": "cb86cf390b",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-09",
+      "src": "Samtök atvinnulífsins",
+      "url": "https://sa.is/frettatengt/frettir/sa-styðja-við-frumkvoðlastarf-ungs-folks",
+      "title": "SA styðja við frumkvöðlastarf ungs fólks",
+      "sum": "SA styðja við Unga frumkvöðla með fjárframlagi og leiðsögn til nemenda. Markmiðið er að hjálpa ungu fólki að þróa hugmyndir sínar og kynnast atvinnulífinu."
+    }
+  },
+  "https://sa.is/frettatengt/frettir/adhald-og-ahrif-rikisins-a-verdbolgu": {
+    "first_seen": "2026-11-09T19:50:36.580588+00:00",
+    "record": {
+      "id": "449b27cd7c",
+      "cat": "rikisfjarmal",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-09",
+      "src": "Samtök atvinnulífsins",
+      "url": "https://sa.is/frettatengt/frettir/adhald-og-ahrif-rikisins-a-verdbolgu",
+      "title": "Aðhald og áhrif ríkisins á verðbólgu",
+      "sum": "Fyrirheit um aðhald duga ekki. SA kalla eftir raunverulegum aga í ríkisfjármálum til að lækka verðbólgu, vexti og skuldir ríkissjóðs."
+    }
+  },
+  "https://asi.is/olik-verdthroun-a-innlendum-og-innfluttum-vorum/": {
+    "first_seen": "2026-11-09T19:50:36.580588+00:00",
+    "record": {
+      "id": "657e6f91b8",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-09",
+      "src": "ASÍ",
+      "url": "https://asi.is/olik-verdthroun-a-innlendum-og-innfluttum-vorum/",
+      "title": "Ólík verðþróun á innlendum og innfluttum vörum",
+      "sum": "Í september boðuðu aðilar á smásölumarkaði verðlækkanir og verðfrystingar sem framlag til aukins verðstöðugleika. Verðlagseftirlit ASÍ hefur mælt aukna tíðni verðlækkana en um þriðjungur vara í Bónus lækkaði í verði á tímabilinu ágúst til nóvember."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/09/dadi_bodar_afhendingu_gagna_um_landsvirkjun/": {
+    "first_seen": "2026-11-09T19:50:36.580588+00:00",
+    "record": {
+      "id": "339bb05a03",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-09",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/09/dadi_bodar_afhendingu_gagna_um_landsvirkjun/",
+      "title": "Daði boðar afhendingu gagna um Landsvirkjun",
+      "sum": "Öll gögn í fjármála- og efnahagsráðuneytinu sem varða umrætt mál Landsvirkjunar verða lögð fram, að sögn Daða Más Kristóferssonar fjármála- og efnahagsráðherra. Hann treystir sér hins vegar ekki til að fullyrða hvort hægt verði að afhenda fundargerðir og gögn um innri samskipti fyrirtækisins."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/09/verdmaetaskopunarhaustid_nadi_ekki_i_skutuvoginn/": {
+    "first_seen": "2026-11-09T19:50:36.580588+00:00",
+    "record": {
+      "id": "f2f6bcf384",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-09",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/09/verdmaetaskopunarhaustid_nadi_ekki_i_skutuvoginn/",
+      "title": "Verðmætasköpunarhaustið náði ekki í Skútuvoginn",
+      "sum": "Verðmætasköpunarhaustið sem Kristrún Frostadóttir forsætisráðherra boðaði virðist ekki hafa náð alla leið í Skútuvoginn. Munnbitinn ehf., félag sem eiginmaður hennar, Einar Bergur Ingvarsson, á hlut í, hefur nú óskað eftir gjaldþrotaskiptum."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/09/hefst_nytt_timabil_a_morkudum/": {
+    "first_seen": "2026-11-09T19:50:36.580588+00:00",
+    "record": {
+      "id": "e872c4c355",
+      "cat": "hagvoxtur",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-09",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/09/hefst_nytt_timabil_a_morkudum/",
+      "title": "Hefst nýtt tímabil á mörkuðum?",
+      "sum": "Það má saka Donald Trump um ýmislegt, en það verður ekki af honum tekið að hann leggur ofuráherslu á að efla bandaríska hagkerfið – nánast sama hvað það kostar."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/09/minigardurinn_lokar_og_oskar_eftir_gjaldthrotaskipt/": {
+    "first_seen": "2026-11-09T19:50:36.580588+00:00",
+    "record": {
+      "id": "4b4fd5b22f",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-09",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/09/minigardurinn_lokar_og_oskar_eftir_gjaldthrotaskipt/",
+      "title": "Minigarðurinn lokar og óskar eftir gjaldþrotaskiptum",
+      "sum": "Minigarðurinn í Skútuvogi hefur lokað dyrum sínum og verður rekstri staðarins ekki haldið áfram. Stjórn Munnbitans ehf., sem rekur Minigarðinn, hyggst óska eftir gjaldþrotaskiptum á félaginu."
+    }
+  },
+  "https://www.mbl.is/200milur/frettir/2026/11/09/eignast_yfir_fimm_prosent_i_brimi/": {
+    "first_seen": "2026-11-09T19:50:36.580588+00:00",
+    "record": {
+      "id": "4904a746c0",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-09",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/200milur/frettir/2026/11/09/eignast_yfir_fimm_prosent_i_brimi/",
+      "title": "Eignast yfir fimm prósent í Brimi",
+      "sum": "Eignarhlutur Ívars ehf. í útgerðarfélaginu Brimi stendur í 5,29 prósentum samkvæmt upplýsingagjöf félagsins til kauphallar. Katrín Pétursdóttir er stærsti eigandi Ívars, sem aftur átti í Lýsi, sem Brim hefur keypt."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/09/fjarmalaraduneytid_ordid_of_valdamikid/": {
+    "first_seen": "2026-11-09T19:50:36.580588+00:00",
+    "record": {
+      "id": "887c35f61f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-09",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/09/fjarmalaraduneytid_ordid_of_valdamikid/",
+      "title": "Fjármálaráðuneytið orðið of valdamikið",
+      "sum": "Sigurður Ingi Jóhannsson, fyrrverandi fjármálaráðherra, segir að samskipti stjórnar Landsvirkjunar við fjármálaráðuneytið hafi tekið óeðlilegum breytingum eftir að ný stjórn tók við fyrirtækinu."
+    }
+  },
+  "https://www.visir.is/g/20262960764d/veikindin-kosti-tvo-milljarda": {
+    "first_seen": "2026-11-09T19:50:36.580588+00:00",
+    "record": {
+      "id": "f6e5c2ab26",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-09",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262960764d/veikindin-kosti-tvo-milljarda",
+      "title": "Veikindin kosti tvo milljarða",
+      "sum": "Bæjarstjóri Kópavogsbæjar áætlar að veikindakostnaður bæjarins nemi tveimur milljörðum króna á ári. Til stendur að ráðast í frekari aðgerðir til að draga úr veikindum starfsfólksins."
+    }
+  },
+  "https://www.visir.is/g/20262960762d/thriggja-bila-arekstur-i-gardabae": {
+    "first_seen": "2026-11-09T19:50:36.580588+00:00",
+    "record": {
+      "id": "0cfc8f037a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-09",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262960762d/thriggja-bila-arekstur-i-gardabae",
+      "title": "Þriggja bíla á­rekstur í Garða­bæ",
+      "sum": "Þriggja bíla árekstur varð í kvöld á gatnamótum Vífilsstaðavegar og Hafnafjarðarvegar. Um nokkuð harðan árekstur er að ræða en engin slys urðu á fólki."
+    }
+  },
+  "https://www.visir.is/g/20262960742d/stadfesta-fravisun-a-mali-alcoa": {
+    "first_seen": "2026-11-09T19:50:36.580588+00:00",
+    "record": {
+      "id": "e487cfe2b0",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-09",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262960742d/stadfesta-fravisun-a-mali-alcoa",
+      "title": "Stað­festa frá­vísun á máli Alcoa",
+      "sum": "Landsréttur staðfesti í dag frávísun Héraðsdóms á skaðabótamáli Alcoa Fjarðaráls á hendur Eimskip og Samskipum vegna samráðs fyrirtækjanna á árunum 2008 til 2013."
+    }
+  },
+  "https://www.visir.is/g/20262960607d/hagnast-um-hundrud-milljona-a-ari-hverju": {
+    "first_seen": "2026-11-09T19:50:36.580588+00:00",
+    "record": {
+      "id": "75a5a88682",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-09",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262960607d/hagnast-um-hundrud-milljona-a-ari-hverju",
+      "title": "Hagnast um hundruð milljóna á ári hverju",
+      "sum": "Stjörnugrís hefur hagnast um nær einn og hálfan milljarð króna á síðustu þremur árum og er eiginfjárstaða fyrirtækisins afar sterk. Stjórnvöld vísuðu til þess í árslok 2024 að svínabændur skorti fjármagn til nauðsynlegra endurbóta og fengju því þriggja ára viðbótarfrest til að uppfylla tólf ára reglugerð um aðbúnað …"
+    }
+  },
+  "https://www.visir.is/g/20262960654d/vardi-spurningar-um-landsnet-a-fundi-an-hardar": {
+    "first_seen": "2026-11-09T19:50:36.580588+00:00",
+    "record": {
+      "id": "23a3e1da00",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-09",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262960654d/vardi-spurningar-um-landsnet-a-fundi-an-hardar",
+      "title": "Varði spurningar um Lands­net á fundi án Harðar",
+      "sum": "Daði Már Kristófersson fjármálaráðherra sagði á Alþingi í dag að hann hefði sjálfur spurt um lokagreiðslu ríkisins vegna kaupa á hlut Landsvirkjunar í Landsneti. Hann bar spurninguna upp á fundi með stjórn Landsvirkjunar í fjármálaráðuneytinu 6. janúar."
+    }
+  },
+  "https://www.visir.is/g/20262960658d/engin-astaeda-til-ad-halda-rannsokn-a-lyfjavali-afram": {
+    "first_seen": "2026-11-09T19:50:36.580588+00:00",
+    "record": {
+      "id": "2a7be6452e",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-09",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262960658d/engin-astaeda-til-ad-halda-rannsokn-a-lyfjavali-afram",
+      "title": "Engin á­stæða til að halda rann­sókn á Lyfjavali á­fram",
+      "sum": "Eftirlitsstofnun EFTA, ESA, hefur lokið rannsókn sinni á meintri markaðssskiptingu á smásölumarkaði með lyf vegna starfsemi Lyfjavals ehf."
+    }
+  },
+  "https://www.visir.is/g/20262960634d/rumlega-fjogur-thusund-fleiri-foreldrar-fengju-barnabaetur": {
+    "first_seen": "2026-11-09T19:50:36.580588+00:00",
+    "record": {
+      "id": "7a01923883",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-09",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262960634d/rumlega-fjogur-thusund-fleiri-foreldrar-fengju-barnabaetur",
+      "title": "Rúm­lega fjögur þúsund fleiri for­eldrar fengju barna­bætur",
+      "sum": "Fjármála- og efnahagsráðuneytið áætlar að rúmlega fjögur þúsund fleiri foreldrar fái barnabætur árið 2027 ef Alþingi samþykkir tillögu þess um hærri bætur og hærri tekjumörk."
+    }
+  },
+  "https://www.visir.is/g/20262960628d/i-gaesluvardhaldi-i-fjorar-vikur-til-vidbotar": {
+    "first_seen": "2026-11-09T19:50:36.580588+00:00",
+    "record": {
+      "id": "91e334777f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-09",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262960628d/i-gaesluvardhaldi-i-fjorar-vikur-til-vidbotar",
+      "title": "Í gæslu­varð­haldi í fjórar vikur til við­bótar",
+      "sum": "Maður sem handtekinn var vegna gruns um manndráp í Breiðholti um þarsíðustu helgi hefur verið úrskurðaður í áframhaldandi gæsluvarðhald til 7. desember næstkomandi. Varðhaldið var framlengt á grundvelli almannahagsmuna en hingað til hefur það verið á grundvelli rannsóknarhagsmuna."
+    }
+  },
+  "https://www.visir.is/g/20262960615d/vildi-vita-hvort-kristrun-vissi-af-vidvorunum-hardar-fyrir-fundinn": {
+    "first_seen": "2026-11-09T19:50:36.580588+00:00",
+    "record": {
+      "id": "1ae7c55578",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-09",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262960615d/vildi-vita-hvort-kristrun-vissi-af-vidvorunum-hardar-fyrir-fundinn",
+      "title": "Vildi vita hvort Krist­rún vissi af við­vörunum Harðar fyrir fundinn",
+      "sum": "Guðrún Hafsteinsdóttir spurði Kristrúnu Frostadóttur forsætisráðherra á Alþingi í dag hvort hún hefði vitað af viðvörunum Harðar Arnarsonar um hættu á pólitískum afskiptum af Landsvirkjun fyrir fundinn með Herði 1. október."
+    }
   }
 }
