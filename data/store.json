@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -17142,6 +17142,36 @@
       "url": "https://www.visir.is/g/20262960005d/framkvaemdastjori-thingflokks-vidreisnar-i-leyfi-vegna-krabbameins",
       "title": "Fram­kvæmda­stjóri þing­flokks Við­reisnar í leyfi vegna krabba­meins",
       "sum": "Sigurjón Njarðarson framkvæmdastjóri þingflokks Viðreisnar er kominn í leyfi frá störfum. Ástæðan er krabbamein sem hann er með í síðu en stefnt er að uppskurði á næstu vikum."
+    }
+  },
+  "https://www.visir.is/g/20262960120d/malbika-i-reykjavik-og-gardabae": {
+    "first_seen": "2026-11-09T01:20:46.693420+00:00",
+    "record": {
+      "id": "1d1e2c4f8e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-08",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262960120d/malbika-i-reykjavik-og-gardabae",
+      "title": "Mal­bika í Reykja­vík og Garða­bæ",
+      "sum": "Á morgun, mánudaginn 9. nóvember, er stefnt að malbiksframkvæmdum á rampi af Miklubraut að Réttarholtsvegi og á gatnamótum Vífilstaðavegar og Hafnafjarðarvegar. Vegfarendur eru beðnir um að virða merkingar og hraðatakmarkanir og sýna aðgát við vinnusvæðin."
+    }
+  },
+  "https://www.visir.is/g/20262960088d/ofugsnuin-stada-ad-umhverfisradherra-se-hardasti-virkjunarsinni-landsins-": {
+    "first_seen": "2026-11-09T01:20:46.693420+00:00",
+    "record": {
+      "id": "3fc3be83bd",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-08",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262960088d/ofugsnuin-stada-ad-umhverfisradherra-se-hardasti-virkjunarsinni-landsins-",
+      "title": "Öfug­snúin staða að um­hverfis­ráð­herra sé „harðasti virkjunarsinni landsins“",
+      "sum": "Vinstri græn lýsa yfir þungum áhyggjum af „metnaðarleysi“ umhverfisráðherra og ríkisstjórnarinnar í umhverfis- og loftslagsmálum. Varaborgarfulltrúi flokksins segir það öfugsnúna stöðu að vera með „harðasta virkjunarsinna landsins“ sem umhverfisráðherra."
     }
   }
 }
