@@ -17758,5 +17758,110 @@
       "title": "Verða gervi­greindar­persónur skatt­greiðendur?",
       "sum": "Í löngu viðtali við Zanny Minton Beddoes, ritstjóra The Economist, sem birtist í ágúst, veltir sagnfræðingurinn Yuval Noah Harari upp spurningu sem hljómar eins og vísindaskáldskapur en er það ekki lengur."
     }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/10/innlendar_vorur_haldi_matarverdinu_uppi/": {
+    "first_seen": "2026-11-10T20:40:14.287295+00:00",
+    "record": {
+      "id": "7062f58786",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/10/innlendar_vorur_haldi_matarverdinu_uppi/",
+      "title": "Innlendar vörur haldi matarverðinu uppi",
+      "sum": "Hvers vegna er verðið á matarkörfunni að hækka þrátt fyrir verðfrystingar og verðlækkanir stórmarkaðanna?"
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/10/veitir_sedlabankanum_adgang_ad_fyrirgreidslum_i_evr/": {
+    "first_seen": "2026-11-10T20:40:14.287295+00:00",
+    "record": {
+      "id": "f20ee8d8da",
+      "cat": "gengi",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/10/veitir_sedlabankanum_adgang_ad_fyrirgreidslum_i_evr/",
+      "title": "Veitir Seðlabankanum aðgang að fyrirgreiðslum í evrum",
+      "sum": "Seðlabanki Evrópu (ECB) hefur samþykkt beiðni Seðlabanka Íslands um aðgang að endurhverfum viðskiptum eða EUREP-fyrirgreiðslunni (Eurosystem Repo Facility for Central Banks)."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/10/eimskip_hagnadist_um_2_1_milljard/": {
+    "first_seen": "2026-11-10T20:40:14.287295+00:00",
+    "record": {
+      "id": "eed4e83220",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/10/eimskip_hagnadist_um_2_1_milljard/",
+      "title": "Eimskip hagnaðist um 2,1 milljarð",
+      "sum": "Skipafélagið Eimskip var rekið með ríflega 2,1 milljarðs króna hagnaði á þriðja fjórðungi ársins, eða 15,5 milljónum evra."
+    }
+  },
+  "https://www.visir.is/g/20262961342d/thelma-med-i-ad-senda-stjornur-chelsea-svekktar-heim": {
+    "first_seen": "2026-11-10T20:40:14.287295+00:00",
+    "record": {
+      "id": "6f61a38cdd",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961342d/thelma-med-i-ad-senda-stjornur-chelsea-svekktar-heim",
+      "title": "Thelma með í að senda stjörnur Chelsea svekktar heim",
+      "sum": "Stjörnum prýtt lið Chelsea varð að sætta sig við markalaust jafntefli gegn Thelmu Karen Pálmadóttur og stöllum hennar í Häcken þegar liðin mættust í Svíþjóð í kvöld í Meistaradeild Evrópu í fótbolta."
+    }
+  },
+  "https://www.visir.is/g/20262961331d/sedlabankinn-faer-adgang-ad-fyrirgreidslum-i-evrum": {
+    "first_seen": "2026-11-10T20:40:14.287295+00:00",
+    "record": {
+      "id": "3420ffa80a",
+      "cat": "gengi",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961331d/sedlabankinn-faer-adgang-ad-fyrirgreidslum-i-evrum",
+      "title": "Seðla­bankinn fær að­gang að fyrir­greiðslum í evrum",
+      "sum": "Seðlabanki Evrópu samþykkti beiðni Seðlabanka Íslands um aðgang að EUREP-fyrirgreiðslunni sem veitir bankanum aðgang að lausafé í evrum til láns í skemmri tíma. Fyrirgreiðslan auki sveigjanleika við stýringu gjaldeyrisforða bankans."
+    }
+  },
+  "https://www.visir.is/g/20262961308d/miklar-tafir-vegna-aftanakeyrslu": {
+    "first_seen": "2026-11-10T20:40:14.287295+00:00",
+    "record": {
+      "id": "02b67fb12d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961308d/miklar-tafir-vegna-aftanakeyrslu",
+      "title": "Miklar tafir vegna aftanákeyrslu",
+      "sum": "Tveggja bíla árekstur varð á Vesturlandsvegi við Grjótháls í Reykavík. Miklar tafir eru nú á umferð á svæðinu. Slysið er ekki talið alvarlegt en ein kona var flutt til skoðunar."
+    }
+  },
+  "https://www.visir.is/g/20262961267d/myndefni-af-atokunum-komid-ad-godum-notum": {
+    "first_seen": "2026-11-10T20:40:14.287295+00:00",
+    "record": {
+      "id": "1b1cb20016",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961267d/myndefni-af-atokunum-komid-ad-godum-notum",
+      "title": "Mynd­efni af á­tökunum komið að góðum notum",
+      "sum": "Myndefni úr öryggismyndavélum nærri vettvangi þar sem átök brutust út í Breiðholti um þarsíðustu helgi, með þeim afleiðingum að einn lést, hefur nýst lögreglu vel við rannsókn málsins."
+    }
   }
 }
