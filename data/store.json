@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -17472,6 +17472,291 @@
       "url": "https://www.visir.is/g/20262960781d/-grafalvarlegt-mal-gagnvart-neytendum-",
       "title": "„Grafalvarlegt mál gagn­vart neyt­endum“",
       "sum": "Formaður Starfsgreinasambandsins segir fyrirtæki í landinu ekki skila gengishækkunum út í verðlag líkt og gengislækkunum. Hann segir það ekkert nema græðgi og telur það grafalvarlegt mál gagnvart íslenskum neytendum."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/10/rifti_radningarsamningi_en_tharf_ad_greida_2_4_mill/": {
+    "first_seen": "2026-11-10T17:04:00.801997+00:00",
+    "record": {
+      "id": "43d077edc4",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/10/rifti_radningarsamningi_en_tharf_ad_greida_2_4_mill/",
+      "title": "Rifti ráðningarsamningi en þarf að greiða 2,4 milljónir",
+      "sum": "Fyrirtækið hafði rift ráðningarsamningi starfmannsins, sem er kona, eftir að hún tilkynnti veikindi í kjölfar uppsagnar. Það taldi meðal annars að færsla hennar á LinkedIn sýndi að hún væri vinnufær."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/10/landsrettur_stadfestir_fravisun_i_samradsmali/": {
+    "first_seen": "2026-11-10T17:04:00.801997+00:00",
+    "record": {
+      "id": "a02aab49cb",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/10/landsrettur_stadfestir_fravisun_i_samradsmali/",
+      "title": "Landsréttur staðfestir frávísun í samráðsmáli",
+      "sum": "Landsréttur staðfesti í gær úrskurð Héraðsdóms Reykjavíkur um frávísun máls Alcoa Fjarðaáls gegn Eimskip og Samskipum. Alcoa hafði krafist viðurkenningar á skaðabótaskyldu félaganna vegna meints tjóns af samráði þeirra á árunum 2008 til 2013."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/10/metur_hlutafe_blaa_lonsins_a_178_milljarda/": {
+    "first_seen": "2026-11-10T17:04:00.801997+00:00",
+    "record": {
+      "id": "6163f0eff4",
+      "cat": "gengi",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/10/metur_hlutafe_blaa_lonsins_a_178_milljarda/",
+      "title": "Metur hlutafé Bláa Lónsins á 178 milljarða",
+      "sum": "Jakobsson Capital metur hlutafé Bláa Lónsins á um 178 milljarða króna að teknu tilliti til fyrirhugaðra fyrirtækjakaupa og hlutafjáraukningar. Verðmatsgengi er 137 krónur á hlut."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/10/hluthafar_i_mal_vid_huang_og_nvidia/": {
+    "first_seen": "2026-11-10T17:04:00.801997+00:00",
+    "record": {
+      "id": "96136a77f1",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/10/hluthafar_i_mal_vid_huang_og_nvidia/",
+      "title": "Hluthafar í mál við Huang og Nvidia",
+      "sum": "Stefnan var lögð fram við alríkisdómstól í Kaliforníu í gær. Þar segir að Huang og Nvidia hafi villt um fyrir hluthöfum um áhyggjur af þjóðaröryggi sem tengdust ástarsambandinu. Villandi yfirlýsingar þeirra hafi orðið til þess að verð á hlutabréfum Nvidia var óeðlilega hátt."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/10/blaa_lonid_yrdi_niunda_verdmaetasta_skrada_felagid/": {
+    "first_seen": "2026-11-10T17:04:00.801997+00:00",
+    "record": {
+      "id": "d9225bb8dc",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/10/blaa_lonid_yrdi_niunda_verdmaetasta_skrada_felagid/",
+      "title": "Bláa lónið yrði níunda verðmætasta skráða félagið",
+      "sum": "Miðað við lágmarksútboðsgengi Bláa lónsins í hlutafjárútboðinu sem hófst í dag verður markaðsvirði félagsins, eftir kaupin á Arctic adventures, samtals um 123 milljarðar. Þar með yrði félagið níunda verðmætasta félagið sem skráð er á markað hér á landi."
+    }
+  },
+  "https://www.mbl.is/200milur/frettir/2026/11/10/argentina_vegur_thyngst_i_lakri_afkomu/": {
+    "first_seen": "2026-11-10T17:04:00.801997+00:00",
+    "record": {
+      "id": "a63577732d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/200milur/frettir/2026/11/10/argentina_vegur_thyngst_i_lakri_afkomu/",
+      "title": "Argentína vegur þyngst í lakri afkomu",
+      "sum": "Iceland Seafood hefur lækkað afkomuspá sína fyrir árið 2026 um nærri fjórðung. Bilanir hafa komið niður á rekstri frystitogara í Argentínu."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/10/fallid_fra_2_8_milljarda_auglysingathaki/": {
+    "first_seen": "2026-11-10T17:04:00.801997+00:00",
+    "record": {
+      "id": "35bfc84f24",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/10/fallid_fra_2_8_milljarda_auglysingathaki/",
+      "title": "Fallið frá 2,8 milljarða auglýsingaþaki",
+      "sum": "Fallið hefur verið frá áformum um að setja 2,8 milljarða króna hámark á auglýsingatekjur Ríkisútvarpsins."
+    }
+  },
+  "https://www.mbl.is/200milur/frettir/2026/11/10/reksturinn_betri_en_adur_var_aetlad/": {
+    "first_seen": "2026-11-10T17:04:00.801997+00:00",
+    "record": {
+      "id": "ef260b45b8",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/200milur/frettir/2026/11/10/reksturinn_betri_en_adur_var_aetlad/",
+      "title": "Reksturinn betri en áður var ætlað",
+      "sum": "Síldarvinnslan gerir ráð fyrir 21,7 til 23,8 prósenta hærri EBITDA-hagnaði af samstæðu félagsins á árinu en áður hafði verið settur fram í afkomuspá."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/10/thetta_verda_hluthafar_sameinads_felags/": {
+    "first_seen": "2026-11-10T17:04:00.801997+00:00",
+    "record": {
+      "id": "03f7eb4382",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/10/thetta_verda_hluthafar_sameinads_felags/",
+      "title": "Þetta verða hluthafar sameinaðs félags",
+      "sum": "Í hlutafjárútboðinu sem nú er hafið í Bláa lóninu verða gefnir út og seldir 150 milljón nýir hlutir á lágmarksgenginu 95 krónur á hlut, en það samsvarar 14,25 milljörðum. Fyrir eru hlutir í félaginu 875 milljónir."
+    }
+  },
+  "https://www.visir.is/g/20262961196d/logreglan-leitar-ad-manni": {
+    "first_seen": "2026-11-10T17:04:00.801997+00:00",
+    "record": {
+      "id": "427f35fba6",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961196d/logreglan-leitar-ad-manni",
+      "title": "Lög­reglan leitar að manni",
+      "sum": "Lögreglan á Vesturlandi óskar eftir því að ná tali af manninum á myndinni hér fyrir ofan. Það varði rannsókn embættisins."
+    }
+  },
+  "https://www.visir.is/g/20262961161d/borgi-sig-ad-herda-loftslagsadgerdir-frekar-en-ad-greida-fyrir-vanefndir": {
+    "first_seen": "2026-11-10T17:04:00.801997+00:00",
+    "record": {
+      "id": "a6563c211a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961161d/borgi-sig-ad-herda-loftslagsadgerdir-frekar-en-ad-greida-fyrir-vanefndir",
+      "title": "Borgi sig að herða lofts­lagsað­gerðir frekar en að greiða fyrir van­efndir",
+      "sum": "Skynsamlegra er fyrir íslensk stjórnvöld að ráðast í frekari samdrátt gróðurhúsalofttegunda þrátt fyrir að þau standist ekki alþjóðlegar skuldbindingar sínar frekar en að kaupa losunarheimildir fyrir milljarða króna. Ísland stendur sig verst Norðurlandanna í að draga úr losun."
+    }
+  },
+  "https://www.visir.is/g/20262961147d/kallad-eftir-svorum-vardandi-framtid-kristness": {
+    "first_seen": "2026-11-10T17:04:00.801997+00:00",
+    "record": {
+      "id": "953742616e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961147d/kallad-eftir-svorum-vardandi-framtid-kristness",
+      "title": "Kallað eftir svörum varðandi fram­tíð Kristness",
+      "sum": "Fyrir fólk sem þarf að byggja líf sitt upp að nýju eftir alvarleg veikindi eða slys skiptir endurhæfing gríðarlegu máli. Hún getur ráðið því hvort einstaklingur kemst aftur til vinnu, getur búið heima og tekið þátt í daglegu lífi."
+    }
+  },
+  "https://www.visir.is/g/20262961100d/skjalfti-4-5-ad-staerd-i-bardarbungu": {
+    "first_seen": "2026-11-10T17:04:00.801997+00:00",
+    "record": {
+      "id": "086f3a524f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961100d/skjalfti-4-5-ad-staerd-i-bardarbungu",
+      "title": "Skjálfti 4,5 að stærð í Bárðar­bungu",
+      "sum": "Skjálfti 4,5 að stærð varð í Bárðarbungu klukkan 13:37. Enn hafa engir eftirskjálftar fylgt og engar tilkynningar borist Veðurstofu um að hann hafi fundist í byggð."
+    }
+  },
+  "https://www.visir.is/g/20262961087d/vorpudu-thriggja-tonna-sprengju-a-obreytta-borgara": {
+    "first_seen": "2026-11-10T17:04:00.801997+00:00",
+    "record": {
+      "id": "382d8ccfc3",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961087d/vorpudu-thriggja-tonna-sprengju-a-obreytta-borgara",
+      "title": "Vörpuðu þriggja tonna sprengju á ó­breytta borgara",
+      "sum": "Eftir að hafa varpað sprengjum á skóla þar sem tugir óbreyttra úkraínskra borgara höfðu komið saman til að fá mataraðstoð, vörpuðu Rússar um þriggja tonna sprengju á neðanjarðarskýli sem fólkið sem lifði fyrstu árásina af faldi sig í."
+    }
+  },
+  "https://www.visir.is/g/20262961075d/spa-tvofoldun-rekstrarhagnadar-og-meta-blaa-lonid-langt-yfir-utbodsgengi": {
+    "first_seen": "2026-11-10T17:04:00.801997+00:00",
+    "record": {
+      "id": "d3778ae4d0",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961075d/spa-tvofoldun-rekstrarhagnadar-og-meta-blaa-lonid-langt-yfir-utbodsgengi",
+      "title": "Spá tvö­földun rekstrar­hagnaðar og meta Bláa lónið langt yfir út­boðs­gengi",
+      "sum": "Tekjur samstæðu Bláa lónsins gætu meira en tvöfaldast á næstu fimm árum, meðal annars vegna kaupanna á Arctic Adventures og umfangsmikilla fjárfestinga, og samhliða er spáð mikilli aukningu í rekstrarhagnaði og arðsemi, samkvæmt nýrri greiningu í tengslum við útboð félagsins."
+    }
+  },
+  "https://www.visir.is/g/20262961053d/innantom-loford-og-blekkingar": {
+    "first_seen": "2026-11-10T17:04:00.801997+00:00",
+    "record": {
+      "id": "e37f6299ac",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961053d/innantom-loford-og-blekkingar",
+      "title": "Innan­tóm lof­orð og blekkingar",
+      "sum": "Það er orðin mín upplifun að stór hluti þess sem ríkisstjórnin kynnir varðandi framtíðarplön sín í hinum ýmsu málaflokkum og aðrar breytingar í samfélaginu sé lítið annað en ófjármögnuð innantóm fyrirheit."
+    }
+  },
+  "https://www.visir.is/g/20262961046d/segir-landsvirkjun-rada-hvort-nefndin-fai-gognin": {
+    "first_seen": "2026-11-10T17:04:00.801997+00:00",
+    "record": {
+      "id": "b2482157df",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961046d/segir-landsvirkjun-rada-hvort-nefndin-fai-gognin",
+      "title": "Segir Lands­virkjun ráða hvort nefndin fái gögnin",
+      "sum": "Fjármálaráðherra segist ekki hafa séð tölvupósta sem gætu skýrt hvað Herði Arnarsyni, fyrrverandi forstjóra Landsvirkjunar, var sagt þegar fundi hans með ráðherra var frestað í janúar. Ráðherra hyggst ekki óska eftir þeim og vísar til þess að ríkið gæti armslengdar í samskiptum við Landsvirkjun."
+    }
+  },
+  "https://www.visir.is/g/20262960839d/sjadu-mork-numer-fimmtan-og-sextan-hja-bjarka": {
+    "first_seen": "2026-11-10T17:04:00.801997+00:00",
+    "record": {
+      "id": "6218512ac6",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262960839d/sjadu-mork-numer-fimmtan-og-sextan-hja-bjarka",
+      "title": "Sjáðu mörk númer fimm­tán og sex­tán hjá Bjarka",
+      "sum": "Bjarki Hrafn Garðarsson heldur áfram að raða inn mörkum með nítján ára liði Borussia Dortmund."
+    }
+  },
+  "https://www.visir.is/g/20262960980d/verda-gervigreindarpersonur-skattgreidendur-": {
+    "first_seen": "2026-11-10T17:04:00.801997+00:00",
+    "record": {
+      "id": "0f2baea9c6",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262960980d/verda-gervigreindarpersonur-skattgreidendur-",
+      "title": "Verða gervi­greindar­persónur skatt­greiðendur?",
+      "sum": "Í löngu viðtali við Zanny Minton Beddoes, ritstjóra The Economist, sem birtist í ágúst, veltir sagnfræðingurinn Yuval Noah Harari upp spurningu sem hljómar eins og vísindaskáldskapur en er það ekki lengur."
     }
   }
 }
