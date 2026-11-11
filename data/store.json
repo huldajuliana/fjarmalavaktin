@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -17862,6 +17862,66 @@
       "url": "https://www.visir.is/g/20262961267d/myndefni-af-atokunum-komid-ad-godum-notum",
       "title": "Mynd­efni af á­tökunum komið að góðum notum",
       "sum": "Myndefni úr öryggismyndavélum nærri vettvangi þar sem átök brutust út í Breiðholti um þarsíðustu helgi, með þeim afleiðingum að einn lést, hefur nýst lögreglu vel við rannsókn málsins."
+    }
+  },
+  "https://www.visir.is/g/20262961389d/hneyksli-i-beinni-sjadu-hun-er-algjor-skelfing-": {
+    "first_seen": "2026-11-11T01:38:03.525439+00:00",
+    "record": {
+      "id": "1332c482bb",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961389d/hneyksli-i-beinni-sjadu-hun-er-algjor-skelfing-",
+      "title": "Hneyksli í beinni: „Sjáðu, hún er al­gjör skelfing“",
+      "sum": "Forráðamenn sjónvarpsstöðvarinnar beIN Sports í Frakklandi hafa neyðst til að senda frá sér yfirlýsingu eftir að sjónvarpslýsandi, sem hélt að hann væri ekki í útsendingu, lét afar niðrandi ummæli falla í garð einnar bestu tenniskonu heims."
+    }
+  },
+  "https://www.visir.is/g/20262961384d/hagfelld-nidurstada-i-einkaleyfisdeilum-gaeti-hradad-vexti-alvotech-verulega": {
+    "first_seen": "2026-11-11T01:38:03.525439+00:00",
+    "record": {
+      "id": "014b2f4fbb",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961384d/hagfelld-nidurstada-i-einkaleyfisdeilum-gaeti-hradad-vexti-alvotech-verulega",
+      "title": "Hag­felld niður­staða í einka­leyfis­deilum gæti hraðað vexti Al­vot­ech veru­lega",
+      "sum": "Alvotech er sagt standa á tímamótum eftir erfiðleika í framleiðslu og að verulegur vöxtur í tekjum og afkomu sé framundan, samkvæmt fyrstu greiningu Jefferis sem verðmetur félagið nærri tvöfalt hærra en núverandi markaðsgengi."
+    }
+  },
+  "https://www.visir.is/g/20262961346d/-frabaer-byrjun-ad-vilhjalmur-liti-i-eigin-barm": {
+    "first_seen": "2026-11-11T01:38:03.525439+00:00",
+    "record": {
+      "id": "a427a9e74a",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961346d/-frabaer-byrjun-ad-vilhjalmur-liti-i-eigin-barm",
+      "title": "„Frá­bær byrjun“ að Vil­hjálmur líti í eigin barm",
+      "sum": "Formaður Neytendasamtakanna segist sammála formanni Starfsgreinasambandsins um að meira aðhald þurfi með fyrirtækjum landsins sem skili ekki gengislækkunum út í verðlag. Hann eigi þó að líta í eigin barm enda skipi hann í stjórnir lífeyrissjóða, stærstu eigenda íslenskra fyrirtækja."
+    }
+  },
+  "https://www.visir.is/g/20262961352d/markle-sagdur-hafa-fjarlaegt-okklabandid": {
+    "first_seen": "2026-11-11T01:38:03.525439+00:00",
+    "record": {
+      "id": "460f3d96dc",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-10",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961352d/markle-sagdur-hafa-fjarlaegt-okklabandid",
+      "title": "Markle sagður hafa fjar­lægt ökklabandið",
+      "sum": "Thomas Markle, faðir Meghan Markle hertogaynjunnar af Sussex, hefur verið hnepptur í varðhald grunaður um að hafa fjarlægt ökklaband sitt. Hann var handtekinn á föstudaginn vegna rannsóknar á barnaníðsefni sem fannst á heimili hans og gert að sæta stofufangelsi."
     }
   }
 }
