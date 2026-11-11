@@ -18208,5 +18208,65 @@
       "title": "„Geysi­lega mikil­vægt að Þór­katla hlusti vel í kvöld“",
       "sum": "Bæjarstjóri segir mikilvægt að tekið verði tillit til athugasemda íbúa í Grindavíkur varðandi endurkaup á húsnæði. Áætlun Þórkötlu þess efnis verður kynnt fyrir á íbúafundi síðdegis í dag. Minningarstund fór fram í gær í tilefni af því að þrjú ár eru síðan fyrsta rýming hófst í bænum vegna eldsumbrota á svæðinu."
     }
+  },
+  "https://www.visir.is/g/20262961885d/kvaddi-keflavik-eftir-sextan-timabil-en-for-ekki-langt": {
+    "first_seen": "2026-11-11T21:00:31.977807+00:00",
+    "record": {
+      "id": "728e7d844d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-11",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961885d/kvaddi-keflavik-eftir-sextan-timabil-en-for-ekki-langt",
+      "title": "Kvaddi Kefla­vík eftir sex­tán tíma­bil en fór ekki langt",
+      "sum": "Knattspyrnumaðurinn Frans Elvarsson er genginn í raðir Njarðvíkur frá Keflavík og mun bæði spila með Njarðvík og sinna styrktarþjálfun meistaraflokks karla."
+    }
+  },
+  "https://www.visir.is/g/20262961862d/hitafundur-i-grindavik-vid-treystum-ykkur-ekki-": {
+    "first_seen": "2026-11-11T21:00:31.977807+00:00",
+    "record": {
+      "id": "8801b1f21b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-11",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961862d/hitafundur-i-grindavik-vid-treystum-ykkur-ekki-",
+      "title": "Hitafundur í Grinda­vík: „Við treystum ykkur ekki“",
+      "sum": "Töluverður hiti var á fundi fasteignafélagsins Þórkötlu þar sem endurkaupaáætlun var kynnt fyrir Grindvíkingum. Íbúar sögðust ekki treysta félaginu og gagnrýndu ákvarðanir þess harðlega. Einn þeirra vísaði í að samskipti félagsins og íbúanna væru líkt og stríð."
+    }
+  },
+  "https://www.visir.is/g/20262961852d/fyrirsjaanleiki-med-fyrirvara-eda-fyrirvari-a-fyrirsjaanleika": {
+    "first_seen": "2026-11-11T21:00:31.977807+00:00",
+    "record": {
+      "id": "2070355b16",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-11",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961852d/fyrirsjaanleiki-med-fyrirvara-eda-fyrirvari-a-fyrirsjaanleika",
+      "title": "Fyrirsjáanleiki með fyrir­vara eða fyrir­vari á fyrirsjáanleika",
+      "sum": "Í frétt Vísis 10. nóvember 2026 er fjallað um gagnrýni tveggja ferðaþjónustu Rannveiga, Rannveigu Snorradóttir framkvæmdastjóri Obeo Travel og Rannveigu Grétarsdóttir framkvæmdastjóri Eldingar, á fyrirhugaðar skatt- og gjaldabreytingar í ferðaþjónustu."
+    }
+  },
+  "https://www.visir.is/g/20262961847d/david-vill-toppa-aedislegt-ar-draumarnir-eru-ad-raetast-": {
+    "first_seen": "2026-11-11T21:00:31.977807+00:00",
+    "record": {
+      "id": "fce9dfd9ce",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-11",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961847d/david-vill-toppa-aedislegt-ar-draumarnir-eru-ad-raetast-",
+      "title": "Davíð vill toppa æðis­legt ár: „Draumarnir eru að rætast“",
+      "sum": "Ferill miðvarðarins unga Davíðs Helga Aronssonar hefur svo sannarlega farið á algjört flug á þessu ári. Hann er kokhraustur fyrir einvígið við Grikkland en veit að leikirnir verða erfiðir um sæti í lokakeppni EM U21-landsliða."
+    }
   }
 }
