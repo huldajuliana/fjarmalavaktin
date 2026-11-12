@@ -18508,5 +18508,80 @@
       "title": "Afkoma fyrirtÃ¦kja nÃ¦r Ã³breytt Ã¡riÃ° 2025",
       "sum": ""
     }
+  },
+  "https://www.visir.is/g/20262962180d/segir-rannsoknir-a-trump-mogulega-glaepsamlegar": {
+    "first_seen": "2026-11-12T21:16:28.557512+00:00",
+    "record": {
+      "id": "575528bcbd",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962180d/segir-rannsoknir-a-trump-mogulega-glaepsamlegar",
+      "title": "Segir rann­sóknir á Trump mögu­lega glæp­sam­legar",
+      "sum": "Æðsti lögmaður Hvíta hússins hefur sent bréf til þinghússins þar sem hann varaði Demókrata við því að rannsóknir þingmanna á störfum starfsmanna Hvíta hússins og embættismanna framkvæmdavaldsins, gætu verið glæpsamlegar."
+    }
+  },
+  "https://www.visir.is/g/20262962383d/leik-lokid-kr-hottur-112-92-sigurganga-kr-inga-heldur-afram": {
+    "first_seen": "2026-11-12T21:16:28.557512+00:00",
+    "record": {
+      "id": "ad8d6bcac1",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962383d/leik-lokid-kr-hottur-112-92-sigurganga-kr-inga-heldur-afram",
+      "title": "Leik lokið: KR - Höttur 112-92| Sigur­ganga KR-inga heldur á­fram",
+      "sum": "KR vann tuttugu stiga sigur gegn Hetti. Jafnræði var með liðunum farandi inn í fjórða leikhluta en KR-ingar sýndu af hverju þeir hafa ekki tapað leik á tímabilinu. KR vann að lokum 112-92. uppgjör og viðtöl væntanleg."
+    }
+  },
+  "https://www.visir.is/g/20262962479d/til-hamingju-med-hagnadinn-": {
+    "first_seen": "2026-11-12T21:16:28.557512+00:00",
+    "record": {
+      "id": "c6bb5633d0",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962479d/til-hamingju-med-hagnadinn-",
+      "title": "Til hamingju með hagnaðinn?",
+      "sum": "„Frábær niðurstaða. Hagnaðurinn er mun meiri en í fyrra” Þú situr í stjórn og forstjórinn kynnir uppgjörið. Kostnaður hefur lækkað. Þjálfun starfsfólks var skorin niður, markaðsverkefnum frestað, fólki sagt upp og innleiðing nýs kerfis látin bíða. Salan var stöðug. Tölurnar líta vel út."
+    }
+  },
+  "https://www.visir.is/g/20262962388d/njardvik-armann-stigalaus-lid-slast-um-sigur": {
+    "first_seen": "2026-11-12T21:16:28.557512+00:00",
+    "record": {
+      "id": "f034af3b33",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962388d/njardvik-armann-stigalaus-lid-slast-um-sigur",
+      "title": "Njarð­vík - Ár­mann | Stigalaus lið slást um sigur",
+      "sum": "Hér fer fram bein textalýsing frá botnslag Njarðvíkur og Ármanns í sjöttu umferð Bónus deildar karla í körfubolta. Flautað verður til leiks í Njarðvík klukkan korter fyrir sjö í kvöld. Liðin eru í botnsætum deildarinnar án stiga til þessa. Leikurinn er sýndur í beinni útsendingu á Sýn Sport Ísland 4."
+    }
+  },
+  "https://www.visir.is/g/20262962394d/stjarnan-keflavik-tvo-lid-a-siglingu-maetast": {
+    "first_seen": "2026-11-12T21:16:28.557512+00:00",
+    "record": {
+      "id": "4f044a736a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962394d/stjarnan-keflavik-tvo-lid-a-siglingu-maetast",
+      "title": "Stjarnan - Kefla­vík | Tvö lið á siglingu mætast",
+      "sum": "Hér fer fram bein textalýsing frá leik Stjörnunnar og Keflavíkur í sjöttu umferð Bónus deildar karla í körfubolta. Flautað verður til leiks í ÞG Verk höllinni í Garðabæ klukkan korter yfir sjö og er leikurinn sýndur í beinni útsendingu á Sýn Sport Ísland 3."
+    }
   }
 }
