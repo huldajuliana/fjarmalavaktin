@@ -18313,5 +18313,200 @@
       "title": "Hélt að þau væru hólpin fram að ára­mótum",
       "sum": "Framkvæmdastjóri Samtaka fyrirtækja á veitingamarkaði (SVEIT) segir lokun Hamborgarafabrikkunnar og Hlöllabáta á Bíldshöfða í Reykjavík vera alvarleg tíðindi. Staðirnir voru innsiglaðir af lögreglu að beiðni skattayfirvalda í dag."
     }
+  },
+  "https://sa.is/frettatengt/frettir/auknar-byrðar-a-fyrirtæki-þvert-a-markmið-um-einfoldun": {
+    "first_seen": "2026-11-12T17:36:28.332289+00:00",
+    "record": {
+      "id": "9322fc3320",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "Samtök atvinnulífsins",
+      "url": "https://sa.is/frettatengt/frettir/auknar-byrðar-a-fyrirtæki-þvert-a-markmið-um-einfoldun",
+      "title": "Auknar byrðar á fyrirtæki þvert á markmið um einföldun",
+      "sum": "SA vara við auknum byrðum á fyrirtæki vegna reglna um erlendar fjárfestingar og skýrslugjöf um kynbundinn launamun. Kallað er eftir endurskoðun í samræmi við markmið um einföldun."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/12/nvidia_i_frjalsu_falli/": {
+    "first_seen": "2026-11-12T17:36:28.332289+00:00",
+    "record": {
+      "id": "0efb31dfdc",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/12/nvidia_i_frjalsu_falli/",
+      "title": "Nvidia í frjálsu falli",
+      "sum": "Hlutabréf í bandaríska tæknirisanum Nvidia féllu um 13% við upphaf viðskipta í kauphöllinni í New York í dag eftir að Jensen Huang, stofnandi og forstjóri félagsins, lét af störfum í kjölfar hneykslismáls."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/12/afkoman_mun_taka_kipp_a_naesta_ari/": {
+    "first_seen": "2026-11-12T17:36:28.332289+00:00",
+    "record": {
+      "id": "2ec7fbd46c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/12/afkoman_mun_taka_kipp_a_naesta_ari/",
+      "title": "Afkoman mun taka kipp á næsta ári",
+      "sum": "Þó svo að sumum þyki þungt yfir mörkuðum um þessar mundir neitar Elvar Karlsson því að tímasetning hlutafjárútboðs Bláa lónsins kunni að vera óheppileg."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/12/vilja_heyra_af_hindrunum_i_utanrikisvidskiptum/": {
+    "first_seen": "2026-11-12T17:36:28.332289+00:00",
+    "record": {
+      "id": "513cf24519",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/12/vilja_heyra_af_hindrunum_i_utanrikisvidskiptum/",
+      "title": "Vilja heyra af hindrunum í utanríkisviðskiptum",
+      "sum": "Sérstaklega er leitað eftir ábendingum um sóknarfæri á erlendum mörkuðum, viðskiptahindranir og hvernig stjórnvöld geti betur stutt við hagsmuni íslensks atvinnulífs."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/12/landsbankinn_telur_styttast_i_vaxtalaekkun/": {
+    "first_seen": "2026-11-12T17:36:28.332289+00:00",
+    "record": {
+      "id": "befc908b7e",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/12/landsbankinn_telur_styttast_i_vaxtalaekkun/",
+      "title": "Landsbankinn telur styttast í vaxtalækkun",
+      "sum": "Deildin telur þó að farið sé að styttast í vaxtalækkun."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/12/amaroq_hagnadist_um_2_1_milljard/": {
+    "first_seen": "2026-11-12T17:36:28.332289+00:00",
+    "record": {
+      "id": "123f672316",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/12/amaroq_hagnadist_um_2_1_milljard/",
+      "title": "Amaroq hagnaðist um 2,1 milljarð",
+      "sum": "Hagnaður námufélagsins Amaroq nam 24,4 milljónum kanadadala, jafnvirði um 2,1 milljarðs króna, á þriðja ársfjórðungi ársins."
+    }
+  },
+  "https://www.visir.is/g/20262962263d/faglegar-stjornir-eda-politisk-skiptimynt-": {
+    "first_seen": "2026-11-12T17:36:28.332289+00:00",
+    "record": {
+      "id": "f537aadce2",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962263d/faglegar-stjornir-eda-politisk-skiptimynt-",
+      "title": "Fag­legar stjórnir eða pólitísk skipti­mynt?",
+      "sum": "„Í frumvarpinu er lagt til að viðhalda því fyrirkomulagi að sérstök valnefnd leggi fram tillögur um einstaklinga í stjórnir þeirra fjármálafyrirtækja sem eru í eigu ríkisins."
+    }
+  },
+  "https://www.visir.is/g/20262962270d/danir-laekka-fyrirtaekjaskatta-i-fyrsta-sinn-i-aratug-til-ad-efla-samkeppnishaefni": {
+    "first_seen": "2026-11-12T17:36:28.332289+00:00",
+    "record": {
+      "id": "acbfb66d8a",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962270d/danir-laekka-fyrirtaekjaskatta-i-fyrsta-sinn-i-aratug-til-ad-efla-samkeppnishaefni",
+      "title": "Danir lækka fyrir­tækja­skatta í fyrsta sinn í ára­tug til að efla sam­keppnis­hæfni",
+      "sum": "Danska ríkisstjórnin hefur náð samkomulagi um umfangsmiklar skattalækkanir til að styrkja samkeppnishæfni atvinnulífsins og hvetja til fjárfestinga. Fyrirtækjaskattur verður meðal annars lækkaður úr 22 í 19 prósent á næstu þremur árum, auk þess sem dregið verður úr ýmsum álögum og skattlagningu einstaklinga."
+    }
+  },
+  "https://www.visir.is/g/20262962247d/haettir-sem-forstjori-nvidia": {
+    "first_seen": "2026-11-12T17:36:28.332289+00:00",
+    "record": {
+      "id": "b9886390bc",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962247d/haettir-sem-forstjori-nvidia",
+      "title": "Hættir sem for­stjóri Nvidia",
+      "sum": "Jansen Huang hefur ákveðið að hætta sem forstjóri og stjórnarmaður Nvidia. Fjármálastjóri félagsins, Colette Kress, tekur tímabundið við sem forstjóri og mun gegna báðum störfum þar til nýr forstjóri hefur verið ráðinn."
+    }
+  },
+  "https://www.visir.is/g/20262962215d/betri-rekstur-og-aukin-samlegd-lyfta-upp-verdmati-beru": {
+    "first_seen": "2026-11-12T17:36:28.332289+00:00",
+    "record": {
+      "id": "4f08868947",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962215d/betri-rekstur-og-aukin-samlegd-lyfta-upp-verdmati-beru",
+      "title": "Betri rekstur og aukin sam­legð lyfta upp verðmati Beru",
+      "sum": "Rekstur Beru á fyrri helmingi rekstrarársins var talsvert betri en greinendur höfðu gert ráð fyrir og hefur verðmat félagsins verið hækkað lítillega. Ný félög innan samstæðunnar hafa styrkt afkomuna verulega, en rannsókn Samkeppniseftirlitsins hefur hins vegar neikvæð áhrif á verðmatið vegna aukinnar áhættu."
+    }
+  },
+  "https://www.visir.is/g/20262962137d/christensen-um-hundrad-ara-peningastefnu-thad-hefur-thvi-midur-ekki-gengid-vel-": {
+    "first_seen": "2026-11-12T17:36:28.332289+00:00",
+    "record": {
+      "id": "e15e7bf89a",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962137d/christensen-um-hundrad-ara-peningastefnu-thad-hefur-thvi-midur-ekki-gengid-vel-",
+      "title": "Christensen um hundrað ára peninga­stefnu: „Það hefur því miður ekki gengið vel“",
+      "sum": "Danski hagfræðingurinn Lars Christensen ritar pistil á Facebook í tilefni af því að íslensk peningastefna verður hundrað ára á næsta ári. Hann segir að hún hafi ekki gengið vel. Vert er þó að nefna að hann fjallar ekki um aðra anga efnahagsmála en gengi krónunnar og verðbólgu."
+    }
+  },
+  "https://www.visir.is/g/20262962023d/landslidsthjalfari-spanar-gagnrynir-hardlega-lygar-um-lamine-yamal": {
+    "first_seen": "2026-11-12T17:36:28.332289+00:00",
+    "record": {
+      "id": "9aa9f7340e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962023d/landslidsthjalfari-spanar-gagnrynir-hardlega-lygar-um-lamine-yamal",
+      "title": "Lands­liðs­þjálfari Spánar gagn­rýnir harð­lega „lygar“ um Lamine Yamal",
+      "sum": "Luis de la Fuente, landsliðsþjálfari Spánar í knattspyrnu, taldi ástæðu til að koma Lamine Yamal til varnar vegna ásakana um að leikmaður Barcelona nyti sérmeðferðar eftir að framherjanum var leyft að mæta seinna en aðrir leikmenn hópsins í æfingabúðir landsliðsins."
+    }
+  },
+  "https://hagstofa.is/utgafur/frettasafn/fyrirtaeki/rekstrar-og-efnahagsyfirlit-2025/": {
+    "first_seen": "2026-11-12T17:36:28.332289+00:00",
+    "record": {
+      "id": "1324abc761",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "Hagstofan",
+      "url": "https://hagstofa.is/utgafur/frettasafn/fyrirtaeki/rekstrar-og-efnahagsyfirlit-2025/",
+      "title": "Afkoma fyrirtÃ¦kja nÃ¦r Ã³breytt Ã¡riÃ° 2025",
+      "sum": ""
+    }
   }
 }
