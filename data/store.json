@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -18267,6 +18267,51 @@
       "url": "https://www.visir.is/g/20262961847d/david-vill-toppa-aedislegt-ar-draumarnir-eru-ad-raetast-",
       "title": "Davíð vill toppa æðis­legt ár: „Draumarnir eru að rætast“",
       "sum": "Ferill miðvarðarins unga Davíðs Helga Aronssonar hefur svo sannarlega farið á algjört flug á þessu ári. Hann er kokhraustur fyrir einvígið við Grikkland en veit að leikirnir verða erfiðir um sæti í lokakeppni EM U21-landsliða."
+    }
+  },
+  "https://www.visir.is/g/20262961512d/gylfi-maetti-ut-ad-aefa-langt-a-undan-landslidinu": {
+    "first_seen": "2026-11-12T02:38:30.646009+00:00",
+    "record": {
+      "id": "7d84cee115",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-11",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961512d/gylfi-maetti-ut-ad-aefa-langt-a-undan-landslidinu",
+      "title": "Gylfi mætti út að æfa langt á undan lands­liðinu",
+      "sum": "Gylfi Þór Sigurðsson hafði tekið nokkrar æfingar einn á La Finca-svæðinu á Spáni áður en félaga hans í landsliðinu bar að garði. Gylfi hefur lagt mikið í það að halda sér í sem bestu standi eftir að keppni í Bestu deild karla lauk."
+    }
+  },
+  "https://www.visir.is/g/20262961939d/ungbarn-grafid-lifandi-i-hundaburi-i-solarhring": {
+    "first_seen": "2026-11-12T02:38:30.646009+00:00",
+    "record": {
+      "id": "97040bb347",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-11",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961939d/ungbarn-grafid-lifandi-i-hundaburi-i-solarhring",
+      "title": "Ung­barn grafið lifandi í hunda­búri í sólar­hring",
+      "sum": "Hátt í hundrað viðbragðsaðilar tóku þátt í leit að ellefu mánaða gömlum dreng í Suður-Karólínu í Bandaríkjunum. Eftir að leit hafði staðið yfir í heilan sólarhring uppgötvaðist nýlega hreyfður jarðvegur í skógi skammt frá heimili afa hans á mánudag."
+    }
+  },
+  "https://www.visir.is/g/20262961899d/helt-ad-thau-vaeru-holpin-fram-ad-aramotum": {
+    "first_seen": "2026-11-12T02:38:30.646009+00:00",
+    "record": {
+      "id": "43c3d8024f",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-11",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262961899d/helt-ad-thau-vaeru-holpin-fram-ad-aramotum",
+      "title": "Hélt að þau væru hólpin fram að ára­mótum",
+      "sum": "Framkvæmdastjóri Samtaka fyrirtækja á veitingamarkaði (SVEIT) segir lokun Hamborgarafabrikkunnar og Hlöllabáta á Bíldshöfða í Reykjavík vera alvarleg tíðindi. Staðirnir voru innsiglaðir af lögreglu að beiðni skattayfirvalda í dag."
     }
   }
 }
