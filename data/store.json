@@ -18658,5 +18658,125 @@
       "title": "Upp­gjörið: Stjarnan - Kefla­vík 113-94 | Kviknað á Garðbæingum",
       "sum": "Stjarnan vann sinn þriðja leik í röð í Bónus deild karla í körfubolta þegar liðið lagði Keflavík að velli, 113–94, í ÞG Verk höllinni í Garðabæ. Stjörnumenn lögðu grunninn að sigrinum með frábærum þriðja leikhluta sem þeir unnu með sautján stiga mun."
     }
+  },
+  "https://sa.is/frettatengt/frettir/menntun-þarf-að-opna-fleiri-tækifæri": {
+    "first_seen": "2026-11-13T17:13:45.502144+00:00",
+    "record": {
+      "id": "2d6fd9c767",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-13",
+      "src": "Samtök atvinnulífsins",
+      "url": "https://sa.is/frettatengt/frettir/menntun-þarf-að-opna-fleiri-tækifæri",
+      "title": "Menntun þarf að opna fyrir fleiri tækifæri",
+      "sum": "SA og fleiri samtök í atvinnulífinu kalla eftir metnaðarfyllri markmiðum um lesskilning, fleiri iðnnámsplássum og greiðari leiðum fyrir fullorðna til að ljúka námi."
+    }
+  },
+  "https://www.mbl.is/200milur/frettir/2026/11/13/tap_kaldvikur_nam_2_6_milljordum/": {
+    "first_seen": "2026-11-13T17:13:45.502144+00:00",
+    "record": {
+      "id": "b5bfbe1391",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-13",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/200milur/frettir/2026/11/13/tap_kaldvikur_nam_2_6_milljordum/",
+      "title": "Tap Kaldvíkur nam 2,6 milljörðum",
+      "sum": "Uppsafnað rekstrartap sjókvíaeldisfyrirtækisins Kaldvíkur fyrstu níu mánuði ársins er næstum tvöföld upphæð sama tímabils í fyrra. Fyrirtækið birti ársfjórðungsuppgjör sitt í morgun."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/13/tugir_milljarda_i_suginn_arlega/": {
+    "first_seen": "2026-11-13T17:13:45.502144+00:00",
+    "record": {
+      "id": "9338d7e3f3",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-13",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/13/tugir_milljarda_i_suginn_arlega/",
+      "title": "Tugir milljarða í súginn árlega",
+      "sum": "„Íþyngjandi regluverk og óskilvirkni stofnana hefur veruleg áhrif á fyrirtæki innan raða samtakanna,“ segir Sigurður Hannesson."
+    }
+  },
+  "https://www.visir.is/g/20262962594d/thurfti-ad-fara-af-velli-med-skemmda-tonn": {
+    "first_seen": "2026-11-13T17:13:45.502144+00:00",
+    "record": {
+      "id": "42290efd2f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-13",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962594d/thurfti-ad-fara-af-velli-med-skemmda-tonn",
+      "title": "Þurfti að fara af velli með skemmda tönn",
+      "sum": "Franski knattspyrnumaðurinn Desire Doue varð að fara af velli vegna tannmeiðsla í tapi Frakklands gegn Ítalíu í Þjóðadeildinni í gærkvöldi."
+    }
+  },
+  "https://www.visir.is/g/20262962772d/ardur-leysir-hord-ekki-undan-abyrgd": {
+    "first_seen": "2026-11-13T17:13:45.502144+00:00",
+    "record": {
+      "id": "8e9c7d4db4",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-13",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962772d/ardur-leysir-hord-ekki-undan-abyrgd",
+      "title": "Arður leysir Hörð ekki undan á­byrgð",
+      "sum": "Þegar stjórnartíð Harðar Arnarsonar hjá Landsvirkjun er gerð upp nægir ekki að telja arðgreiðslur og lækkun skulda."
+    }
+  },
+  "https://www.visir.is/g/20262962770d/island-er-ekki-fyrirtaeki": {
+    "first_seen": "2026-11-13T17:13:45.502144+00:00",
+    "record": {
+      "id": "72af014d01",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-13",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962770d/island-er-ekki-fyrirtaeki",
+      "title": "Ís­land er ekki fyrir­tæki",
+      "sum": "Í vor kynnti ríkisstjórnin Atvinnustefnu Íslands, vaxtarplan til ársins 2035. Í stefnunni sakna ég spurninganna sem ættu að koma á undan öllum hinum: Hvers konar þjóð erum við og hvers konar þjóð viljum við verða."
+    }
+  },
+  "https://www.visir.is/g/20262962782d/yfir-fimm-hundrud-kvenleidtogar-koma-saman": {
+    "first_seen": "2026-11-13T17:13:45.502144+00:00",
+    "record": {
+      "id": "c7eb7d5a05",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-13",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962782d/yfir-fimm-hundrud-kvenleidtogar-koma-saman",
+      "title": "Yfir fimm hundruð kven­leið­togar koma saman",
+      "sum": "Heimsþing kvenleiðtoga, Reykjavík Global Forum, hefst á sunnudaginn og stendur fram á þriðjudag. Yfirskrift þingsins er „Power, Together for Community“ að þessu sinni og munu yfir fimm hundruð leiðtogar frá tæplega níutíu löndum koma saman til að ræða lýðræði, jafnrétti, frið, efnahagslegt öryggi og alþjóðlegt …"
+    }
+  },
+  "https://www.visir.is/g/20262962754d/spa-thvi-ad-ny-thjodhagsspa-verdi-sidasti-naglinn-i-likkistu-hallalausra-fjarlaga": {
+    "first_seen": "2026-11-13T17:13:45.502144+00:00",
+    "record": {
+      "id": "3b5dda79f4",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-13",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962754d/spa-thvi-ad-ny-thjodhagsspa-verdi-sidasti-naglinn-i-likkistu-hallalausra-fjarlaga",
+      "title": "Spá því að ný þjóðhags­spá verði „síðasti naglinn í lík­kistu“ halla­lausra fjár­laga",
+      "sum": "Þrátt fyrir versnandi efnahagshorfur og vaxandi slaka á vinnumarkaði þá þarf sennilega að bíða fram í maí eftir næstu vaxtalækkun Seðlabankans þegar verðbólgan hefur hjaðnan nægilega mikið, að mati greinenda Acro."
+    }
   }
 }
