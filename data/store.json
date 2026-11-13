@@ -18778,5 +18778,50 @@
       "title": "Spá því að ný þjóðhags­spá verði „síðasti naglinn í lík­kistu“ halla­lausra fjár­laga",
       "sum": "Þrátt fyrir versnandi efnahagshorfur og vaxandi slaka á vinnumarkaði þá þarf sennilega að bíða fram í maí eftir næstu vaxtalækkun Seðlabankans þegar verðbólgan hefur hjaðnan nægilega mikið, að mati greinenda Acro."
     }
+  },
+  "https://www.visir.is/g/20262962950d/tveir-midverdir-ur-leik-hja-landslidinu": {
+    "first_seen": "2026-11-13T20:43:08.725007+00:00",
+    "record": {
+      "id": "b50713ed1a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-13",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962950d/tveir-midverdir-ur-leik-hja-landslidinu",
+      "title": "Tveir miðverðir úr leik hjá lands­liðinu",
+      "sum": "Þeir Stefán Teitur Þórðarson og Hörður Björgvin Magnússon munu ekki spila leik Íslands við Lúxemborg á Laugardalsvelli. Miðvarðastaða liðsins er afskaplega þunnskipuð."
+    }
+  },
+  "https://www.visir.is/g/20262962921d/vill-efna-til-sofnunar-fyrir-hjolhysabyggdina": {
+    "first_seen": "2026-11-13T20:43:08.725007+00:00",
+    "record": {
+      "id": "dd73c43c82",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-13",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962921d/vill-efna-til-sofnunar-fyrir-hjolhysabyggdina",
+      "title": "Vill efna til söfnunar fyrir hjól­hýsa­byggðina",
+      "sum": "Inga Sæland, mennta- og barnamálaráðherra, segist ætla að efna til söfnunar fyrir íbúa í hjólhýsabyggð í Reykjavík. Hún fer hörðum orðum um meirihluta borgarstjórnar og segir ákvarðanir hans til skammar."
+    }
+  },
+  "https://www.visir.is/g/20262962915d/tiundi-madurinn-i-gaesluvardhaldi": {
+    "first_seen": "2026-11-13T20:43:08.725007+00:00",
+    "record": {
+      "id": "2de18016e9",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-13",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962915d/tiundi-madurinn-i-gaesluvardhaldi",
+      "title": "Tíundi maðurinn í gæslu­varð­haldi",
+      "sum": "Erlendur ríkisborgari var í gær úrskurðaður í fjögurra vikna gæsluvarðhald í tengslum við Straumsvíkurmálið svokallaða. Maðurinn er sá tíundi sem sætir gæsluvarðahaldi vegna málsins."
+    }
   }
 }
