@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -18502,7 +18502,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fyrirtaeki/rekstrar-og-efnahagsyfirlit-2025/",
       "title": "Afkoma fyrirtÃ¦kja nÃ¦r Ã³breytt Ã¡riÃ° 2025",
@@ -18582,6 +18582,81 @@
       "url": "https://www.visir.is/g/20262962394d/stjarnan-keflavik-tvo-lid-a-siglingu-maetast",
       "title": "Stjarnan - Kefla­vík | Tvö lið á siglingu mætast",
       "sum": "Hér fer fram bein textalýsing frá leik Stjörnunnar og Keflavíkur í sjöttu umferð Bónus deildar karla í körfubolta. Flautað verður til leiks í ÞG Verk höllinni í Garðabæ klukkan korter yfir sjö og er leikurinn sýndur í beinni útsendingu á Sýn Sport Ísland 3."
+    }
+  },
+  "https://www.visir.is/g/20262962553d/skjalfti-ad-staerdinni-4-2": {
+    "first_seen": "2026-11-13T02:19:03.853214+00:00",
+    "record": {
+      "id": "40841db3f4",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962553d/skjalfti-ad-staerdinni-4-2",
+      "title": "Skjálfti að stærðinni 4,2",
+      "sum": "Skjálfti af stæðrinni 4,2 varð í Bárðabungu rétt fyrir klukkan tíu."
+    }
+  },
+  "https://www.visir.is/g/20262962388d/uppgjorid-njardvik-armann-107-97-langthradur-sigur-njardvikinga": {
+    "first_seen": "2026-11-13T02:19:03.853214+00:00",
+    "record": {
+      "id": "6a8caf4f6c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962388d/uppgjorid-njardvik-armann-107-97-langthradur-sigur-njardvikinga",
+      "title": "Upp­gjörið: Njarð­vík - Ár­mann 107-97| Lang­þráður sigur Njarðvíkinga",
+      "sum": "Njarðvík tók á móti Ármann í 6. umferð Bónus deild karla í IceMar höllinni í kvöld. Bæði lið voru í leit af sínum fyrsta sigri í deildinni svo það var til mikils að vinna í kvöld."
+    }
+  },
+  "https://www.visir.is/g/20262962519d/-nuna-er-bara-ad-spyrna-okkur-fra-botninum-": {
+    "first_seen": "2026-11-13T02:19:03.853214+00:00",
+    "record": {
+      "id": "5dca3b9626",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962519d/-nuna-er-bara-ad-spyrna-okkur-fra-botninum-",
+      "title": "„Núna er bara að spyrna okkur frá botninum“",
+      "sum": "Njarðvíkingar unnu sinn fyrsta sigur í Bónus deild karla á tímabilinu þegar þeir höfðu betur gegn Ármann með tíu stiga mun 107-97 í IceMar höllinni í kvöld. Brynjar Kári Gunnarsson átti frábæran leik fyrir Njarðvík og ræddi við Vísi eftir leik."
+    }
+  },
+  "https://www.visir.is/g/20262962383d/uppgjorid-kr-hottur-112-92-sigurganga-kr-inga-heldur-afram": {
+    "first_seen": "2026-11-13T02:19:03.853214+00:00",
+    "record": {
+      "id": "93528ad9da",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962383d/uppgjorid-kr-hottur-112-92-sigurganga-kr-inga-heldur-afram",
+      "title": "Upp­gjörið: KR - Höttur 112-92| Sigur­ganga KR-inga heldur á­fram",
+      "sum": "KR vann tuttugu stiga sigur gegn Hetti. Jafnræði var með liðunum farandi inn í fjórða leikhluta en KR-ingar sýndu af hverju þeir hafa ekki tapað leik á tímabilinu. KR vann að lokum 112-92. uppgjör og viðtöl væntanleg."
+    }
+  },
+  "https://www.visir.is/g/20262962394d/uppgjorid-stjarnan-keflavik-113-94-kviknad-a-gardbaeingum": {
+    "first_seen": "2026-11-13T02:19:03.853214+00:00",
+    "record": {
+      "id": "fce72d3fa6",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-12",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962394d/uppgjorid-stjarnan-keflavik-113-94-kviknad-a-gardbaeingum",
+      "title": "Upp­gjörið: Stjarnan - Kefla­vík 113-94 | Kviknað á Garðbæingum",
+      "sum": "Stjarnan vann sinn þriðja leik í röð í Bónus deild karla í körfubolta þegar liðið lagði Keflavík að velli, 113–94, í ÞG Verk höllinni í Garðabæ. Stjörnumenn lögðu grunninn að sigrinum með frábærum þriðja leikhluta sem þeir unnu með sautján stiga mun."
     }
   }
 }
