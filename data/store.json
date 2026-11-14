@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -18502,7 +18502,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fyrirtaeki/rekstrar-og-efnahagsyfirlit-2025/",
       "title": "Afkoma fyrirtÃ¦kja nÃ¦r Ã³breytt Ã¡riÃ° 2025",
@@ -18822,6 +18822,66 @@
       "url": "https://www.visir.is/g/20262962915d/tiundi-madurinn-i-gaesluvardhaldi",
       "title": "Tíundi maðurinn í gæslu­varð­haldi",
       "sum": "Erlendur ríkisborgari var í gær úrskurðaður í fjögurra vikna gæsluvarðhald í tengslum við Straumsvíkurmálið svokallaða. Maðurinn er sá tíundi sem sætir gæsluvarðahaldi vegna málsins."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/13/blaa_lonid_milljards_umframeftirspurn/": {
+    "first_seen": "2026-11-14T01:55:56.574244+00:00",
+    "record": {
+      "id": "4dff0a8d04",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-13",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/13/blaa_lonid_milljards_umframeftirspurn/",
+      "title": "Bláa lónið: Milljarðs umframeftirspurn",
+      "sum": "Alls bárust tæplega fjögur þúsund áskriftir að hlutum í almennu hlutafjárútboði Bláa Lónsins, að andvirði um 15,3 milljarða króna. Útboðinu lauk klukkan 16 í dag og nam heildarsöluandvirði þess tæpum 14,3 milljörðum króna."
+    }
+  },
+  "https://www.visir.is/g/20262962976d/eftirspurn-orlitid-umfram-frambod": {
+    "first_seen": "2026-11-14T01:55:56.574244+00:00",
+    "record": {
+      "id": "8d6980f07c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-13",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962976d/eftirspurn-orlitid-umfram-frambod",
+      "title": "Eftir­spurn ör­lítið um­fram fram­boð",
+      "sum": "Bláa lónið seldi 150 milljónir hluta fyrir tæpa 14,3 milljarða króna í almennu hlutafjárútboði sem lauk klukkan 16 í dag. Gengið sem boðið var upp á var 95 krónur á hlut."
+    }
+  },
+  "https://www.visir.is/g/20262962719d/uppgjorid-bulgaria-island-0-5-fimm-stjornu-frammistada-hja-islandi": {
+    "first_seen": "2026-11-14T01:55:56.574244+00:00",
+    "record": {
+      "id": "5bad3fd44a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-13",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962719d/uppgjorid-bulgaria-island-0-5-fimm-stjornu-frammistada-hja-islandi",
+      "title": "Uppgjörið:Búlgaría - Ís­land 0-5| Fimm stjörnu frammi­staða hjá Ís­landi",
+      "sum": "Íslenska karlalandsliðið átti ekki neinum vandræðum með Búlgaríu og unnu þá sannfærandi 0-5 í C-deild Þjóðardeildarinnar þegar þeir heimsóttu þá á Hristo Botev leikvanginn í kvöld."
+    }
+  },
+  "https://www.visir.is/g/20262962955d/viktor-vardi-vel-og-janus-med-thrju": {
+    "first_seen": "2026-11-14T01:55:56.574244+00:00",
+    "record": {
+      "id": "bc4a01f45b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-13",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962955d/viktor-vardi-vel-og-janus-med-thrju",
+      "title": "Viktor  varði vel og Janus með þrjú",
+      "sum": "Viktor Gísli Hallgrímsson stóð sig vel í marki Barcelona í kvöld þegar liðið vann enn einn sigurinn í spænsku úrvalsdeildinni í handbolta."
     }
   }
 }
