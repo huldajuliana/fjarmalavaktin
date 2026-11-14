@@ -18988,5 +18988,80 @@
       "title": "Keikó fékk líflátshótanir áður en hann sneri heim til Ís­lands",
       "sum": "„Þetta var hugsanlega frægasti Íslendingur þess tíma,“ segir Gísli Marteinn Baldursson um háhyrninginn Keikó, sem varð miðpunktur harðra deilna þegar ákveða átti hvar honum skyldi komið fyrir eftir heimkomuna til Íslands árið 1998. Gísli Marteinn var á þeim tíma starfandi sem fréttamaður hjá RÚV."
     }
+  },
+  "https://www.mbl.is/frettir/erlent/2026/11/14/sekta_meta_um_110_milljarda_krona/": {
+    "first_seen": "2026-11-14T18:55:10.661869+00:00",
+    "record": {
+      "id": "5f0c76d06c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-14",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/erlent/2026/11/14/sekta_meta_um_110_milljarda_krona/",
+      "title": "Sekta Meta um 110 milljarða króna",
+      "sum": "Meta hefur nú 60 daga til að gera eiginleikann óvirkan og afla sérstaks samþykkis notenda áður en hann verður tekinn aftur í notkun."
+    }
+  },
+  "https://www.mbl.is/frettir/erlent/2026/11/14/microsoft_bindur_enda_a_bilunina/": {
+    "first_seen": "2026-11-14T18:55:10.661869+00:00",
+    "record": {
+      "id": "58cd95c93e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-14",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/erlent/2026/11/14/microsoft_bindur_enda_a_bilunina/",
+      "title": "Microsoft bindur enda á bilunina",
+      "sum": "Microsoft hefur tilkynnt að fyrirtækið hafi endurheimt þjónustu við viðskiptavini og þar með í raun bundið enda á umfangsmikla bilun sem olli ringulreið og truflaði opinbera þjónustu og atvinnulíf víða um heim."
+    }
+  },
+  "https://www.visir.is/g/20262963207d/utkall-vegna-elds-i-ruslatunnu": {
+    "first_seen": "2026-11-14T18:55:10.661869+00:00",
+    "record": {
+      "id": "bb406f0670",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-14",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262963207d/utkall-vegna-elds-i-ruslatunnu",
+      "title": "Út­kall vegna elds í rusla­tunnu",
+      "sum": "Eldur kom upp í ruslatunnu fyrir utan atvinnuhúsnæði í Reykjavík á fimmta tímanum en vel gekk að slökkva eldinn og stóðu aðgerðir yfir í minna en hálftíma að sögn varðstjóra."
+    }
+  },
+  "https://www.visir.is/g/20262963186d/filippseyjar-unnu-asiska-eurovision": {
+    "first_seen": "2026-11-14T18:55:10.661869+00:00",
+    "record": {
+      "id": "1a8a77bc39",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-14",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262963186d/filippseyjar-unnu-asiska-eurovision",
+      "title": "Filipps­eyjar unnu asíska Euro­vision",
+      "sum": "Filippseyjar báru sigur úr býtum í fyrstu asísku Eurovision-keppninni (Eurovision Asia) sem fór fram í Bangkok í dag. Söngkonan Carmelle vann með laginu Sobra-Sobra."
+    }
+  },
+  "https://www.visir.is/g/20262963171d/kaup-stoda-mikilvaeg-skeytasending-til-fjarfesta-um-tru-a-umbreytingu-asa": {
+    "first_seen": "2026-11-14T18:55:10.661869+00:00",
+    "record": {
+      "id": "7f946bc95a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-14",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262963171d/kaup-stoda-mikilvaeg-skeytasending-til-fjarfesta-um-tru-a-umbreytingu-asa",
+      "title": "Kaup Stoða „mikil­væg skeyta­sending“ til fjár­festa um trú á um­breytingu Ása",
+      "sum": "Hlutabréfa Ása, áður Síminn, eru sögð eiga talsvert inni þótt væntingar um vöxt Greiðslumiðlunar Íslands hafi verið lækkaðar, samkvæmt nýrri verðmatsgreiningu. Hagræðingaaðgerðir eru farnar að skila árangri og nýleg kaup Stoða á hlutabréfum fyrir tæplega 850 milljónir eru talin mikilvæg skilaboð til fjárfesta um trú á …"
+    }
   }
 }
