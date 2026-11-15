@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -18502,7 +18502,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fyrirtaeki/rekstrar-og-efnahagsyfirlit-2025/",
       "title": "Afkoma fyrirtÃ¦kja nÃ¦r Ã³breytt Ã¡riÃ° 2025",
@@ -19062,6 +19062,36 @@
       "url": "https://www.visir.is/g/20262963171d/kaup-stoda-mikilvaeg-skeytasending-til-fjarfesta-um-tru-a-umbreytingu-asa",
       "title": "Kaup Stoða „mikil­væg skeyta­sending“ til fjár­festa um trú á um­breytingu Ása",
       "sum": "Hlutabréfa Ása, áður Síminn, eru sögð eiga talsvert inni þótt væntingar um vöxt Greiðslumiðlunar Íslands hafi verið lækkaðar, samkvæmt nýrri verðmatsgreiningu. Hagræðingaaðgerðir eru farnar að skila árangri og nýleg kaup Stoða á hlutabréfum fyrir tæplega 850 milljónir eru talin mikilvæg skilaboð til fjárfesta um trú á …"
+    }
+  },
+  "https://www.visir.is/g/20262963204d/tundurdufl-vard-til-thess-ad-oli-faeddist-i-skoruvik": {
+    "first_seen": "2026-11-15T01:27:53.081810+00:00",
+    "record": {
+      "id": "7b23958d4b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-14",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262963204d/tundurdufl-vard-til-thess-ad-oli-faeddist-i-skoruvik",
+      "title": "Tundur­dufl varð til þess að Óli fæddist í Skoru­vík",
+      "sum": "„Fjölskyldan var orðin fimm manns þegar ósköpin dundu yfir,“ segir Óli Ægir Þorsteinsson, sjómaður á Þórshöfn, þegar hann lýsir aðdraganda fæðingar sinnar. Tundurdufl varð til þess að Óli fæddist í Skoruvík á Langanesi en ekki í húsi fjölskyldunnar í þorpinu að Skálum árið 1941."
+    }
+  },
+  "https://www.visir.is/g/20262958738d/bankastraetisbolvunin-blifur-allt-hefur-sinn-tima-": {
+    "first_seen": "2026-11-15T01:27:53.081810+00:00",
+    "record": {
+      "id": "5c42488e12",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-14",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262958738d/bankastraetisbolvunin-blifur-allt-hefur-sinn-tima-",
+      "title": "Bankastrætisbölvunin blífur: „Allt hefur sinn tíma“",
+      "sum": "Svo virðist sem bölvun hvíli á húsnæðinu í Bankastræti 5 en kraftbarinn og veitinga- og fjöllistahúsið Kabarett hefur skellt í lás rétt rúmu ári frá því að staðurinn var opnaður."
     }
   }
 }
