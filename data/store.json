@@ -3187,7 +3187,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-agust-2026/",
       "title": "Atvinnuleysi 6,8% Ã­ Ã¡gÃºst",
@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -18502,7 +18502,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fyrirtaeki/rekstrar-og-efnahagsyfirlit-2025/",
       "title": "Afkoma fyrirtÃ¦kja nÃ¦r Ã³breytt Ã¡riÃ° 2025",
@@ -19212,6 +19212,66 @@
       "url": "https://www.visir.is/g/20262963338d/islensku-strakarnir-skradu-sig-i-sogubaekurnar-i-alaborg",
       "title": "Ís­lensku strákarnir skráðu sig í sögu­bækurnar í Ála­borg",
       "sum": "Íslenska karlalandsliðið í áhaldafimleikum skráði sig í sögubækurnar þegar það varð Norður-Evrópumeistari í liðakeppni í Álaborg í Danmörku í gær. Ekki nóg með það heldur átti Ísland bæði gull- og silfurverðlaunahafa í einstaklingskeppninni í fjölþraut."
+    }
+  },
+  "https://www.mbl.is/frettir/erlent/2026/11/15/fjarmalaradherrann_vill_skyr_svor_fra_nvidia/": {
+    "first_seen": "2026-11-16T01:30:05.246230+00:00",
+    "record": {
+      "id": "76bc48f202",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-15",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/erlent/2026/11/15/fjarmalaradherrann_vill_skyr_svor_fra_nvidia/",
+      "title": "Fjármálaráðherrann vill skýr svör frá Nvidia",
+      "sum": "Scott Bessent, fjármálaráðherra Bandaríkjanna, krefst þess að Nvidia útskýri hvort fyrirtækið hefði vísvitandi leyft fullkomnustu gervigreindarflögum sínum að berast til Kína."
+    }
+  },
+  "https://www.visir.is/g/20262962671d/hatt-i-milljardur-vetrarbrauta-i-fyrsta-skrefinu-ad-thrividdarkorti-af-alheiminum": {
+    "first_seen": "2026-11-16T01:30:05.246230+00:00",
+    "record": {
+      "id": "68b0b08019",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262962671d/hatt-i-milljardur-vetrarbrauta-i-fyrsta-skrefinu-ad-thrividdarkorti-af-alheiminum",
+      "title": "Hátt í milljarður vetrar­brauta í fyrsta skrefinu að þrívíddar­korti af al­heiminum",
+      "sum": "Rúmlega níu hundruð milljónir vetrarbrauta er að finna í fyrsta stóra myndasafninu frá evrópska geimsjónaukanum Evklíði sem gert hefur verið opinbert. Sjónaukanum er ætlað að leggja grundvöllinn að nákvæmasta þrívíddarkorti af alheiminum til þessa."
+    }
+  },
+  "https://www.visir.is/g/20262963527d/otruleg-taplaus-hrina-spanverja-a-enda": {
+    "first_seen": "2026-11-16T01:30:05.246230+00:00",
+    "record": {
+      "id": "623e39c487",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262963527d/otruleg-taplaus-hrina-spanverja-a-enda",
+      "title": "Ó­trú­leg taplaus hrina Spán­verja á enda",
+      "sum": "England varð í kvöld fyrsta liðið til að leggja Spánverja í keppnisleik síðan spænska liðið tapaði gegn Skotlandi í mars 2023 í forkeppni EM. Lokatölur 2-3 í frábærum leik."
+    }
+  },
+  "https://www.visir.is/g/20262963569d/fimm-milljardar-geti-baest-vid-uppsafnadan-halla": {
+    "first_seen": "2026-11-16T01:30:05.246230+00:00",
+    "record": {
+      "id": "2886850279",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-15",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262963569d/fimm-milljardar-geti-baest-vid-uppsafnadan-halla",
+      "title": "Fimm milljarðar geti bæst við uppsafnaðan halla",
+      "sum": "Rekstrarstaða heilbrigðisstofnana á landsbyggðinni hefur sjaldan verið veikari samkvæmt minnisblaði sem forstjórar stofnana undirrita. Samanlagður halli geti nemið fimm milljörðum."
     }
   }
 }
