@@ -19708,5 +19708,65 @@
       "title": "Hin „sterku bein“ Við­reisnar",
       "sum": "Í gær varð Viðreisn fyrir enn einu högginu á stuttum tíma þegar Ingvar Þóroddsson, oddviti flokksins í Norðausturkjördæmi yfirgaf flokkinn og gekk til liðs við Sjálfstæðisflokkinn."
     }
+  },
+  "https://www.visir.is/g/20262964627d/vid-stondum-vid-thad-sem-vid-segjum-eda-hvad-": {
+    "first_seen": "2026-11-17T21:58:28.304321+00:00",
+    "record": {
+      "id": "92abce931b",
+      "cat": "rikisfjarmal",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262964627d/vid-stondum-vid-thad-sem-vid-segjum-eda-hvad-",
+      "title": "Við stöndum við það sem við segjum - eða hvað?",
+      "sum": "Í óundirbúnum fyrirspurnatíma á Alþingi 16. nóvember síðastliðinn var Kristrún Frostadóttir forsætisráðherra spurð hvort ríkisstjórnin hygðist endurskoða efnahagsstefnu sína í ljósi þróunar verðbólgu, atvinnuleysis og vaxandi gagnrýni á skatta- og gjaldahækkanir. Svar forsætisráðherra var afdráttarlaust."
+    }
+  },
+  "https://www.visir.is/g/20262964608d/gervigreindarrisinn-anthropic-a-leid-a-markad-i-risavoxnu-hlutafjarutbodi": {
+    "first_seen": "2026-11-17T21:58:28.304321+00:00",
+    "record": {
+      "id": "ad24fd2aa7",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262964608d/gervigreindarrisinn-anthropic-a-leid-a-markad-i-risavoxnu-hlutafjarutbodi",
+      "title": "Gervi­greindar­risinn Ant­hropic á leið á markað í risa­vöxnu hluta­fjárút­boði",
+      "sum": "Gert er ráð fyrir að frumútboði Anthropic ljúki 18. nóvember. Samanlagt söluandvirði A- og N-hluta gæti numið 87 milljörðum dala miðað við miðbik verðbilsins og yrði þá meira en 75 milljarða dala frumútboð SpaceX fyrr á árinu."
+    }
+  },
+  "https://www.visir.is/g/20262964625d/odinn-thor-for-a-kostum-i-evropudeildinni": {
+    "first_seen": "2026-11-17T21:58:28.304321+00:00",
+    "record": {
+      "id": "ce48a856b2",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262964625d/odinn-thor-for-a-kostum-i-evropudeildinni",
+      "title": "Óðinn Þór fór á kostum í Evrópudeildinni",
+      "sum": "Íslenski landsliðsmaðurinn Óðinn Þór Ríkharðsson átti frábæran leik fyrir Kadette Schaffhausen sem mætti HC Izvidac í Evrópudeildinni í handbolta í kvöld."
+    }
+  },
+  "https://www.visir.is/g/20262964594d/ohagnadardrifid-hagkerfi-biddu-afhverju-ekki-": {
+    "first_seen": "2026-11-17T21:58:28.304321+00:00",
+    "record": {
+      "id": "20367fc6af",
+      "cat": "hagvoxtur",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262964594d/ohagnadardrifid-hagkerfi-biddu-afhverju-ekki-",
+      "title": "Óhagnaðardrifið hag­kerfi – bíddu, \naf­hverju ekki?",
+      "sum": "Eftir að ég flutti aftur til Íslands hef ég smám saman áttað mig á því að hugmyndin um óhagnaðardrifið hagkerfi á sérstaklega erfitt uppdráttar hér á landi. Hún er svo fjarri almennri umræðu að hún virðist varla til."
+    }
   }
 }
