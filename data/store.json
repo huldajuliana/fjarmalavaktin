@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -18502,7 +18502,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fyrirtaeki/rekstrar-og-efnahagsyfirlit-2025/",
       "title": "Afkoma fyrirtÃ¦kja nÃ¦r Ã³breytt Ã¡riÃ° 2025",
@@ -19527,6 +19527,186 @@
       "url": "https://www.visir.is/g/20262963853d/uppgjorid-draumurinn-do-i-vitakeppni",
       "title": "Upp­gjörið: Draumurinn dó í vítakeppni",
       "sum": "Íslenska 21 árs landsliðið í fótbolta var hársbreidd frá því að tryggja sér sæti á EM næsta sumar en varð á endanum að sætta sig við tap á móti Grikklandi í vítakeppni. Grikkir skoruðu úr öllum vítunum en Ísland klikkaði á fyrstu vítaspyrnu sinni."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/17/farid_fram_a_atvinnurekstrarbann/": {
+    "first_seen": "2026-11-17T18:35:46.016250+00:00",
+    "record": {
+      "id": "d2f38c87d1",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-17",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/17/farid_fram_a_atvinnurekstrarbann/",
+      "title": "Farið fram á atvinnurekstrarbann",
+      "sum": "Skiptastjóri yfir veisluþjónustunni Veislan ehf. sem tekin var til gjaldþrotaskipta í fyrra hefur farið fram á atvinnurekstarbann yfir eigandanum Helga Magnúsi Hermannsyni."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/17/50_herbergja_hotel_a_teiknibordinu/": {
+    "first_seen": "2026-11-17T18:35:46.016250+00:00",
+    "record": {
+      "id": "ba94fdb470",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-17",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/17/50_herbergja_hotel_a_teiknibordinu/",
+      "title": "50 herbergja hótel á teikniborðinu",
+      "sum": "„Ég reikna með að það verði áfram bjórböð þarna en í breyttri mynd,“ segir Karl Sigfússon verktaki en hann festi kaup á Bjórböðunum á Árskógssandi í lok síðasta árs."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/17/carbfix_skuldar_orkuveitunni_6_6_milljarda_krona/": {
+    "first_seen": "2026-11-17T18:35:46.016250+00:00",
+    "record": {
+      "id": "3183182b20",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-17",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/17/carbfix_skuldar_orkuveitunni_6_6_milljarda_krona/",
+      "title": "Carbfix skuldar Orkuveitunni 6,6 milljarða króna",
+      "sum": "Carbfix skuldaði Orkuveitu Reykjavíkur tæpa 6,6 milljarða króna í árslok 2025. Í heild voru þá tæplega 54 ársverk hjá fyrirtækinu en eins og fram kom fyrr í dag hafa átta starfsgildi verið lögð niður og fjögur færast til Orkuveitunnar. Ársverk verða því fyrir um 42 eftir uppsagnir og tilfærslur."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/17/felog_tengd_hotelturni_lyst_gjaldthrota/": {
+    "first_seen": "2026-11-17T18:35:46.016250+00:00",
+    "record": {
+      "id": "8121d6eb2f",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": true,
+      "date": "2026-11-17",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/17/felog_tengd_hotelturni_lyst_gjaldthrota/",
+      "title": "Félög tengd hótelturni lýst gjaldþrota",
+      "sum": "Eva Bryndís Helgadóttir stýrir skiptum á þrotabúum S26 Hotel og Rauðsvíkur sem tengdust uppbyggingu hótelturnsins við Skúlagötu."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/16/akranes_tilbuid_til_vaxtar_med_godu_lodaframbodi/": {
+    "first_seen": "2026-11-17T18:35:46.016250+00:00",
+    "record": {
+      "id": "101cd195e3",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-16",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/16/akranes_tilbuid_til_vaxtar_med_godu_lodaframbodi/",
+      "title": "Akranes tilbúið til vaxtar með góðu lóðaframboði",
+      "sum": "Akraneskaupstaður áformar að verja tæplega 1,1 milljarði kr. til fjárfestinga og framkvæmda á næsta ári, skv. fjárhagsáætlun sem nú er til umræðu."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/16/hagnadur_kaldalons_fyrir_skatta_meira_en_tvofaldadi/": {
+    "first_seen": "2026-11-17T18:35:46.016250+00:00",
+    "record": {
+      "id": "516a186260",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-16",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/16/hagnadur_kaldalons_fyrir_skatta_meira_en_tvofaldadi/",
+      "title": "Hagnaður Kaldalóns fyrir skatta meira en tvöfaldaðist",
+      "sum": "Hagnaður fasteignafélagsins Kaldalóns fyrir skatta nam 3.511 milljónum króna á fyrstu níu mánuðum ársins, samanborið við 1.534 milljónir á sama tímabili í fyrra. Hagnaðurinn jókst því um tæplega 129% milli ára."
+    }
+  },
+  "https://www.visir.is/g/20262964580d/herra-ir-skiptir-ovaent-yfir-i-njardvik": {
+    "first_seen": "2026-11-17T18:35:46.016250+00:00",
+    "record": {
+      "id": "2534d7b5ca",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262964580d/herra-ir-skiptir-ovaent-yfir-i-njardvik",
+      "title": "Herra ÍR skiptir ó­vænt yfir í Njarð­vík",
+      "sum": "Hákon Örn Hjálmarsson hefur óvænt skipt um lið í Bónus deild karla í körfubolta en Körfuknattleiksdeild Njarðvíkur hefur samið við Hákon Örn Hjálmarsson um að leika með liðinu út þessa leiktíð."
+    }
+  },
+  "https://www.visir.is/g/20262964561d/margir-storir-lifeyrissjodir-letu-ekki-sja-sig-i-hlutafjarutbodi-blaa-lonsins": {
+    "first_seen": "2026-11-17T18:35:46.016250+00:00",
+    "record": {
+      "id": "94ca62c313",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262964561d/margir-storir-lifeyrissjodir-letu-ekki-sja-sig-i-hlutafjarutbodi-blaa-lonsins",
+      "title": "Margir stórir líf­eyris­sjóðir létu ekki sjá sig í hluta­fjárút­boði Bláa lónsins",
+      "sum": "Þátttaka helstu lífeyrissjóða landsins var afar dræm í nýafstöðnu fjórtán milljarða hlutafjárútboði Bláa lónsins, meðal annars hjá sumum stórum sjóðum sem áttu hlutfallslega lítið í félaginu, og réð það miklu um að ekki tókst að fylla tilboðsbók ætlaða stærri fjárfestum í samræmi við markmið."
+    }
+  },
+  "https://www.visir.is/g/20262964492d/alft-skotin-eftir-ad-hrafnar-saust-sitja-um-hana": {
+    "first_seen": "2026-11-17T18:35:46.016250+00:00",
+    "record": {
+      "id": "233578964f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262964492d/alft-skotin-eftir-ad-hrafnar-saust-sitja-um-hana",
+      "title": "Álft skotin eftir að hrafnar sáust sitja um hana",
+      "sum": "Starfsmenn Hafnarfjarðarbæjar ákváðu að aflífa álft á Víðistaðatúni eftir að hrafnar sáust sitja um hana. Bæjaryfirvöld ætla að fara yfir hvernig staðið var að aflífuninni í kjölfar ábendinga Dýravaktarinnar."
+    }
+  },
+  "https://www.visir.is/g/20262964458d/draga-erlent-flutningaskip-til-akureyrarhafnar": {
+    "first_seen": "2026-11-17T18:35:46.016250+00:00",
+    "record": {
+      "id": "021539046a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262964458d/draga-erlent-flutningaskip-til-akureyrarhafnar",
+      "title": "Draga er­lent flutninga­skip til Akureyrarhafnar",
+      "sum": "Áhöfn varðskipsins Freyju vinnur nú að því að draga erlent flutningaskip til hafnar á Akureyri eftir að stýrisbilun kom upp í skipinu um 210 sjómílur austnorðaustur af Langanesi."
+    }
+  },
+  "https://www.visir.is/g/20262964399d/erlendu-sjodarisarnir-sem-hafa-verid-ad-staekka-stoduna-i-alvotech": {
+    "first_seen": "2026-11-17T18:35:46.016250+00:00",
+    "record": {
+      "id": "1818334038",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262964399d/erlendu-sjodarisarnir-sem-hafa-verid-ad-staekka-stoduna-i-alvotech",
+      "title": "Er­lendu sjóðarisarnir sem hafa verið að stækka stöðuna í Al­vot­ech",
+      "sum": "Bandarískur vogunarsjóður, sem var langsamlega umsvifamestur í hlutafjárútboði Alvotech fyrr í sumar, hefur að undanförnu haldið áfram að stækka stöðu sína í félaginu fyrir milljarða króna og er búinn að brjóta fimm prósenta múrinn."
+    }
+  },
+  "https://www.visir.is/g/20262964374d/hin-sterku-bein-vidreisnar": {
+    "first_seen": "2026-11-17T18:35:46.016250+00:00",
+    "record": {
+      "id": "84c703ef86",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262964374d/hin-sterku-bein-vidreisnar",
+      "title": "Hin „sterku bein“ Við­reisnar",
+      "sum": "Í gær varð Viðreisn fyrir enn einu högginu á stuttum tíma þegar Ingvar Þóroddsson, oddviti flokksins í Norðausturkjördæmi yfirgaf flokkinn og gekk til liðs við Sjálfstæðisflokkinn."
     }
   }
 }
