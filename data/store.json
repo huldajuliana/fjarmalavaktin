@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -18502,7 +18502,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fyrirtaeki/rekstrar-og-efnahagsyfirlit-2025/",
       "title": "Afkoma fyrirtÃ¦kja nÃ¦r Ã³breytt Ã¡riÃ° 2025",
@@ -19767,6 +19767,51 @@
       "url": "https://www.visir.is/g/20262964594d/ohagnadardrifid-hagkerfi-biddu-afhverju-ekki-",
       "title": "Óhagnaðardrifið hag­kerfi – bíddu, \naf­hverju ekki?",
       "sum": "Eftir að ég flutti aftur til Íslands hef ég smám saman áttað mig á því að hugmyndin um óhagnaðardrifið hagkerfi á sérstaklega erfitt uppdráttar hér á landi. Hún er svo fjarri almennri umræðu að hún virðist varla til."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/17/mygla_i_naer_ollum_herbergjum_eftir_gridarlegt_vatn/": {
+    "first_seen": "2026-11-18T03:21:52.092372+00:00",
+    "record": {
+      "id": "5a58457ca9",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": true,
+      "date": "2026-11-17",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/17/mygla_i_naer_ollum_herbergjum_eftir_gridarlegt_vatn/",
+      "title": "Mygla í nær öllum herbergjum eftir gríðarlegt vatnstjón",
+      "sum": "Staðan er metin svo að tjónið gæti hlaupið á 10 til 14 milljörðum króna þar sem fjarlægja gæti þurft herbergiseiningarnar. Turninn er þegar skuldsettur fyrir 20 milljarða króna."
+    }
+  },
+  "https://www.visir.is/g/20262964639d/fjarfestar-anda-lettar-eftir-methagnad-nvidia": {
+    "first_seen": "2026-11-18T03:21:52.092372+00:00",
+    "record": {
+      "id": "446e0d532d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262964639d/fjarfestar-anda-lettar-eftir-methagnad-nvidia",
+      "title": "Fjár­festar anda léttar eftir methagnað Nvidia",
+      "sum": "Hlutabréfaverð í tæknirisanum Nvidia hefur aukist um allt að 4 prósent í kvöld eftir að félagið birti uppgjör fyrir þriðja ársfjórðung. Uppgjörið á væntanlega eftir að róa taugar fjárfesta eftir hrakföll síðustu viku."
+    }
+  },
+  "https://www.visir.is/g/20262964532d/aftur-eru-margfaldir-evropumeistarar-a-barmi-gjaldthrots": {
+    "first_seen": "2026-11-18T03:21:52.092372+00:00",
+    "record": {
+      "id": "778cbbec4c",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-17",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262964532d/aftur-eru-margfaldir-evropumeistarar-a-barmi-gjaldthrots",
+      "title": "Aftur eru marg­faldir Evrópu­meistarar á barmi gjald­þrots",
+      "sum": "Framkvæmdastjóri handboltastórveldisins Györ varar við gjaldþroti hjá einum af risunum í evrópska kvennahandboltanum og biður leikmenn um að fara."
     }
   }
 }
