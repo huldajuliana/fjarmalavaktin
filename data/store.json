@@ -20128,5 +20128,80 @@
       "title": "Ekkert fékkst upp í 170 milljóna gjald­þrot Húrra",
       "sum": "Engar eignir fundust í þrotabúi JS Reykjavíkur ehf., sem rak verslanir Húrra um árabil. Kröfur í búið námu alls rúmlega 171 milljón króna."
     }
+  },
+  "https://sa.is/frettatengt/frettir/voxtur-i-orði.-skattar-a-borði": {
+    "first_seen": "2026-11-18T21:40:36.803600+00:00",
+    "record": {
+      "id": "404b9f2e58",
+      "cat": "rikisfjarmal",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-18",
+      "src": "Samtök atvinnulífsins",
+      "url": "https://sa.is/frettatengt/frettir/voxtur-i-orði.-skattar-a-borði",
+      "title": "Fundur um samspil atvinnustefnu og skattkerfis",
+      "sum": "Styðja fjárlögin við atvinnustefnuna? SA boða til hádegisfundar á Nauthóli, 24. nóvember, um áhrif skattabreytinga á fjárfestingu, störf og lífskjör."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/18/roa_lifrodur_a_milljarda_eftirgjof/": {
+    "first_seen": "2026-11-18T21:40:36.803600+00:00",
+    "record": {
+      "id": "dcf5cc5b1b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-18",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/18/roa_lifrodur_a_milljarda_eftirgjof/",
+      "title": "Róa lífróður á milljarða eftirgjöf",
+      "sum": "Stjórnendur gera engu að síður ráð fyrir áframhaldandi verulegu tapi á þessu ári."
+    }
+  },
+  "https://www.visir.is/g/20262965160d/hefur-tru-a-ad-hagkerfid-muni-taka-fljott-vid-ser-thegar-dregur-ur-vaxtaadhaldinu": {
+    "first_seen": "2026-11-18T21:40:36.803600+00:00",
+    "record": {
+      "id": "771f49cca0",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-18",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262965160d/hefur-tru-a-ad-hagkerfid-muni-taka-fljott-vid-ser-thegar-dregur-ur-vaxtaadhaldinu",
+      "title": "Hefur trú á að hag­kerfið muni taka fljótt við sér þegar dregur úr vaxta­aðhaldinu",
+      "sum": "Seðlabankastjóri telur ekki að kostnaðurinn af háu vaxtastigi fyrir þjóðarbúið sé orðinn meiri en ávinningurinn af því að ná verðbólgunni niður, þrátt fyrir versnandi efnahagshorfur, vaxandi atvinnuleysi og samdrátt í fjárfestingu."
+    }
+  },
+  "https://www.visir.is/g/20262965143d/somdu-vid-flugvirkja": {
+    "first_seen": "2026-11-18T21:40:36.803600+00:00",
+    "record": {
+      "id": "aed157ac0b",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-18",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262965143d/somdu-vid-flugvirkja",
+      "title": "Sömdu við flug­virkja",
+      "sum": "Icelandair og Flugvirkjafélag Íslands hafa undirritað nýjan kjarasamning sem gildir frá 1. janúar þessa árs til 1. september 2028. Flugvirkjar munu næst greiða atkvæði um samninginn en þeir hafa verið án gildandi kjarasamnings frá árslokum 2025."
+    }
+  },
+  "https://www.visir.is/g/20262965132d/nyr-vedurvefur-kostadi-taepan-halfan-milljard": {
+    "first_seen": "2026-11-18T21:40:36.803600+00:00",
+    "record": {
+      "id": "6a9922b00e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-18",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262965132d/nyr-vedurvefur-kostadi-taepan-halfan-milljard",
+      "title": "Nýr veðurvefur kostaði tæpan hálfan milljarð",
+      "sum": "Nýr vefur Veðurstofu Íslands kostaði tæpan hálfan milljarð og var fimm ár í vinnslu. Markmiðið var að koma til móts við notendur en einnig að uppfæra innra kerfið. Ófáum sinnum hafi innra kerfið brugðist á álagstímum."
+    }
   }
 }
