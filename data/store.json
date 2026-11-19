@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -18502,7 +18502,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fyrirtaeki/rekstrar-og-efnahagsyfirlit-2025/",
       "title": "Afkoma fyrirtÃ¦kja nÃ¦r Ã³breytt Ã¡riÃ° 2025",
@@ -20202,6 +20202,51 @@
       "url": "https://www.visir.is/g/20262965132d/nyr-vedurvefur-kostadi-taepan-halfan-milljard",
       "title": "Nýr veðurvefur kostaði tæpan hálfan milljarð",
       "sum": "Nýr vefur Veðurstofu Íslands kostaði tæpan hálfan milljarð og var fimm ár í vinnslu. Markmiðið var að koma til móts við notendur en einnig að uppfæra innra kerfið. Ófáum sinnum hafi innra kerfið brugðist á álagstímum."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/18/anthropic_metid_a_187_billjonir_krona/": {
+    "first_seen": "2026-11-19T02:54:01.013745+00:00",
+    "record": {
+      "id": "af3b9c79b5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-18",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/18/anthropic_metid_a_187_billjonir_krona/",
+      "title": "Anthropic metið á 187 billjónir króna",
+      "sum": "Mikil eftirspurn er eftir hlutabréfum í gervigreindarfyrirtækinu Anthropic."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/18/matti_ekki_leggja_fram_ved_vegna_kaupa_a_sjalfri_se/": {
+    "first_seen": "2026-11-19T02:54:01.013745+00:00",
+    "record": {
+      "id": "8907ba3f7a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-18",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/18/matti_ekki_leggja_fram_ved_vegna_kaupa_a_sjalfri_se/",
+      "title": "Mátti ekki leggja fram veð vegna kaupa á sjálfri sér",
+      "sum": "Landsréttur taldi að bílaleigan hefði brotið gegn lögum um einkahlutafélög með því að veðsetja eigin fasteign til að tryggja lán sem kaupandi tók til að fjármagna kaup á félaginu."
+    }
+  },
+  "https://www.visir.is/g/20262965225d/kyrrt-en-allir-ahyggjufullir": {
+    "first_seen": "2026-11-19T02:54:01.013745+00:00",
+    "record": {
+      "id": "52ea02458c",
+      "cat": "hagvoxtur",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-18",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262965225d/kyrrt-en-allir-ahyggjufullir",
+      "title": "Kyrrt en allir á­hyggju­fullir",
+      "sum": "Framkvæmdastjóri Samtaka verslunar og þjónustu segir verslunarmenn ekki farna að finna fyrir greinilegri kólnun í hagkerfinu. Eitt mikilvægasta tímabil þeirra er gengið í garð en Íslendingar eru sagðir kaupa sífellt fleiri vörutegundir í gegnum erlendar netverslanir."
     }
   }
 }
