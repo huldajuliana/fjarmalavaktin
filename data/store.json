@@ -20608,5 +20608,50 @@
       "title": "„Prís elskar að vera á botninum“",
       "sum": "Flestir stefna á toppinn, en hjá Prís er því öfugt farið. Frá því verslunin opnaði fyrir tveimur árum hefur hún verið á botninum á verðlagslínuriti ASÍ, ódýrust allra, mánuð eftir mánuð."
     }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/19/syknadi_mann_sem_hlaut_156_milljona_krona_sekt/": {
+    "first_seen": "2026-11-19T21:56:26.227315+00:00",
+    "record": {
+      "id": "ef24c45d88",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/19/syknadi_mann_sem_hlaut_156_milljona_krona_sekt/",
+      "title": "Sýknaði mann sem hlaut 156 milljóna króna sekt",
+      "sum": "Landsréttur sýknaði í dag mann af ákæru um meiri háttar brot gegn skattalögum."
+    }
+  },
+  "https://www.visir.is/g/20262965638d/bjarki-fagnadi-sigri-a-moti-reyni-i-meistaradeildinni": {
+    "first_seen": "2026-11-19T21:56:26.227315+00:00",
+    "record": {
+      "id": "ce9a1fbc63",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262965638d/bjarki-fagnadi-sigri-a-moti-reyni-i-meistaradeildinni",
+      "title": "Bjarki fagnaði sigri á móti Reyni í Meistara­deildinni",
+      "sum": "Bjarki Már Elísson hafði betur í uppgjöri tveggja landsliðsmanna í hörkuleik í Meistaradeildinni í handbolta og Orri Freyr Þorkelsson og félagar unnu líka."
+    }
+  },
+  "https://www.visir.is/g/20262965518d/vettlingar-fra-langanesi-ganga-vel-i-sunnlendinga": {
+    "first_seen": "2026-11-19T21:56:26.227315+00:00",
+    "record": {
+      "id": "a93c37e55b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262965518d/vettlingar-fra-langanesi-ganga-vel-i-sunnlendinga",
+      "title": "Vettlingar frá Langa­nesi ganga vel í Sunn­lendinga",
+      "sum": "Atvinnulífið á Þórshöfn snýst ekki bara um sjávarútveg. Þar er einnig flóra smærri fyrirtækja, eins og vettlingagerð, starfsemi sem við eigum ekkert endilega von á að finna í sjávarþorpi á Langanesi lengst norðaustur frá Reykjavík."
+    }
   }
 }
