@@ -20248,5 +20248,365 @@
       "title": "Kyrrt en allir á­hyggju­fullir",
       "sum": "Framkvæmdastjóri Samtaka verslunar og þjónustu segir verslunarmenn ekki farna að finna fyrir greinilegri kólnun í hagkerfinu. Eitt mikilvægasta tímabil þeirra er gengið í garð en Íslendingar eru sagðir kaupa sífellt fleiri vörutegundir í gegnum erlendar netverslanir."
     }
+  },
+  "https://asi.is/haustskyrsla-kjaratolfraedinefndar-kynnt-a-morgun/": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "e401672c65",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "ASÍ",
+      "url": "https://asi.is/haustskyrsla-kjaratolfraedinefndar-kynnt-a-morgun/",
+      "title": "Haustskýrsla Kjaratölfræðinefndar kynnt á morgun",
+      "sum": "Haustskýrsla Kjaratölfræðinefndar verður kynnt í húsakynnum ríkissáttasemjara á morgun, föstudaginn 20. nóvember kl. 9. Í skýrslunni er umfjöllun um launaþróun í yfirstandandi kjarasamningslotu á almennum og opinberum vinnumarkaði fram til júní 2026 og um launastig í maí 2026."
+    }
+  },
+  "https://asi.is/wolt-sendlar-fyrir-haestarett-noregs/": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "7194726782",
+      "cat": "hagvoxtur",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "ASÍ",
+      "url": "https://asi.is/wolt-sendlar-fyrir-haestarett-noregs/",
+      "title": "Wolt-sendlar fyrir Hæstarétt Noregs",
+      "sum": "Dómur sem nú er beðið eftir í Noregi getur haft áhrif langt út fyrir landsteinana. Hann snertir kjarna hark-hagkerfisins: eru sendlar sem fá verkefni í gegnum app sjálfstæðir verktakar eða launafólk? Hæstiréttur Noregs tók mál Wolt-sendla fyrir dagana 17. og 18. nóvember."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/19/verdid_fylgir_ekki_heimsmarkadslaekkun/": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "21747e374c",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/19/verdid_fylgir_ekki_heimsmarkadslaekkun/",
+      "title": "Verðið fylgir ekki heimsmarkaðslækkun",
+      "sum": "Heimsmarkaðsverð á bensíni hefur lækkað frá því um miðjan september, en innlent bensínverð án opinberra gjalda hefur enn ekki fylgt þeirri lækkun eftir því sem ASÍ greinir frá í tilkynningu þar sem farið er yfir verðþróunina undanfarið."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/19/kvika_kynnir_overdtryggd_lan_a_fostum_voxtum/": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "8275192b0b",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/19/kvika_kynnir_overdtryggd_lan_a_fostum_voxtum/",
+      "title": "Kvika kynnir óverðtryggð lán á föstum vöxtum",
+      "sum": "Auður, fjármálaþjónusta Kviku banka, býður nú í fyrsta sinn upp á óverðtryggð húsnæðislán."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/19/akaerdur_fyrir_136_milljona_krona_skattalagabrot/": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "ff1d4885ea",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/19/akaerdur_fyrir_136_milljona_krona_skattalagabrot/",
+      "title": "Ákærður fyrir 136 milljóna króna skattalagabrot",
+      "sum": "Héraðssaksóknari hefur gefið út ákæru á hendur rekstraraðila fyrirtækis sem grunaður er um meiri háttar brot gegn skattalögum með því að hafa ekki staðið skil á eða vegna rangra framtala komist hjá greiðslu samtals 136 milljóna króna."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/19/5_5_milljardar_tapast_ut_af_einu_skipi/": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "17c864ad6e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/19/5_5_milljardar_tapast_ut_af_einu_skipi/",
+      "title": "5,5 milljarðar tapast út af einu skipi",
+      "sum": "Að sögn Rósu hefur brotthvarf skipsins haft veruleg fjárhagsleg áhrif, bæði á sveitarfélög og fyrirtæki sem þjónustuðu skipið og farþega þess."
+    }
+  },
+  "https://www.mbl.is/200milur/frettir/2026/11/19/greenfish_raedur_sex_nyja_starfsmenn/": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "4c53f26c09",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/200milur/frettir/2026/11/19/greenfish_raedur_sex_nyja_starfsmenn/",
+      "title": "Greenfish ræður sex nýja starfsmenn",
+      "sum": "Íslenska tæknifyrirtækið GreenFish hefur ráðið sex nýja starfsmenn. Í tilkynningu eru mannaráðningarnar sagðar styðja við hraðan vöxt fyrirtækisins."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/19/vilja_einfalda_skattalega_umgjord_ithrottastarfsemi/": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "a16f2539a7",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/19/vilja_einfalda_skattalega_umgjord_ithrottastarfsemi/",
+      "title": "Vilja einfalda skattalega umgjörð íþróttastarfsemi",
+      "sum": "Lagðar eru fram tillögur sem eiga að skýra og einfalda skattalega umgjörð íþróttahreyfingarinnar."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/19/alveg_ljost_hvad_thad_er_sem_vid_erum_ad_gera_vitla/": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "e9e3028700",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/19/alveg_ljost_hvad_thad_er_sem_vid_erum_ad_gera_vitla/",
+      "title": "„Alveg ljóst hvað það er sem við erum að gera vitlaust“",
+      "sum": "Formaður Viðskiptaráðs telur tímabært að huga að vaxtalækkun í febrúar og vill breyta fyrirkomulagi kjarasamninga."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/19/taepir_fimm_milljardar_i_samthykktum_tilbodum/": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "134137cab2",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/19/taepir_fimm_milljardar_i_samthykktum_tilbodum/",
+      "title": "Tæpir fimm milljarðar í samþykktum tilboðum",
+      "sum": "Reykjavíkurborg tók tilboðum í skuldabréf að nafnvirði 4.935 milljónir króna í útboði í tveimur skuldabréfaflokkum. Alls bárust tilboð að nafnvirði 5.085 milljónir króna, samkvæmt kauphallartilkynningu borgarinnar í morgun."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/19/tilbodi_tekid_i_skugga_harra_skulda/": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "cc156f69d5",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/19/tilbodi_tekid_i_skugga_harra_skulda/",
+      "title": "Tilboði tekið í skugga hárra skulda",
+      "sum": "Eigið fé Íslenskra aðalverktaka var að öllum líkindum neikvætt um milljarða króna þegar tilboð félagsins í Þjóðarhöll var valið 15. júní."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/19/kronan_opnar_nyja_verslun_a_hofn/": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "8cf2fa38b9",
+      "cat": "gengi",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/19/kronan_opnar_nyja_verslun_a_hofn/",
+      "title": "Krónan opnar nýja verslun á Höfn",
+      "sum": "Við opnunina verða til um 20 ný störf á svæðinu."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/19/anthropic_slaer_utbodsmet_spacex/": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "66441fbdfe",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/19/anthropic_slaer_utbodsmet_spacex/",
+      "title": "Anthropic slær útboðsmet SpaceX",
+      "sum": "Verð á hlutabréfum margra tæknifyrirtækja hækkaði í morgun eftir metútboð Anthropic, fyrirtækisins á bak við gervigreindarspjallmennið Claude."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/19/naerri_300_manns_starfa_vid_gagnaverin_thrju/": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "4616abb23d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/19/naerri_300_manns_starfa_vid_gagnaverin_thrju/",
+      "title": "Nærri 300 manns starfa við gagnaverin þrjú",
+      "sum": "Starfsmannafjöldi stóru gagnaverafyrirtækjanna þriggja hér á landi hefur nær þrefaldast frá árslokum 2023."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/19/vidurkenna_ad_bankaskattur_geti_lent_a_heimilum/": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "3c2977e42e",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/19/vidurkenna_ad_bankaskattur_geti_lent_a_heimilum/",
+      "title": "Viðurkenna að bankaskattur geti lent á heimilum",
+      "sum": "Fyrirhuguð hækkun bankaskatts gæti leitt til hærri útlánsvaxta, lægri innlánsvaxta og aukinna þjónustugjalda fyrir viðskiptavini bankanna. Þetta kemur fram í minnisblaði fjármála- og efnahagsráðuneytisins til efnahags- og viðskiptanefndar Alþingis."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/19/utlit_fyrir_ad_nullid_naist_ekki/": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "65e6835650",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/19/utlit_fyrir_ad_nullid_naist_ekki/",
+      "title": "Útlit fyrir að núllið náist ekki",
+      "sum": "Stóra núllið hjá ríkisstjórninni virðist því ekki vera í kortunum samkvæmt mati bankans."
+    }
+  },
+  "https://www.visir.is/g/20262965600d/flugmenn-fresta-verkfalli": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "40728c421d",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262965600d/flugmenn-fresta-verkfalli",
+      "title": "Flug­menn fresta verk­falli",
+      "sum": "Verkfalli Félags íslenskra atvinnuflugmanna sem átti að hefjast nú á miðnætti hefur verið frestað."
+    }
+  },
+  "https://www.visir.is/g/20262965505d/hagraeding-icelandair-sogd-farin-ad-minna-a-vidsnuninginn-hja-finnair": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "c530d48b6c",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262965505d/hagraeding-icelandair-sogd-farin-ad-minna-a-vidsnuninginn-hja-finnair",
+      "title": "Hag­ræðing Icelandair sögð farin að minna á viðsnúninginn hjá Finnair",
+      "sum": "Þrátt fyrir lítillega lækkun á verðmati Icelandair eru hlutabréf flugfélagsins sögð verulega undirverðlögð. Greinendur segja síðasta uppgjör félagsins betra en við fyrstu sýn og að markviss hagræðing, bætt tekjustýring og endurnýjun flugflotans geti skilað kröftugum viðsnúningi í rekstri á næstu árum."
+    }
+  },
+  "https://www.visir.is/g/20262965431d/-i-dag-eru-tiu-ar-sidan-eg-vard-fyrir-naudgun-": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "f93b1ad1ab",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262965431d/-i-dag-eru-tiu-ar-sidan-eg-vard-fyrir-naudgun-",
+      "title": "„Í dag eru tíu ár síðan ég varð fyrir nauðgun“",
+      "sum": "Tíu ár eru liðin frá því að Tinnu Óðinsdóttur, tónlistarkonu og fyrrverandi fimleikakonu, var nauðgað af erlendum fimleikamanni í keppnisferð með landsliðinu í fimleikum. Reynslan hafi haft meiri áhrif á líf hennar en hún hefði nokkurn tímann getað gert sér grein fyrir."
+    }
+  },
+  "https://www.visir.is/g/20262965454d/grindavik-og-njardvik-slita-samstarfi-sinu": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "f3d5dc0b5f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262965454d/grindavik-og-njardvik-slita-samstarfi-sinu",
+      "title": "Grinda­vík og Njarð­vík slíta sam­starfi sínu",
+      "sum": "Knattspyrnudeildir Grindavíkur og Njarðvíkur hafa ákveðið að hætta samstarfi um meistaraflokk kvenna. Þetta kemur fram í yfirlýsingu frá deildum félaganna. Njarðvík hefur rétt til að taka sæti í Bestu deild kvenna á næsta tímabili og metur nú næstu skref. Haukar gætu farið upp ef ekki verður af þátttöku Njarðvíkur."
+    }
+  },
+  "https://www.visir.is/g/20262965385d/bjorgunarsveitir-ithrottafelog-og-menning-naest-i-skattasmasjanni": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "1cdf4573af",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262965385d/bjorgunarsveitir-ithrottafelog-og-menning-naest-i-skattasmasjanni",
+      "title": "Björgunar­sveitir, íþrótta­félög og menning næst í skatta­smá­sjánni",
+      "sum": "Þegar ríkisstjórnin tók við var hún áfram um það markmið sitt að fækka glufum og undanþágum í skattkerfinu."
+    }
+  },
+  "https://www.visir.is/g/20262965406d/fair-vaxtarbroddar-i-kortunum-og-haetta-a-ad-hagkerfid-festist-i-midjumodi-": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "05dc6deb24",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262965406d/fair-vaxtarbroddar-i-kortunum-og-haetta-a-ad-hagkerfid-festist-i-midjumodi-",
+      "title": "Fáir vaxtar­broddar í kortunum og hætta á að hag­kerfið festist í „miðjumoði“",
+      "sum": "Veikari útflutningshorfur og skortur á augljósum vaxtarbroddum gætu þýtt að hagkerfið muni festast „í einhverju miðjumoði“ þótt fjárhagsleg staða þjóðarbúsins sé sterk og horfur á lækkandi vöxtum hafi batnað."
+    }
+  },
+  "https://www.visir.is/g/20262965332d/umdeild-24-milljarda-sala-a-verki-van-gogh": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "4a1ceb7462",
+      "cat": "gengi",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262965332d/umdeild-24-milljarda-sala-a-verki-van-gogh",
+      "title": "Um­deild 24 milljarða sala á verki van Gogh",
+      "sum": "Málverkið Kastaníutré í blóma eftir Vincent van Gogh seldist á uppboði Sotheby's fyrir 190,4 milljónir Bandaríkjadala (um 23,7 milljarða króna) sem er metfé fyrir verk málarans."
+    }
+  },
+  "https://www.visir.is/g/20262965322d/-pris-elskar-ad-vera-a-botninum-": {
+    "first_seen": "2026-11-19T18:17:51.008899+00:00",
+    "record": {
+      "id": "1fef30158f",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262965322d/-pris-elskar-ad-vera-a-botninum-",
+      "title": "„Prís elskar að vera á botninum“",
+      "sum": "Flestir stefna á toppinn, en hjá Prís er því öfugt farið. Frá því verslunin opnaði fyrir tveimur árum hefur hún verið á botninum á verðlagslínuriti ASÍ, ódýrust allra, mánuð eftir mánuð."
+    }
   }
 }
