@@ -20968,5 +20968,95 @@
       "title": "Þrýstingur á fram­legð elds­neytissölu tekur niður verðmat Festar",
       "sum": "Mikill samdráttur í framlegð eldsneytissölu, sem hefur lækkað um tæplega 900 milljónir milli ára, vegur þungt í rekstri Festar og hefur orðið til þess að hlutabréfagreinandi lækkar afkomuspá sína fyrir félagið. Verðmat Festar lækkar samt aðeins lítillega, meðal annars vegna jákvæðra áhrifa nýlegra fyrirtækjakaupa."
     }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/20/hrun_a_morkudum_vestanhafs/": {
+    "first_seen": "2026-11-20T21:38:55.432635+00:00",
+    "record": {
+      "id": "1f81de0ca1",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-20",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/20/hrun_a_morkudum_vestanhafs/",
+      "title": "Hrun á mörkuðum vestanhafs",
+      "sum": "Eldrauð lokun var á hlutabréfamörkuðum vestanhafs í dag við lok hrikalegrar viku á mörkuðum."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/20/telur_timabaert_ad_laekka_vexti_i_februar/": {
+    "first_seen": "2026-11-20T21:38:55.432635+00:00",
+    "record": {
+      "id": "0ec3edf838",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-20",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/20/telur_timabaert_ad_laekka_vexti_i_februar/",
+      "title": "Telur tímabært að lækka vexti í febrúar",
+      "sum": "Andri Þór Guðmundsson, formaður Viðskiptaráðs Íslands, telur að tímabært verði að huga að lækkun stýrivaxta í febrúar þegar peningastefnunefnd Seðlabankans tekur næstu vaxtaákvörðun. Hann segir ýmsa hagvísa benda til þess að vaxtalækkanir séu fram undan á næsta ári."
+    }
+  },
+  "https://www.visir.is/g/20262965944d/leik-lokid-sindri-njardvik-107-101-sogulegur-sigur-sindramanna": {
+    "first_seen": "2026-11-20T21:38:55.432635+00:00",
+    "record": {
+      "id": "c76d9b6739",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262965944d/leik-lokid-sindri-njardvik-107-101-sogulegur-sigur-sindramanna",
+      "title": "Leik lokið: Sindri-Njarðvík 107-101 | Sögu­legur sigur Sindramanna",
+      "sum": "Sindri vann í kvöld sinn fyrsta leik í efstu deild karla í körfubolta í sögu félagsins þegar liðið burstaði Njarðvíkinga með sex stigum í Bónusdeildinni, 107-101. Sindramenn höfðu tapað sex fyrstu leikjunum sínum en nú kom sigurinn og það með stæl."
+    }
+  },
+  "https://www.visir.is/g/20262966164d/kennir-1984-um-tveggja-milljarda-krona-rafmyntasvik": {
+    "first_seen": "2026-11-20T21:38:55.432635+00:00",
+    "record": {
+      "id": "593c7cb485",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262966164d/kennir-1984-um-tveggja-milljarda-krona-rafmyntasvik",
+      "title": "Kennir 1984 um tveggja milljarða króna rafmyntasvik",
+      "sum": "Mörður Áslaugarsson framkvæmdastjóri vefhýsingarfyrirtækisins 1984 segir tölvuárásina sem lamaði kerfi félagsins vera af stærðargráðu þjóðríkis. Stofnandi rafmyntar kennir á sama tíma 1984 um að rafmynt sín hafi hrunið um meira en 99 prósent í dag."
+    }
+  },
+  "https://www.visir.is/g/20262966158d/reka-leikmann-sem-fekk-ellefu-milljarda-samning-i-mars": {
+    "first_seen": "2026-11-20T21:38:55.432635+00:00",
+    "record": {
+      "id": "e11dfd9e3a",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262966158d/reka-leikmann-sem-fekk-ellefu-milljarda-samning-i-mars",
+      "title": "Reka leik­mann sem fékk ellefu milljarða samning í mars",
+      "sum": "Daniel Jones, leikstjórnandi Indianapolis Colts í NFL-deildinni, þarf að taka pokann sinn á miðju tímabili en félagið ákvað að reka hann eftir skelfilega frammistöðu í nótt."
+    }
+  },
+  "https://www.visir.is/g/20262966092d/nyjar-tolur-um-thatttoku-barna-i-ithrottum-ut-fra-felagslegri-stodu": {
+    "first_seen": "2026-11-20T21:38:55.432635+00:00",
+    "record": {
+      "id": "5f0a7c60e1",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262966092d/nyjar-tolur-um-thatttoku-barna-i-ithrottum-ut-fra-felagslegri-stodu",
+      "title": "Nýjar tölur um þátt­töku barna í í­þróttum út frá fé­lags­legri stöðu",
+      "sum": "Í dag, á alþjóðlegum mannréttindadegi barna, birti Hagstofan tölur um þátttöku barna í íþróttastarfi, meðal annars eftir kyni, aldri, uppruna, búsetu og efnahag fjölskyldna. Birting talnanna er hluti af samstarfsverkefni umboðsmanns barna, Hagstofu Íslands, Íþrótta- og Ólympíusambands Íslands og Ungmennafélags Íslands"
+    }
   }
 }
