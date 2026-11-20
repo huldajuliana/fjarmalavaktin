@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -18502,7 +18502,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fyrirtaeki/rekstrar-og-efnahagsyfirlit-2025/",
       "title": "Afkoma fyrirtÃ¦kja nÃ¦r Ã³breytt Ã¡riÃ° 2025",
@@ -20652,6 +20652,36 @@
       "url": "https://www.visir.is/g/20262965518d/vettlingar-fra-langanesi-ganga-vel-i-sunnlendinga",
       "title": "Vettlingar frá Langa­nesi ganga vel í Sunn­lendinga",
       "sum": "Atvinnulífið á Þórshöfn snýst ekki bara um sjávarútveg. Þar er einnig flóra smærri fyrirtækja, eins og vettlingagerð, starfsemi sem við eigum ekkert endilega von á að finna í sjávarþorpi á Langanesi lengst norðaustur frá Reykjavík."
+    }
+  },
+  "https://www.visir.is/g/20262965660d/fadmlag-sem-vard-ad-kossi-og-sidar-martrod": {
+    "first_seen": "2026-11-20T02:49:11.106995+00:00",
+    "record": {
+      "id": "af03a8df43",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262965660d/fadmlag-sem-vard-ad-kossi-og-sidar-martrod",
+      "title": "Faðm­lag sem varð að kossi og síðar mar­tröð",
+      "sum": "Óhætt er að segja að mál tveggja starfsmanna Hagaskóla hafi skekið Vesturbæ Reykjavíkur síðustu sólarhringa. Framvinda málsins hefur verið hröð en fulltrúi borgarinnar vildi lítið tjá sig um málið eftir vendingar dagsins. Þá hefur ekki hefur náðst í Sigríði Nönnu Heimisdóttur, starfandi skólastjóra."
+    }
+  },
+  "https://www.visir.is/g/20262965675d/borche-vildi-ekki-tja-sig-um-hakon-hann-tok-tha-akvordun-sem-hann-tok-": {
+    "first_seen": "2026-11-20T02:49:11.106995+00:00",
+    "record": {
+      "id": "aaff13fd5b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-19",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262965675d/borche-vildi-ekki-tja-sig-um-hakon-hann-tok-tha-akvordun-sem-hann-tok-",
+      "title": "Borche vildi ekki tjá sig um Hákon: „Hann tók þá á­kvörðun sem hann tók“",
+      "sum": "Borche Ilievski Sansa, þjálfari ÍR, sagði það hafa verið ákvörðun Hákonar Arnar Hjálmarssonar að yfirgefa félagið en vildi ekki svara því hvort hann hefði vitað af félagaskiptunum fyrir fram. Hákon, sem var fyrirliði ÍR, samdi fyrr í vikunni við lið Njarðvíkur."
     }
   }
 }
