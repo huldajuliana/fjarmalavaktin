@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -18502,7 +18502,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fyrirtaeki/rekstrar-og-efnahagsyfirlit-2025/",
       "title": "Afkoma fyrirtÃ¦kja nÃ¦r Ã³breytt Ã¡riÃ° 2025",
@@ -21057,6 +21057,36 @@
       "url": "https://www.visir.is/g/20262966092d/nyjar-tolur-um-thatttoku-barna-i-ithrottum-ut-fra-felagslegri-stodu",
       "title": "Nýjar tölur um þátt­töku barna í í­þróttum út frá fé­lags­legri stöðu",
       "sum": "Í dag, á alþjóðlegum mannréttindadegi barna, birti Hagstofan tölur um þátttöku barna í íþróttastarfi, meðal annars eftir kyni, aldri, uppruna, búsetu og efnahag fjölskyldna. Birting talnanna er hluti af samstarfsverkefni umboðsmanns barna, Hagstofu Íslands, Íþrótta- og Ólympíusambands Íslands og Ungmennafélags Íslands"
+    }
+  },
+  "https://www.visir.is/g/20262966195d/fjorir-milljardar-dala-a-fyrsta-solarhring": {
+    "first_seen": "2026-11-21T02:56:40.799941+00:00",
+    "record": {
+      "id": "7f9ee993a9",
+      "cat": "gengi",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262966195d/fjorir-milljardar-dala-a-fyrsta-solarhring",
+      "title": "Fjórir milljarðar dala á fyrsta sólar­hring",
+      "sum": "Útgáfa Grand Theft Auto VI er sú stærsta, ekki bara í sögu tölvuleikjaiðnaðarins heldur alls afþreyingariðnaðarins. Tekjur af sölu leiksins námu tæplega fjórum milljörðum Bandaríkjadala sólarhring frá útgáfu."
+    }
+  },
+  "https://www.visir.is/g/20262965944d/uppgjorid-sindri-njardvik-107-101-sogulegur-sigur-sindramanna": {
+    "first_seen": "2026-11-21T02:56:40.799941+00:00",
+    "record": {
+      "id": "15838cdceb",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-20",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262965944d/uppgjorid-sindri-njardvik-107-101-sogulegur-sigur-sindramanna",
+      "title": "Upp­gjörið: Sindri-Njarðvík 107-101 | Sögu­legur sigur Sindramanna",
+      "sum": "Sindri vann í kvöld sinn fyrsta leik í efstu deild karla í körfubolta í sögu félagsins þegar liðið burstaði Njarðvíkinga með sex stigum í Bónusdeildinni, 107-101. Sindramenn höfðu tapað sex fyrstu leikjunum sínum en nú kom sigurinn og það með stæl."
     }
   }
 }
