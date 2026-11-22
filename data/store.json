@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -18502,7 +18502,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fyrirtaeki/rekstrar-og-efnahagsyfirlit-2025/",
       "title": "Afkoma fyrirtÃ¦kja nÃ¦r Ã³breytt Ã¡riÃ° 2025",
@@ -21222,6 +21222,51 @@
       "url": "https://www.visir.is/g/20262966249d/-blaskogarskatturinn-oddvitinn-fretti-af-gjaldinu-i-fjolmidlum",
       "title": "„Bláskógarskatturinn“: Odd­vitinn frétti af gjaldinu í fjöl­miðlum",
       "sum": "Oddviti Bláskógabyggðar segist hafa frétt af fyrirhuguðu náttúru- og innviðagjaldi í fréttum í fjölmiðlum. Ferðamannastaðirnir þrír sem leggja á gjaldið á eru allir í sveitarfélaginu."
+    }
+  },
+  "https://www.visir.is/g/20262966463d/stormarkadur-brann-til-kaldra-kola-i-danmorku": {
+    "first_seen": "2026-11-22T01:50:38.717947+00:00",
+    "record": {
+      "id": "1e63e6fdfe",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-22",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262966463d/stormarkadur-brann-til-kaldra-kola-i-danmorku",
+      "title": "Stór­markaður brann til kaldra kola í Dan­mörku",
+      "sum": "Stórbruni varð í SuperBrugsen, stærstu matvöruverslun dönsku eyjarinnar Fanø, síðdegis í dag. Slökkvilið réði niðurlögum eldsins um kvöldið en samkvæmt lögreglu er allt verslunarrýmið brunnið. Enginn slasaðist."
+    }
+  },
+  "https://www.visir.is/g/20262966457d/ny-taekni-sem-hvert-mannsbarn-getur-notad-til-ad-greina-thjodfelagid": {
+    "first_seen": "2026-11-22T01:50:38.717947+00:00",
+    "record": {
+      "id": "d845b2929b",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-21",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262966457d/ny-taekni-sem-hvert-mannsbarn-getur-notad-til-ad-greina-thjodfelagid",
+      "title": "Ný tækni sem hvert manns­barn getur notað til að greina þjóð­fé­lagið",
+      "sum": "Í áratugi höfum við Íslendingar rætt um stórar ákvarðanir – kvótakerfið, húsnæðismál, opinberar framkvæmdir, orkukostnað og skattbyrði – án þess að almenningur hafi haft aðgang að verkfærum sem sýna afleiðingarnar skýrt."
+    }
+  },
+  "https://www.visir.is/g/20262966420d/viktor-gisli-og-janus-dadi-med-fullt-hus-a-spani": {
+    "first_seen": "2026-11-22T01:50:38.717947+00:00",
+    "record": {
+      "id": "bf49645bca",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-21",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262966420d/viktor-gisli-og-janus-dadi-med-fullt-hus-a-spani",
+      "title": "Viktor Gísli og Janus Daði með fullt hús á Spáni",
+      "sum": "Það var boðið upp á toppslag í spænsku úrvalsdeildinni í handbolta í kvöld þegar Bidasoa og Barcelona mættust en bæði þessi lið voru með fullt hús stiga eftir níu umferðir. Barcelona hafði betur í leik sem aldrei varð spennandi, 25-42."
     }
   }
 }
