@@ -21403,5 +21403,20 @@
       "title": "Veikindafjarvera talin kosta tólf milljarða á ári",
       "sum": "Veikindafjarvera kostar sveitarfélögin á höfuðborgarsvæðinu 12 milljarða króna á ári og væri hægt að lækka þann kostnað um 5,4 milljarða króna árlega með því að lækka veikindahlutfallið um þrjú prósentustig."
     }
+  },
+  "https://www.visir.is/g/20262966726d/runar-alex-sotti-boltann-fimm-sinnum-ur-netinu-i-tapi": {
+    "first_seen": "2026-11-22T20:32:08.777457+00:00",
+    "record": {
+      "id": "329c3871b9",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-22",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262966726d/runar-alex-sotti-boltann-fimm-sinnum-ur-netinu-i-tapi",
+      "title": "Rúnar Alex sótti boltann fimm sinnum úr netinu í tapi",
+      "sum": "Nordsjælland fór með gríðarlega öflugan og öruggan sigur á FCK þegar liðin mættust í dönsku úrvalsdeildinni í dag. Rúnar Alex varð að sækja boltann fimm sinnum úr netinu í 5-0 tapi."
+    }
   }
 }
