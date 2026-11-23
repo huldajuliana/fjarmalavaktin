@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -18502,7 +18502,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fyrirtaeki/rekstrar-og-efnahagsyfirlit-2025/",
       "title": "Afkoma fyrirtÃ¦kja nÃ¦r Ã³breytt Ã¡riÃ° 2025",
@@ -21417,6 +21417,36 @@
       "url": "https://www.visir.is/g/20262966726d/runar-alex-sotti-boltann-fimm-sinnum-ur-netinu-i-tapi",
       "title": "Rúnar Alex sótti boltann fimm sinnum úr netinu í tapi",
       "sum": "Nordsjælland fór með gríðarlega öflugan og öruggan sigur á FCK þegar liðin mættust í dönsku úrvalsdeildinni í dag. Rúnar Alex varð að sækja boltann fimm sinnum úr netinu í 5-0 tapi."
+    }
+  },
+  "https://www.visir.is/g/20262966758d/sigga-osk-etur-kappi-vid-fegurstu-fljod-heims": {
+    "first_seen": "2026-11-23T02:06:28.589362+00:00",
+    "record": {
+      "id": "1bb468d55e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-22",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262966758d/sigga-osk-etur-kappi-vid-fegurstu-fljod-heims",
+      "title": "Sigga Ósk etur kappi við fegurstu fljóð heims",
+      "sum": "Undankeppni Miss Universe 2026 fer fram í San Juan í Púertó Ríkó í kvöld og hefst klukkan 23.00 að íslenskum tíma. Fulltrúi Íslands í keppninni er söngkonan Sigga Ósk, sem varð Ungfrú Ísland í vor. Úrslitakvöldið er aðfaranótt miðvikudags."
+    }
+  },
+  "https://www.visir.is/g/20262966751d/russnesku-herskipi-sokkt-i-libiskri-hofn": {
+    "first_seen": "2026-11-23T02:06:28.589362+00:00",
+    "record": {
+      "id": "d1f5946f51",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-22",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262966751d/russnesku-herskipi-sokkt-i-libiskri-hofn",
+      "title": "Rúss­nesku her­skipi sökkt í líbískri höfn",
+      "sum": "Sprenging varð í rússnesku skipi í höfn Benghazi í Líbíu snemma í morgun og skipið virðist hafa sokkið. Stjórnin í austurhluta landsins segir að grunur leiki á að drónaárás hafi valdið henni."
     }
   }
 }
