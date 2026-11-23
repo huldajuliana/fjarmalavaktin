@@ -21448,5 +21448,305 @@
       "title": "Rúss­nesku her­skipi sökkt í líbískri höfn",
       "sum": "Sprenging varð í rússnesku skipi í höfn Benghazi í Líbíu snemma í morgun og skipið virðist hafa sokkið. Stjórnin í austurhluta landsins segir að grunur leiki á að drónaárás hafi valdið henni."
     }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/23/asar_og_heimar_inn_i_urvalsvisitoluna/": {
+    "first_seen": "2026-11-23T21:27:06.664136+00:00",
+    "record": {
+      "id": "fddbd5169e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/23/asar_og_heimar_inn_i_urvalsvisitoluna/",
+      "title": "Ásar og Heimar inn í úrvalsvísitöluna",
+      "sum": "Ásar hf. og Heimar hf. bætast við úrvalsvísitölu Kauphallar Íslands, OMXI15, við opnun markaðar 1. desember. JBT Marel Corporation og Skagi hf. falla á sama tíma úr vísitölunni."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/23/bodar_tillogur_um_hallalaus_fjarlog_a_naestu_dogum/": {
+    "first_seen": "2026-11-23T21:27:06.664136+00:00",
+    "record": {
+      "id": "b6990d4682",
+      "cat": "rikisfjarmal",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/23/bodar_tillogur_um_hallalaus_fjarlog_a_naestu_dogum/",
+      "title": "Boðar tillögur um hallalaus fjárlög á næstu dögum",
+      "sum": "Kristrún Frostadóttir forsætisráðherra segir að tillögur um breytingar á fjárlagafrumvarpi næsta árs verði birtar á næstu dögum og lagðar fyrir fjárlaganefnd Alþingis. Markmiðið sé að frumvarpið verði afgreitt án halla."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/23/hlutabref_nvidia_taka_stokk/": {
+    "first_seen": "2026-11-23T21:27:06.664136+00:00",
+    "record": {
+      "id": "8cd2570ec2",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/23/hlutabref_nvidia_taka_stokk/",
+      "title": "Hlutabréf Nvidia taka stökk",
+      "sum": "Hlutabréf í bandaríska tæknirisanum Nvidia hafa tekið stökk upp á við eftir að tilkynnt var um að fyrrverandi forstjóri fyrirtækisins hefði verið endurráðinn sem forstjóri."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/23/raett_um_samspil_skatta_og_vaxtar/": {
+    "first_seen": "2026-11-23T21:27:06.664136+00:00",
+    "record": {
+      "id": "b77a3f3e74",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/23/raett_um_samspil_skatta_og_vaxtar/",
+      "title": "Rætt um samspil skatta og vaxtar",
+      "sum": "Samtök atvinnulífsins (SA) efna á morgun til hádegisverðarfundar í Nauthóli um skattamál, en þar verður farið í saumana á samspili atvinnustefnu, skattkerfis og ríkisfjármála og svara leitað við því hvort fyrirhugaðar skattabreytingar styðji við markmið stjórnvalda um meiri fjárfestingu, aukna framleiðni og sterkari …"
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/23/segir_stora_nullid_geta_dypkad_nidursveifluna/": {
+    "first_seen": "2026-11-23T21:27:06.664136+00:00",
+    "record": {
+      "id": "fbba863020",
+      "cat": "hagvoxtur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/23/segir_stora_nullid_geta_dypkad_nidursveifluna/",
+      "title": "Segir „stóra núllið“ geta dýpkað niðursveifluna",
+      "sum": "Frekari niðurskurður til að tryggja hallalaus fjárlög á næsta ári myndi að mati Konráðs S. Guðjónssonar, hagfræðings hjá Kontext og fyrrverandi efnahagsráðgjafa fyrri ríkisstjórnar, dýpka og lengja niðursveifluna."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/23/rikid_breytti_16_7_milljarda_krona_krofu_i_hlutafe/": {
+    "first_seen": "2026-11-23T21:27:06.664136+00:00",
+    "record": {
+      "id": "5652718a12",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/23/rikid_breytti_16_7_milljarda_krona_krofu_i_hlutafe/",
+      "title": "Ríkið breytti 16,7 milljarða króna kröfu í hlutafé",
+      "sum": "Ríkið breytti 16,7 milljarða króna kröfu á hendur Vaðlaheiðargöngum hf. í hlutafé 1. júlí þegar félaginu var breytt í opinbera innviðafélagið Göng og brú ohf."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/23/endurakvarda_skatta_fyrir_taepar_792_milljonir/": {
+    "first_seen": "2026-11-23T21:27:06.664136+00:00",
+    "record": {
+      "id": "50762cff6c",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/23/endurakvarda_skatta_fyrir_taepar_792_milljonir/",
+      "title": "Endurákvarða skatta fyrir tæpar 792 milljónir",
+      "sum": "Skatturinn hafði endurákvarðað skatta að fjárhæð tæplega 792 milljónir króna í byrjun nóvember vegna verkefna sem ráðist var í til að efla skatteftirlit."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/23/thusundir_milljarda_dala_gufa_upp/": {
+    "first_seen": "2026-11-23T21:27:06.664136+00:00",
+    "record": {
+      "id": "5b770f0d91",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/23/thusundir_milljarda_dala_gufa_upp/",
+      "title": "Þúsundir milljarða dala gufa upp",
+      "sum": "Það er alltaf mikil veisla þegar bólur blása út á hlutabréfamarkaði og að sama skapi afskaplega sársaukafullt þegar bólurnar springa og pappírshagnaðurinn fuðrar upp."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/23/vilja_afskra_klappir_ur_kaupholl/": {
+    "first_seen": "2026-11-23T21:27:06.664136+00:00",
+    "record": {
+      "id": "fcb233e592",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/23/vilja_afskra_klappir_ur_kaupholl/",
+      "title": "Vilja afskrá Klappir úr kauphöll",
+      "sum": "Stjórn Klappa samþykkti á stjórnarfundi fyrir helgi að leggja til við hluthafa félagsins að samþykkja afskráningu hlutabréfa félagsins úr viðskiptum á Nasdaq First North-markaðnum. Þetta er annað félagið á viku sem tilkynnir um áform um að segja skilið við Kauphöllina."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/23/selja_blikastadalandid_a_ruma_15_milljarda/": {
+    "first_seen": "2026-11-23T21:27:06.664136+00:00",
+    "record": {
+      "id": "64b95d46a2",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/23/selja_blikastadalandid_a_ruma_15_milljarda/",
+      "title": "Selja Blikastaðalandið á rúma 15 milljarða",
+      "sum": "Landey ehf., dótturfélag Arion banka hf., hefur samið við Íslensk verðbréf hf., fyrir hönd óstofnaðs sérhæfðs sjóðs, um kaup sjóðsins á öllu hlutafé Landeyjar í Blikastaðalandi ehf., sem á og þróar Blikastaðaland í Mosfellsbæ."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/23/kalla_eftir_frekari_gognum_fra_oliufelogunum/": {
+    "first_seen": "2026-11-23T21:27:06.664136+00:00",
+    "record": {
+      "id": "c915177e49",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/23/kalla_eftir_frekari_gognum_fra_oliufelogunum/",
+      "title": "Kalla eftir frekari gögnum frá olíufélögunum",
+      "sum": "Samkeppniseftirlitið hefur ákveðið að kalla eftir frekari gögnum frá olíufélögunum til að leggja mat á þróun eldsneytisverðs frá 1. september síðastliðnum."
+    }
+  },
+  "https://www.visir.is/g/20262967235d/lystu-yfir-verulegum-ahyggjum-af-samsetningu-ibua": {
+    "first_seen": "2026-11-23T21:27:06.664136+00:00",
+    "record": {
+      "id": "9b38a14500",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262967235d/lystu-yfir-verulegum-ahyggjum-af-samsetningu-ibua",
+      "title": "Lýstu yfir veru­legum á­hyggjum af sam­setningu í­búa",
+      "sum": "Landsréttur vísaði frá máli Slökkviliðs höfuðborgarsvæðisins gegn eiganda fasteignar í Reykjavík þar sem farið var fram á að forvarnarsvið slökkviliðsins fengi aðgang að fasteigninni."
+    }
+  },
+  "https://www.visir.is/g/20262967154d/njardvik-haukar-storleikur-i-reykjanesbae": {
+    "first_seen": "2026-11-23T21:27:06.664136+00:00",
+    "record": {
+      "id": "9e79be11ff",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262967154d/njardvik-haukar-storleikur-i-reykjanesbae",
+      "title": "Njarð­vík - Haukar | Stórleikur í Reykja­nes­bæ",
+      "sum": "Njarðvík og Haukar, sem kepptu um Íslandsmeistaratitilinn í vor, eigast við í Bónus deild kvenna í körfubolta. Leikur liðanna hefst klukkan 19:15."
+    }
+  },
+  "https://www.visir.is/g/20262966787d/vandraedin-a-byggingamarkadnum-komu-ekki-a-ovart": {
+    "first_seen": "2026-11-23T21:27:06.664136+00:00",
+    "record": {
+      "id": "41653c73c7",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262966787d/vandraedin-a-byggingamarkadnum-komu-ekki-a-ovart",
+      "title": "Vand­ræðin á bygginga­markaðnum komu ekki á ó­vart",
+      "sum": "Sölutími nýrra íbúða hefur tvöfaldast á tveimur árum. Það sem áður tók um átta mánuði tekur nú sextán. Á sama tíma hafa laun hækkað, sveitarfélög hækkað gjöldin sín, ríkið dregið úr endurgreiðslu virðisaukaskatts og skipulagsferlin verið bæði löng og þung."
+    }
+  },
+  "https://www.visir.is/g/20262967177d/einn-efnilegasti-framherji-islands-maetir-arsenal-i-beinni": {
+    "first_seen": "2026-11-23T21:27:06.664136+00:00",
+    "record": {
+      "id": "bc516195a6",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262967177d/einn-efnilegasti-framherji-islands-maetir-arsenal-i-beinni",
+      "title": "Einn efni­legasti fram­herji Ís­lands mætir Arsenal í beinni",
+      "sum": "Íslenski unglingaliðsmaðurinn Bjarki Hrafn Garðarsson er í leikmannahópi Borussia Dortmund sem mætir Arsenal á morgun í unglingadeild UEFA."
+    }
+  },
+  "https://www.visir.is/g/20262967117d/for-betur-en-a-horfdist-hja-raya": {
+    "first_seen": "2026-11-23T21:27:06.664136+00:00",
+    "record": {
+      "id": "357c021794",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262967117d/for-betur-en-a-horfdist-hja-raya",
+      "title": "Fór betur en á horfðist hjá Raya",
+      "sum": "David Raya, markvörður Englandsmeistara Arsenal, verður ekki lengi frá vegna meiðsla sem hann varð fyrir í 2-2 jafntefli við Newcastle um helgina."
+    }
+  },
+  "https://www.visir.is/g/20262967121d/hvar-er-fagurgalinn-fra-thvi-i-sumar-": {
+    "first_seen": "2026-11-23T21:27:06.664136+00:00",
+    "record": {
+      "id": "51bb8e6e40",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262967121d/hvar-er-fagurgalinn-fra-thvi-i-sumar-",
+      "title": "Hvar er fagurgalinn frá því í sumar?",
+      "sum": "Í sumar skorti ekki yfirlýsingar stjórnarandstöðunnar um ágæti EES-samningsins. Í aðdraganda þjóðaratkvæðagreiðslunnar var okkur ítrekað sagt að hagsmunum Íslands væri best borgið utan Evrópusambandsins en innan EES. Þar ættum við að standa vörð um okkar hagsmuni."
+    }
+  },
+  "https://www.arionbanki.is/frettir/arion-banki-breytir-voextum-overdtryggdra-ibudalana-med-fasta-vexti-2026-11-20": {
+    "first_seen": "2026-11-23T21:27:06.664136+00:00",
+    "record": {
+      "id": "a29b446e07",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "Arion banki",
+      "url": "https://www.arionbanki.is/frettir/arion-banki-breytir-voextum-overdtryggdra-ibudalana-med-fasta-vexti-2026-11-20",
+      "title": "Arion banki breyt­ir vöxtum óverðtryggðra íbúðalána með fasta vexti",
+      "sum": ""
+    }
+  },
+  "https://www.arionbanki.is/frettir/arion-banki-radgjafi-vid-soelu-fjardarkaupa": {
+    "first_seen": "2026-11-23T21:27:06.664136+00:00",
+    "record": {
+      "id": "bb5ecbf396",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "Arion banki",
+      "url": "https://www.arionbanki.is/frettir/arion-banki-radgjafi-vid-soelu-fjardarkaupa",
+      "title": "Arion banki ráðgjafi við sölu Fjarðarkaupa",
+      "sum": ""
+    }
+  },
+  "https://www.arionbanki.is/frettir/afkoma-arion-banka-a-thridja-arsfjordungi-2026": {
+    "first_seen": "2026-11-23T21:27:06.664136+00:00",
+    "record": {
+      "id": "bbc7a02d7b",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "Arion banki",
+      "url": "https://www.arionbanki.is/frettir/afkoma-arion-banka-a-thridja-arsfjordungi-2026",
+      "title": "Afkoma Arion banka á þriðja ársfjórðungi 2026",
+      "sum": ""
+    }
   }
 }
