@@ -22048,5 +22048,35 @@
       "title": "„Svo­lítið val­kvæð hlustun hjá Sjálf­stæðis­flokknum þessa dagana“",
       "sum": "Utanríkisráðherra stendur við orð sín í garð þingflokksformanns Sjálfstæðisflokksins á Alþingi í gær þar sem ráðherrann sakaði hann um dylgjur og hálfkveðnar vísur þegar hann spurði út í samning sem gerður var við ráðgjafa í aðdraganda þjóðaratkvæðagreiðslunnar um áframhald viðræðna við Evrópusambandið í sumar."
     }
+  },
+  "https://www.visir.is/g/20262967837d/kalkunum-stolid-i-skjoli-naetur": {
+    "first_seen": "2026-11-24T23:20:30.790602+00:00",
+    "record": {
+      "id": "bd3c7f2ae2",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-24",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262967837d/kalkunum-stolid-i-skjoli-naetur",
+      "title": "Kalkúnum stolið í skjóli nætur",
+      "sum": "Þrír kalkúnar voru teknir ófrjálsri hendi í Garðinum um helgina. Eigandinn hafði raunar auglýst eftir nýjum eigendum á samfélagsmiðlum en bjóst ekki við því að einhver stæli þeim í skjóli nætur."
+    }
+  },
+  "https://www.visir.is/g/20262967720d/-vid-viljum-mjog-ogjarnan-ad-thad-gerist-aftur-": {
+    "first_seen": "2026-11-24T23:20:30.790602+00:00",
+    "record": {
+      "id": "bcb0ce4bcc",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-24",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262967720d/-vid-viljum-mjog-ogjarnan-ad-thad-gerist-aftur-",
+      "title": "„Við viljum mjög ó­gjarnan að það gerist aftur“",
+      "sum": "Daði Már Kristófersson fjármála- og efnahagsráðherra segir að hann muni taka til greina athugasemdir Seðlabankans við tímasetningu breytinga á verðtryggðum íbúðalánum. Í frumvarpsdrögum ráðherrans er gert ráð fyrir að frá 1. mars 2027 verði ný verðtryggð íbúðalán að jafnaði ekki veitt til lengri tíma en 25 ára."
+    }
   }
 }
