@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -18502,7 +18502,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fyrirtaeki/rekstrar-og-efnahagsyfirlit-2025/",
       "title": "Afkoma fyrirtÃ¦kja nÃ¦r Ã³breytt Ã¡riÃ° 2025",
@@ -21712,7 +21712,7 @@
       "impact": "kerfis",
       "dir": "up",
       "constr": false,
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "src": "Arion banki",
       "url": "https://www.arionbanki.is/frettir/arion-banki-breytir-voextum-overdtryggdra-ibudalana-med-fasta-vexti-2026-11-20",
       "title": "Arion banki breyt­ir vöxtum óverðtryggðra íbúðalána með fasta vexti",
@@ -21727,7 +21727,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "src": "Arion banki",
       "url": "https://www.arionbanki.is/frettir/arion-banki-radgjafi-vid-soelu-fjardarkaupa",
       "title": "Arion banki ráðgjafi við sölu Fjarðarkaupa",
@@ -21742,11 +21742,86 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "src": "Arion banki",
       "url": "https://www.arionbanki.is/frettir/afkoma-arion-banka-a-thridja-arsfjordungi-2026",
       "title": "Afkoma Arion banka á þriðja ársfjórðungi 2026",
       "sum": ""
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/23/threttan_stjornendastorf_adeins_auglyst_innan_forga/": {
+    "first_seen": "2026-11-24T01:26:12.063463+00:00",
+    "record": {
+      "id": "8bfddf9fa2",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/23/threttan_stjornendastorf_adeins_auglyst_innan_forga/",
+      "title": "Þrettán stjórnendastörf aðeins auglýst innan forgangshóps",
+      "sum": "Viðskiptaráð gagnrýndi undanþágu frá almennri auglýsingaskyldu."
+    }
+  },
+  "https://www.visir.is/g/20262967187d/lidsfelagi-vard-mjog-hissa-a-fognudi-lamine-yamal": {
+    "first_seen": "2026-11-24T01:26:12.063463+00:00",
+    "record": {
+      "id": "daf43b8b59",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262967187d/lidsfelagi-vard-mjog-hissa-a-fognudi-lamine-yamal",
+      "title": "Liðsfélagi varð mjög hissa á fögnuði Lamine Yamal",
+      "sum": "Spænski knattspyrnumaðurinn Lamine Yamal vakti athygli fyrir óvenjulegt fagn í dramatískum 3-2 endurkomusigri Barcelona á Villarreal í spænsku deildinni. Það voru þó ekki góðar fréttir af honum eftir leik helgarinnar."
+    }
+  },
+  "https://www.visir.is/g/20262967274d/komi-a-versta-tima-fyrir-kaupmenn-landsins": {
+    "first_seen": "2026-11-24T01:26:12.063463+00:00",
+    "record": {
+      "id": "d9c7b9cc11",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262967274d/komi-a-versta-tima-fyrir-kaupmenn-landsins",
+      "title": "Komi á versta tíma fyrir kaup­menn landsins",
+      "sum": "Forstöðumaður netöryggissveitarinnar CERT-IS á von á því að öflugar netárásir verði reglulegur liður í kjölfar alvarlegs atviks hjá vefhýsingarfyrirtækinu 1984. Fulltrúi verslunarinnar segir árásina hafa komið á versta tíma fyrir kaupmenn nú þegar háannatími í netverslun er genginn í garð."
+    }
+  },
+  "https://www.visir.is/g/20262967267d/-hugsadi-bara-med-ser-ad-thetta-vaeri-ekki-dagurinn-sem-ad-hun-aetladi-ad-tapa-": {
+    "first_seen": "2026-11-24T01:26:12.063463+00:00",
+    "record": {
+      "id": "e2c51f0b84",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262967267d/-hugsadi-bara-med-ser-ad-thetta-vaeri-ekki-dagurinn-sem-ad-hun-aetladi-ad-tapa-",
+      "title": "„Hugsaði bara með sér að þetta væri ekki dagurinn sem að hún ætlaði að tapa“",
+      "sum": "Haukar unnu gríðarlega öflugan sigur á Njarðvík, 98-94, eftir framlengdan leik í IceMar höllinni í kvöld. Haukar lyfti sér með sigrinum upp í annað sæti Bónus deild kvenna. Viktor Marinó Alexandersson var að vonum sáttur með sigurinn."
+    }
+  },
+  "https://www.visir.is/g/20262967154d/uppgjorid-njardvik-haukar-94-98-haukar-sigu-fram-ur-a-endasprettinum": {
+    "first_seen": "2026-11-24T01:26:12.063463+00:00",
+    "record": {
+      "id": "3c0ab5e855",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-23",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262967154d/uppgjorid-njardvik-haukar-94-98-haukar-sigu-fram-ur-a-endasprettinum",
+      "title": "Upp­gjörið: Njarð­vík - Haukar 94-98| Haukar sigu fram úr á enda­sprettinum",
+      "sum": "Njarðvík tók á móti Haukum í Bónus deild kvenna í kvöld þegar deildin fór aftur af stað eftir landsleikjahlé. Það var hart barist í IceMar-höllinni þar sem úrslitin réðust í framlengingu og voru það Haukar sem höfðu betur, 94-98."
     }
   }
 }
