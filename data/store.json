@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -18502,7 +18502,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fyrirtaeki/rekstrar-og-efnahagsyfirlit-2025/",
       "title": "Afkoma fyrirtÃ¦kja nÃ¦r Ã³breytt Ã¡riÃ° 2025",
@@ -21712,7 +21712,7 @@
       "impact": "kerfis",
       "dir": "up",
       "constr": false,
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "src": "Arion banki",
       "url": "https://www.arionbanki.is/frettir/arion-banki-breytir-voextum-overdtryggdra-ibudalana-med-fasta-vexti-2026-11-20",
       "title": "Arion banki breyt­ir vöxtum óverðtryggðra íbúðalána með fasta vexti",
@@ -21727,7 +21727,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "src": "Arion banki",
       "url": "https://www.arionbanki.is/frettir/arion-banki-radgjafi-vid-soelu-fjardarkaupa",
       "title": "Arion banki ráðgjafi við sölu Fjarðarkaupa",
@@ -21742,7 +21742,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "src": "Arion banki",
       "url": "https://www.arionbanki.is/frettir/afkoma-arion-banka-a-thridja-arsfjordungi-2026",
       "title": "Afkoma Arion banka á þriðja ársfjórðungi 2026",
@@ -22077,6 +22077,261 @@
       "url": "https://www.visir.is/g/20262967720d/-vid-viljum-mjog-ogjarnan-ad-thad-gerist-aftur-",
       "title": "„Við viljum mjög ó­gjarnan að það gerist aftur“",
       "sum": "Daði Már Kristófersson fjármála- og efnahagsráðherra segir að hann muni taka til greina athugasemdir Seðlabankans við tímasetningu breytinga á verðtryggðum íbúðalánum. Í frumvarpsdrögum ráðherrans er gert ráð fyrir að frá 1. mars 2027 verði ný verðtryggð íbúðalán að jafnaði ekki veitt til lengri tíma en 25 ára."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/25/raduneytid_vissi_af_athugasemdum_hardar_i_juni/": {
+    "first_seen": "2026-11-25T19:18:10.558206+00:00",
+    "record": {
+      "id": "2455aac2a4",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-25",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/25/raduneytid_vissi_af_athugasemdum_hardar_i_juni/",
+      "title": "Ráðuneytið vissi af athugasemdum Harðar í júní",
+      "sum": "Fjármála- og efnahagsráðuneytinu var þegar 26. júní greint frá því að Hörður Arnarson, þáverandi forstjóri Landsvirkjunar, hefði gert athugasemdir við störf stjórnar fyrirtækisins og samskipti hennar við ráðuneytið. Ekki var talið tilefni til frekari ráðstafana að sinni."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/25/sektadir_um_65_milljarda_nadi_til_islands/": {
+    "first_seen": "2026-11-25T19:18:10.558206+00:00",
+    "record": {
+      "id": "55663941f6",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-25",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/25/sektadir_um_65_milljarda_nadi_til_islands/",
+      "title": "Sektaðir um 65 milljarða: Náði til Íslands",
+      "sum": "Samráðið náði til alls Evrópska efnahagssvæðisins, þar á meðal Íslands, og kann að hafa leitt til hærra verðs á dagvörum."
+    }
+  },
+  "https://www.mbl.is/frettir/erlent/2026/11/25/trump_vill_nyja_tolla_a_esb_og_kina/": {
+    "first_seen": "2026-11-25T19:18:10.558206+00:00",
+    "record": {
+      "id": "72135a9eff",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-25",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/erlent/2026/11/25/trump_vill_nyja_tolla_a_esb_og_kina/",
+      "title": "Trump vill nýja tolla á ESB og Kína",
+      "sum": "Bandarísk stjórnvöld kynntu í dag tillögur um allt að 20% tolla á vörur frá 14 ríkjum og efnahagssvæðum, þar á meðal Evrópusambandinu og Kína."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/25/vill_ad_esa_fjalli_um_4_milljarda_skuldaaflettingu_/": {
+    "first_seen": "2026-11-25T19:18:10.558206+00:00",
+    "record": {
+      "id": "036fe37025",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-25",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/25/vill_ad_esa_fjalli_um_4_milljarda_skuldaaflettingu_/",
+      "title": "Vill að ESA fjalli um 4 milljarða skuldaafléttingu RÚV",
+      "sum": "Sýn hf. vill að ríkissjóður taki ekki yfir tæplega fjögurra milljarða króna skuld Ríkisútvarpsins vegna eldri lífeyrisskuldbindinga fyrr en skorið hefur verið úr um hvort ráðstöfunin samræmist reglum EES-samningsins um ríkisaðstoð og nauðsynlegri málsmeðferð gagnvart Eftirlitsstofnun EFTA er lokið."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/25/oljost_hver_vissi_hvad_um_skemmdirnar/": {
+    "first_seen": "2026-11-25T19:18:10.558206+00:00",
+    "record": {
+      "id": "dcb0320558",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-25",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/25/oljost_hver_vissi_hvad_um_skemmdirnar/",
+      "title": "Óljóst hver vissi hvað um skemmdirnar",
+      "sum": "Engin tilboð hafa enn borist um hótelturninn."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/25/hagnadurinn_drost_saman_um_96_prosent/": {
+    "first_seen": "2026-11-25T19:18:10.558206+00:00",
+    "record": {
+      "id": "67790656a1",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-25",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/25/hagnadurinn_drost_saman_um_96_prosent/",
+      "title": "Hagnaðurinn dróst saman um 96%",
+      "sum": "Hagnaður breska lággjaldaflugfélagsins easyJet eftir skatta dróst saman um 96% milli ára á fjárhagsárinu sem lauk í september."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/25/taeplega_65_prosent_andvig_solu_landsbankans/": {
+    "first_seen": "2026-11-25T19:18:10.558206+00:00",
+    "record": {
+      "id": "80852cbaf4",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-25",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/25/taeplega_65_prosent_andvig_solu_landsbankans/",
+      "title": "Tæplega 65% andvíg sölu Landsbankans",
+      "sum": "Nærri tveir af hverjum þremur landsmönnum eru andvígir því að ríkið selji eignarhlut sinn í Landsbankanum, að hluta eða öllu leyti, samkvæmt nýrri könnun sem Gallup gerði fyrir Samfylkinguna."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/25/nyskopunarstyrkir_hafa_laekkad_um_47_prosent/": {
+    "first_seen": "2026-11-25T19:18:10.558206+00:00",
+    "record": {
+      "id": "4800c18ab1",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-25",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/25/nyskopunarstyrkir_hafa_laekkad_um_47_prosent/",
+      "title": "Nýsköpunarstyrkir hafa lækkað um 47%",
+      "sum": "Lyfjafyrirtækið Coripharma fær hæstu upphæð þessa árs í sérstakan skattafrádrátt vegna nýsköpunar, eða samtals 385 milljónir. Í heildina er mikill samdráttur á þeim skattfrádrætti sem fyrirtæki fá á þessu ári og nemur lækkunin 47% yfir tvö ár."
+    }
+  },
+  "https://www.visir.is/g/20262968379d/netaras-a-tolvukerfi-borgarinnar-veldur-roskun-a-thjonustu": {
+    "first_seen": "2026-11-25T19:18:10.558206+00:00",
+    "record": {
+      "id": "064b3d49d0",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262968379d/netaras-a-tolvukerfi-borgarinnar-veldur-roskun-a-thjonustu",
+      "title": "Netárás á tölvu­kerfi borgarinnar veldur röskun á þjónustu",
+      "sum": "Reykjavíkurborg varð í dag fyrir netárás á hluta tölvukerfa sinna. Um leið og árásin uppgötvaðist var gripið til öryggisráðstafana til að verja kerfi og gögn borgarinnar. Meðal annars var ákveðið að taka fjölda rafrænna þjónustukerfa tímabundið úr sambandi."
+    }
+  },
+  "https://www.visir.is/g/20262968309d/festi-kaup-a-verki-tolla-eftir-gjof-fra-hjarta-til-hjarta-": {
+    "first_seen": "2026-11-25T19:18:10.558206+00:00",
+    "record": {
+      "id": "082b22d03e",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262968309d/festi-kaup-a-verki-tolla-eftir-gjof-fra-hjarta-til-hjarta-",
+      "title": "Festi kaup á verki Tolla eftir gjöf „frá hjarta til hjarta“",
+      "sum": "Alexandra Jóhannsdóttir, bæjarstjóri Suðurnesjabæjar, ákvað fyrir áratug að þegar hún myndi festa kaup á sínu fyrsta málverki yrði það eftir Tolla eftir að hann gaf henni verk."
+    }
+  },
+  "https://www.visir.is/g/20262968335d/thrir-thjofnadir-og-tvo-innbrot-a-tolf-timum": {
+    "first_seen": "2026-11-25T19:18:10.558206+00:00",
+    "record": {
+      "id": "efd5378c05",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262968335d/thrir-thjofnadir-og-tvo-innbrot-a-tolf-timum",
+      "title": "Þrír þjófnaðir og tvö inn­brot á tólf tímum",
+      "sum": "Tveir voru handteknir í dag grunaðir um þjófnað en málið kom upp á varðsvæði lögreglustöðvar 4, sem sinnir verkefnum í Grafarvogi, Árbæ og Mosfellsbæ. Voru hinir grunuðu vistaðir í fangageymslum og er málið í rannsókn."
+    }
+  },
+  "https://www.visir.is/g/20262968336d/njardvikingar-senda-serbann-heim": {
+    "first_seen": "2026-11-25T19:18:10.558206+00:00",
+    "record": {
+      "id": "3059087292",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262968336d/njardvikingar-senda-serbann-heim",
+      "title": "Njarð­víkingar senda Serbann heim",
+      "sum": "Njarðvíkingar halda áfram að gera breytingar á leikmannahópi sínum en lítið hefur gengið hjá Njarðvíkurliðinu í Bónusdeild karla í körfubolta í vetur."
+    }
+  },
+  "https://www.visir.is/g/20262968337d/sprengdu-allar-birgdir-bandarikjanna-af-blyasidi": {
+    "first_seen": "2026-11-25T19:18:10.558206+00:00",
+    "record": {
+      "id": "a53ba3ac0d",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262968337d/sprengdu-allar-birgdir-bandarikjanna-af-blyasidi",
+      "title": "Sprengdu allar birgðir Banda­ríkjanna af blýasíði",
+      "sum": "Sprengjusérfræðingar bandaríska hersins sprengdu í dag mjög gamalt efni sem notað er í sprengjugerð, þrátt fyrir áhyggjur íbúa á svæðinu vegna mögulegrar mengunar. Embættismenn í Iowa, þar sem efnið var geymt, höfðu áhyggjur af því að efnin gætu sprungið í loft upp."
+    }
+  },
+  "https://www.visir.is/g/20262968241d/skuldum-ruv-verdi-ekki-aflett-fyrr-en-eftir-umfjollun-esa": {
+    "first_seen": "2026-11-25T19:18:10.558206+00:00",
+    "record": {
+      "id": "4faaf22044",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262968241d/skuldum-ruv-verdi-ekki-aflett-fyrr-en-eftir-umfjollun-esa",
+      "title": "Skuldum Rúv verði ekki af­létt fyrr en eftir um­fjöllun ESA",
+      "sum": "Sýn hf. leggur til að ríkissjóður taki ekki yfir tæplega fjögurra milljarða króna skuld Ríkisútvarpsins fyrr en eftir að leitt hefur verið til lykta hvort það standist reglur EES-samningsins um ríkisaðstoð og nauðsynlega málsmeðferð gagnvart Eftirlitsstofnun EFTA (ESA)."
+    }
+  },
+  "https://www.visir.is/g/20262968214d/-eg-vil-ekki-maeta-i-fleiri-jardarfarir-ungra-manna-": {
+    "first_seen": "2026-11-25T19:18:10.558206+00:00",
+    "record": {
+      "id": "dbacf34c65",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262968214d/-eg-vil-ekki-maeta-i-fleiri-jardarfarir-ungra-manna-",
+      "title": "„Ég vil ekki mæta í fleiri jarðar­farir ungra manna“",
+      "sum": "Jón Pétur Zimsen, þingmaður Sjálfstæðisflokksins, vakti athygli á hárri sjálfsvígstíðni ungra karlmanna hér á landi. Hann vill ekki fara í fleiri jarðarfarir ungra karlmanna."
+    }
+  },
+  "https://www.visir.is/g/20262967966d/versta-martrod-addaenda-virdist-raetast": {
+    "first_seen": "2026-11-25T19:18:10.558206+00:00",
+    "record": {
+      "id": "9810cd84a5",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262967966d/versta-martrod-addaenda-virdist-raetast",
+      "title": "Versta mar­tröð að­dá­enda virðist rætast",
+      "sum": "Lokastikla ofurhetjumyndarinnar Avengers: Doomsday birtist í vikunni og horfði meira en hálfur milljarður manna á hana á einum sólarhring. Búist er við að kvikmyndin muni raka inn nokkrum milljörðum dala og snúa vörn Marvel í sókn."
+    }
+  },
+  "https://www.visir.is/g/20262968118d/efla-dronavarnir-og-kaupa-brynvarda-bila": {
+    "first_seen": "2026-11-25T19:18:10.558206+00:00",
+    "record": {
+      "id": "e4c1a9a450",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-25",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262968118d/efla-dronavarnir-og-kaupa-brynvarda-bila",
+      "title": "Efla dróna­varnir og kaupa bryn­varða bíla",
+      "sum": "Ráðherrar utanríkis- og dómsmála skrifuðu í morgun undir samninga við Landhelgisgæsluna og embætti ríkislögreglustjóra um eflingu viðbragðs- og eftirlitsgetu stofnananna. Utanríkisráðherra segir að undirritun samninganna sendi skýr skilaboð til bandalagsþjóða um að Íslands sé verðugur bandamaður í NATO."
     }
   }
 }
