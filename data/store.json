@@ -10987,7 +10987,7 @@
       "impact": "mikil",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/vinnumarkadur/vinnumarkadurinn-i-september-2026/",
       "title": "Atvinnuleysi 5,7% Ã­ september",
@@ -18502,7 +18502,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fyrirtaeki/rekstrar-og-efnahagsyfirlit-2025/",
       "title": "Afkoma fyrirtÃ¦kja nÃ¦r Ã³breytt Ã¡riÃ° 2025",
@@ -21712,7 +21712,7 @@
       "impact": "kerfis",
       "dir": "up",
       "constr": false,
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "src": "Arion banki",
       "url": "https://www.arionbanki.is/frettir/arion-banki-breytir-voextum-overdtryggdra-ibudalana-med-fasta-vexti-2026-11-20",
       "title": "Arion banki breyt­ir vöxtum óverðtryggðra íbúðalána með fasta vexti",
@@ -21727,7 +21727,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "src": "Arion banki",
       "url": "https://www.arionbanki.is/frettir/arion-banki-radgjafi-vid-soelu-fjardarkaupa",
       "title": "Arion banki ráðgjafi við sölu Fjarðarkaupa",
@@ -21742,7 +21742,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "src": "Arion banki",
       "url": "https://www.arionbanki.is/frettir/afkoma-arion-banka-a-thridja-arsfjordungi-2026",
       "title": "Afkoma Arion banka á þriðja ársfjórðungi 2026",
@@ -22347,6 +22347,156 @@
       "url": "https://www.visir.is/g/20262968446d/-vid-thurfum-ad-berjast-fyrir-lifi-okkar-",
       "title": "„Við þurfum að berjast fyrir lífi okkar“",
       "sum": "Bruno Fernandes skoraði tvö mörk fyrir Manchester United í Meistaradeildinni í kvöld en það dugði þó bara til 2-2 jafnteflis á hans gamla heimavelli í Lissabon. Sporting skoraði jöfnunarmarkið eftir skelfileg mistök Senne Lammens, markvarðar Manchester United."
+    }
+  },
+  "https://asi.is/verdbolgan-thokast-nidur-a-vid/": {
+    "first_seen": "2026-11-26T19:01:29.807865+00:00",
+    "record": {
+      "id": "311305150f",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-26",
+      "src": "ASÍ",
+      "url": "https://asi.is/verdbolgan-thokast-nidur-a-vid/",
+      "title": "Verðbólgan þokast niður á við",
+      "sum": "Vísitala neysluverðs lækkaði um 0,54% milli mánaða í nóvember og ársverðbólga hjaðnaði úr 5,9% í 5,8%. Lækkun flugfargjalda til útlanda vegur þyngst, en húsnæðiskostnaður og verð á ökutækjum og eldsneyti hækka á móti. Verðlag hefur hækkað hægar síðustu mánuði."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/26/dadi_mar_svarar_spurningum_um_landsvirkjun/": {
+    "first_seen": "2026-11-26T19:01:29.807865+00:00",
+    "record": {
+      "id": "7aa045d03d",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-26",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/26/dadi_mar_svarar_spurningum_um_landsvirkjun/",
+      "title": "Daði Már svarar spurningum um Landsvirkjun",
+      "sum": "Stjórnskipunar- og eftirlitsnefnd Alþingis heldur opinn fund miðvikudaginn 2. desember til að fjalla um verklag fjármála- og efnahagsráðherra í tengslum við málefni Landsvirkjunar."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/26/mikil_laekkun_hja_alvotech_eftir_tilkynningu/": {
+    "first_seen": "2026-11-26T19:01:29.807865+00:00",
+    "record": {
+      "id": "16a0720d05",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-26",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/26/mikil_laekkun_hja_alvotech_eftir_tilkynningu/",
+      "title": "Mikil lækkun hjá Alvotech eftir tilkynningu",
+      "sum": "Hlutabréfaverð Alvotech hefur lækkað um 15,35% í 147 milljón króna viðskiptum það sem af er degi."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/26/eigid_fe_sedlabankans_ad_thverra/": {
+    "first_seen": "2026-11-26T19:01:29.807865+00:00",
+    "record": {
+      "id": "2e2f56a1e3",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-26",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/26/eigid_fe_sedlabankans_ad_thverra/",
+      "title": "Eigið fé Seðlabankans að þverra",
+      "sum": "Eigið fé Seðlabankans var 77 milljarðar króna í lok síðasta árs, en hefur minnkað töluvert á þessu ári og var í október líklega í námunda við 18 milljarða. Til samanburðar er eiginfjármarkmið Seðlabankans 150 milljarðar króna."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/26/verdbolgan_hjadnar_og_maelist_nu_5_8_prosent/": {
+    "first_seen": "2026-11-26T19:01:29.807865+00:00",
+    "record": {
+      "id": "b2b3c7ecc0",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "down",
+      "constr": false,
+      "date": "2026-11-26",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/26/verdbolgan_hjadnar_og_maelist_nu_5_8_prosent/",
+      "title": "Verðbólgan hjaðnar og mælist nú 5,8%",
+      "sum": "Tólf mánaða verðbólga mælist 5,8% samanborið við 5,9% í síðasta mánuði."
+    }
+  },
+  "https://www.visir.is/g/20262969012d/-thid-gafud-mer-brodur-minn-aftur-": {
+    "first_seen": "2026-11-26T19:01:29.807865+00:00",
+    "record": {
+      "id": "80fcacf5a9",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-26",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262969012d/-thid-gafud-mer-brodur-minn-aftur-",
+      "title": "„Þið gáfuð mér bróður minn aftur“",
+      "sum": "Systur tveggja sjómanna sem voru um borð í Jökli ÞH 299 sem sökk úti austan landsins í gær lýsa þakklæti í garð Landhelgisgæslunnar. Báðar segja þær hug sinn hjá aðstandendum þeirra þriggja sjómanna sem fórust í slysinu."
+    }
+  },
+  "https://www.visir.is/g/20262968773d/heimsbyggdin-bregst-vid-slysinu": {
+    "first_seen": "2026-11-26T19:01:29.807865+00:00",
+    "record": {
+      "id": "685dad64c2",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-26",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262968773d/heimsbyggdin-bregst-vid-slysinu",
+      "title": "Heims­byggðin bregst við slysinu",
+      "sum": "Fjöldi erlendra miðla hafa fjallað um voveiflegt sjóslys sem varð 60 sjómílum austan við Íslandsstrendur. Þrír létust og fjórtán var bjargað þegar að Jökull ÞH sökk seinnipartinn í gær. Flestöll Norðurlöndin hafa fjallað um málið en einnig fréttamiðlar frá Póllandi enda var einn þeirra látnu pólskur."
+    }
+  },
+  "https://www.visir.is/g/20262968819d/situr-fyrir-svorum-um-landsvirkjunarmalid": {
+    "first_seen": "2026-11-26T19:01:29.807865+00:00",
+    "record": {
+      "id": "076af8d812",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-26",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262968819d/situr-fyrir-svorum-um-landsvirkjunarmalid",
+      "title": "Situr fyrir svörum um Landsvirkjunarmálið",
+      "sum": "Stjórnskipunar- og eftirlitsnefnd Alþingis hefur boðað til opins fundar miðvikudaginn 2. desember til að fjalla um verklag fjármála- og efnahagsráðherra í tengslum við málefni Landsvirkjunar. Ráðherra verður gestur á fundinum."
+    }
+  },
+  "https://www.visir.is/g/20262968817d/haetta-solu-tolvuflaga-til-sudaustur-asiu": {
+    "first_seen": "2026-11-26T19:01:29.807865+00:00",
+    "record": {
+      "id": "483fae3302",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-26",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262968817d/haetta-solu-tolvuflaga-til-sudaustur-asiu",
+      "title": "Hætta sölu tölvuflaga til Suðaustur-Asíu",
+      "sum": "Forsvarsmenn Nvidia hafa ákveðið að hætta að selja háþróuðustu tölvuflögur fyrirtækisins til Suðaustur-Asíu. Er það liður í að reyna að koma í veg fyrir að Kínverjar komi höndum yfir bandaríska tækni."
+    }
+  },
+  "https://www.visir.is/g/20262968779d/mesta-svartsyni-neytenda-fra-thvi-i-kjolfar-bankahrunsins": {
+    "first_seen": "2026-11-26T19:01:29.807865+00:00",
+    "record": {
+      "id": "d5178c89e0",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-26",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262968779d/mesta-svartsyni-neytenda-fra-thvi-i-kjolfar-bankahrunsins",
+      "title": "Mesta svart­sýni neyt­enda frá því í kjöl­far banka­hrunsins",
+      "sum": "Svartsýni íslenskra neytenda hefur ekki mælst meiri í sextán ár en væntingavísitala Gallup féll um nærri 17 stig á milli mánaða í nóvember. Vísbendingar um að einkaneyslan, sem hefur að stórum hluta borið uppi þróttlítinn hagvöxt síðustu ársfjórðunga, sé að gefa enn frekar eftir koma fram á sama tíma og Seðlabankinn …"
     }
   }
 }
