@@ -18502,7 +18502,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "src": "Hagstofan",
       "url": "https://hagstofa.is/utgafur/frettasafn/fyrirtaeki/rekstrar-og-efnahagsyfirlit-2025/",
       "title": "Afkoma fyrirtÃ¦kja nÃ¦r Ã³breytt Ã¡riÃ° 2025",
@@ -21712,7 +21712,7 @@
       "impact": "kerfis",
       "dir": "up",
       "constr": false,
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "src": "Arion banki",
       "url": "https://www.arionbanki.is/frettir/arion-banki-breytir-voextum-overdtryggdra-ibudalana-med-fasta-vexti-2026-11-20",
       "title": "Arion banki breyt­ir vöxtum óverðtryggðra íbúðalána með fasta vexti",
@@ -21727,7 +21727,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "src": "Arion banki",
       "url": "https://www.arionbanki.is/frettir/arion-banki-radgjafi-vid-soelu-fjardarkaupa",
       "title": "Arion banki ráðgjafi við sölu Fjarðarkaupa",
@@ -21742,7 +21742,7 @@
       "impact": "nokkur",
       "dir": "flat",
       "constr": false,
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "src": "Arion banki",
       "url": "https://www.arionbanki.is/frettir/afkoma-arion-banka-a-thridja-arsfjordungi-2026",
       "title": "Afkoma Arion banka á þriðja ársfjórðungi 2026",
@@ -22602,6 +22602,306 @@
       "url": "https://www.visir.is/g/20262969024d/alvarlegt-slys-thegar-folksbill-og-vorubill-rakust-saman",
       "title": "Al­var­legt slys þegar fólks­bíll og vöru­bíll rákust saman",
       "sum": "Alvarlegt slys varð á Suðurstrandarvegi í dag þegar fólksbíll og vörubíll rákust saman. Við áreksturinn kviknaði í fólksbifreiðinni, að sögn lögreglu."
+    }
+  },
+  "https://sa.is/frettatengt/frettir/evropskt-atvinnulif-kallar-eftir-einfaldari-reglum-og-hraðari-leyfisveitingum": {
+    "first_seen": "2026-11-27T18:59:49.589754+00:00",
+    "record": {
+      "id": "113bc1482d",
+      "cat": "vinnumarkadur",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "Samtök atvinnulífsins",
+      "url": "https://sa.is/frettatengt/frettir/evropskt-atvinnulif-kallar-eftir-einfaldari-reglum-og-hraðari-leyfisveitingum",
+      "title": "Evrópskt atvinnulíf kallar eftir einfaldari reglum og hraðari leyfisveitingum",
+      "sum": "SA og systursamtök þeirra í Evrópu kalla eftir einfaldari reglum, hraðari leyfisveitingum og orku á samkeppnishæfu verði til að efla evrópskan iðnað."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/27/asar_flytja_i_gardabae/": {
+    "first_seen": "2026-11-27T18:59:49.589754+00:00",
+    "record": {
+      "id": "28e7988efa",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/27/asar_flytja_i_gardabae/",
+      "title": "Ásar flytja í Garðabæ",
+      "sum": "Í dag er starfsemin á fjórum stöðum, í Ármúla, Katrínartúni, Skútuvogi og Askalind."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/27/segja_haekkun_gjalds_vega_thyngra_en_byggdaaaetlun/": {
+    "first_seen": "2026-11-27T18:59:49.589754+00:00",
+    "record": {
+      "id": "d726e859e1",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/27/segja_haekkun_gjalds_vega_thyngra_en_byggdaaaetlun/",
+      "title": "Segja hækkun gjalds vega þyngra en byggðaáætlun",
+      "sum": "Hækkun álagðs veiðigjalds í ár nemur hærri fjárhæð en sem nemur fyrirhuguðum framlögum úr nýrri byggðaáætlun á fimm árum, samkvæmt samanburði Samtaka atvinnulífsins."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/27/stada_sedlabankans_gaeti_haft_ahrif_a_nullid/": {
+    "first_seen": "2026-11-27T18:59:49.589754+00:00",
+    "record": {
+      "id": "03ab74990a",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/27/stada_sedlabankans_gaeti_haft_ahrif_a_nullid/",
+      "title": "Staða Seðlabankans gæti haft áhrif á „núllið“",
+      "sum": "Ríkissjóður gerir ráð fyrir 6,5 milljarða króna vaxtatekjum frá Seðlabanka Íslands á næsta ári á sama tíma og auknar líkur eru taldar á að ríkissjóður þurfi að leggja bankanum til aukið eigið fé."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/27/546_milljonir_til_25_fjolmidlaveitna/": {
+    "first_seen": "2026-11-27T18:59:49.589754+00:00",
+    "record": {
+      "id": "90275d3bda",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/27/546_milljonir_til_25_fjolmidlaveitna/",
+      "title": "546 milljónir til 25 fjölmiðlaveitna",
+      "sum": "Úthlutunarnefnd hefur úthlutað 545,6 milljónum króna í almennan rekstrarstuðning til 25 einkarekinna fjölmiðlaveitna. Í fyrra fengu 28 fjölmiðlaveitur alls 544 milljónir króna."
+    }
+  },
+  "https://www.mbl.is/frettir/erlent/2026/11/27/norse_atlantic_oskar_eftir_gjaldthrotaskiptum/": {
+    "first_seen": "2026-11-27T18:59:49.589754+00:00",
+    "record": {
+      "id": "024bb3d194",
+      "cat": "gjaldthrot",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/erlent/2026/11/27/norse_atlantic_oskar_eftir_gjaldthrotaskiptum/",
+      "title": "Norse Atlantic óskar eftir gjaldþrotaskiptum",
+      "sum": "Norska lággjaldaflugfélagið Norse Atlantic tilkynnti í dag að það hygðist óska eftir gjaldþrotaskiptum, aðeins nokkrum klukkustundum eftir að leigusamningum um allar flugvélar félagsins var rift."
+    }
+  },
+  "https://www.mbl.is/frettir/innlent/2026/11/27/flugvirkar_fella_kjarasamning_vid_icelandair/": {
+    "first_seen": "2026-11-27T18:59:49.589754+00:00",
+    "record": {
+      "id": "04ec7768b1",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/frettir/innlent/2026/11/27/flugvirkar_fella_kjarasamning_vid_icelandair/",
+      "title": "Flugvirkar fella kjarasamning við Icelandair",
+      "sum": "Félagsmenn Flugvirkjafélags Íslands hafa hafnað nýjum kjarasamningi á milli félaganna fyrir tímabilið 1. janúar 2026 til 1. september 2028, en atkvæðagreiðslu um samninginn á meðal félagsmanna lauk í dag."
+    }
+  },
+  "https://www.mbl.is/vidskipti/frettir/2026/11/27/leita_50_prosent_haekkunarmoguleika/": {
+    "first_seen": "2026-11-27T18:59:49.589754+00:00",
+    "record": {
+      "id": "421a4963da",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "up",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "mbl.is",
+      "url": "https://www.mbl.is/vidskipti/frettir/2026/11/27/leita_50_prosent_haekkunarmoguleika/",
+      "title": "Leita 50% hækkunarmöguleika",
+      "sum": "Á nýlegri málstofu norska eignastýringarfyrirtækisins Storebrand í Reykjavík útskýrði David Harris, sjóðstjóri alþjóðlega hlutabréfasjóðsins SKAGEN Focus, hvernig sjóðurinn fer gegn straumnum með virðisfjárfestingu að leiðarljósi."
+    }
+  },
+  "https://www.visir.is/g/20262969522d/hsi-fordaemir-hegdun-ahorfanda-i-gard-domara-a-leik-i-olis-deild-karla": {
+    "first_seen": "2026-11-27T18:59:49.589754+00:00",
+    "record": {
+      "id": "51e14e4501",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262969522d/hsi-fordaemir-hegdun-ahorfanda-i-gard-domara-a-leik-i-olis-deild-karla",
+      "title": "HSÍ for­dæmir hegðun á­horf­anda í garð dómara á leik í Olís deild karla",
+      "sum": "Handknattleikssamband Íslands taldi sig tilneytt til að senda frá sér yfirlýsingu vegna framkomu áhorfanda í garð dómara í leik Vals og Aftureldingar í Olísdeild karla í lok október."
+    }
+  },
+  "https://www.visir.is/g/20262969466d/asar-flytja-i-gardabae": {
+    "first_seen": "2026-11-27T18:59:49.589754+00:00",
+    "record": {
+      "id": "8add1c74b2",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262969466d/asar-flytja-i-gardabae",
+      "title": "Ásar flytja í Garða­bæ",
+      "sum": "Ásar hf. hafa undirritað leigusamning við Arnarstræti ehf., systurfélag Reykjastrætis fasteignafélags, um nýjar höfuðstöðvar samstæðunnar í Arnarlandi í Garðabæ."
+    }
+  },
+  "https://www.visir.is/g/20262969421d/rassinn-a-austurvelli": {
+    "first_seen": "2026-11-27T18:59:49.589754+00:00",
+    "record": {
+      "id": "e5a7b10ce9",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262969421d/rassinn-a-austurvelli",
+      "title": "Rassinn á Austur­velli",
+      "sum": "Fyrir aftan rassinn á styttu Jóns Sigurðssonar á Austurvelli er staðsett hús sem lætur lítið yfir sér. Ef ekki væri vegna þess að einn frumlegasti og djarfasti listamaður þjóðarinnar hafði á árum áður aðsetur í þessum húsakynnum, þá væri þetta hús sviplaust og nafnlaust."
+    }
+  },
+  "https://www.visir.is/g/20262969410d/malatilbunadur-fjarmalaradherra-stenst-ekki-staerdfraedigreiningu-a-grunnskolastigi": {
+    "first_seen": "2026-11-27T18:59:49.589754+00:00",
+    "record": {
+      "id": "55ed5e7815",
+      "cat": "verdbolga",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262969410d/malatilbunadur-fjarmalaradherra-stenst-ekki-staerdfraedigreiningu-a-grunnskolastigi",
+      "title": "Mála­til­búnaður fjár­mála­ráð­herra stenst ekki stærðfræðigreiningu á grunn­skóla­stigi",
+      "sum": "Í tengslum við fyrirhugaðar breytingar stjórnvalda á umhverfi verðtryggðra húsnæðislána birtist okkur ljóslifandi fásinnan í kringum verðtrygginguna. Ljóst er að grundvöllur Daða Más og íslenska hagskólans riðar, að ranglega er farið með hugtakið „raunvirði“ sem leiðir beint til ólögmætrar eignaupptöku hjá skuldurum …"
+    }
+  },
+  "https://www.visir.is/g/20262969320d/olina-radin-sem-rektor-a-bifrost": {
+    "first_seen": "2026-11-27T18:59:49.589754+00:00",
+    "record": {
+      "id": "94df6315a1",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262969320d/olina-radin-sem-rektor-a-bifrost",
+      "title": "Ó­lína ráðin sem rektor á Bif­röst",
+      "sum": "Ólína Kjerúlf Þorvarðardóttir, settur rektor við Háskólann á Bifröst, hefur verið ráðin sem rektor skólans til frambúðar."
+    }
+  },
+  "https://www.visir.is/g/20262969385d/ryna-thurfi-vel-i-af-hverju-bjorgunarbatar-nyttust-ekki": {
+    "first_seen": "2026-11-27T18:59:49.589754+00:00",
+    "record": {
+      "id": "68c3851a0f",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262969385d/ryna-thurfi-vel-i-af-hverju-bjorgunarbatar-nyttust-ekki",
+      "title": "Rýna þurfi vel í af hverju björgunar­bátar nýttust ekki",
+      "sum": "Innviðaráðherra segir Ísland standa mjög framarlega þegar kemur að öryggi sjómanna en að draga þurfi lærdóm af slysinu sem varð þegar línubáturinn Jökull sökk með þeim afleiðingum að þrír létust. Ráðherra segist bera fullt traust til rannsóknanefndar samgönguslysa sem tekið hefur við rannsókn slyssins."
+    }
+  },
+  "https://www.visir.is/g/20262969346d/flugvirkjar-ekki-tekid-akvordun-um-verkfall": {
+    "first_seen": "2026-11-27T18:59:49.589754+00:00",
+    "record": {
+      "id": "ad05a80c09",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262969346d/flugvirkjar-ekki-tekid-akvordun-um-verkfall",
+      "title": "Flug­virkjar ekki tekið á­kvörðun um verk­fall",
+      "sum": "Formaður Flugvirkjafélags Íslands bjóst við því að félagsmenn myndu samþykkja kjarasamning við Icelandair en segir að niðurstaða um höfnun hafi verið afgerandi."
+    }
+  },
+  "https://www.visir.is/g/20262969331d/gengid-verdi-a-aaetladan-afgang-til-ad-fjarmagna-thyrlu": {
+    "first_seen": "2026-11-27T18:59:49.589754+00:00",
+    "record": {
+      "id": "0abb1d93d4",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262969331d/gengid-verdi-a-aaetladan-afgang-til-ad-fjarmagna-thyrlu",
+      "title": "Gengið verði á á­ætlaðan af­gang til að fjár­magna þyrlu",
+      "sum": "Daði Már Kristófersson fjármálaráðherra segir að ákvörðun um að flýta vinnu í tengslum við að Landhelgisgæslan fái fjórðu björgunarþyrluna til umráða hafi verið auðveld. Til allrar lukku sé búið að ná þeim tökum á ríkisfjármálum að svigrúm sé til að bregðast við óvæntum kostnaði."
+    }
+  },
+  "https://www.visir.is/g/20262969333d/ovissa-uppi-vardandi-thatttoku-bruno-a-morgun": {
+    "first_seen": "2026-11-27T18:59:49.589754+00:00",
+    "record": {
+      "id": "e33f1b05d2",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262969333d/ovissa-uppi-vardandi-thatttoku-bruno-a-morgun",
+      "title": "Ó­vissa uppi varðandi þátt­töku Bruno á morgun",
+      "sum": "Mauricio Pochettino, knattspyrnustjóri Manchester United gat ekki sagt til um það hvort Bruno Fernandes, fyrirliði liðsins, verði leikfær í mikilvægum leik gegn Brentford á morgun."
+    }
+  },
+  "https://www.visir.is/g/20262969306d/segir-hagtolur-eigin-rikisstjornar-falskar": {
+    "first_seen": "2026-11-27T18:59:49.589754+00:00",
+    "record": {
+      "id": "89d6ff4557",
+      "cat": "vextir",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262969306d/segir-hagtolur-eigin-rikisstjornar-falskar",
+      "title": "Segir hag­tölur eigin ríkis­stjórnar falskar",
+      "sum": "Donald Trump heldur því fram að forsvarsmenn viðskiptaráðuneytis Bandaríkjanna hafi vísvitandi birt rangar hagvaxtartölur í aðdraganda þingkosninganna í byrjun nóvember."
+    }
+  },
+  "https://www.visir.is/g/20262969284d/frestur-til-ad-fa-sereignarsparnad-afturvirkt-inn-a-lan-ad-renna-ut": {
+    "first_seen": "2026-11-27T18:59:49.589754+00:00",
+    "record": {
+      "id": "3acc7ae0c6",
+      "cat": "rikisfjarmal",
+      "impact": "mikil",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262969284d/frestur-til-ad-fa-sereignarsparnad-afturvirkt-inn-a-lan-ad-renna-ut",
+      "title": "Frestur til að fá sér­eignar­sparnað aftur­virkt inn á lán að renna út",
+      "sum": "Á mánudag, 30. nóvember, rennur út frestur til að sækja um afturvirka ráðstöfun séreignarsparnaðar inn á húsnæðislán vegna ársins 2026. Opnað var fyrir umsóknir um miðjan október og samkvæmt upplýsingum frá Skattinum höfðu þau í upphafi vikunnar afgreitt 26.214 umsóknir vegna úrræðisins."
+    }
+  },
+  "https://www.visir.is/g/20262969295d/flugvirkjar-hafna-kjarasamningi-vid-icelandair": {
+    "first_seen": "2026-11-27T18:59:49.589754+00:00",
+    "record": {
+      "id": "8f28346d24",
+      "cat": "vinnumarkadur",
+      "impact": "kerfis",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262969295d/flugvirkjar-hafna-kjarasamningi-vid-icelandair",
+      "title": "Flug­virkjar hafna kjara­samningi við Icelandair",
+      "sum": "Félagsmenn Flugvirkjafélags Íslands hafa hafnað nýjum kjarasamningi á milli félagsins og Icelandair fyrir tímabilið 1. janúar 2026 til 1. september 2028, en atkvæðagreiðslu um samninginn á meðal félagsmanna lauk í dag."
     }
   }
 }
