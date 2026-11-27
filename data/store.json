@@ -22903,5 +22903,35 @@
       "title": "Flug­virkjar hafna kjara­samningi við Icelandair",
       "sum": "Félagsmenn Flugvirkjafélags Íslands hafa hafnað nýjum kjarasamningi á milli félagsins og Icelandair fyrir tímabilið 1. janúar 2026 til 1. september 2028, en atkvæðagreiðslu um samninginn á meðal félagsmanna lauk í dag."
     }
+  },
+  "https://www.visir.is/g/20262969538d/nina-bedin-afsokunar-67-arum-sidar": {
+    "first_seen": "2026-11-27T22:26:19.730031+00:00",
+    "record": {
+      "id": "79c6c8c240",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262969538d/nina-bedin-afsokunar-67-arum-sidar",
+      "title": "Nína beðin af­sökunar 67 árum síðar",
+      "sum": "Stjórn Félags íslenskra myndlistarmanna hefur í dag beðist afsökunar á 67 ára gömlum ummælum sem fulltrúar félagsins létu falla í garð listakonunnar Nínu Sæmundsson og Hafmeyjunnar frægu sem trónir á stalli sínum í Reykjavíkurtjörn."
+    }
+  },
+  "https://www.visir.is/g/20262969499d/hin-felogin-vilja-ad-eigendur-man-city-selji-felagid": {
+    "first_seen": "2026-11-27T22:26:19.730031+00:00",
+    "record": {
+      "id": "496108baf3",
+      "cat": "markadir",
+      "impact": "nokkur",
+      "dir": "flat",
+      "constr": false,
+      "date": "2026-11-27",
+      "src": "Vísir",
+      "url": "https://www.visir.is/g/20262969499d/hin-felogin-vilja-ad-eigendur-man-city-selji-felagid",
+      "title": "Hin fé­lögin vilja að eig­endur Man City selji fé­lagið",
+      "sum": "Háttsettir aðilar hjá nokkrum félögum í ensku úrvalsdeildinni telja að eigendur Manchester City verði neyddir til að selja félagið sem refsingu fyrir brot á fjármálareglum."
+    }
   }
 }
